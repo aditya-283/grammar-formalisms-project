@@ -1,0 +1,355 @@
+{
+  "events": {
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "rack"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "7": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "8": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "9": {
+      "location": [
+        "processor"
+      ],
+      "shape": [
+        "molded"
+      ]
+    }
+  },
+  "id": "roasted garlic salsa",
+  "ingredient_list": [
+    "x",
+    "ingredient",
+    "green_onion",
+    "olive_oil",
+    "pepper_sauce",
+    "spice_blend",
+    "garlic_clove",
+    "tomato",
+    "onion",
+    "jalapeno_chile",
+    "cilantro",
+    "green_onion",
+    "olive_oil",
+    "pepper_sauce",
+    "spice_blend"
+  ],
+  "ingredients": {
+    "10": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      13,
+      14
+    ],
+    "12": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      13,
+      14
+    ],
+    "2": [
+      6
+    ],
+    "3": [
+      6
+    ],
+    "4": [
+      6
+    ],
+    "5": [
+      7,
+      9,
+      2
+    ],
+    "6": [
+      7,
+      9,
+      2
+    ],
+    "7": [
+      7
+    ],
+    "8": [
+      7,
+      9,
+      2
+    ],
+    "9": [
+      7,
+      9,
+      2
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "however",
+      ",",
+      "you",
+      "can",
+      "coarsely",
+      "chop",
+      "small",
+      "batches",
+      "with",
+      "a",
+      "food",
+      "processor",
+      "using",
+      "on-off",
+      "pulses",
+      "."
+    ],
+    "1": [
+      "build",
+      "a",
+      "charcoal",
+      "fire",
+      ",",
+      "then",
+      "scatter",
+      "presoaked",
+      "mesquite",
+      "chips",
+      "over",
+      "the",
+      "coals",
+      "."
+    ],
+    "10": [
+      "thoroughly",
+      "combine",
+      "ground",
+      "vegetables",
+      "with",
+      "remaining",
+      "ingredients",
+      "."
+    ],
+    "11": [
+      "cover",
+      ";"
+    ],
+    "12": [
+      "chill",
+      "at",
+      "least",
+      "24",
+      "hours",
+      "before",
+      "serving",
+      "."
+    ],
+    "13": [
+      "yields",
+      "about",
+      "8-10",
+      "cups",
+      "."
+    ],
+    "2": [
+      "using",
+      "a",
+      "mesh",
+      "grilling",
+      "rack",
+      ",",
+      "grill",
+      "garlic",
+      "cloves",
+      ",",
+      "turning",
+      "often",
+      "until",
+      "golden",
+      "brown",
+      "."
+    ],
+    "3": [
+      "remove",
+      "from",
+      "grill",
+      ";"
+    ],
+    "4": [
+      "reserve",
+      "."
+    ],
+    "5": [
+      "grill",
+      "tomatoes",
+      ",",
+      "onions",
+      "and",
+      "chiles",
+      "over",
+      "glowing",
+      "coals",
+      ",",
+      "turning",
+      "frequently",
+      ",",
+      "until",
+      "skin",
+      "is",
+      "charred",
+      "."
+    ],
+    "6": [
+      "remove",
+      "from",
+      "grill",
+      "and",
+      "leave",
+      "skin",
+      "on",
+      "vegetables",
+      "."
+    ],
+    "7": [
+      "core",
+      "tomatoes",
+      ";"
+    ],
+    "8": [
+      "cut",
+      "tomatoes",
+      ",",
+      "onions",
+      ",",
+      "and",
+      "chiles",
+      "into",
+      "chunks",
+      "."
+    ],
+    "9": [
+      "place",
+      "in",
+      "food",
+      "processor",
+      "or",
+      "blender",
+      ",",
+      "then",
+      "pulse",
+      "on-off",
+      "until",
+      "mixture",
+      "forms",
+      "small",
+      ",",
+      "firm",
+      "pieces",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "combine"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "chill"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "grill",
+      "turn"
+    ],
+    "3": [
+      "remove"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "char",
+      "grill"
+    ],
+    "6": [
+      "leave",
+      "remove"
+    ],
+    "7": [
+      "core"
+    ],
+    "8": [
+      "cut"
+    ],
+    "9": [
+      "place",
+      "form"
+    ]
+  }
+}

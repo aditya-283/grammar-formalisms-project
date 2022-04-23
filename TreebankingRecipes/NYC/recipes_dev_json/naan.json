@@ -1,0 +1,443 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "1": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "location": [
+        "broiler"
+      ]
+    },
+    "2": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "3": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "9": {
+      "location": [
+        "sheet"
+      ]
+    }
+  },
+  "id": "naan",
+  "ingredient_list": [
+    "flour",
+    "flour",
+    "egg",
+    "cream",
+    "salt",
+    "baking_powder",
+    "baking_soda",
+    "ghi"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "mix",
+      "flours",
+      ",",
+      "eggs",
+      ",",
+      "cream",
+      ",",
+      "salt",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "and",
+      "soda",
+      "to",
+      "make",
+      "a",
+      "soft",
+      "dough",
+      "-lrb-",
+      "like",
+      "pizza",
+      "-rrb-",
+      ",",
+      "and",
+      "knead",
+      "10-15",
+      "minutes",
+      "."
+    ],
+    "1": [
+      "add",
+      "2",
+      "ounces",
+      "of",
+      "oil",
+      "or",
+      "melted",
+      "butter",
+      "and",
+      "knead",
+      "again",
+      "for",
+      "5-8",
+      "minutes",
+      "."
+    ],
+    "10": [
+      "bake",
+      "10-12",
+      "minutes",
+      "until",
+      "the",
+      "nan",
+      "become",
+      "puffy",
+      "."
+    ],
+    "11": [
+      "to",
+      "make",
+      "them",
+      "a",
+      "perfect",
+      "golden",
+      "color",
+      ",",
+      "place",
+      "the",
+      "baked",
+      "nan",
+      "under",
+      "a",
+      "broiler",
+      "for",
+      "a",
+      "minute",
+      "or",
+      "two",
+      "."
+    ],
+    "12": [
+      "serve",
+      "at",
+      "once",
+      "."
+    ],
+    "2": [
+      "form",
+      "into",
+      "a",
+      "ball",
+      ",",
+      "cover",
+      "with",
+      "a",
+      "damp",
+      "cloth",
+      "and",
+      "let",
+      "rise",
+      "in",
+      "a",
+      "warm",
+      "place",
+      "until",
+      "double",
+      "in",
+      "size",
+      "."
+    ],
+    "3": [
+      "divide",
+      "the",
+      "dough",
+      "into",
+      "8-10",
+      "balls",
+      "."
+    ],
+    "4": [
+      "dipping",
+      "your",
+      "fingers",
+      "into",
+      "the",
+      "bowl",
+      "of",
+      "oil",
+      "or",
+      "butter",
+      ",",
+      "lightly",
+      "pat",
+      "each",
+      "ball",
+      "to",
+      "coat",
+      "with",
+      "fat",
+      "."
+    ],
+    "5": [
+      "cover",
+      "again",
+      "with",
+      "a",
+      "damp",
+      "cloth",
+      "and",
+      "let",
+      "rest",
+      "for",
+      "15",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "meanwhile",
+      ",",
+      "preheat",
+      "the",
+      "oven",
+      "to",
+      "450",
+      "degrees",
+      "."
+    ],
+    "7": [
+      "wet",
+      "your",
+      "palms",
+      "with",
+      "oil",
+      "or",
+      "butter",
+      "and",
+      "pat",
+      "each",
+      "ball",
+      "into",
+      "a",
+      "flat",
+      "circle",
+      ",",
+      "making",
+      "the",
+      "circle",
+      "thinner",
+      "in",
+      "the",
+      "center",
+      "and",
+      "a",
+      "tiny",
+      "bit",
+      "thicker",
+      "at",
+      "the",
+      "edge",
+      "."
+    ],
+    "8": [
+      "pull",
+      "one",
+      "side",
+      "to",
+      "make",
+      "the",
+      "circle",
+      "into",
+      "a",
+      "teardrop",
+      "shape",
+      "."
+    ],
+    "9": [
+      "place",
+      "the",
+      "naan",
+      "on",
+      "a",
+      "cookie",
+      "sheet",
+      "and",
+      "brush",
+      "the",
+      "tops",
+      "with",
+      "oil",
+      "or",
+      "butter",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "mix",
+      "knead"
+    ],
+    "1": [
+      "add",
+      "knead"
+    ],
+    "10": [
+      "bake"
+    ],
+    "11": [
+      "place"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cover",
+      "form"
+    ],
+    "3": [
+      "divide"
+    ],
+    "4": [
+      "dip",
+      "pat",
+      "coat"
+    ],
+    "5": [
+      "cover"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "make",
+      "pat"
+    ],
+    "8": [
+      "pull"
+    ],
+    "9": [
+      "place",
+      "brush"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "spanish rice avocado",
+  "ingredient_list": [
+    "butter",
+    "olive_oil",
+    "onion",
+    "clove_garlic",
+    "rice",
+    "salt",
+    "oregano",
+    "cumin",
+    "ground",
+    "chicken_broth",
+    "avocado"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "10": [
+      10
+    ],
+    "11": [
+      5
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "9": [
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "butter",
+      "and",
+      "oil",
+      "in",
+      "2-quart",
+      "pan",
+      "over",
+      "medium",
+      "heat",
+      "."
+    ],
+    "1": [
+      "when",
+      "butter",
+      "is",
+      "melted",
+      ",",
+      "add",
+      "onion",
+      "and",
+      "garlic",
+      ";"
+    ],
+    "10": [
+      "dice",
+      "."
+    ],
+    "11": [
+      "fluff",
+      "up",
+      "rice",
+      "with",
+      "fork",
+      ";"
+    ],
+    "12": [
+      "add",
+      "avocado",
+      "and",
+      "toss",
+      "gently",
+      "."
+    ],
+    "13": [
+      "turn",
+      "off",
+      "heat",
+      ";"
+    ],
+    "14": [
+      "let",
+      "stand",
+      "5",
+      "minutes",
+      "before",
+      "serving",
+      "."
+    ],
+    "2": [
+      "cook",
+      "until",
+      "onion",
+      "is",
+      "tender",
+      "."
+    ],
+    "3": [
+      "add",
+      "rice",
+      ";"
+    ],
+    "4": [
+      "cook",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "3",
+      "minutes",
+      "or",
+      "until",
+      "rice",
+      "looks",
+      "milky",
+      "and",
+      "opaque",
+      "."
+    ],
+    "5": [
+      "add",
+      "salt",
+      ",",
+      "oregano",
+      ",",
+      "cumin",
+      ",",
+      "tumeric",
+      ",",
+      "and",
+      "chicken",
+      "broth",
+      "."
+    ],
+    "6": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "7": [
+      "cover",
+      ";"
+    ],
+    "8": [
+      "reduce",
+      "heat",
+      "and",
+      "simmer",
+      "20-25",
+      "minutes",
+      "or",
+      "until",
+      "rice",
+      "is",
+      "tender",
+      "and",
+      "all",
+      "liquid",
+      "is",
+      "absorbed",
+      "."
+    ],
+    "9": [
+      "peel",
+      "and",
+      "pit",
+      "avocado",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "dice"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "toss",
+      "add"
+    ],
+    "13": [
+      "turn"
+    ],
+    "14": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "cook",
+      "stir"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "reduce",
+      "simmer"
+    ],
+    "9": [
+      "pit",
+      "peel"
+    ]
+  }
+}

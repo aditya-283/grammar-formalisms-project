@@ -1,0 +1,436 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "location": [
+        "platter"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "casserole"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "enchilada torte",
+  "ingredient_list": [
+    "turkey",
+    "onion",
+    "pepper",
+    "garlic",
+    "tomato_sauce",
+    "enchilada_sauce",
+    "chili_powder",
+    "cumin",
+    "green",
+    "black",
+    "flour",
+    "cheddar_cheese",
+    "cheese",
+    "sour_cream",
+    "lettuce",
+    "olife"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "6": [
+      10
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "crumble",
+      "turkey",
+      "into",
+      "a",
+      "11/2",
+      "to",
+      "2-quart",
+      "microwave-safe",
+      "measure",
+      "or",
+      "bowl",
+      "."
+    ],
+    "1": [
+      "add",
+      "onion",
+      ",",
+      "green",
+      "pepper",
+      "and",
+      "garlic",
+      "."
+    ],
+    "10": [
+      "microwave",
+      "on",
+      "high",
+      "3",
+      "to",
+      "5",
+      "minutes",
+      "until",
+      "hot",
+      "and",
+      "cheese",
+      "is",
+      "melted",
+      "."
+    ],
+    "11": [
+      "let",
+      "stand",
+      "covered",
+      "3",
+      "minutes",
+      "."
+    ],
+    "12": [
+      "cut",
+      "in",
+      "wedges",
+      "and",
+      "serve",
+      "with",
+      "sour",
+      "cream",
+      ",",
+      "lettuce",
+      "and",
+      "olives",
+      "."
+    ],
+    "2": [
+      "cover",
+      "with",
+      "waxed",
+      "paper",
+      ";"
+    ],
+    "3": [
+      "microwave",
+      "on",
+      "high",
+      "4",
+      "to",
+      "6",
+      "minutes",
+      ",",
+      "stirring",
+      "twice",
+      "to",
+      "break",
+      "up",
+      "meat",
+      ",",
+      "until",
+      "it",
+      "loses",
+      "its",
+      "pink",
+      "color",
+      "."
+    ],
+    "4": [
+      "stir",
+      "in",
+      "remaining",
+      "sauce",
+      "ingredients",
+      "."
+    ],
+    "5": [
+      "cover",
+      "with",
+      "waxed",
+      "paper",
+      "and",
+      "microwave",
+      "on",
+      "high",
+      "4",
+      "to",
+      "6",
+      "minutes",
+      ",",
+      "stirring",
+      "once",
+      "or",
+      "twice",
+      ",",
+      "until",
+      "sauce",
+      "is",
+      "slightly",
+      "thickened",
+      "and",
+      "hot",
+      "."
+    ],
+    "6": [
+      "to",
+      "assemble",
+      ",",
+      "put",
+      "a",
+      "tortilla",
+      "in",
+      "bottom",
+      "of",
+      "a",
+      "deep",
+      "11/2",
+      "quart",
+      "microwave-safe",
+      "casserole",
+      "."
+    ],
+    "7": [
+      "top",
+      "with",
+      "1",
+      "cup",
+      "sauce",
+      ",",
+      "then",
+      "3/4",
+      "cup",
+      "cheese",
+      "mixture",
+      "."
+    ],
+    "8": [
+      "repeat",
+      "layers",
+      "3",
+      "times",
+      "ending",
+      "with",
+      "a",
+      "layer",
+      "of",
+      "cheese",
+      "."
+    ],
+    "9": [
+      "cover",
+      "with",
+      "waxed",
+      "paper",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "crumble"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "microwave"
+    ],
+    "11": [
+      "stand"
+    ],
+    "12": [
+      "cut",
+      "serve"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "stir",
+      "microwave"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "stir",
+      "cover",
+      "microwave"
+    ],
+    "6": [
+      "put"
+    ],
+    "7": [
+      "top"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

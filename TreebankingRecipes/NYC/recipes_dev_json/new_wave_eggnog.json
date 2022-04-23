@@ -1,0 +1,364 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "2": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold",
+        "room"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "bowl"
+      ]
+    }
+  },
+  "id": "new wave eggnog",
+  "ingredient_list": [
+    "x",
+    "half-and-half",
+    "sugar",
+    "egg_yolk",
+    "cream",
+    "rum",
+    "cognac",
+    "scotch",
+    "vanilla"
+  ],
+  "ingredients": {
+    "0": [
+      1,
+      2
+    ],
+    "1": [
+      1,
+      2
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      3
+    ],
+    "3": [
+      1,
+      2,
+      3
+    ],
+    "4": [
+      1,
+      2,
+      3
+    ],
+    "5": [
+      1,
+      2,
+      3
+    ],
+    "6": [
+      1,
+      2,
+      3
+    ],
+    "7": [
+      1,
+      2,
+      3
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "medium",
+      "saucepan",
+      ",",
+      "combine",
+      "the",
+      "half-and-half",
+      "and",
+      "sugar",
+      "."
+    ],
+    "1": [
+      "cook",
+      "over",
+      "low",
+      "heat",
+      ",",
+      "stirring",
+      "often",
+      ",",
+      "until",
+      "the",
+      "mixture",
+      "comes",
+      "to",
+      "a",
+      "low",
+      "simmer",
+      "."
+    ],
+    "10": [
+      "place",
+      "the",
+      "vanilla",
+      "ice",
+      "cream",
+      "in",
+      "the",
+      "punch",
+      "bowl",
+      "and",
+      "serve",
+      "."
+    ],
+    "2": [
+      "in",
+      "a",
+      "medium",
+      "bowl",
+      ",",
+      "whisk",
+      "the",
+      "egg",
+      "yolks",
+      "till",
+      "combined",
+      "."
+    ],
+    "3": [
+      "gradually",
+      "whisk",
+      "the",
+      "hot",
+      "mixture",
+      "into",
+      "the",
+      "yolks",
+      "."
+    ],
+    "4": [
+      "return",
+      "the",
+      "yolk",
+      "mixture",
+      "to",
+      "the",
+      "saucepan",
+      "."
+    ],
+    "5": [
+      "cook",
+      "over",
+      "low",
+      "heat",
+      ",",
+      "stirring",
+      "constantly",
+      "with",
+      "a",
+      "wooden",
+      "spoon",
+      ",",
+      "until",
+      "the",
+      "custard",
+      "lightly",
+      "coats",
+      "the",
+      "spoon",
+      "."
+    ],
+    "6": [
+      "cool",
+      "to",
+      "room",
+      "temperature",
+      ",",
+      "then",
+      "cover",
+      "with",
+      "plastic",
+      "wrap",
+      "and",
+      "refrigerate",
+      "until",
+      "very",
+      "cold",
+      ",",
+      "at",
+      "least",
+      "4",
+      "hours",
+      "or",
+      "overnight",
+      "."
+    ],
+    "7": [
+      "when",
+      "ready",
+      "to",
+      "serve",
+      ",",
+      "whip",
+      "the",
+      "cream",
+      "until",
+      "soft",
+      "peaks",
+      "form",
+      "."
+    ],
+    "8": [
+      "stir",
+      "the",
+      "whipped",
+      "cream",
+      ",",
+      "rum",
+      ",",
+      "brandy",
+      ",",
+      "and",
+      "bourbon",
+      "into",
+      "the",
+      "chilled",
+      "custard",
+      "."
+    ],
+    "9": [
+      "-rrb-",
+      "pour",
+      "the",
+      "eggnog",
+      "into",
+      "a",
+      "punch",
+      "bowl",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "cook",
+      "stir"
+    ],
+    "10": [
+      "place",
+      "serve"
+    ],
+    "2": [
+      "whisk"
+    ],
+    "3": [
+      "whisk"
+    ],
+    "4": [
+      "return"
+    ],
+    "5": [
+      "cook",
+      "stir"
+    ],
+    "6": [
+      "refrigerate",
+      "cover",
+      "cool"
+    ],
+    "7": [
+      "serve",
+      "whip"
+    ],
+    "8": [
+      "stir"
+    ],
+    "9": [
+      "pour"
+    ]
+  }
+}

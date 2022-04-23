@@ -1,0 +1,335 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "temperature": [
+        "room"
+      ]
+    }
+  },
+  "id": "old world walnut stuffing",
+  "ingredient_list": [
+    "margarine",
+    "celery",
+    "onion",
+    "rye_bread",
+    "pumpernickel_bread_cut",
+    "walnut",
+    "parsley",
+    "salt",
+    "thyme_leaf",
+    "pepper",
+    "eggs"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      10
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "10",
+      "''",
+      "skillet",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "melt",
+      "butter",
+      ";"
+    ],
+    "1": [
+      "add",
+      "celery",
+      "and",
+      "onions",
+      ";"
+    ],
+    "2": [
+      "cook",
+      "about",
+      "10",
+      "minutes",
+      ",",
+      "stirring",
+      "occasionally",
+      "until",
+      "tender",
+      "."
+    ],
+    "3": [
+      "in",
+      "large",
+      "bowl",
+      "combine",
+      "vegetables",
+      "with",
+      "rye",
+      "and",
+      "pumpernickel",
+      "bread",
+      "cubes",
+      ",",
+      "walnuts",
+      ",",
+      "parsley",
+      ",",
+      "salt",
+      ",",
+      "thyme",
+      "and",
+      "pepper",
+      ";"
+    ],
+    "4": [
+      "toss",
+      "well",
+      "to",
+      "mix",
+      "."
+    ],
+    "5": [
+      "in",
+      "small",
+      "bowl",
+      ",",
+      "beat",
+      "together",
+      "eggs",
+      "and",
+      "1/2",
+      "cup",
+      "water",
+      ";"
+    ],
+    "6": [
+      "toss",
+      "with",
+      "stuffing",
+      "."
+    ],
+    "7": [
+      "place",
+      "lightly",
+      "into",
+      "neck",
+      "and",
+      "body",
+      "cavities",
+      ",",
+      "makes",
+      "about",
+      "14",
+      "cups",
+      ",",
+      "enough",
+      "to",
+      "stuff",
+      "12",
+      "to",
+      "14",
+      "pound",
+      "turkey",
+      "."
+    ],
+    "8": [
+      "in",
+      "dry",
+      "small",
+      "skillet",
+      "over",
+      "very",
+      "low",
+      "heat",
+      ",",
+      "toast",
+      "walnuts",
+      "3",
+      "to",
+      "5",
+      "minutes",
+      ",",
+      "stirring",
+      "frequently",
+      "until",
+      "golden",
+      "brown",
+      "."
+    ],
+    "9": [
+      "cool",
+      "before",
+      "adding",
+      "to",
+      "stuffing",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "add"
+    ],
+    "2": [
+      "cook",
+      "stir"
+    ],
+    "3": [
+      "combine"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "beat"
+    ],
+    "6": [
+      "toss"
+    ],
+    "7": [
+      "stuff",
+      "place"
+    ],
+    "8": [
+      "toast",
+      "stir"
+    ],
+    "9": [
+      "add",
+      "cool"
+    ]
+  }
+}

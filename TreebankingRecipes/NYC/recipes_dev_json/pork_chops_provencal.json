@@ -1,0 +1,392 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "location": [
+        "platter"
+      ]
+    },
+    "11": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "location": [
+        "skillet"
+      ]
+    },
+    "8": {
+      "location": [
+        "skillet"
+      ]
+    },
+    "9": {
+      "location": [
+        "skillet"
+      ]
+    }
+  },
+  "id": "pork chops provencal",
+  "ingredient_list": [
+    "olive_oil",
+    "onion",
+    "fresh",
+    "cloves_garlic",
+    "white_wine",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1
+    ],
+    "11": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "12": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      2
+    ],
+    "4": [
+      2,
+      4
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "heat",
+      "the",
+      "oil",
+      "in",
+      "a",
+      "12",
+      "to",
+      "15-inch",
+      "skillet",
+      "over",
+      "moderate",
+      "heat",
+      "and",
+      "brown",
+      "the",
+      "pork",
+      "chops",
+      "on",
+      "both",
+      "for",
+      "about",
+      "15",
+      "minutes",
+      "total",
+      "."
+    ],
+    "1": [
+      "if",
+      "necessary",
+      ",",
+      "brown",
+      "the",
+      "chops",
+      "in",
+      "2",
+      "batches",
+      "."
+    ],
+    "10": [
+      "transfer",
+      "the",
+      "pork",
+      "chops",
+      "to",
+      "a",
+      "serving",
+      "platter",
+      "and",
+      "keep",
+      "warm",
+      "."
+    ],
+    "11": [
+      "increase",
+      "the",
+      "heat",
+      "and",
+      "boil",
+      "the",
+      "contents",
+      "of",
+      "the",
+      "skillet",
+      "hard",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "to",
+      "a",
+      "viscous",
+      ",",
+      "saucelike",
+      "consistency",
+      "."
+    ],
+    "12": [
+      "pour",
+      "the",
+      "mixture",
+      "over",
+      "the",
+      "pork",
+      "chops",
+      "and",
+      "serve",
+      "."
+    ],
+    "2": [
+      "set",
+      "the",
+      "pork",
+      "chops",
+      "aside",
+      "."
+    ],
+    "3": [
+      "add",
+      "the",
+      "mushrooms",
+      "to",
+      "the",
+      "skillet",
+      "and",
+      "saute",
+      "them",
+      "until",
+      "lightly",
+      "browned",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "wine",
+      "and",
+      "stir",
+      "to",
+      "loosen",
+      "any",
+      "browned",
+      "bits",
+      "from",
+      "the",
+      "bottom",
+      "of",
+      "the",
+      "skillet",
+      "."
+    ],
+    "5": [
+      "transfer",
+      "the",
+      "mushroom",
+      "mixture",
+      "to",
+      "a",
+      "bowl",
+      "and",
+      "combine",
+      "with",
+      "the",
+      "tomatoes",
+      ",",
+      "onions",
+      ",",
+      "agrlic",
+      ",",
+      "parsley",
+      "and",
+      "reduced",
+      "chicken",
+      "stock",
+      "."
+    ],
+    "6": [
+      "return",
+      "all",
+      "of",
+      "the",
+      "pork",
+      "chops",
+      "to",
+      "the",
+      "skillet",
+      ",",
+      "making",
+      "2",
+      "layers",
+      "."
+    ],
+    "7": [
+      "if",
+      "necessary",
+      "."
+    ],
+    "8": [
+      "pour",
+      "the",
+      "mushroom",
+      "mixture",
+      "over",
+      "them",
+      "."
+    ],
+    "9": [
+      "season",
+      "very",
+      "lightly",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "boil"
+    ],
+    "12": [
+      "serve",
+      "pour"
+    ],
+    "2": [
+      "set"
+    ],
+    "3": [
+      "saute",
+      "add"
+    ],
+    "4": [
+      "add",
+      "stir"
+    ],
+    "5": [
+      "combine"
+    ],
+    "6": [
+      "make",
+      "return"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "pour"
+    ],
+    "9": [
+      "season"
+    ]
+  }
+}

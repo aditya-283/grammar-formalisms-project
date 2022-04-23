@@ -1,0 +1,296 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "3": {
+      "rotation": [
+        "turned"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "8": {
+      "location": [
+        "towel"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "plate"
+      ]
+    }
+  },
+  "id": "deep-fried trout",
+  "ingredient_list": [
+    "trout",
+    "milk",
+    "salt",
+    "pepper",
+    "flour",
+    "oil",
+    "tartar_sauce",
+    "lemon"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      5
+    ],
+    "6": [
+      0,
+      5
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      7,
+      0,
+      2,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "using",
+      "a",
+      "pair",
+      "of",
+      "kitchen",
+      "shears",
+      ",",
+      "cut",
+      "off",
+      "the",
+      "fins",
+      "from",
+      "the",
+      "back",
+      "and",
+      "sides",
+      "of",
+      "the",
+      "trout",
+      "."
+    ],
+    "1": [
+      "leave",
+      "the",
+      "head",
+      "and",
+      "tail",
+      "intact",
+      "."
+    ],
+    "2": [
+      "place",
+      "the",
+      "trout",
+      "in",
+      "a",
+      "large",
+      "pan",
+      "and",
+      "add",
+      "the",
+      "milk",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "3": [
+      "turn",
+      "the",
+      "trout",
+      "in",
+      "the",
+      "mixture",
+      "."
+    ],
+    "4": [
+      "remove",
+      "the",
+      "trout",
+      "without",
+      "patting",
+      "it",
+      "dry",
+      "and",
+      "dredge",
+      "on",
+      "all",
+      "sides",
+      "in",
+      "flour",
+      "seasoned",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "5": [
+      "heat",
+      "the",
+      "oil",
+      "for",
+      "deep",
+      "frying",
+      ",",
+      "about",
+      "325",
+      "degrees",
+      "."
+    ],
+    "6": [
+      "add",
+      "the",
+      "trout",
+      "and",
+      "fry",
+      "until",
+      "golden",
+      "brown",
+      "and",
+      "cooked",
+      "through",
+      ",",
+      "about",
+      "8",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "remove",
+      "the",
+      "trout",
+      "."
+    ],
+    "8": [
+      "drain",
+      "on",
+      "absorbent",
+      "toweling",
+      "."
+    ],
+    "9": [
+      "sprinkle",
+      "with",
+      "salt",
+      "and",
+      "serve",
+      "with",
+      "tartar",
+      "sauce",
+      "on",
+      "the",
+      "side",
+      "and",
+      "lemon",
+      "wedges",
+      "as",
+      "garnish",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut"
+    ],
+    "1": [
+      "leave"
+    ],
+    "2": [
+      "add",
+      "place"
+    ],
+    "3": [
+      "turn"
+    ],
+    "4": [
+      "pat",
+      "remove"
+    ],
+    "5": [
+      "heat"
+    ],
+    "6": [
+      "add",
+      "fry"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "drain"
+    ],
+    "9": [
+      "sprinkle",
+      "serve"
+    ]
+  }
+}

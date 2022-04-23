@@ -1,0 +1,330 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "casserole"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "casserole"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ]
+    }
+  },
+  "id": "beef burgundy stew",
+  "ingredient_list": [
+    "bacon",
+    "flour",
+    "beef_bouillon",
+    "basil",
+    "stew_meat",
+    "tomato",
+    "wine",
+    "onion",
+    "mushroom"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      1,
+      2,
+      3
+    ],
+    "4": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "1-quart",
+      "casserole",
+      "micro-cook",
+      "bacon",
+      ",",
+      "loosely",
+      "covered",
+      ",",
+      "on",
+      "100",
+      "%",
+      "power",
+      "for",
+      "2",
+      "to",
+      "21/2",
+      "minutes",
+      "or",
+      "until",
+      "done",
+      "."
+    ],
+    "1": [
+      "drain",
+      "bacon",
+      ",",
+      "reserving",
+      "drippings",
+      "in",
+      "casserole",
+      "."
+    ],
+    "10": [
+      "sprinkle",
+      "crumbled",
+      "bacon",
+      "atop",
+      "and",
+      "serve",
+      "."
+    ],
+    "2": [
+      "crumble",
+      "bacon",
+      "and",
+      "set",
+      "aside",
+      "."
+    ],
+    "3": [
+      "stir",
+      "flour",
+      ",",
+      "bouillon",
+      "granules",
+      ",",
+      "and",
+      "basil",
+      "into",
+      "drippings",
+      "."
+    ],
+    "4": [
+      "add",
+      "beef",
+      ",",
+      "undrained",
+      "tomatoes",
+      ",",
+      "and",
+      "wine",
+      ";"
+    ],
+    "5": [
+      "mix",
+      "well",
+      "."
+    ],
+    "6": [
+      "micro-cook",
+      ",",
+      "covered",
+      ",",
+      "on",
+      "100",
+      "%",
+      "power",
+      "for",
+      "2",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "micro-cook",
+      ",",
+      "covered",
+      ",",
+      "on",
+      "50",
+      "%",
+      "power",
+      "for",
+      "15",
+      "minutes",
+      ",",
+      "stirring",
+      "twice",
+      "."
+    ],
+    "8": [
+      "stir",
+      "in",
+      "onions",
+      "and",
+      "mushrooms",
+      "."
+    ],
+    "9": [
+      "micro-cook",
+      ",",
+      "covered",
+      ",",
+      "on",
+      "50",
+      "%",
+      "power",
+      "for",
+      "12",
+      "to",
+      "18",
+      "minutes",
+      "or",
+      "til",
+      "meat",
+      "and",
+      "vegetables",
+      "are",
+      "tender",
+      ",",
+      "stirring",
+      "twice",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cover"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "sprinkle",
+      "serve"
+    ],
+    "2": [
+      "set",
+      "crumble"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "mix"
+    ],
+    "6": [
+      "cover"
+    ],
+    "7": [
+      "stir",
+      "cover"
+    ],
+    "8": [
+      "stir"
+    ],
+    "9": [
+      "stir"
+    ]
+  }
+}

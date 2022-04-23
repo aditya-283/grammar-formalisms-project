@@ -1,0 +1,469 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "foil"
+      ]
+    },
+    "11": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "foil",
+        "grill"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "location": [
+        "foil"
+      ]
+    },
+    "13": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "14": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "4": {
+      "location": [
+        "grill"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "foil"
+      ]
+    },
+    "7": {
+      "location": [
+        "grill"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "sweet spicy ribs`",
+  "ingredient_list": [
+    "chili_powder",
+    "sugar",
+    "salt",
+    "pork_spareribs_cut",
+    "chip"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "11": [
+      3
+    ],
+    "12": [
+      4
+    ],
+    "13": [
+      4
+    ],
+    "14": [
+      3,
+      4
+    ],
+    "2": [
+      3
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      3
+    ],
+    "6": [
+      3
+    ],
+    "7": [
+      4
+    ],
+    "8": [
+      3,
+      4
+    ],
+    "9": [
+      3
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "small",
+      "bowl",
+      ",",
+      "combine",
+      "the",
+      "chili",
+      "powder",
+      ",",
+      "brown",
+      "sugar",
+      ",",
+      "and",
+      "salt",
+      "."
+    ],
+    "1": [
+      "rub",
+      "the",
+      "ribs",
+      "all",
+      "over",
+      "the",
+      "mixture",
+      "and",
+      "wrap",
+      "each",
+      "slab",
+      "in",
+      "a",
+      "double",
+      "thickness",
+      "of",
+      "aluminum",
+      "foil",
+      "."
+    ],
+    "10": [
+      "to",
+      "cook",
+      "the",
+      "ribs",
+      "on",
+      "a",
+      "gas",
+      "grill",
+      ",",
+      "preheat",
+      "the",
+      "grill",
+      ",",
+      "then",
+      "turn",
+      "to",
+      "low",
+      "."
+    ],
+    "11": [
+      "cook",
+      "the",
+      "ribs",
+      "in",
+      "foil",
+      "for",
+      "1",
+      "hr",
+      ",",
+      "then",
+      "unwrap",
+      "."
+    ],
+    "12": [
+      "wrap",
+      "the",
+      "soaked",
+      "chips",
+      "in",
+      "heavy-duty",
+      "aluminum",
+      "foil",
+      "and",
+      "pierce",
+      "the",
+      "foil",
+      "all",
+      "over",
+      "."
+    ],
+    "13": [
+      "place",
+      "the",
+      "packet",
+      "directly",
+      "onto",
+      "the",
+      "heating",
+      "unit",
+      "or",
+      "lava",
+      "rocks",
+      "."
+    ],
+    "14": [
+      "cover",
+      "and",
+      "cook",
+      "the",
+      "ribs",
+      "until",
+      "tender",
+      ",",
+      "about",
+      "15",
+      "additional",
+      "mins",
+      "."
+    ],
+    "2": [
+      "let",
+      "stand",
+      "at",
+      "room",
+      "temperature",
+      "for",
+      "1",
+      "hr",
+      "or",
+      "refrigerate",
+      "for",
+      "up",
+      "to",
+      "1",
+      "day",
+      "."
+    ],
+    "3": [
+      "make",
+      "a",
+      "medium-hot",
+      "fire",
+      "in",
+      "charcoal",
+      "grill",
+      "."
+    ],
+    "4": [
+      "place",
+      "the",
+      "foil",
+      "packets",
+      "on",
+      "a",
+      "lightly",
+      "oiled",
+      "grill",
+      "."
+    ],
+    "5": [
+      "cover",
+      "and",
+      "cook",
+      ",",
+      "turning",
+      "often",
+      "with",
+      "kitchen",
+      "tongs",
+      "-lrb-",
+      "do",
+      "n't",
+      "pierce",
+      "the",
+      "foil",
+      "-rrb-",
+      ",",
+      "until",
+      "the",
+      "ribs",
+      "are",
+      "just",
+      "tender",
+      ",",
+      "about",
+      "1",
+      "hr",
+      "."
+    ],
+    "6": [
+      "carefully",
+      "unwrap",
+      "the",
+      "ribs",
+      ",",
+      "discarding",
+      "the",
+      "liquid",
+      "in",
+      "the",
+      "foil",
+      "."
+    ],
+    "7": [
+      "add",
+      "more",
+      "hot",
+      "coals",
+      "to",
+      "the",
+      "grill",
+      "and",
+      "sprinkle",
+      "with",
+      "the",
+      "mesquite",
+      "chips",
+      "."
+    ],
+    "8": [
+      "cover",
+      "the",
+      "grill",
+      "and",
+      "cook",
+      "the",
+      "ribs",
+      ",",
+      "turning",
+      "often",
+      ",",
+      "until",
+      "they",
+      "are",
+      "browned",
+      ",",
+      "about",
+      "10",
+      "mins",
+      "."
+    ],
+    "9": [
+      "cut",
+      "the",
+      "ribs",
+      "between",
+      "the",
+      "bones",
+      "and",
+      "serve",
+      "immediately",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "rub",
+      "wrap"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "cook"
+    ],
+    "12": [
+      "wrap",
+      "pierce"
+    ],
+    "13": [
+      "place"
+    ],
+    "14": [
+      "cook",
+      "cover"
+    ],
+    "2": [
+      "refrigerate",
+      "stand"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "place"
+    ],
+    "5": [
+      "cook",
+      "turn",
+      "cover"
+    ],
+    "6": [
+      "discard"
+    ],
+    "7": [
+      "sprinkle",
+      "add"
+    ],
+    "8": [
+      "cook",
+      "turn",
+      "cover"
+    ],
+    "9": [
+      "cut",
+      "serve"
+    ]
+  }
+}

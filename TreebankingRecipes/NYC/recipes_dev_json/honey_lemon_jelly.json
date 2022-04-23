@@ -1,0 +1,247 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "location": [
+        "glass"
+      ]
+    },
+    "9": {
+      "accessibility": [
+        "not_accessible"
+      ]
+    }
+  },
+  "id": "honey lemon jelly",
+  "ingredient_list": [
+    "clover_honey",
+    "lemon_juice",
+    "liquid"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2
+    ],
+    "5": [
+      0,
+      1,
+      2
+    ],
+    "8": [
+      0,
+      1,
+      2
+    ],
+    "9": [
+      0,
+      1,
+      2
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "stir",
+      "the",
+      "honey",
+      "and",
+      "lemon",
+      "juice",
+      "in",
+      "a",
+      "saucepan",
+      "over",
+      "high",
+      "heat",
+      "until",
+      "it",
+      "comes",
+      "to",
+      "a",
+      "full",
+      "rolling",
+      "boil",
+      "."
+    ],
+    "1": [
+      "add",
+      "the",
+      "pectin",
+      "and",
+      "continue",
+      "stirring",
+      "until",
+      "it",
+      "boils",
+      "hard",
+      "again",
+      "."
+    ],
+    "2": [
+      "set",
+      "the",
+      "timer",
+      "for",
+      "1",
+      "minute",
+      "and",
+      "continue",
+      "to",
+      "stir",
+      "."
+    ],
+    "3": [
+      "remove",
+      "from",
+      "the",
+      "heat",
+      "."
+    ],
+    "4": [
+      "skim",
+      "off",
+      "any",
+      "froth",
+      "with",
+      "a",
+      "metal",
+      "spoon",
+      "."
+    ],
+    "5": [
+      "pour",
+      "into",
+      "clean",
+      ",",
+      "hot",
+      "glasses",
+      ",",
+      "filling",
+      "the",
+      "jars",
+      "to",
+      "within",
+      "1/8",
+      "inch",
+      "of",
+      "the",
+      "top",
+      "."
+    ],
+    "6": [
+      "wipe",
+      "the",
+      "rims",
+      "."
+    ],
+    "7": [
+      "put",
+      "on",
+      "the",
+      "lids",
+      "and",
+      "screw",
+      "bands",
+      "firmly",
+      "."
+    ],
+    "8": [
+      "let",
+      "stand",
+      "12",
+      "hours",
+      "before",
+      "moving",
+      "."
+    ],
+    "9": [
+      "label",
+      "and",
+      "store",
+      "in",
+      "a",
+      "dark",
+      "place",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "stir"
+    ],
+    "1": [
+      "add",
+      "stir"
+    ],
+    "2": [
+      "set",
+      "stir"
+    ],
+    "3": [
+      "remove"
+    ],
+    "4": [
+      "skim"
+    ],
+    "5": [
+      "pour",
+      "fill"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "stand"
+    ],
+    "9": [
+      "store"
+    ]
+  }
+}

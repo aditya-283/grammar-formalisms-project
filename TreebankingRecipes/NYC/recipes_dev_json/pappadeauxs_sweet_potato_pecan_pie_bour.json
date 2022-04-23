@@ -1,0 +1,370 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "accessibility": [
+        "not_accessible"
+      ]
+    },
+    "4": {
+      "location": [
+        "slice"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "pappadeauxs sweet potato pecan pie bour",
+  "ingredient_list": [
+    "cooked",
+    "sugar",
+    "sugar",
+    "egg",
+    "cream",
+    "vanilla",
+    "salt",
+    "cinnamon",
+    "allspice",
+    "nutmeg",
+    "butter",
+    "pie",
+    "bourbon_sauce",
+    "sugar",
+    "corn_syrup",
+    "eggs",
+    "butter",
+    "vanilla",
+    "salt",
+    "cinnamon",
+    "pecan",
+    "cream",
+    "milk",
+    "vanilla_pudding_mix",
+    "bourbon",
+    "vanilla"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      11
+    ],
+    "1": [
+      0,
+      11,
+      12
+    ],
+    "2": [
+      0,
+      11,
+      12
+    ],
+    "3": [
+      0,
+      11,
+      12
+    ],
+    "4": [
+      0,
+      11,
+      12
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      16
+    ],
+    "6": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      16,
+      20
+    ],
+    "7": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      16,
+      20,
+      22
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      16,
+      20,
+      22,
+      23
+    ],
+    "9": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      16,
+      20,
+      22,
+      23,
+      24
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "to",
+      "assemble",
+      "pie",
+      ",",
+      "spoon",
+      "sweet",
+      "potato",
+      "filling",
+      "into",
+      "the",
+      "pastry-lined",
+      "pie",
+      "pan",
+      "."
+    ],
+    "1": [
+      "fill",
+      "shell",
+      "evenly",
+      "to",
+      "the",
+      "top",
+      "with",
+      "with",
+      "pecan",
+      "filling",
+      "."
+    ],
+    "2": [
+      "bake",
+      "11/2",
+      "hours",
+      "or",
+      "until",
+      "a",
+      "knife",
+      "inserted",
+      "into",
+      "the",
+      "center",
+      "of",
+      "the",
+      "pie",
+      "comes",
+      "out",
+      "clean",
+      "."
+    ],
+    "3": [
+      "store",
+      "pie",
+      "at",
+      "room",
+      "temperature",
+      "for",
+      "24",
+      "hours",
+      "."
+    ],
+    "4": [
+      "serve",
+      "pie",
+      "slices",
+      "with",
+      "bourbon",
+      "sauce",
+      "on",
+      "top",
+      "or",
+      "to",
+      "the",
+      "side",
+      "."
+    ],
+    "5": [
+      "combine",
+      "sugar",
+      ",",
+      "syrup",
+      ",",
+      "eggs",
+      ",",
+      "butter",
+      ",",
+      "vanilla",
+      ",",
+      "salt",
+      "and",
+      "cinnamon",
+      "in",
+      "an",
+      "electric",
+      "mixing",
+      "bowl",
+      "and",
+      "beat",
+      "on",
+      "low",
+      "speed",
+      "until",
+      "syrup",
+      "is",
+      "opaque",
+      ",",
+      "about",
+      "4-5",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "stir",
+      "in",
+      "pecans",
+      ",",
+      "mix",
+      "well",
+      "."
+    ],
+    "7": [
+      "combine",
+      "cream",
+      "and",
+      "milk",
+      "in",
+      "a",
+      "large",
+      "mixing",
+      "bowl",
+      "."
+    ],
+    "8": [
+      "slowly",
+      "whip",
+      "in",
+      "pudding",
+      "mix",
+      "."
+    ],
+    "9": [
+      "add",
+      "bourbon",
+      "and",
+      "continue",
+      "whipping",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "spoon"
+    ],
+    "1": [
+      "fill"
+    ],
+    "2": [
+      "insert",
+      "bake"
+    ],
+    "3": [
+      "store"
+    ],
+    "4": [
+      "serve"
+    ],
+    "5": [
+      "beat",
+      "combine"
+    ],
+    "6": [
+      "mix",
+      "stir"
+    ],
+    "7": [
+      "combine"
+    ],
+    "8": [
+      "whip"
+    ],
+    "9": [
+      "add",
+      "whip"
+    ]
+  }
+}

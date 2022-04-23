@@ -1,0 +1,374 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "location": [
+        "casserole",
+        "pan"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "hoosier supper",
+  "ingredient_list": [
+    "meat",
+    "pepper",
+    "celery",
+    "garlic_clove",
+    "eggplant",
+    "parsley",
+    "rice",
+    "onion_soup_mix",
+    "oregano",
+    "tomato",
+    "water",
+    "olife",
+    "bread",
+    "parmesan_cheese",
+    "margarine",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "brown",
+      "the",
+      "beef",
+      ";"
+    ],
+    "1": [
+      "drain",
+      "excess",
+      "fat",
+      "."
+    ],
+    "10": [
+      "bake",
+      "at",
+      "450",
+      "degrees",
+      "for",
+      "15",
+      "minutes",
+      "."
+    ],
+    "2": [
+      "add",
+      "green",
+      "pepper",
+      ",",
+      "celery",
+      "and",
+      "garlic",
+      "."
+    ],
+    "3": [
+      "saute",
+      "until",
+      "tender",
+      "."
+    ],
+    "4": [
+      "stir",
+      "in",
+      "salt",
+      "and",
+      "pepper",
+      ",",
+      "eggplant",
+      "-lrb-",
+      "my",
+      "favorite",
+      "-rrb-",
+      ",",
+      "parsley",
+      ",",
+      "rice",
+      ",",
+      "oregano",
+      ",",
+      "soup",
+      "mix",
+      ",",
+      "tomato",
+      "paste",
+      "and",
+      "water",
+      "."
+    ],
+    "5": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      ";"
+    ],
+    "6": [
+      "cover",
+      "and",
+      "simmer",
+      "for",
+      "20",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "pour",
+      "into",
+      "greased",
+      "casserole",
+      "or",
+      "baking",
+      "pan",
+      "."
+    ],
+    "8": [
+      "sprinkle",
+      "with",
+      "mixed",
+      "bread",
+      "crumbs",
+      ",",
+      "parmesan",
+      "cheese",
+      "and",
+      "margarine",
+      "."
+    ],
+    "9": [
+      "top",
+      "with",
+      "ripe",
+      "olives",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "brown"
+    ],
+    "1": [
+      "drain"
+    ],
+    "10": [
+      "bake"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "saute"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "cover",
+      "simmer"
+    ],
+    "7": [
+      "pour"
+    ],
+    "8": [
+      "sprinkle"
+    ],
+    "9": [
+      "top"
+    ]
+  }
+}

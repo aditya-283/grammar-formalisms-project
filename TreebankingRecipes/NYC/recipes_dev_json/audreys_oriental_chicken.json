@@ -1,0 +1,216 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "audreys oriental chicken",
+  "ingredient_list": [
+    "sugar",
+    "cornstarch",
+    "vinegar",
+    "soy_sauce",
+    "pineapple",
+    "strip",
+    "onion",
+    "oil",
+    "chicken"
+  ],
+  "ingredients": {
+    "0": [
+      2,
+      3
+    ],
+    "1": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      7,
+      8
+    ],
+    "4": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "gradually",
+      "stir",
+      "in",
+      "vinegar",
+      "and",
+      "soy",
+      "sauce",
+      "."
+    ],
+    "1": [
+      "stir",
+      "in",
+      "pineapple",
+      ",",
+      "green",
+      "pepper",
+      "and",
+      "onion",
+      ",",
+      "set",
+      "aside",
+      "."
+    ],
+    "2": [
+      "heat",
+      "oil",
+      "in",
+      "wok",
+      "."
+    ],
+    "3": [
+      "add",
+      "chicken",
+      "and",
+      "stir",
+      "fry",
+      ",",
+      "just",
+      "until",
+      "tender",
+      ",",
+      "and",
+      "chicken",
+      "has",
+      "turned",
+      "white",
+      "."
+    ],
+    "4": [
+      "add",
+      "pineapple",
+      "and",
+      "vegetable",
+      "mixture",
+      ";"
+    ],
+    "5": [
+      "stir",
+      "until",
+      "well",
+      "mixed",
+      "."
+    ],
+    "6": [
+      "cover",
+      "and",
+      "simmer",
+      "over",
+      "low",
+      "heat",
+      "15",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "fat",
+      "7g",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "stir"
+    ],
+    "1": [
+      "set",
+      "stir"
+    ],
+    "2": [
+      "heat"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "cover",
+      "simmer"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

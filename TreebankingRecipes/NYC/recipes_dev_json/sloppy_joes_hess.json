@@ -1,0 +1,307 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "location": [
+        "pan"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "sloppy joes hess",
+  "ingredient_list": [
+    "salt",
+    "beef",
+    "onion",
+    "celery",
+    "green_pepper",
+    "lemon",
+    "catup",
+    "beef_broth",
+    "mustard",
+    "worcestershire_sauce"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      7,
+      8,
+      9,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "add",
+      "salt",
+      "to",
+      "meat",
+      "."
+    ],
+    "1": [
+      "turn",
+      "into",
+      "a",
+      "large",
+      "dry",
+      ",",
+      "cold",
+      "frying",
+      "pan",
+      "."
+    ],
+    "10": [
+      "9g",
+      ";"
+    ],
+    "11": [
+      "47mg",
+      ";"
+    ],
+    "12": [
+      "omit",
+      "salt",
+      "."
+    ],
+    "13": [
+      "use",
+      "low-sodium",
+      "catup",
+      "and",
+      "unsalted",
+      "beef",
+      "broth",
+      ","
+    ],
+    "2": [
+      "add",
+      "onion",
+      ",",
+      "celery",
+      ",",
+      "and",
+      "green",
+      "pepper",
+      "."
+    ],
+    "3": [
+      "stir",
+      "and",
+      "cook",
+      "1-2",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "combine",
+      "all",
+      "remaining",
+      "ingredients",
+      ";"
+    ],
+    "5": [
+      "add",
+      "to",
+      "meat",
+      "and",
+      "mix",
+      "well",
+      "."
+    ],
+    "6": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "cover",
+      ",",
+      "reduce",
+      "heat",
+      "to",
+      "low",
+      ",",
+      "and",
+      "let",
+      "simmer",
+      "gently",
+      "for",
+      "15-20",
+      "minutes",
+      ",",
+      "stirring",
+      "fredquently",
+      ",",
+      "until",
+      "cooked",
+      "and",
+      "well",
+      "mixed",
+      "."
+    ],
+    "7": [
+      "when",
+      "served",
+      "on",
+      "whole",
+      "hamburger",
+      "bun",
+      ",",
+      "add",
+      "2",
+      "starch",
+      "exchanges",
+      ";"
+    ],
+    "8": [
+      "4g",
+      ";"
+    ],
+    "9": [
+      "15g",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "add"
+    ],
+    "1": [
+      "turn"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cook",
+      "stir"
+    ],
+    "4": [
+      "combine"
+    ],
+    "5": [
+      "mix",
+      "add"
+    ],
+    "6": [
+      "cover",
+      "reduce",
+      "boil"
+    ],
+    "7": [
+      "add",
+      "serve"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

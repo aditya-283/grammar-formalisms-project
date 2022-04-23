@@ -1,0 +1,284 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "container"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "9": {
+      "location": [
+        "container"
+      ]
+    }
+  },
+  "id": "microwave truffles",
+  "ingredient_list": [
+    "chocolate",
+    "vanilla",
+    "butter",
+    "cocoa_powder",
+    "sour_cream",
+    "coconut",
+    "brandy_extract",
+    "pecan",
+    "rum_extract"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2,
+      4
+    ],
+    "1": [
+      0,
+      2,
+      4
+    ],
+    "2": [
+      0,
+      2,
+      4
+    ],
+    "3": [
+      0,
+      2,
+      4
+    ],
+    "4": [
+      0,
+      2,
+      4
+    ],
+    "5": [
+      0,
+      2,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "chcolate",
+      ",",
+      "butter",
+      "and",
+      "sour",
+      "cream",
+      "in",
+      "3",
+      "quart",
+      "microwavable",
+      "container",
+      "."
+    ],
+    "1": [
+      "cover",
+      "and",
+      "cook",
+      "in",
+      "microwave",
+      "oven",
+      "at",
+      "full",
+      "power",
+      "2",
+      "minutes",
+      "."
+    ],
+    "10": [
+      "ross"
+    ],
+    "2": [
+      "stir",
+      "thoroughly",
+      "."
+    ],
+    "3": [
+      "cook",
+      "1",
+      "minute",
+      "longer",
+      "."
+    ],
+    "4": [
+      "stir",
+      "."
+    ],
+    "5": [
+      "divide",
+      "mixture",
+      "into",
+      "3",
+      "portions",
+      "."
+    ],
+    "6": [
+      "add",
+      "brandy",
+      "extract",
+      "to",
+      "1",
+      "portion",
+      ",",
+      "rum",
+      "extract",
+      "to",
+      "second",
+      "portion",
+      ",",
+      "and",
+      "vanilla",
+      "ectract",
+      "to",
+      "the",
+      "third",
+      "portion",
+      "."
+    ],
+    "7": [
+      "mix",
+      "each",
+      "portionn",
+      "well",
+      "."
+    ],
+    "8": [
+      "shape",
+      "into",
+      "1",
+      "inch",
+      "balls",
+      "and",
+      "roll",
+      "in",
+      "cocoa",
+      ",",
+      "coconut",
+      ",",
+      "or",
+      "chopped",
+      "pecans",
+      "."
+    ],
+    "9": [
+      "store",
+      "in",
+      "airtight",
+      "container",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "cook",
+      "cover"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "cook"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "divide"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "mix"
+    ],
+    "8": [
+      "shape",
+      "roll"
+    ],
+    "9": [
+      "store"
+    ]
+  }
+}

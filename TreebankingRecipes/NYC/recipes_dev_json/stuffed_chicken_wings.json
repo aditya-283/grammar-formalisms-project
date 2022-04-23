@@ -1,0 +1,373 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "cleanliness": [
+        "clean"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "cleanliness": [
+        "clean"
+      ],
+      "shape": [
+        "separated",
+        "deformed"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan",
+        "oven"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "stuffed chicken wings",
+  "ingredient_list": [
+    "chicken",
+    "vermicelli",
+    "piece",
+    "pork",
+    "onion",
+    "carrot",
+    "egg",
+    "soy",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "bone",
+      "the",
+      "chicken",
+      "wings",
+      "by",
+      "cutting",
+      "around",
+      "the",
+      "bone",
+      "with",
+      "a",
+      "sharp",
+      "knife",
+      "."
+    ],
+    "1": [
+      "holding",
+      "the",
+      "wingtip",
+      ",",
+      "gently",
+      "ease",
+      "the",
+      "bone",
+      "away",
+      "to",
+      "leave",
+      "the",
+      "skin",
+      "and",
+      "a",
+      "thin",
+      "layer",
+      "of",
+      "chicken",
+      "."
+    ],
+    "10": [
+      "serve",
+      "on",
+      "a",
+      "bed",
+      "of",
+      "lettuce",
+      "as",
+      "a",
+      "starter",
+      "or",
+      "with",
+      "rice",
+      "and",
+      "a",
+      "beef",
+      "stir-fried",
+      "dish",
+      "."
+    ],
+    "2": [
+      "soak",
+      "the",
+      "vermicelli",
+      "in",
+      "warm",
+      "water",
+      "for",
+      "10",
+      "minutes",
+      "then",
+      "drain",
+      "thoroughly",
+      "and",
+      "cut",
+      "into",
+      "short",
+      "strands",
+      "."
+    ],
+    "3": [
+      "soak",
+      "the",
+      "wood",
+      "ear",
+      "fungus",
+      "in",
+      "warm",
+      "water",
+      "for",
+      "10",
+      "minutes",
+      "then",
+      "squeeze",
+      "dry",
+      "and",
+      "chop",
+      "into",
+      "thin",
+      "slices",
+      "."
+    ],
+    "4": [
+      "mix",
+      "all",
+      "the",
+      "stuffing",
+      "ingredients",
+      "together",
+      "."
+    ],
+    "5": [
+      "mold",
+      "the",
+      "stuffing",
+      "into",
+      "a",
+      "ball",
+      "and",
+      "insert",
+      "it",
+      "into",
+      "the",
+      "bag",
+      "of",
+      "flesh",
+      "and",
+      "skin",
+      "of",
+      "the",
+      "chicken",
+      "wing",
+      "."
+    ],
+    "6": [
+      "preheat",
+      "the",
+      "oven",
+      "to",
+      "400f",
+      "."
+    ],
+    "7": [
+      "steam",
+      "the",
+      "stuffed",
+      "wings",
+      "for",
+      "10-15",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "-lrb-",
+      "if",
+      "you",
+      "want",
+      "to",
+      "make",
+      "a",
+      "large",
+      "quantity",
+      ",",
+      "multiply",
+      "the",
+      "measures",
+      "accordingly",
+      "and",
+      "freeze",
+      "after",
+      "the",
+      "steaming",
+      "stage",
+      "."
+    ],
+    "9": [
+      "after",
+      "steaming",
+      ",",
+      "place",
+      "in",
+      "a",
+      "lightly",
+      "oiled",
+      "roasting",
+      "pan",
+      "and",
+      "roast",
+      "in",
+      "the",
+      "oven",
+      "for",
+      "30",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut",
+      "bone"
+    ],
+    "1": [
+      "ease"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cut",
+      "drain",
+      "soak"
+    ],
+    "3": [
+      "chop",
+      "squeeze",
+      "soak"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "insert",
+      "mold"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "steam"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "place",
+      "steam",
+      "roast"
+    ]
+  }
+}

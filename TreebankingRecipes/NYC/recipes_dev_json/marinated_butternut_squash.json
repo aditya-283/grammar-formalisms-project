@@ -1,0 +1,235 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "7": {
+      "location": [
+        "plate"
+      ]
+    }
+  },
+  "id": "marinated butternut squash",
+  "ingredient_list": [
+    "butternut_squash",
+    "vinegar",
+    "water",
+    "salt",
+    "pepper",
+    "mint"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      0,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "peel",
+      "skin",
+      "from",
+      "the",
+      "squash",
+      "and",
+      "cut",
+      "it",
+      "in",
+      "half",
+      "."
+    ],
+    "1": [
+      "carefully",
+      "remove",
+      "the",
+      "seeds",
+      "and",
+      "stringy",
+      "matter",
+      "."
+    ],
+    "2": [
+      "cut",
+      "the",
+      "squash",
+      "into",
+      "medium",
+      "dice",
+      "from",
+      "the",
+      "center",
+      "."
+    ],
+    "3": [
+      "in",
+      "a",
+      "saute",
+      "pan",
+      ",",
+      "put",
+      "the",
+      "balsamic",
+      "vinegar",
+      "and",
+      "water",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      ",",
+      "and",
+      "heat",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "squash",
+      "and",
+      "cook",
+      "for",
+      "just",
+      "a",
+      "few",
+      "minutes",
+      ";"
+    ],
+    "5": [
+      "remove",
+      "the",
+      "squash",
+      "and",
+      "liquid",
+      "from",
+      "the",
+      "heat",
+      "and",
+      "put",
+      "into",
+      "a",
+      "separate",
+      "bowl",
+      "."
+    ],
+    "6": [
+      "cool",
+      "completely",
+      "."
+    ],
+    "7": [
+      "add",
+      "the",
+      "chopped",
+      "mint",
+      "and",
+      "serve",
+      "as",
+      "a",
+      "garnish",
+      "or",
+      "side",
+      "dish",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut",
+      "peel"
+    ],
+    "1": [
+      "remove"
+    ],
+    "2": [
+      "cut"
+    ],
+    "3": [
+      "put"
+    ],
+    "4": [
+      "cook",
+      "add"
+    ],
+    "5": [
+      "put",
+      "remove"
+    ],
+    "6": [
+      "cool"
+    ],
+    "7": [
+      "add",
+      "serve"
+    ]
+  }
+}

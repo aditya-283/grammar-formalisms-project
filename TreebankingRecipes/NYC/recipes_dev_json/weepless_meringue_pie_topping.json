@@ -1,0 +1,390 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "10": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "weepless meringue pie topping",
+  "ingredient_list": [
+    "gelatin",
+    "cornstarch",
+    "water",
+    "sugar",
+    "egg_white",
+    "tartar",
+    "vanilla"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "prepare",
+      "a",
+      "pre-meringue",
+      "by",
+      "mixing",
+      "gelatin",
+      ",",
+      "cornstarch",
+      ",",
+      "and",
+      "cold",
+      "water",
+      "in",
+      "small",
+      "saucepan",
+      "."
+    ],
+    "1": [
+      "stir",
+      "until",
+      "lumps",
+      "are",
+      "dissolved",
+      "."
+    ],
+    "10": [
+      "place",
+      "in",
+      "refrigerator",
+      ",",
+      "uncovered",
+      ",",
+      "until",
+      "cool",
+      ",",
+      "then",
+      "cover",
+      "."
+    ],
+    "11": [
+      "-lrb-",
+      "another",
+      "9-1/2",
+      "inch",
+      "pie",
+      "plate",
+      "makes",
+      "a",
+      "convenient",
+      "cover",
+      "."
+    ],
+    "2": [
+      "add",
+      "boiling",
+      "water",
+      "."
+    ],
+    "3": [
+      "bring",
+      "mixture",
+      "to",
+      "boil",
+      "and",
+      "cook",
+      "1",
+      "minute",
+      ",",
+      "stirring",
+      "constantly",
+      "."
+    ],
+    "4": [
+      "remove",
+      "from",
+      "heat",
+      "and",
+      "stir",
+      "in",
+      "sugar",
+      "."
+    ],
+    "5": [
+      "pour",
+      "mixture",
+      "into",
+      "small",
+      "bowl",
+      "and",
+      "refrigerate",
+      "exactly",
+      "25",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "after",
+      "25",
+      "minutes",
+      "are",
+      "up",
+      ",",
+      "beat",
+      "egg",
+      "whites",
+      "and",
+      "cream",
+      "of",
+      "tartar",
+      "in",
+      "medium",
+      "bowl",
+      "until",
+      "soft",
+      "peaks",
+      "form",
+      "."
+    ],
+    "7": [
+      "add",
+      "pre-meringue",
+      "mixture",
+      "and",
+      "vanilla",
+      "and",
+      "contiue",
+      "beating",
+      "until",
+      "mixture",
+      "is",
+      "very",
+      "stiff",
+      "and",
+      "resembles",
+      "whipped",
+      "cream",
+      "."
+    ],
+    "8": [
+      "fill",
+      "9-1/2",
+      "inch",
+      "baked",
+      "pie",
+      "crust",
+      "with",
+      "your",
+      "favorite",
+      "pie",
+      "filling",
+      "and",
+      "top",
+      "with",
+      "meringue",
+      "mixture",
+      ",",
+      "being",
+      "sure",
+      "to",
+      "seal",
+      "in",
+      "filling",
+      "by",
+      "touching",
+      "meringue",
+      "to",
+      "all",
+      "edges",
+      "of",
+      "crust",
+      "."
+    ],
+    "9": [
+      "bake",
+      "at",
+      "350",
+      "degrees",
+      "until",
+      "meringue",
+      "is",
+      "lightly",
+      "browned",
+      ",",
+      "15",
+      "to",
+      "20",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "mix",
+      "prepare"
+    ],
+    "1": [
+      "stir"
+    ],
+    "10": [
+      "cover",
+      "place"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cook",
+      "stir",
+      "boil"
+    ],
+    "4": [
+      "stir",
+      "remove"
+    ],
+    "5": [
+      "refrigerate",
+      "pour"
+    ],
+    "6": [
+      "beat"
+    ],
+    "7": [
+      "beat",
+      "add"
+    ],
+    "8": [
+      "top",
+      "fill"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

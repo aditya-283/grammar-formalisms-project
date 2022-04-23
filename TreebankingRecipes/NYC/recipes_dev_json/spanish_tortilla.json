@@ -1,0 +1,290 @@
+{
+  "events": {
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "rotation": [
+        "turned"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "back",
+        "pan"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "rotation": [
+        "turned"
+      ]
+    },
+    "9": {
+      "location": [
+        "plate"
+      ]
+    }
+  },
+  "id": "spanish tortilla",
+  "ingredient_list": [
+    "potato",
+    "medium_eggs",
+    "olive_oil",
+    "salt"
+  ],
+  "ingredients": {
+    "2": [
+      0,
+      2
+    ],
+    "3": [
+      0
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "spain",
+      ",",
+      "a",
+      "tortilla",
+      "is",
+      "a",
+      "peasant",
+      "potato",
+      "omlette",
+      "."
+    ],
+    "1": [
+      "serve",
+      "it",
+      "sliced",
+      "in",
+      "pie-shaped",
+      "pieces",
+      "."
+    ],
+    "2": [
+      "heat",
+      "oil",
+      "in",
+      "pan",
+      ",",
+      "lower",
+      "heat",
+      "and",
+      "sautee",
+      "potatoes",
+      "slowly",
+      "until",
+      "fairly",
+      "soft",
+      "."
+    ],
+    "3": [
+      "turn",
+      "and",
+      "``",
+      "slice",
+      "''",
+      "at",
+      "them",
+      "often",
+      "with",
+      "spoon",
+      "or",
+      "metal",
+      "spatula",
+      "."
+    ],
+    "4": [
+      "scrape",
+      "pan",
+      "so",
+      "nothing",
+      "sticks",
+      "."
+    ],
+    "5": [
+      "lift",
+      "cooked",
+      "potatoes",
+      "into",
+      "bowl",
+      ",",
+      "add",
+      "slightly",
+      "beaten",
+      "eggs",
+      "and",
+      "salt",
+      ",",
+      "mix",
+      "lightly",
+      "and",
+      "return",
+      "to",
+      "pan",
+      "-lrb-",
+      "add",
+      "a",
+      "little",
+      "oil",
+      "if",
+      "none",
+      "remains",
+      "-rrb-",
+      "."
+    ],
+    "6": [
+      "cook",
+      "slowly",
+      "until",
+      "bubbles",
+      "start",
+      "to",
+      "appear",
+      "on",
+      "top",
+      ",",
+      "or",
+      "it",
+      "seems",
+      "half-cooked",
+      "."
+    ],
+    "7": [
+      "loosen",
+      "from",
+      "pan",
+      "with",
+      "spatula",
+      "if",
+      "necessary",
+      "."
+    ],
+    "8": [
+      "place",
+      "a",
+      "plate",
+      "on",
+      "top",
+      ",",
+      "turn",
+      "tortilla",
+      "over",
+      "on",
+      "to",
+      "pan",
+      ",",
+      "then",
+      "slide",
+      "it",
+      "off",
+      "into",
+      "pan",
+      "to",
+      "cook",
+      "on",
+      "other",
+      "side",
+      "."
+    ],
+    "9": [
+      "remove",
+      "from",
+      "pan",
+      "the",
+      "same",
+      "way",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "heat",
+      "lower"
+    ],
+    "3": [
+      "turn",
+      "slice"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "mix",
+      "add",
+      "lift",
+      "return"
+    ],
+    "6": [
+      "cook"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "cook",
+      "turn",
+      "slide",
+      "place"
+    ],
+    "9": [
+      "remove"
+    ]
+  }
+}

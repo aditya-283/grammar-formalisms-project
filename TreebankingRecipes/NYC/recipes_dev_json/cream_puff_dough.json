@@ -1,0 +1,401 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "location": [
+        "mixer",
+        "bowl"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "7": {
+      "location": [
+        "sheet"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "temperature": [
+        "room"
+      ]
+    }
+  },
+  "id": "cream puff dough",
+  "ingredient_list": [
+    "butter",
+    "water",
+    "salt",
+    "sugar",
+    "flour",
+    "eggs"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "put",
+      "butter",
+      ",",
+      "water",
+      ",",
+      "salt",
+      ",",
+      "and",
+      "sugar",
+      "into",
+      "saucepan",
+      "."
+    ],
+    "1": [
+      "heat",
+      "until",
+      "butter",
+      "melts",
+      "."
+    ],
+    "10": [
+      "cut",
+      "off",
+      "tops",
+      "and",
+      "pull",
+      "out",
+      "soft",
+      "dough",
+      "."
+    ],
+    "11": [
+      "fill",
+      "and",
+      "replace",
+      "tops",
+      "."
+    ],
+    "12": [
+      "dust",
+      "with",
+      "confectioners",
+      "'",
+      "sugar",
+      "."
+    ],
+    "13": [
+      "refrigerate",
+      "."
+    ],
+    "2": [
+      "reduce",
+      "heat",
+      "."
+    ],
+    "3": [
+      "stir",
+      "in",
+      "flour",
+      "until",
+      "ball",
+      "forms",
+      "."
+    ],
+    "4": [
+      "remove",
+      "from",
+      "heat",
+      "and",
+      "put",
+      "into",
+      "mixer",
+      "bowl",
+      "."
+    ],
+    "5": [
+      "beat",
+      "in",
+      "eggs",
+      "one",
+      "at",
+      "a",
+      "time",
+      "."
+    ],
+    "6": [
+      "put",
+      "dough",
+      "into",
+      "pastry",
+      "tube",
+      "with",
+      "a",
+      "1/2-inch",
+      "nozzle",
+      "."
+    ],
+    "7": [
+      "squeeze",
+      "out",
+      "1/2",
+      "''",
+      "for",
+      "miniature",
+      "cream",
+      "puffs",
+      "-lrb-",
+      "or",
+      "3",
+      "inches",
+      "for",
+      "eclairs",
+      ",",
+      "or",
+      "2",
+      "inches",
+      "balls",
+      "for",
+      "cream",
+      "puffs",
+      "-rrb-",
+      "ontoungreased",
+      "cookie",
+      "sheets",
+      "."
+    ],
+    "8": [
+      "and",
+      "bake",
+      "miniatures",
+      "for",
+      "5",
+      "minutes",
+      ",",
+      "eclairs",
+      "for",
+      "20",
+      "minutes",
+      ",",
+      "and",
+      "creampuffs",
+      "for",
+      "25",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "cool",
+      "away",
+      "from",
+      "drafts",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "put"
+    ],
+    "1": [
+      "heat",
+      "melt"
+    ],
+    "10": [
+      "pull",
+      "cut"
+    ],
+    "11": [
+      "fill",
+      "replace"
+    ],
+    "12": [
+      "dust"
+    ],
+    "13": [
+      "refrigerate"
+    ],
+    "2": [
+      "reduce"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "put",
+      "remove"
+    ],
+    "5": [
+      "beat"
+    ],
+    "6": [
+      "put"
+    ],
+    "7": [
+      "squeeze"
+    ],
+    "8": [
+      "bake"
+    ],
+    "9": [
+      "cool"
+    ]
+  }
+}

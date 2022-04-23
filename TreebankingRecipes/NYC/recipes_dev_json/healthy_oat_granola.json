@@ -1,0 +1,328 @@
+{
+  "events": {
+    "12": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "location": [
+        "pan"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "8": {
+      "accessibility": [
+        "not_accessible"
+      ]
+    }
+  },
+  "id": "healthy oat granola",
+  "ingredient_list": [
+    "cereal",
+    "oats",
+    "milk",
+    "honey",
+    "seed",
+    "vegetable_oil",
+    "water",
+    "orange_peel",
+    "vanilla",
+    "banana_chip",
+    "raisin"
+  ],
+  "ingredients": {
+    "12": [
+      9,
+      10
+    ],
+    "13": [
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      9,
+      10
+    ],
+    "7": [
+      9,
+      10
+    ],
+    "8": [
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "healthy",
+      "oat",
+      "granola"
+    ],
+    "1": [
+      "heat",
+      "oven",
+      "to",
+      "350",
+      "degrees",
+      "."
+    ],
+    "10": [
+      "microwavable",
+      "bowl",
+      "."
+    ],
+    "11": [
+      "add",
+      "1/2",
+      "cup",
+      "skim",
+      "milk",
+      "."
+    ],
+    "12": [
+      "microwave",
+      "on",
+      "high",
+      "about",
+      "1",
+      "minute",
+      "30",
+      "seconds",
+      "or",
+      "until",
+      "heated",
+      "through",
+      ";"
+    ],
+    "13": [
+      "stir",
+      "."
+    ],
+    "2": [
+      "combine",
+      "oat",
+      "bran",
+      ",",
+      "oats",
+      ",",
+      "dried",
+      "milk",
+      ",",
+      "honey",
+      ",",
+      "sunflower",
+      "seeds",
+      ",",
+      "oil",
+      ",",
+      "water",
+      ",",
+      "orange",
+      "peel",
+      ",",
+      "and",
+      "vanilla",
+      ";"
+    ],
+    "3": [
+      "mix",
+      "well",
+      "."
+    ],
+    "4": [
+      "spread",
+      "in",
+      "a",
+      "13",
+      "x",
+      "9-inch",
+      "baking",
+      "pan",
+      "."
+    ],
+    "5": [
+      "bake",
+      "20",
+      "to",
+      "25",
+      "minutes",
+      "or",
+      "until",
+      "golden",
+      "brown",
+      ",",
+      "stirring",
+      "once",
+      "afetr",
+      "10",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "stir",
+      "in",
+      "banana",
+      "chips",
+      "and",
+      "raisins",
+      "."
+    ],
+    "7": [
+      "cool",
+      "completely",
+      "."
+    ],
+    "8": [
+      "store",
+      "tightly",
+      "cocvered",
+      "up",
+      "to",
+      "1",
+      "week",
+      "."
+    ],
+    "9": [
+      "serve",
+      "cold",
+      "or",
+      "hbot",
+      "with",
+      "skim",
+      "milk",
+      "or",
+      "as",
+      "a",
+      "topping",
+      "over",
+      "fruit",
+      ",",
+      "low",
+      "fat",
+      "yogurt",
+      "or",
+      "ice",
+      "milk",
+      ",",
+      "if",
+      "desired",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "microwave"
+    ],
+    "13": [
+      "stir"
+    ],
+    "2": [
+      "combine"
+    ],
+    "3": [
+      "mix"
+    ],
+    "4": [
+      "spread"
+    ],
+    "5": [
+      "bake",
+      "stir"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "cool"
+    ],
+    "8": [
+      "store"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "unknown"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "unknown"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    }
+  },
+  "id": "lamb en chilindron",
+  "ingredient_list": [
+    "lamb_shoulder",
+    "wine",
+    "rosemary",
+    "olive_oil",
+    "onion",
+    "inch",
+    "cloves_garlic",
+    "sliced",
+    "chile",
+    "substitute",
+    "inch",
+    "pimento",
+    "strip",
+    "paprika",
+    "spain",
+    "tomato",
+    "wine"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      11,
+      12,
+      15,
+      16
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      11,
+      12,
+      15,
+      16
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      11,
+      12,
+      15,
+      16
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      1,
+      2
+    ],
+    "5": [
+      3
+    ],
+    "6": [
+      0,
+      3
+    ],
+    "7": [
+      0,
+      3,
+      4,
+      6,
+      8,
+      11,
+      12
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      11,
+      12,
+      15,
+      16
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      11,
+      12,
+      15,
+      16
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cut",
+      "lamb",
+      "into",
+      "1inch",
+      "cubes",
+      "and",
+      "place",
+      "in",
+      "bowl",
+      "with",
+      "red",
+      "wine",
+      "and",
+      "rosemary",
+      "and",
+      "toss",
+      "to",
+      "coat",
+      "."
+    ],
+    "1": [
+      "let",
+      "stand",
+      "six",
+      "hours",
+      ",",
+      "covered",
+      "and",
+      "refrigerated",
+      "."
+    ],
+    "10": [
+      "lower",
+      "heat",
+      "to",
+      "simmer",
+      "for",
+      "2",
+      "hours",
+      "."
+    ],
+    "11": [
+      "season",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "and",
+      "serve",
+      "in",
+      "cazuela",
+      "."
+    ],
+    "12": [
+      "meat",
+      "needs",
+      "6",
+      "hours",
+      "to",
+      "marinate"
+    ],
+    "2": [
+      "remove",
+      "lamb",
+      "and",
+      "pat",
+      "dry",
+      "."
+    ],
+    "3": [
+      "save",
+      "marinade",
+      "."
+    ],
+    "4": [
+      "season",
+      "lamb",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "5": [
+      "in",
+      "a",
+      "14",
+      "inch",
+      "cazuela",
+      ",",
+      "heat",
+      "oil",
+      "until",
+      "smoking",
+      "."
+    ],
+    "6": [
+      "brown",
+      "meat",
+      "well",
+      "on",
+      "all",
+      "sides",
+      ",",
+      "5",
+      "to",
+      "6",
+      "pieces",
+      "at",
+      "a",
+      "time",
+      "."
+    ],
+    "7": [
+      "remove",
+      "meat",
+      "and",
+      "add",
+      "onions",
+      ",",
+      "garlic",
+      ",",
+      "chilis",
+      ",",
+      "pimento",
+      "and",
+      "paprika",
+      "and",
+      "cook",
+      "until",
+      "softened",
+      ",",
+      "about",
+      "10",
+      "to",
+      "12",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "add",
+      "tomatoes",
+      ",",
+      "wine",
+      "and",
+      "strained",
+      "marinade",
+      "and",
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "9": [
+      "add",
+      "lamb",
+      "pieces",
+      "and",
+      "return",
+      "to",
+      "boil",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "toss",
+      "cut",
+      "place"
+    ],
+    "1": [
+      "refrigerate",
+      "cover"
+    ],
+    "10": [
+      "lower",
+      "simmer"
+    ],
+    "11": [
+      "season",
+      "serve"
+    ],
+    "12": [
+      "marinate"
+    ],
+    "2": [
+      "pat",
+      "remove"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "heat"
+    ],
+    "6": [
+      "brown"
+    ],
+    "7": [
+      "cook",
+      "add",
+      "remove"
+    ],
+    "8": [
+      "add",
+      "boil"
+    ],
+    "9": [
+      "add",
+      "return"
+    ]
+  }
+}

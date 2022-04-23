@@ -1,0 +1,316 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "location": [
+        "plate"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "pad woon sen",
+  "ingredient_list": [
+    "shimizu",
+    "oil",
+    "shrimp",
+    "garlic",
+    "bean",
+    "LRB",
+    "carrot",
+    "corn",
+    "soy_sauce",
+    "sai",
+    "sugar",
+    "fish_sauce",
+    "taste",
+    "green_onions_cut",
+    "piece",
+    "white",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      1,
+      3
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ],
+    "2": [
+      1,
+      2,
+      3
+    ],
+    "3": [
+      7,
+      1,
+      6
+    ],
+    "4": [
+      7,
+      1,
+      6
+    ],
+    "5": [
+      7,
+      1,
+      4,
+      6
+    ],
+    "7": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      15
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      15
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "wok",
+      "or",
+      "a",
+      "large",
+      "fry",
+      "pan",
+      ",",
+      "brown",
+      "garlic",
+      "in",
+      "1",
+      "tbsp",
+      "of",
+      "oil",
+      "over",
+      "high",
+      "heat",
+      "."
+    ],
+    "1": [
+      "add",
+      "shrimps",
+      "and",
+      "saute",
+      "until",
+      "cooked",
+      "-lrb-",
+      "about",
+      "2",
+      "mins",
+      "-rrb-",
+      "."
+    ],
+    "2": [
+      "transfer",
+      "the",
+      "shrimps",
+      "to",
+      "a",
+      "plate",
+      "and",
+      "set",
+      "aside",
+      "."
+    ],
+    "3": [
+      "heat",
+      "the",
+      "rest",
+      "of",
+      "the",
+      "oil",
+      "and",
+      "add",
+      "all",
+      "the",
+      "vegetables",
+      "except",
+      "the",
+      "green",
+      "onions",
+      "."
+    ],
+    "4": [
+      "saute",
+      "for",
+      "2-3",
+      "mins",
+      "."
+    ],
+    "5": [
+      "stir",
+      "in",
+      "the",
+      "bean",
+      "threads",
+      "and",
+      "mix",
+      "well",
+      "."
+    ],
+    "6": [
+      "add",
+      "a",
+      "little",
+      "water",
+      "if",
+      "necessary",
+      "."
+    ],
+    "7": [
+      "return",
+      "the",
+      "shrimps",
+      "to",
+      "the",
+      "mixture",
+      ",",
+      "add",
+      "seasonings",
+      "and",
+      "mix",
+      "well",
+      "."
+    ],
+    "8": [
+      "sprinkle",
+      "green",
+      "onions",
+      "and",
+      "heat",
+      "through",
+      "."
+    ],
+    "9": [
+      "serve",
+      "hot",
+      "--",
+      "alone",
+      "or",
+      "with",
+      "rice",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "saute",
+      "add"
+    ],
+    "2": [
+      "set"
+    ],
+    "3": [
+      "add",
+      "heat"
+    ],
+    "4": [
+      "saute"
+    ],
+    "5": [
+      "mix",
+      "stir"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "mix",
+      "add",
+      "return"
+    ],
+    "8": [
+      "sprinkle",
+      "heat"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

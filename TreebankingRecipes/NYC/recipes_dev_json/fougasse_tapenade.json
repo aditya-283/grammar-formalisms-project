@@ -1,0 +1,465 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "mixer",
+        "bowl"
+      ]
+    },
+    "10": {
+      "location": [
+        "sheet"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "13": {
+      "location": [
+        "platter"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "mixer",
+        "bowl"
+      ]
+    },
+    "6": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "9": {
+      "shape": [
+        "hit",
+        "molded"
+      ]
+    }
+  },
+  "id": "fougasse tapenade",
+  "ingredient_list": [
+    "dry",
+    "sugar",
+    "water",
+    "olive_oil",
+    "flour",
+    "rosemary",
+    "leaf",
+    "milk",
+    "cheese",
+    "salt",
+    "black",
+    "pepper",
+    "basic"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10,
+      12
+    ],
+    "2": [
+      7,
+      4,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "large",
+      "mixing",
+      "bowl",
+      "from",
+      "a",
+      "standing",
+      "electric",
+      "mixer",
+      ",",
+      "stir",
+      "together",
+      "yeast",
+      ",",
+      "sugar",
+      ",",
+      "water",
+      "and",
+      "oil",
+      "until",
+      "yeast",
+      "dissolves",
+      "."
+    ],
+    "1": [
+      "allow",
+      "to",
+      "stand",
+      "at",
+      "room",
+      "temperature",
+      "for",
+      "20",
+      "minutes",
+      "."
+    ],
+    "10": [
+      "roll",
+      "into",
+      "a",
+      "rectangle",
+      "about",
+      "1/2-inch",
+      "thick",
+      "and",
+      "place",
+      "on",
+      "an",
+      "oiled",
+      "cookie",
+      "sheet",
+      "."
+    ],
+    "11": [
+      "poke",
+      "uniform",
+      "indentations",
+      "into",
+      "dough",
+      ",",
+      "brush",
+      "with",
+      "oil",
+      "and",
+      "dust",
+      "with",
+      "sea",
+      "salt",
+      "and",
+      "black",
+      "pepper",
+      "."
+    ],
+    "12": [
+      "bake",
+      "until",
+      "dark",
+      "golden",
+      "brown",
+      ",",
+      "or",
+      "about",
+      "25",
+      "to",
+      "30",
+      "minutes",
+      "."
+    ],
+    "13": [
+      "remove",
+      "and",
+      "serve",
+      "with",
+      "tapenade",
+      "."
+    ],
+    "2": [
+      "mix",
+      "together",
+      "flour",
+      ",",
+      "rosemary",
+      "and",
+      "grated",
+      "cheese",
+      "."
+    ],
+    "3": [
+      "place",
+      "mixing",
+      "bowl",
+      "on",
+      "mixer",
+      "with",
+      "dough",
+      "hook",
+      "or",
+      "paddle",
+      "and",
+      "turn",
+      "on",
+      "low",
+      "."
+    ],
+    "4": [
+      "slowly",
+      "add",
+      "flour",
+      "mixture",
+      "until",
+      "all",
+      "is",
+      "in",
+      "and",
+      "mix",
+      "until",
+      "a",
+      "firm",
+      ",",
+      "smooth",
+      "dough",
+      "is",
+      "formed",
+      "."
+    ],
+    "5": [
+      "preheat",
+      "oven",
+      "to",
+      "400",
+      "degrees",
+      "f."
+    ],
+    "6": [
+      "pull",
+      "dough",
+      "out",
+      "and",
+      "knead",
+      "5",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "place",
+      "in",
+      "a",
+      "bowl",
+      "rubbed",
+      "with",
+      "olive",
+      "oil",
+      "and",
+      "cover",
+      "with",
+      "a",
+      "kitchen",
+      "towel",
+      "."
+    ],
+    "8": [
+      "allow",
+      "to",
+      "stand",
+      "in",
+      "a",
+      "warm",
+      "place",
+      "until",
+      "doubled",
+      "in",
+      "size",
+      ",",
+      "about",
+      "1",
+      "hour",
+      "."
+    ],
+    "9": [
+      "punch",
+      "down",
+      "in",
+      "bowl",
+      ",",
+      "remove",
+      "and",
+      "knead",
+      "2",
+      "turns",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "mix",
+      "stir"
+    ],
+    "1": [
+      "stand"
+    ],
+    "10": [
+      "place",
+      "roll"
+    ],
+    "11": [
+      "dust",
+      "poke",
+      "brush"
+    ],
+    "12": [
+      "bake"
+    ],
+    "13": [
+      "serve",
+      "remove"
+    ],
+    "2": [
+      "mix"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "mix",
+      "add"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "pull",
+      "knead"
+    ],
+    "7": [
+      "cover",
+      "place"
+    ],
+    "8": [
+      "stand"
+    ],
+    "9": [
+      "knead",
+      "punch",
+      "remove"
+    ]
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "events": {
+    "1": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "11": {
+      "location": [
+        "unknown"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "13": {
+      "location": [
+        "plate"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "location": [
+        "dish"
+      ]
+    },
+    "9": {
+      "location": [
+        "dish"
+      ]
+    }
+  },
+  "id": "caramelized coffee flan",
+  "ingredient_list": [
+    "sugar",
+    "eggs",
+    "egg_yolk",
+    "milk",
+    "milk",
+    "coffee"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "southwest",
+      "cooks",
+      "!"
+    ],
+    "1": [
+      "place",
+      "sugar",
+      "in",
+      "a",
+      "small",
+      "heavy",
+      "saucepan",
+      "."
+    ],
+    "10": [
+      "for",
+      "55",
+      "minutes",
+      "or",
+      "until",
+      "a",
+      "knife",
+      "inserted",
+      "near",
+      "center",
+      "of",
+      "flan",
+      "comes",
+      "out",
+      "clean",
+      "."
+    ],
+    "11": [
+      "remove",
+      "pan",
+      "from",
+      "water",
+      ",",
+      "and",
+      "let",
+      "cool",
+      "."
+    ],
+    "12": [
+      "cover",
+      "and",
+      "chill",
+      "at",
+      "least",
+      "8",
+      "hours",
+      "."
+    ],
+    "13": [
+      "to",
+      "serve",
+      ",",
+      "loosen",
+      "edge",
+      "of",
+      "custard",
+      "with",
+      "a",
+      "spatula",
+      ",",
+      "and",
+      "invert",
+      "onto",
+      "a",
+      "serving",
+      "plate",
+      "."
+    ],
+    "2": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "stirring",
+      "constantly",
+      "with",
+      "a",
+      "wooden",
+      "spoon",
+      ",",
+      "until",
+      "sugar",
+      "crystallizes",
+      "into",
+      "lumps",
+      "-lrb-",
+      "about",
+      "15",
+      "minutes",
+      "-rrb-",
+      "."
+    ],
+    "3": [
+      "continue",
+      "cooking",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "until",
+      "sugar",
+      "melts",
+      "and",
+      "turns",
+      "a",
+      "light",
+      "golden",
+      "brown",
+      "-lrb-",
+      "about",
+      "15",
+      "minutes",
+      "-rrb-",
+      "."
+    ],
+    "4": [
+      "quickly",
+      "pour",
+      "hot",
+      "caramel",
+      "mixture",
+      "into",
+      "an",
+      "ungreased",
+      "8-inch",
+      "round",
+      "cakepan",
+      ",",
+      "tilting",
+      "to",
+      "coat",
+      "bottom",
+      "evenly",
+      "."
+    ],
+    "5": [
+      "combine",
+      "eggs",
+      "and",
+      "remaining",
+      "ingredients",
+      "in",
+      "a",
+      "large",
+      "bowl",
+      ";"
+    ],
+    "6": [
+      "beat",
+      "with",
+      "a",
+      "wire",
+      "whisk",
+      "until",
+      "coffee",
+      "granules",
+      "dissolve",
+      "."
+    ],
+    "7": [
+      "pour",
+      "egg",
+      "mixture",
+      "over",
+      "caramelized",
+      "sugar",
+      "in",
+      "cakepan",
+      "."
+    ],
+    "8": [
+      "place",
+      "cakepan",
+      "in",
+      "a",
+      "large",
+      "shallow",
+      "baking",
+      "dish",
+      "."
+    ],
+    "9": [
+      "pour",
+      "hot",
+      "water",
+      "into",
+      "outer",
+      "baking",
+      "dish",
+      "to",
+      "a",
+      "depth",
+      "of",
+      "1-inch",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "place"
+    ],
+    "10": [
+      "insert"
+    ],
+    "11": [
+      "remove",
+      "cool"
+    ],
+    "12": [
+      "cover",
+      "chill"
+    ],
+    "13": [
+      "serve"
+    ],
+    "2": [
+      "cook",
+      "stir"
+    ],
+    "3": [
+      "melt",
+      "cook",
+      "stir"
+    ],
+    "4": [
+      "coat",
+      "pour"
+    ],
+    "5": [
+      "combine"
+    ],
+    "6": [
+      "beat"
+    ],
+    "7": [
+      "caramelize",
+      "pour",
+      "sugar"
+    ],
+    "8": [
+      "place"
+    ],
+    "9": [
+      "pour"
+    ]
+  }
+}

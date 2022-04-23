@@ -1,0 +1,333 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "3": {
+      "location": [
+        "board"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "4": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "5": {
+      "location": [
+        "sheet"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "ginger bears",
+  "ingredient_list": [
+    "butter",
+    "baking_powder",
+    "sugar",
+    "ginger",
+    "white_flour",
+    "syrup",
+    "flour",
+    "sweet"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "set",
+      "the",
+      "oven",
+      "to",
+      "180",
+      "c",
+      "-lrb-",
+      "350",
+      "f",
+      ",",
+      "gas",
+      "mark",
+      "4",
+      "-rrb-",
+      "and",
+      "line",
+      "two",
+      "large",
+      "baking",
+      "sheets",
+      "with",
+      "nonstick",
+      "paper",
+      "."
+    ],
+    "1": [
+      "put",
+      "the",
+      "butter",
+      "or",
+      "margarine",
+      "into",
+      "a",
+      "bowl",
+      "with",
+      "the",
+      "caster",
+      "sugar",
+      "and",
+      "beat",
+      "together",
+      "until",
+      "they",
+      "are",
+      "light",
+      "and",
+      "creamy",
+      "."
+    ],
+    "2": [
+      "add",
+      "the",
+      "flours",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "ginger",
+      "and",
+      "syrup",
+      ",",
+      "and",
+      "beat",
+      "again",
+      "to",
+      "make",
+      "a",
+      "dough",
+      "."
+    ],
+    "3": [
+      "on",
+      "a",
+      "lightly",
+      "floured",
+      "board",
+      ",",
+      "roll",
+      "out",
+      "the",
+      "dough",
+      "to",
+      "2",
+      "."
+    ],
+    "4": [
+      "5",
+      "mm",
+      "-lrb-",
+      "1/8",
+      "inch",
+      "-rrb-",
+      ",",
+      "then",
+      "cut",
+      "into",
+      "teddy",
+      "bears",
+      "."
+    ],
+    "5": [
+      "put",
+      "the",
+      "biscuits",
+      "on",
+      "the",
+      "baking",
+      "sheets",
+      "--",
+      "they",
+      "wo",
+      "n't",
+      "spread",
+      "much",
+      "."
+    ],
+    "6": [
+      "bake",
+      "for",
+      "about",
+      "10",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "the",
+      "biscuits",
+      "look",
+      "golden",
+      "brown",
+      ",",
+      "set",
+      "and",
+      "are",
+      "browning",
+      "a",
+      "little",
+      "more",
+      "at",
+      "the",
+      "edges",
+      "."
+    ],
+    "7": [
+      "leave",
+      "to",
+      "cool",
+      "on",
+      "the",
+      "sheets",
+      ",",
+      "then",
+      "decorate",
+      ",",
+      "using",
+      "glace",
+      "icing",
+      ",",
+      "little",
+      "sweets",
+      ",",
+      "hundreds",
+      "of",
+      "thousands",
+      ",",
+      "some",
+      "melted",
+      "chocolate",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "put",
+      "beat"
+    ],
+    "2": [
+      "beat",
+      "add"
+    ],
+    "3": [
+      "roll"
+    ],
+    "4": [
+      "cut"
+    ],
+    "5": [
+      "put",
+      "spread"
+    ],
+    "6": [
+      "bake"
+    ],
+    "7": [
+      "leave",
+      "decorate"
+    ]
+  }
+}

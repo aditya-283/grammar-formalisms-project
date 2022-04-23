@@ -1,0 +1,332 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "boiler",
+        "microwave"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "mixer"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "oven"
+      ]
+    }
+  },
+  "id": "dirty snowballs",
+  "ingredient_list": [
+    "vegetable_oil",
+    "sugar",
+    "chocolate",
+    "eggs",
+    "vanilla",
+    "baking_powder",
+    "flour",
+    "sugar"
+  ],
+  "ingredients": {
+    "0": [
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "melt",
+      "chocolate",
+      "in",
+      "double",
+      "boiler",
+      "or",
+      "microwave",
+      "."
+    ],
+    "1": [
+      "combine",
+      "melted",
+      "chocolate",
+      ",",
+      "granulated",
+      "sugar",
+      ",",
+      "vanilla",
+      "and",
+      "vegetable",
+      "oil",
+      "in",
+      "a",
+      "mixer",
+      "."
+    ],
+    "10": [
+      "moderate",
+      "."
+    ],
+    "11": [
+      "30",
+      "minutes",
+      "preparation",
+      ",",
+      "overnight",
+      "chilling",
+      ",",
+      "20",
+      "minutes",
+      "baking",
+      "and",
+      "cooling",
+      "."
+    ],
+    "12": [
+      "measure",
+      "the",
+      "ingredients",
+      "."
+    ],
+    "2": [
+      "add",
+      "eggs",
+      ",",
+      "one",
+      "at",
+      "a",
+      "time",
+      ",",
+      "blending",
+      "well",
+      "each",
+      "time",
+      "."
+    ],
+    "3": [
+      "sift",
+      "-lrb-",
+      "or",
+      "stir",
+      "-rrb-",
+      "together",
+      "flour",
+      "and",
+      "baking",
+      "powder",
+      ",",
+      "add",
+      "to",
+      "wet",
+      "mixture",
+      "."
+    ],
+    "4": [
+      "mix",
+      "well",
+      "."
+    ],
+    "5": [
+      "let",
+      "stand",
+      "in",
+      "refrigerator",
+      "for",
+      "a",
+      "few",
+      "hours",
+      "or",
+      "overnight",
+      "."
+    ],
+    "6": [
+      "roll",
+      "dough",
+      "into",
+      "small",
+      "balls",
+      "-lrb-",
+      "no",
+      "more",
+      "than",
+      "about",
+      "1",
+      "inch",
+      "in",
+      "diameter",
+      "-rrb-",
+      ",",
+      "and",
+      "roll",
+      "in",
+      "powdered",
+      "sugar",
+      "until",
+      "coated",
+      "."
+    ],
+    "7": [
+      "oven",
+      "."
+    ],
+    "8": [
+      "handed",
+      "down",
+      "to",
+      "me",
+      "from",
+      "my",
+      "step-sister",
+      "who",
+      "got",
+      "it",
+      "from",
+      "her",
+      "mother",
+      "."
+    ],
+    "9": [
+      "wo",
+      "n't",
+      "bake",
+      "properly",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "combine"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add",
+      "blend"
+    ],
+    "3": [
+      "add",
+      "stir"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "stand"
+    ],
+    "6": [
+      "roll"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

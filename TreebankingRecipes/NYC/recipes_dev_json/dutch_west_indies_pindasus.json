@@ -1,0 +1,318 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "mortar",
+        "pestle"
+      ],
+      "shape": [
+        "hit"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "location": [
+        "glass",
+        "jar"
+      ]
+    }
+  },
+  "id": "dutch west indies pindasus",
+  "ingredient_list": [
+    "onion",
+    "see",
+    "garlic",
+    "tbs",
+    "sambal",
+    "soy_sauce",
+    "peanut_butter",
+    "white_vinegar",
+    "tamarind_water",
+    "chicken"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      2,
+      4
+    ],
+    "2": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "3": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "-lrb-",
+      "indonesian-style",
+      "peanut",
+      "sauce",
+      "-rrb-"
+    ],
+    "1": [
+      "place",
+      "the",
+      "onion",
+      ",",
+      "garlic",
+      ",",
+      "and",
+      "sambal",
+      "in",
+      "a",
+      "mortar",
+      "and",
+      "pestle",
+      "and",
+      "pound",
+      "to",
+      "a",
+      "smooth",
+      "paste",
+      "."
+    ],
+    "10": [
+      "if",
+      "unavailable",
+      ",",
+      "substitute",
+      "equal",
+      "parts",
+      "regular",
+      "soy",
+      "sauce",
+      "and",
+      "molasses",
+      "."
+    ],
+    "2": [
+      "stir",
+      "in",
+      "the",
+      "peanut",
+      "butter",
+      ",",
+      "followed",
+      "by",
+      "the",
+      "remaining",
+      "ingredients",
+      "."
+    ],
+    "3": [
+      "transfer",
+      "the",
+      "mixture",
+      "to",
+      "a",
+      "heavy",
+      "saucepan",
+      "."
+    ],
+    "4": [
+      "place",
+      "the",
+      "pan",
+      "over",
+      "medium",
+      "heat",
+      "and",
+      "gently",
+      "simmer",
+      "the",
+      "sauce",
+      "for",
+      "5",
+      "min",
+      "or",
+      "until",
+      "well",
+      "flavored",
+      ",",
+      "adding",
+      "more",
+      "water",
+      "as",
+      "necessary",
+      "to",
+      "make",
+      "a",
+      "thick",
+      "but",
+      "pourable",
+      "sauce",
+      "."
+    ],
+    "5": [
+      "transfer",
+      "the",
+      "sauce",
+      "to",
+      "a",
+      "clear",
+      "glass",
+      "jar",
+      "."
+    ],
+    "6": [
+      "traditionally",
+      "served",
+      "with",
+      "pork",
+      "and",
+      "chicken",
+      "satays",
+      ",",
+      "but",
+      "it",
+      "'s",
+      "also",
+      "delicious",
+      "as",
+      "a",
+      "salad",
+      "dressing",
+      "or",
+      "a",
+      "dip",
+      "for",
+      "raw",
+      "or",
+      "steamed",
+      "vegetables",
+      "."
+    ],
+    "7": [
+      "sambal",
+      "ulek",
+      "is",
+      "a",
+      "fiery",
+      "paste",
+      "made",
+      "of",
+      "red",
+      "peppers",
+      "."
+    ],
+    "8": [
+      "if",
+      "unavailable",
+      ",",
+      "substitute",
+      "vietnamese",
+      "or",
+      "thai",
+      "chili",
+      "paste",
+      "."
+    ],
+    "9": [
+      "kejap",
+      "manis",
+      "is",
+      "a",
+      "thick",
+      ",",
+      "sweet",
+      "soy",
+      "sauce",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "pound",
+      "place"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "add",
+      "place",
+      "simmer"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

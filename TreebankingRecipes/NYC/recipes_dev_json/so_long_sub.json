@@ -1,0 +1,342 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "location": [
+        "top"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "11": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "shell"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "location": [
+        "rack",
+        "broiler",
+        "pan"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "so long sub",
+  "ingredient_list": [
+    "basil_leaf",
+    "olive_oil",
+    "white_vinegar",
+    "bread",
+    "mozzarella_cheese",
+    "pastrami",
+    "plum_tomato",
+    "pepper"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "2": [
+      3
+    ],
+    "3": [
+      3
+    ],
+    "4": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "set",
+      "oven",
+      "to",
+      "broil",
+      "."
+    ],
+    "1": [
+      "combine",
+      "basil",
+      ",",
+      "oil",
+      ",",
+      "and",
+      "vinegar",
+      "."
+    ],
+    "10": [
+      "top",
+      "with",
+      "bread",
+      "top",
+      "and",
+      "cut",
+      "crosswise",
+      "to",
+      "serve",
+      "."
+    ],
+    "11": [
+      "-lrb-",
+      "cut",
+      "into",
+      "4",
+      "pieces",
+      "."
+    ],
+    "2": [
+      "slice",
+      "bread",
+      "in",
+      "half",
+      ",",
+      "lengthwise",
+      "."
+    ],
+    "3": [
+      "using",
+      "a",
+      "spoon",
+      ",",
+      "hollow",
+      "out",
+      "the",
+      "bottom",
+      "half",
+      "of",
+      "the",
+      "bread",
+      "."
+    ],
+    "4": [
+      "layer",
+      "half",
+      "the",
+      "cheese",
+      ",",
+      "all",
+      "the",
+      "pastrami",
+      ",",
+      "and",
+      "the",
+      "tomatoes",
+      "in",
+      "the",
+      "bread",
+      "shell",
+      "."
+    ],
+    "5": [
+      "top",
+      "with",
+      "basil",
+      "mixture",
+      "."
+    ],
+    "6": [
+      "sprinkle",
+      "with",
+      "pepper",
+      "."
+    ],
+    "7": [
+      "top",
+      "with",
+      "remaining",
+      "cheese",
+      "."
+    ],
+    "8": [
+      "place",
+      "on",
+      "unheated",
+      "rack",
+      "of",
+      "a",
+      "broiler",
+      "pan",
+      "."
+    ],
+    "9": [
+      "broil",
+      ",",
+      "3",
+      "to",
+      "4",
+      "inches",
+      "from",
+      "heat",
+      "for",
+      "2",
+      "to",
+      "3",
+      "minutes",
+      "or",
+      "until",
+      "cheese",
+      "has",
+      "melted",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "combine"
+    ],
+    "10": [
+      "top",
+      "cut"
+    ],
+    "11": [
+      "cut"
+    ],
+    "2": [
+      "slice"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "top"
+    ],
+    "6": [
+      "sprinkle"
+    ],
+    "7": [
+      "top"
+    ],
+    "8": [
+      "place"
+    ],
+    "9": [
+      "broil",
+      "melt"
+    ]
+  }
+}

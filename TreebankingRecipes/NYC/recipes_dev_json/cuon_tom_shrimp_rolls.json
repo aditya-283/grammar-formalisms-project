@@ -1,0 +1,304 @@
+{
+  "events": {
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "3": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "paper"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "shape": [
+        "molded"
+      ]
+    }
+  },
+  "id": "cuon tom shrimp rolls",
+  "ingredient_list": [
+    "medium_shrimp",
+    "bean_sprout",
+    "rice",
+    "head",
+    "trimmed",
+    "pineapple"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      2,
+      3
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "version",
+      "of",
+      "the",
+      "shrimp",
+      "rolls",
+      "we",
+      "ate",
+      "in",
+      "the",
+      "delta",
+      "."
+    ],
+    "1": [
+      "cook",
+      "shrimp",
+      "in",
+      "salted",
+      ",",
+      "boiling",
+      "water",
+      "for",
+      "2",
+      "to",
+      "3",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "pink",
+      "and",
+      "firm",
+      "to",
+      "the",
+      "touch",
+      "."
+    ],
+    "10": [
+      "213",
+      "cal",
+      "."
+    ],
+    "11": [
+      "173",
+      "g",
+      "cholesterol"
+    ],
+    "2": [
+      "drain",
+      "and",
+      "cool",
+      "."
+    ],
+    "3": [
+      "peel",
+      "and",
+      "devein",
+      "shrimp",
+      ",",
+      "or",
+      "serve",
+      "them",
+      "in",
+      "their",
+      "shells",
+      "and",
+      "let",
+      "diners",
+      "peel",
+      "them",
+      "at",
+      "the",
+      "table",
+      "."
+    ],
+    "4": [
+      "blanch",
+      "bean",
+      "sprouts",
+      "in",
+      "boiling",
+      "water",
+      "for",
+      "1",
+      "minute",
+      "."
+    ],
+    "5": [
+      "drain",
+      "and",
+      "refresh",
+      "with",
+      "cold",
+      "water",
+      "."
+    ],
+    "6": [
+      "moisten",
+      "rice",
+      "papers",
+      "in",
+      "warm",
+      "water",
+      "for",
+      "10",
+      "to",
+      "20",
+      "seconds",
+      ",",
+      "or",
+      "until",
+      "softened",
+      "."
+    ],
+    "7": [
+      "place",
+      "a",
+      "lettuce",
+      "leaf",
+      "inside",
+      "each",
+      "piece",
+      "of",
+      "softened",
+      "rice",
+      "paper",
+      "."
+    ],
+    "8": [
+      "fill",
+      "with",
+      "a",
+      "few",
+      "shrimp",
+      ",",
+      "a",
+      "little",
+      "pineapple",
+      ",",
+      "bean",
+      "sprouts",
+      ",",
+      "tomato",
+      ",",
+      "cilantro",
+      "and/or",
+      "mint",
+      "."
+    ],
+    "9": [
+      "roll",
+      "up",
+      "the",
+      "bundles",
+      "and",
+      "serve",
+      "with",
+      "nuoc",
+      "cham",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "cook"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "drain",
+      "cool"
+    ],
+    "3": [
+      "serve",
+      "devein",
+      "peel"
+    ],
+    "4": [
+      "blanch"
+    ],
+    "5": [
+      "drain",
+      "refresh"
+    ],
+    "6": [
+      "moisten"
+    ],
+    "7": [
+      "place"
+    ],
+    "8": [
+      "fill"
+    ],
+    "9": [
+      "serve",
+      "roll"
+    ]
+  }
+}

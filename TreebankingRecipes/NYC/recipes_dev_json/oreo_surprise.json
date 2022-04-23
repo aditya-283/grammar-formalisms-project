@@ -1,0 +1,450 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "10": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "2": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "3": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "location": [
+        "mixer"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top",
+        "pan"
+      ]
+    }
+  },
+  "id": "oreo surprise",
+  "ingredient_list": [
+    "oreo_cookies",
+    "margarine",
+    "sugar",
+    "cream_cheese",
+    "whip",
+    "chocolate_pudding"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      1
+    ],
+    "4": [
+      2,
+      3,
+      4
+    ],
+    "5": [
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "crush",
+      "entire",
+      "package",
+      "of",
+      "oreos",
+      "to",
+      "fine",
+      "consistancy",
+      "-lrb-",
+      "potato",
+      "masher",
+      "works",
+      "fine",
+      "for",
+      "this",
+      "-rrb-",
+      "."
+    ],
+    "1": [
+      "saving",
+      "out",
+      "1/2",
+      "cup",
+      "of",
+      "oreo",
+      "crumbs",
+      "for",
+      "later",
+      "use",
+      ",",
+      "mix",
+      "remaining",
+      "crumbs",
+      "and",
+      "melted",
+      "margarine",
+      "and",
+      "press",
+      "in",
+      "bottom",
+      "of",
+      "9",
+      "x",
+      "13",
+      "baking",
+      "pan",
+      "."
+    ],
+    "10": [
+      "return",
+      "to",
+      "refrigerator",
+      "for",
+      "5",
+      "minutes",
+      "."
+    ],
+    "11": [
+      "retrieve",
+      "pan",
+      "from",
+      "refrigerator",
+      "and",
+      "spread",
+      "remaining",
+      "tub",
+      "of",
+      "cool",
+      "whip",
+      "evenly",
+      "over",
+      "pudding",
+      "layer",
+      "."
+    ],
+    "12": [
+      "sprinkle",
+      "1/2",
+      "cup",
+      "of",
+      "oreo",
+      "crumbs",
+      "-lrb-",
+      "set",
+      "aside",
+      "earlier",
+      "-rrb-",
+      "over",
+      "top",
+      "of",
+      "cool",
+      "whip",
+      "layer",
+      "."
+    ],
+    "13": [
+      "refrigerate",
+      "until",
+      "served",
+      "."
+    ],
+    "14": [
+      "for",
+      "best",
+      "results",
+      ",",
+      "make",
+      "the",
+      "night",
+      "before",
+      "."
+    ],
+    "2": [
+      "tamp",
+      "firmly",
+      "with",
+      "spoon",
+      "or",
+      "spatula",
+      "."
+    ],
+    "3": [
+      "place",
+      "in",
+      "refrigerator",
+      "for",
+      "5",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "in",
+      "large",
+      "mixing",
+      "bowl",
+      ",",
+      "combine",
+      "confectioner",
+      "'s",
+      "sugar",
+      ",",
+      "cream",
+      "cheese",
+      "and",
+      "one",
+      "-lrb-",
+      "1",
+      "-rrb-",
+      "tub",
+      "of",
+      "cool",
+      "whip",
+      "."
+    ],
+    "5": [
+      "beat",
+      "with",
+      "electric",
+      "mixer",
+      "until",
+      "thoroughly",
+      "mixed",
+      "."
+    ],
+    "6": [
+      "retrieve",
+      "pan",
+      "from",
+      "refrigerator",
+      ",",
+      "spread",
+      "cream",
+      "cheese/cool",
+      "whip/sugar",
+      "mixture",
+      "evenly",
+      "over",
+      "oreo",
+      "crust",
+      "."
+    ],
+    "7": [
+      "return",
+      "to",
+      "refrigerator",
+      "."
+    ],
+    "8": [
+      "prepare",
+      "both",
+      "boxes",
+      "of",
+      "chocolate",
+      "pudding",
+      "according",
+      "to",
+      "package",
+      "directions",
+      "."
+    ],
+    "9": [
+      "then",
+      "quickly",
+      "retrieve",
+      "pan",
+      "from",
+      "refrigerator",
+      "and",
+      "spread",
+      "over",
+      "top",
+      "of",
+      "previous",
+      "layer",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "crush"
+    ],
+    "1": [
+      "press",
+      "mix"
+    ],
+    "10": [
+      "return"
+    ],
+    "11": [
+      "spread"
+    ],
+    "12": [
+      "sprinkle",
+      "set"
+    ],
+    "13": [
+      "refrigerate"
+    ],
+    "14": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "tamp"
+    ],
+    "3": [
+      "place"
+    ],
+    "4": [
+      "combine"
+    ],
+    "5": [
+      "beat"
+    ],
+    "6": [
+      "spread"
+    ],
+    "7": [
+      "return"
+    ],
+    "8": [
+      "prepare"
+    ],
+    "9": [
+      "spread"
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "location": [
+        "processor",
+        "blender"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "bowl"
+      ]
+    }
+  },
+  "id": "nippy apple cheddar soup",
+  "ingredient_list": [
+    "butter",
+    "apple",
+    "carrot",
+    "onion",
+    "cloves_garlic",
+    "ginger",
+    "mustard",
+    "curry_powder",
+    "chicken_broth",
+    "apple_cider",
+    "salt",
+    "pepper",
+    "cheddar_cheese"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "large",
+      "saucepan",
+      ",",
+      "melt",
+      "butter",
+      "over",
+      "medium",
+      "heat",
+      "."
+    ],
+    "1": [
+      "add",
+      "apples",
+      ",",
+      "carrots",
+      ",",
+      "onion",
+      ",",
+      "garlic",
+      ",",
+      "ginger",
+      ",",
+      "curry",
+      "powder",
+      "and",
+      "mustard",
+      ";"
+    ],
+    "10": [
+      "sprinke",
+      "each",
+      "serving",
+      "with",
+      "1/4",
+      "cup",
+      "cheddar",
+      "cheese",
+      "."
+    ],
+    "2": [
+      "cook",
+      ",",
+      "stirring",
+      "occasionally",
+      "for",
+      "5",
+      "to",
+      "7",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "onion",
+      "begins",
+      "to",
+      "soften",
+      "."
+    ],
+    "3": [
+      "add",
+      "broth",
+      "and",
+      "apple",
+      "cider",
+      ";"
+    ],
+    "4": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "5": [
+      "reduce",
+      "heat",
+      "and",
+      "simmer",
+      "."
+    ],
+    "6": [
+      "partially",
+      "covered",
+      ",",
+      "for",
+      "15",
+      "to",
+      "20",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "vegetables",
+      "are",
+      "very",
+      "tender",
+      "."
+    ],
+    "7": [
+      "in",
+      "a",
+      "food",
+      "processor",
+      "or",
+      "blender",
+      ",",
+      "puree",
+      "till",
+      "smooth",
+      "."
+    ],
+    "8": [
+      "season",
+      "with",
+      "salt",
+      "and",
+      "cayenne",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "9": [
+      "ladle",
+      "into",
+      "four",
+      "bowls",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook",
+      "stir"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "reduce",
+      "simmer"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "puree"
+    ],
+    "8": [
+      "season"
+    ],
+    "9": [
+      "ladle"
+    ]
+  }
+}

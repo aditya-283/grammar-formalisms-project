@@ -1,0 +1,321 @@
+{
+  "events": {
+    "1": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "location": [
+        "plate",
+        "platter"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "blender",
+        "bowl"
+      ]
+    },
+    "8": {
+      "location": [
+        "plate",
+        "platter"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top"
+      ]
+    }
+  },
+  "id": "roasted asparagus salad",
+  "ingredient_list": [
+    "asparagu",
+    "piece",
+    "LRB",
+    "olive_oil",
+    "herbal_salt",
+    "taste",
+    "orange_juice",
+    "lime_juice",
+    "orange_marmalade",
+    "gingerroot",
+    "olive_oil",
+    "romaine_lettuce",
+    "nuts",
+    "almond"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "10": [
+      7,
+      8,
+      9,
+      10,
+      6
+    ],
+    "11": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "12": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "2": [
+      0,
+      3
+    ],
+    "3": [
+      0,
+      3
+    ],
+    "4": [
+      0,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      3,
+      4
+    ],
+    "6": [
+      7,
+      8,
+      9,
+      10,
+      6
+    ],
+    "7": [
+      7,
+      8,
+      9,
+      10,
+      6
+    ],
+    "8": [
+      11
+    ],
+    "9": [
+      0,
+      11,
+      4,
+      3
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "450f",
+      "."
+    ],
+    "1": [
+      "spread",
+      "asparagus",
+      "on",
+      "baking",
+      "sheet",
+      "in",
+      "a",
+      "single",
+      "layer",
+      ";"
+    ],
+    "10": [
+      "whisk",
+      "dressing",
+      "agian",
+      ";"
+    ],
+    "11": [
+      "pour",
+      "over",
+      "salad",
+      "."
+    ],
+    "12": [
+      "garnish",
+      "with",
+      "pine",
+      "nuts",
+      "."
+    ],
+    "13": [
+      "6",
+      "servings",
+      "."
+    ],
+    "2": [
+      "mist",
+      "with",
+      "olive",
+      "oil",
+      "spray",
+      "."
+    ],
+    "3": [
+      "roast",
+      "until",
+      "asparagus",
+      "is",
+      "tender",
+      "when",
+      "pierced",
+      "with",
+      "a",
+      "knife",
+      ",",
+      "10-12",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "season",
+      "with",
+      "herbal",
+      "salt",
+      ";"
+    ],
+    "5": [
+      "set",
+      "aside",
+      "."
+    ],
+    "6": [
+      "in",
+      "blender",
+      "or",
+      "bowl",
+      ",",
+      "mix",
+      "juices",
+      ",",
+      "marmalade",
+      ",",
+      "ginger",
+      "and",
+      "olive",
+      "oil",
+      ";"
+    ],
+    "7": [
+      "process",
+      "until",
+      "well",
+      "blended",
+      "."
+    ],
+    "8": [
+      "arrange",
+      "lettuce",
+      "on",
+      "individual",
+      "plates",
+      "or",
+      "platter",
+      ";"
+    ],
+    "9": [
+      "top",
+      "with",
+      "asparagus",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "spread",
+      "bake"
+    ],
+    "10": [
+      "whisk"
+    ],
+    "11": [
+      "pour"
+    ],
+    "12": [
+      "garnish"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "roast"
+    ],
+    "4": [
+      "season"
+    ],
+    "5": [
+      "set"
+    ],
+    "6": [
+      "mix"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "arrange"
+    ],
+    "9": [
+      "top"
+    ]
+  }
+}

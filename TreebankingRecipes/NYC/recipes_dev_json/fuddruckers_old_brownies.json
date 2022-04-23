@@ -1,0 +1,349 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "fuddruckers old brownies",
+  "ingredient_list": [
+    "pans",
+    "baking_soda",
+    "eggs",
+    "baking_powder",
+    "butter",
+    "salt",
+    "sugar",
+    "bags",
+    "vanilla",
+    "RRB",
+    "bun_flour",
+    "pan",
+    "cocoa"
+  ],
+  "ingredients": {
+    "0": [
+      4,
+      6
+    ],
+    "1": [
+      8,
+      4,
+      6
+    ],
+    "11": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "2": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      12
+    ],
+    "3": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      12
+    ],
+    "4": [
+      7
+    ],
+    "5": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      12
+    ],
+    "6": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      12
+    ],
+    "7": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "8": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "9": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "butter",
+      "&",
+      "sugar",
+      "in",
+      "a",
+      "big",
+      "bowl-mix",
+      "at",
+      "speed",
+      "1",
+      "for",
+      "2-1/2",
+      "minutes",
+      "."
+    ],
+    "1": [
+      "add",
+      "vanilla-mix",
+      "4",
+      "minutes",
+      "at",
+      "speed",
+      "1",
+      "."
+    ],
+    "10": [
+      "in",
+      "10",
+      "minutes",
+      ",",
+      "start",
+      "testing",
+      "with",
+      "toothpick",
+      "."
+    ],
+    "11": [
+      "spread",
+      "evenly",
+      "in",
+      "pan",
+      "before",
+      "baking",
+      "."
+    ],
+    "12": [
+      "per",
+      "joe",
+      "waring"
+    ],
+    "2": [
+      "add",
+      "flour",
+      ",",
+      "cocoa",
+      ",",
+      "soda",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "and",
+      "salt",
+      "."
+    ],
+    "3": [
+      "add",
+      "marshmallows",
+      ";"
+    ],
+    "4": [
+      "mix",
+      "at",
+      "speed",
+      "1",
+      "for",
+      "5",
+      "minutes",
+      ",",
+      "then",
+      "scrape",
+      "bowl",
+      "down",
+      "."
+    ],
+    "5": [
+      "mix",
+      "at",
+      "speed",
+      "2",
+      "for",
+      "10",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "cook",
+      "15",
+      "minutes-drop",
+      "pans",
+      "twice",
+      "to",
+      "get",
+      "rid",
+      "of",
+      "gas",
+      "."
+    ],
+    "7": [
+      "add",
+      "pecans",
+      "on",
+      "top",
+      "of",
+      "pans",
+      ";"
+    ],
+    "8": [
+      "scatter",
+      "around",
+      "."
+    ],
+    "9": [
+      "bake",
+      "10-15",
+      "more",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "spread"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "mix",
+      "scrape"
+    ],
+    "5": [
+      "mix"
+    ],
+    "6": [
+      "cook"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "scatter"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

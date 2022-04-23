@@ -1,0 +1,298 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bed"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan"
+      ]
+    },
+    "6": {
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "\"kitchen sink papers\" chicken breasts",
+  "ingredient_list": [
+    "chicken",
+    "white_wine",
+    "spinach",
+    "white_wine",
+    "rosemary",
+    "butter",
+    "flour",
+    "pepper",
+    "salt"
+  ],
+  "ingredients": {
+    "0": [
+      5
+    ],
+    "1": [
+      7,
+      0,
+      6,
+      8
+    ],
+    "2": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "3": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      3
+    ],
+    "6": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "7": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "heat",
+      "butter",
+      "in",
+      "a",
+      "large",
+      "skillet",
+      "."
+    ],
+    "1": [
+      "dredge",
+      "chicken",
+      "breasts",
+      "in",
+      "flour",
+      "seasoned",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "2": [
+      "put",
+      "the",
+      "chicken",
+      "in",
+      "the",
+      "hot",
+      "pan",
+      "and",
+      "quickly",
+      "saute",
+      ",",
+      "adding",
+      "the",
+      "minced",
+      "rosemary",
+      "and",
+      "the",
+      "wine",
+      "."
+    ],
+    "3": [
+      "cook",
+      "only",
+      "about",
+      "1-1/2",
+      "minutes",
+      "per",
+      "side",
+      ",",
+      "turning",
+      "once",
+      "."
+    ],
+    "4": [
+      "when",
+      "the",
+      "chicken",
+      "has",
+      "turned",
+      "a",
+      "light",
+      "golden",
+      ",",
+      "remove",
+      "from",
+      "pan",
+      "and",
+      "place",
+      "on",
+      "top",
+      "of",
+      "the",
+      "bed",
+      "of",
+      "spinach",
+      "."
+    ],
+    "5": [
+      "deglaze",
+      "the",
+      "pan",
+      "with",
+      "a",
+      "tablespoon",
+      "more",
+      "of",
+      "wine",
+      ";"
+    ],
+    "6": [
+      "pour",
+      "over",
+      "the",
+      "top",
+      "."
+    ],
+    "7": [
+      "cover",
+      "the",
+      "casserole",
+      "with",
+      "a",
+      "lid",
+      "or",
+      "a",
+      "foil",
+      "cover",
+      "and",
+      "bake",
+      "at",
+      "375",
+      "for",
+      "about",
+      "twenty",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "done",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "put",
+      "saute",
+      "add"
+    ],
+    "3": [
+      "cook",
+      "turn"
+    ],
+    "4": [
+      "place",
+      "remove"
+    ],
+    "5": [
+      "deglaze"
+    ],
+    "6": [
+      "pour"
+    ],
+    "7": [
+      "bake",
+      "cover"
+    ]
+  }
+}

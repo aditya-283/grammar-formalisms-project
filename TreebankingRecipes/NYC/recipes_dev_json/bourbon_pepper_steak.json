@@ -1,0 +1,346 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "flat",
+        "dish"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "cast",
+        "iron",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "location": [
+        "plate"
+      ]
+    },
+    "6": {
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    }
+  },
+  "id": "bourbon pepper steak",
+  "ingredient_list": [
+    "peppercorn",
+    "green_peppercorn",
+    "peppercorn",
+    "cut",
+    "steak",
+    "fat",
+    "salt",
+    "olive_oil",
+    "shallot",
+    "bourbon",
+    "veal_stock",
+    "cream",
+    "butter"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "3": [
+      7
+    ],
+    "4": [
+      7
+    ],
+    "5": [
+      7
+    ],
+    "6": [
+      9
+    ],
+    "7": [
+      9
+    ],
+    "8": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "9": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "mix",
+      "the",
+      "various",
+      "peppercorns",
+      "in",
+      "a",
+      "wide",
+      "flat",
+      "dish",
+      "."
+    ],
+    "1": [
+      "coat",
+      "the",
+      "steaks",
+      "with",
+      "the",
+      "cracked",
+      "pepper",
+      "and",
+      "season",
+      "with",
+      "salt",
+      "."
+    ],
+    "2": [
+      "place",
+      "the",
+      "olive",
+      "oil",
+      "in",
+      "a",
+      "cast",
+      "iron",
+      "skillet",
+      "and",
+      "heat",
+      "one",
+      "minute",
+      "before",
+      "adding",
+      "the",
+      "steaks",
+      "."
+    ],
+    "3": [
+      "if",
+      "necessary",
+      "cook",
+      "the",
+      "steaks",
+      "in",
+      "two",
+      "batches",
+      "."
+    ],
+    "4": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      "3",
+      "minutes",
+      "on",
+      "each",
+      "side",
+      "for",
+      "medium",
+      "rare",
+      "."
+    ],
+    "5": [
+      "place",
+      "the",
+      "steaks",
+      "on",
+      "warm",
+      "serving",
+      "plates",
+      "."
+    ],
+    "6": [
+      "drain",
+      "the",
+      "excess",
+      "fat",
+      "from",
+      "the",
+      "pan",
+      "and",
+      "carefully",
+      "add",
+      "the",
+      "bourbon",
+      ",",
+      "away",
+      "from",
+      "the",
+      "heat",
+      "."
+    ],
+    "7": [
+      "reduce",
+      "the",
+      "heat",
+      "to",
+      "low",
+      "and",
+      "reduce",
+      "the",
+      "bourbon",
+      "until",
+      "the",
+      "pan",
+      "is",
+      "nearly",
+      "dry",
+      "."
+    ],
+    "8": [
+      "add",
+      "the",
+      "veal",
+      "stock",
+      ",",
+      "bring",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "cook",
+      "3",
+      "to",
+      "5",
+      "minutes",
+      ",",
+      "and",
+      "finish",
+      "by",
+      "swirling",
+      "the",
+      "heavy",
+      "cream",
+      "and",
+      "butter",
+      "into",
+      "the",
+      "sauce",
+      "."
+    ],
+    "9": [
+      "remove",
+      "from",
+      "the",
+      "heat",
+      "and",
+      "divide",
+      "the",
+      "sauce",
+      "among",
+      "the",
+      "steaks",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "mix"
+    ],
+    "1": [
+      "coat",
+      "season"
+    ],
+    "2": [
+      "heat",
+      "place"
+    ],
+    "3": [
+      "cook"
+    ],
+    "4": [
+      "cook"
+    ],
+    "5": [
+      "place"
+    ],
+    "6": [
+      "add",
+      "drain"
+    ],
+    "7": [
+      "reduce"
+    ],
+    "8": [
+      "swirl",
+      "add"
+    ],
+    "9": [
+      "divide",
+      "remove"
+    ]
+  }
+}

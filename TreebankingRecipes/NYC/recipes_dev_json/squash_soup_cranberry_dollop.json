@@ -1,0 +1,336 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "separated"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "location": [
+        "processor"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan",
+        "oven"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan",
+        "oven"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "squash soup cranberry dollop",
+  "ingredient_list": [
+    "acorn",
+    "turban",
+    "margarine",
+    "onion",
+    "carrot",
+    "vegetable_broth",
+    "salt",
+    "white_pepper",
+    "nutmeg",
+    "milk",
+    "cranberry_sauce"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "11": [
+      0,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      7,
+      8,
+      2,
+      5,
+      6
+    ],
+    "7": [
+      7,
+      8,
+      2,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "9": [
+      0,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cut",
+      "squash",
+      "into",
+      "large",
+      "pieces",
+      "and",
+      "steam",
+      "until",
+      "tender",
+      "."
+    ],
+    "1": [
+      "remove",
+      "cooked",
+      "squash",
+      "from",
+      "shells",
+      ";"
+    ],
+    "10": [
+      "adjust",
+      "seasonings",
+      "as",
+      "necessary",
+      "."
+    ],
+    "11": [
+      "spoon",
+      "2",
+      "tablespoons",
+      "of",
+      "the",
+      "cranberry",
+      "sauce",
+      "in",
+      "the",
+      "center",
+      "of",
+      "each",
+      "bowl",
+      "of",
+      "soup",
+      "."
+    ],
+    "2": [
+      "measure",
+      "4",
+      "cups",
+      "pulp",
+      "and",
+      "reserve",
+      "remainder",
+      "for",
+      "another",
+      "dish",
+      "."
+    ],
+    "3": [
+      "process",
+      "squash",
+      "in",
+      "a",
+      "food",
+      "processor",
+      "with",
+      "a",
+      "metal",
+      "blade",
+      "until",
+      "pureed",
+      "."
+    ],
+    "4": [
+      "set",
+      "aside",
+      "."
+    ],
+    "5": [
+      "in",
+      "a",
+      "large",
+      "ssaucepan",
+      "or",
+      "dutch",
+      "oven",
+      ",",
+      "melt",
+      "margarine",
+      ";"
+    ],
+    "6": [
+      "stir",
+      "in",
+      "broth",
+      ",",
+      "salt",
+      ",",
+      "pepper",
+      "and",
+      "nutmeg",
+      ";"
+    ],
+    "7": [
+      "bring",
+      "to",
+      "boiling",
+      "."
+    ],
+    "8": [
+      "reduce",
+      "heat",
+      "to",
+      "simmer",
+      ",",
+      "stir",
+      "in",
+      "squash",
+      "puree",
+      "and",
+      "milk",
+      "."
+    ],
+    "9": [
+      "simmer",
+      "5",
+      "minutes",
+      "or",
+      "until",
+      "heated",
+      "through",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut",
+      "steam"
+    ],
+    "1": [
+      "remove"
+    ],
+    "10": [
+      "adjust"
+    ],
+    "11": [
+      "spoon"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "set"
+    ],
+    "5": [
+      "melt"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "stir",
+      "reduce"
+    ],
+    "9": [
+      "simmer"
+    ]
+  }
+}

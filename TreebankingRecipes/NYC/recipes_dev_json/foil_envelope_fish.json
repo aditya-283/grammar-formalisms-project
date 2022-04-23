@@ -1,0 +1,281 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "foil",
+        "sheet"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "foil envelope fish",
+  "ingredient_list": [
+    "green_pepper",
+    "tomato",
+    "green_onion",
+    "basil",
+    "salt",
+    "white_pepper",
+    "white_fish",
+    "lemon"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cut",
+      "tin",
+      "foil",
+      "into",
+      "12x16",
+      "inch",
+      "rectangle",
+      "."
+    ],
+    "1": [
+      "place",
+      "green",
+      "pepper",
+      ",",
+      "tomato",
+      "and",
+      "green",
+      "onion",
+      "on",
+      "lower",
+      "half",
+      "of",
+      "foil",
+      "sheet",
+      "."
+    ],
+    "2": [
+      "sprinkle",
+      "with",
+      "1/4",
+      "teaspoon",
+      "basil",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "3": [
+      "place",
+      "fish",
+      "on",
+      "vegetables",
+      "."
+    ],
+    "4": [
+      "sprinkle",
+      "with",
+      "remaining",
+      "basil",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "5": [
+      "top",
+      "with",
+      "lemon",
+      "slices",
+      "."
+    ],
+    "6": [
+      "fold",
+      "upper",
+      "half",
+      "of",
+      "foil",
+      "over",
+      "fish",
+      "and",
+      "vegetables",
+      "."
+    ],
+    "7": [
+      "double",
+      "fold",
+      "edges",
+      "of",
+      "foil",
+      "to",
+      "make",
+      "a",
+      "tight",
+      "1/2",
+      "inch",
+      "seal",
+      "."
+    ],
+    "8": [
+      "place",
+      "foil",
+      "envelope",
+      "on",
+      "baking",
+      "sheet",
+      "and",
+      "bake",
+      "at",
+      "450f",
+      "for",
+      "15",
+      "minutes",
+      "or",
+      "until",
+      "envelope",
+      "puffs",
+      "."
+    ],
+    "9": [
+      "to",
+      "serve",
+      ",",
+      "cut",
+      "an",
+      "``",
+      "x",
+      "''",
+      "in",
+      "top",
+      "of",
+      "envelope",
+      "and",
+      "fold",
+      "foil",
+      "back",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "place"
+    ],
+    "2": [
+      "sprinkle"
+    ],
+    "3": [
+      "place"
+    ],
+    "4": [
+      "sprinkle"
+    ],
+    "5": [
+      "top"
+    ],
+    "6": [
+      "fold"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "bake",
+      "place"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

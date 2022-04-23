@@ -1,0 +1,261 @@
+{
+  "events": {
+    "1": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "3": {
+      "shape": [
+        "separated"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "5": {
+      "rotation": [
+        "nc"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "temperature": [
+        "room"
+      ]
+    }
+  },
+  "id": "egg gizzard pudding",
+  "ingredient_list": [
+    "chicken",
+    "ground",
+    "milk",
+    "pepper",
+    "eggs",
+    "white_bread",
+    "mustard",
+    "eggs"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      1
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      0
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "grease",
+      "a",
+      "13",
+      "x",
+      "9",
+      "inch",
+      "baking",
+      "dish",
+      "."
+    ],
+    "1": [
+      "place",
+      "gizzards",
+      "in",
+      "a",
+      "saucepan",
+      "with",
+      "water",
+      "to",
+      "cover",
+      "by",
+      "1",
+      "inch",
+      "."
+    ],
+    "2": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "then",
+      "reduce",
+      "heat",
+      "and",
+      "simmer",
+      "gizzards",
+      ",",
+      "covered",
+      ",",
+      "1",
+      "hour",
+      "."
+    ],
+    "3": [
+      "drain",
+      ",",
+      "cool",
+      ",",
+      "and",
+      "cut",
+      "gizzards",
+      "into",
+      "small",
+      "pieces",
+      "."
+    ],
+    "4": [
+      "in",
+      "a",
+      "mixing",
+      "bowl",
+      ",",
+      "beat",
+      "together",
+      "milk",
+      ",",
+      "raw",
+      "eggs",
+      ",",
+      "mustard",
+      ",",
+      "and",
+      "salt",
+      "and",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "5": [
+      "arrange",
+      "bread",
+      "on",
+      "bottom",
+      "of",
+      "baking",
+      "dish",
+      ";"
+    ],
+    "6": [
+      "pour",
+      "egg",
+      "mixture",
+      "over",
+      "bread",
+      "."
+    ],
+    "7": [
+      "arrange",
+      "hard-cooked",
+      "eggs",
+      "and",
+      "gizzards",
+      "over",
+      "bread",
+      "and",
+      "pour",
+      "stock",
+      "on",
+      "top",
+      "."
+    ],
+    "8": [
+      "cover",
+      "baking",
+      "dish",
+      "with",
+      "lid",
+      "or",
+      "foil",
+      "and",
+      "bake",
+      "45",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "cool",
+      "pie",
+      "slightly",
+      ",",
+      "but",
+      "serve",
+      "while",
+      "still",
+      "warm",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "grease"
+    ],
+    "1": [
+      "place",
+      "cover"
+    ],
+    "2": [
+      "reduce"
+    ],
+    "3": [
+      "cool",
+      "cut",
+      "drain"
+    ],
+    "4": [
+      "beat"
+    ],
+    "5": [
+      "arrange"
+    ],
+    "6": [
+      "pour"
+    ],
+    "7": [
+      "pour",
+      "arrange"
+    ],
+    "8": [
+      "bake",
+      "cover"
+    ],
+    "9": [
+      "serve",
+      "cool"
+    ]
+  }
+}

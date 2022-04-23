@@ -1,0 +1,236 @@
+{
+  "events": {
+    "1": {
+      "shape": [
+        "deformed",
+        "separated"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "kettle"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "location": [
+        "colander"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "garlic cauliflower",
+  "ingredient_list": [
+    "cauliflower",
+    "olive_oil",
+    "cloves_garlic",
+    "sesame_seed",
+    "paprika",
+    "pepper"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1,
+      2
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "large",
+      "kettle",
+      ",",
+      "bring",
+      "2",
+      "quarts",
+      "of",
+      "water",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "1": [
+      "trim",
+      "cauliflower",
+      "and",
+      "break",
+      "into",
+      "flowerets",
+      "."
+    ],
+    "10": [
+      "9mg",
+      ";"
+    ],
+    "11": [
+      "5g",
+      ";"
+    ],
+    "2": [
+      "drop",
+      "into",
+      "boiling",
+      "water",
+      "and",
+      "cook",
+      "about",
+      "2",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "drain",
+      "in",
+      "a",
+      "colander",
+      "."
+    ],
+    "4": [
+      "in",
+      "a",
+      "large",
+      ",",
+      "non-stick",
+      "skillets",
+      ",",
+      "heat",
+      "oil",
+      "and",
+      "brown",
+      "garlic",
+      "."
+    ],
+    "5": [
+      "add",
+      "cauliflower",
+      "and",
+      "sesame",
+      "seeds",
+      "and",
+      "stir-fry",
+      "1",
+      "minute",
+      "."
+    ],
+    "6": [
+      "dust",
+      "with",
+      "paprika",
+      "and",
+      "pepper",
+      "before",
+      "serving",
+      "."
+    ],
+    "7": [
+      "0mg",
+      ";"
+    ],
+    "8": [
+      "6g",
+      ";"
+    ],
+    "9": [
+      "3g",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "trim",
+      "break"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook",
+      "drop"
+    ],
+    "3": [
+      "drain"
+    ],
+    "4": [
+      "heat"
+    ],
+    "5": [
+      "stir-fry",
+      "add"
+    ],
+    "6": [
+      "dust"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

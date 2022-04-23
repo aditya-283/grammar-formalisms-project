@@ -1,0 +1,398 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "location": [
+        "plate"
+      ]
+    },
+    "13": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "14": {
+      "location": [
+        "plate"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "cheng-du tender chicken",
+  "ingredient_list": [
+    "chicken",
+    "oil",
+    "wine",
+    "ginger",
+    "soup",
+    "paste",
+    "onion",
+    "tender",
+    "chili",
+    "chili",
+    "salt",
+    "sugar"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "13": [
+      7
+    ],
+    "14": [
+      7
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      1,
+      9,
+      8
+    ],
+    "4": [
+      0,
+      1,
+      9,
+      8
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "chop",
+      "chicken",
+      "into",
+      "1",
+      "''",
+      "squares",
+      "."
+    ],
+    "1": [
+      "hat",
+      "oil",
+      "in",
+      "a",
+      "wok",
+      "."
+    ],
+    "10": [
+      "add",
+      "minced",
+      "spring",
+      "onion",
+      "."
+    ],
+    "11": [
+      "mix",
+      "well",
+      "."
+    ],
+    "12": [
+      "remove",
+      "and",
+      "serve",
+      "."
+    ],
+    "13": [
+      "cook",
+      "pea",
+      "shoots",
+      "in",
+      "boiling",
+      "water",
+      "."
+    ],
+    "14": [
+      "use",
+      "to",
+      "garnish",
+      "plate",
+      "."
+    ],
+    "2": [
+      "stir",
+      "fry",
+      "chicken",
+      "over",
+      "a",
+      "high",
+      "flame",
+      "for",
+      "2",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "add",
+      "minced",
+      "chili",
+      "and",
+      "chili",
+      "nam",
+      "yuey",
+      "."
+    ],
+    "4": [
+      "stir",
+      "fry",
+      "for",
+      "a",
+      "few",
+      "seconds",
+      "."
+    ],
+    "5": [
+      "add",
+      "wine",
+      ",",
+      "minced",
+      "ginger",
+      ",",
+      "salt",
+      "and",
+      "sugar",
+      "."
+    ],
+    "6": [
+      "mix",
+      "well",
+      "."
+    ],
+    "7": [
+      "add",
+      "hot",
+      "soup",
+      "stock",
+      "."
+    ],
+    "8": [
+      "cover",
+      "the",
+      "wok",
+      "and",
+      "simmer",
+      "for",
+      "5",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "add",
+      "cornstarch",
+      "paste",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "chop"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "add"
+    ],
+    "11": [
+      "mix"
+    ],
+    "12": [
+      "serve",
+      "remove"
+    ],
+    "13": [
+      "cook"
+    ],
+    "14": [
+      "garnish"
+    ],
+    "2": [
+      "stir_fry"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "stir_fry"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "mix"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "cover",
+      "simmer"
+    ],
+    "9": [
+      "add"
+    ]
+  }
+}

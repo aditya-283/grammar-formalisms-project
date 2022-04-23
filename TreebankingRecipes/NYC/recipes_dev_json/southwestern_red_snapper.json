@@ -1,0 +1,297 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "plate"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "southwestern red snapper",
+  "ingredient_list": [
+    "snapper",
+    "fillet",
+    "salt",
+    "sauce",
+    "onion",
+    "garlic_clove",
+    "green_pepper",
+    "tomato"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2
+    ],
+    "1": [
+      3,
+      4,
+      5
+    ],
+    "10": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "2": [
+      3,
+      4,
+      5
+    ],
+    "3": [
+      3,
+      4,
+      5
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      2
+    ],
+    "7": [
+      3,
+      4,
+      5
+    ],
+    "8": [
+      7,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      7,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "lightly",
+      "sprinkle",
+      "fish",
+      "with",
+      "salt",
+      "."
+    ],
+    "1": [
+      "in",
+      "skillet",
+      ",",
+      "combine",
+      "picante",
+      "sauce",
+      ",",
+      "onion",
+      "and",
+      "garlic",
+      "."
+    ],
+    "10": [
+      "spoon",
+      "sauce",
+      "over",
+      "fish",
+      "and",
+      "serve",
+      "with",
+      "additional",
+      "picante",
+      "sauce",
+      "."
+    ],
+    "2": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "stirring",
+      "constantly",
+      ";"
+    ],
+    "3": [
+      "reduce",
+      "heat",
+      "."
+    ],
+    "4": [
+      "add",
+      "fish",
+      "and",
+      "green",
+      "pepper",
+      ";"
+    ],
+    "5": [
+      "cover",
+      "and",
+      "simmer",
+      "gently",
+      "10",
+      "to",
+      "15",
+      "minutes",
+      "or",
+      "until",
+      "fish",
+      "flakes",
+      "easily",
+      "when",
+      "tested",
+      "with",
+      "fork",
+      "remove",
+      "fish",
+      "to",
+      "serving",
+      "plate",
+      ";"
+    ],
+    "6": [
+      "keep",
+      "warm",
+      "."
+    ],
+    "7": [
+      "cook",
+      "and",
+      "stir",
+      "pan",
+      "juices",
+      "until",
+      "slightly",
+      "thickened",
+      ",",
+      "about",
+      "1",
+      "to",
+      "2",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "stir",
+      "in",
+      "tomato",
+      ";"
+    ],
+    "9": [
+      "heat",
+      "through",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "sprinkle"
+    ],
+    "1": [
+      "combine"
+    ],
+    "10": [
+      "spoon",
+      "serve"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "reduce"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "cover",
+      "simmer"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "cook",
+      "stir"
+    ],
+    "8": [
+      "stir"
+    ],
+    "9": [
+      "heat"
+    ]
+  }
+}

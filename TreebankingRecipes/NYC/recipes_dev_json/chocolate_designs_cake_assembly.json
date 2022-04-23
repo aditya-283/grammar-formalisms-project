@@ -1,0 +1,297 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "location": [
+        "bag"
+      ]
+    },
+    "3": {
+      "location": [
+        "paper"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "chocolate designs cake assembly",
+  "ingredient_list": [
+    "simple_syrup",
+    "kirsch",
+    "chocolate",
+    "chocolate_genoise_cake",
+    "recipe",
+    "chocolate",
+    "frosting"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "2": [
+      2
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      0,
+      1,
+      2
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "syrup",
+      "and",
+      "kirsch",
+      ",",
+      "to",
+      "taste",
+      ",",
+      "for",
+      "moistening",
+      "cake",
+      "."
+    ],
+    "1": [
+      "set",
+      "aside",
+      "to",
+      "cool",
+      "and",
+      "thicken",
+      "to",
+      "a",
+      "pourable",
+      "consistency",
+      "."
+    ],
+    "10": [
+      "try",
+      "to",
+      "make",
+      "as",
+      "smooth",
+      "a",
+      "surface",
+      "as",
+      "you",
+      "can",
+      "."
+    ],
+    "11": [
+      "decorate",
+      "top",
+      "with",
+      "chocolate",
+      "designs",
+      "."
+    ],
+    "2": [
+      "fill",
+      "a",
+      "pastry",
+      "bag",
+      "fitted",
+      "with",
+      "smallest",
+      "tip",
+      "with",
+      "chocolate",
+      "."
+    ],
+    "3": [
+      "pipe",
+      "out",
+      "neat",
+      "small",
+      "designs",
+      "onto",
+      "waxed",
+      "paper",
+      ";"
+    ],
+    "4": [
+      "let",
+      "solidify",
+      "at",
+      "room",
+      "temperature",
+      "."
+    ],
+    "5": [
+      "slice",
+      "fully-cooled",
+      "cake",
+      "in",
+      "half",
+      "horizontally",
+      "."
+    ],
+    "6": [
+      "using",
+      "a",
+      "pastry",
+      "brush",
+      "generously",
+      "brush",
+      "both",
+      "layers",
+      "with",
+      "flavored",
+      "syrup",
+      "."
+    ],
+    "7": [
+      "place",
+      "bottom",
+      "layer",
+      "on",
+      "a",
+      "cake",
+      "stand",
+      "and",
+      "spread",
+      "with",
+      "a",
+      "nice",
+      "even",
+      "layer",
+      "of",
+      "buttercream",
+      "."
+    ],
+    "8": [
+      "cover",
+      "with",
+      "top",
+      "layer",
+      "."
+    ],
+    "9": [
+      "using",
+      "a",
+      "palette",
+      "knife",
+      "spread",
+      "a",
+      "nice",
+      ",",
+      "even",
+      "layer",
+      "of",
+      "buttercream",
+      "on",
+      "top",
+      "of",
+      "cake",
+      "and",
+      "then",
+      "ice",
+      "sides",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "set"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "fill"
+    ],
+    "3": [
+      "pipe"
+    ],
+    "4": [
+      "solidify"
+    ],
+    "5": [
+      "slice"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "spread",
+      "place"
+    ],
+    "8": [
+      "cover"
+    ],
+    "9": [
+      "spread"
+    ]
+  }
+}

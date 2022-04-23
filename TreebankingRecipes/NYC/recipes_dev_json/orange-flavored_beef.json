@@ -1,0 +1,468 @@
+{
+  "events": {
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "13": {
+      "location": [
+        "dish"
+      ]
+    },
+    "2": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "location": [
+        "colander",
+        "sieve"
+      ]
+    },
+    "9": {
+      "location": [
+        "unknown"
+      ]
+    }
+  },
+  "id": "orange-flavored beef",
+  "ingredient_list": [
+    "beef",
+    "dried",
+    "soy_sauce",
+    "citrus_peel",
+    "sherry",
+    "fine",
+    "ginger",
+    "optional",
+    "cornstarch",
+    "soy_sauce",
+    "sesame_oil",
+    "salt",
+    "oil",
+    "sugar",
+    "chile",
+    "sesame_oil"
+  ],
+  "ingredients": {
+    "10": [
+      12,
+      14
+    ],
+    "11": [
+      0,
+      12,
+      14
+    ],
+    "12": [
+      0,
+      3,
+      5,
+      7,
+      9,
+      11,
+      12,
+      13,
+      14
+    ],
+    "13": [
+      0,
+      3,
+      5,
+      7,
+      9,
+      11,
+      12,
+      13,
+      14
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "4": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "5": [
+      12
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      0,
+      12
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      12
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "orange-flavor",
+      "beef",
+      "is",
+      "a",
+      "northern",
+      "chinese",
+      "specialty",
+      "."
+    ],
+    "1": [
+      "ken",
+      "hom",
+      "'s",
+      "version",
+      ",",
+      "substituting",
+      "fresh",
+      "orange",
+      "peel",
+      "for",
+      "the",
+      "traditional",
+      "dried",
+      "tangerine",
+      "peel",
+      ",",
+      "is",
+      "a",
+      "little",
+      "different",
+      "."
+    ],
+    "10": [
+      "reheat",
+      "the",
+      "pan",
+      "over",
+      "a",
+      "high",
+      "heat",
+      "and",
+      "then",
+      "add",
+      "the",
+      "dried",
+      "chiles",
+      "."
+    ],
+    "11": [
+      "stir-fry",
+      "them",
+      "for",
+      "10",
+      "seconds",
+      ",",
+      "and",
+      "then",
+      "return",
+      "the",
+      "beef",
+      "to",
+      "the",
+      "pan",
+      "."
+    ],
+    "12": [
+      "add",
+      "the",
+      "rest",
+      "of",
+      "the",
+      "ingredients",
+      "and",
+      "stir-fry",
+      "for",
+      "4",
+      "minutes",
+      ",",
+      "mixing",
+      "well",
+      "."
+    ],
+    "13": [
+      "serve",
+      "the",
+      "dish",
+      "at",
+      "once",
+      "."
+    ],
+    "2": [
+      "cut",
+      "the",
+      "beef",
+      "into",
+      "thin",
+      "slices",
+      "2",
+      "inches",
+      "long",
+      ",",
+      "cutting",
+      "against",
+      "the",
+      "grain",
+      "."
+    ],
+    "3": [
+      "put",
+      "the",
+      "beef",
+      "into",
+      "a",
+      "bowl",
+      "together",
+      "with",
+      "the",
+      "soy",
+      "sauce",
+      ",",
+      "rice",
+      "wine",
+      "or",
+      "sherry",
+      ",",
+      "ginger",
+      ",",
+      "cornstarch",
+      "and",
+      "1",
+      "teaspoon",
+      "of",
+      "sesame",
+      "oil",
+      "."
+    ],
+    "4": [
+      "mix",
+      "well",
+      ",",
+      "then",
+      "let",
+      "the",
+      "mixture",
+      "marinate",
+      "for",
+      "about",
+      "20",
+      "minutes",
+      "."
+    ],
+    "5": [
+      "heat",
+      "the",
+      "oil",
+      "in",
+      "a",
+      "wok",
+      "or",
+      "large",
+      "skillet",
+      "until",
+      "it",
+      "is",
+      "very",
+      "hot",
+      "."
+    ],
+    "6": [
+      "remove",
+      "the",
+      "beef",
+      "from",
+      "the",
+      "marinade",
+      "with",
+      "a",
+      "slotted",
+      "spoon",
+      "."
+    ],
+    "7": [
+      "add",
+      "it",
+      "to",
+      "the",
+      "pan",
+      "and",
+      "stir-fry",
+      "it",
+      "for",
+      "2",
+      "minutes",
+      "until",
+      "it",
+      "browns",
+      "."
+    ],
+    "8": [
+      "remove",
+      "it",
+      "and",
+      "leave",
+      "to",
+      "drain",
+      "in",
+      "a",
+      "colander",
+      "or",
+      "sieve",
+      "."
+    ],
+    "9": [
+      "pour",
+      "off",
+      "most",
+      "of",
+      "the",
+      "oil",
+      ",",
+      "leaving",
+      "about",
+      "1",
+      "teaspoon",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "add",
+      "reheat"
+    ],
+    "11": [
+      "stir-fry",
+      "return"
+    ],
+    "12": [
+      "add",
+      "stir-fry"
+    ],
+    "13": [
+      "serve"
+    ],
+    "2": [
+      "cut"
+    ],
+    "3": [
+      "put"
+    ],
+    "4": [
+      "mix",
+      "marinate"
+    ],
+    "5": [
+      "heat"
+    ],
+    "6": [
+      "remove"
+    ],
+    "7": [
+      "add",
+      "stir-fry"
+    ],
+    "8": [
+      "leave",
+      "remove"
+    ],
+    "9": [
+      "leave",
+      "pour"
+    ]
+  }
+}

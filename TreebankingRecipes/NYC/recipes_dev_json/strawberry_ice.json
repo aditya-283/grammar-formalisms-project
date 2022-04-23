@@ -1,0 +1,269 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "3": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "freezer",
+        "tray"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "7": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "8": {
+      "location": [
+        "bowl"
+      ]
+    }
+  },
+  "id": "strawberry ice",
+  "ingredient_list": [
+    "sugar",
+    "lemon_juice",
+    "water",
+    "orange_juice",
+    "strawberry"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2
+    ],
+    "1": [
+      0,
+      2
+    ],
+    "2": [
+      0,
+      2
+    ],
+    "3": [
+      4
+    ],
+    "4": [
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "sugar",
+      "and",
+      "water",
+      "in",
+      "medium",
+      "saucepan",
+      "."
+    ],
+    "1": [
+      "heat",
+      ",",
+      "stirring",
+      ",",
+      "until",
+      "sugar",
+      "dissolves",
+      ",",
+      "then",
+      "boil",
+      "5",
+      "minutes",
+      "."
+    ],
+    "2": [
+      "cool",
+      "."
+    ],
+    "3": [
+      "force",
+      "berries",
+      "through",
+      "food",
+      "mill",
+      "or",
+      "blend",
+      "in",
+      "blender",
+      "or",
+      "food",
+      "processor",
+      "."
+    ],
+    "4": [
+      "strain",
+      "to",
+      "remove",
+      "seeds",
+      ",",
+      "if",
+      "desired",
+      "."
+    ],
+    "5": [
+      "blend",
+      "strawberry",
+      "puree",
+      "and",
+      "lemon",
+      "and",
+      "orange",
+      "juices",
+      "into",
+      "syrup",
+      "."
+    ],
+    "6": [
+      "pour",
+      "into",
+      "freezer",
+      "trays",
+      "and",
+      "freeze",
+      "."
+    ],
+    "7": [
+      "remove",
+      "from",
+      "freezer",
+      "20",
+      "minutes",
+      "before",
+      "serving",
+      "."
+    ],
+    "8": [
+      "turn",
+      "into",
+      "bowl",
+      "and",
+      "stir",
+      "with",
+      "wooden",
+      "spoon",
+      "until",
+      "smooth",
+      "."
+    ],
+    "9": [
+      "to",
+      "make",
+      "an",
+      "especially",
+      "attractive",
+      "dessert",
+      ",",
+      "present",
+      "scoops",
+      "of",
+      "ice",
+      "in",
+      "cantaloupe",
+      "or",
+      "honeydew",
+      "melon",
+      "halves",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "heat",
+      "stir",
+      "boil"
+    ],
+    "2": [
+      "cool"
+    ],
+    "3": [
+      "force",
+      "blend"
+    ],
+    "4": [
+      "strain"
+    ],
+    "5": [
+      "blend"
+    ],
+    "6": [
+      "pour",
+      "freeze"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "turn",
+      "stir"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

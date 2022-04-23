@@ -1,0 +1,380 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "ham  potato chowder",
+  "ingredient_list": [
+    "margarine",
+    "onion",
+    "green_pepper",
+    "potato",
+    "salt",
+    "paprika",
+    "pepper",
+    "flour",
+    "milk",
+    "corn",
+    "ham",
+    "parsley",
+    "water"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      12
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      12
+    ],
+    "4": [
+      7,
+      12
+    ],
+    "5": [
+      7,
+      12
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      12
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      12
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      12
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "melt",
+      "butter",
+      "in",
+      "3-1/2",
+      "quart",
+      "saucepan",
+      "."
+    ],
+    "1": [
+      "saute",
+      "onion",
+      "and",
+      "green",
+      "pepper",
+      "until",
+      "tender",
+      "."
+    ],
+    "10": [
+      "heat",
+      "through",
+      "."
+    ],
+    "11": [
+      "sprinkle",
+      "each",
+      "serving",
+      "with",
+      "parsley",
+      "."
+    ],
+    "12": [
+      "n."
+    ],
+    "2": [
+      "add",
+      "potatoes",
+      ",",
+      "2",
+      "cups",
+      "water",
+      ",",
+      "salt",
+      ",",
+      "paprika",
+      "and",
+      "pepper",
+      "."
+    ],
+    "3": [
+      "cover",
+      "and",
+      "simmer",
+      "about",
+      "15",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "potatoes",
+      "are",
+      "tender",
+      "."
+    ],
+    "4": [
+      "combine",
+      "flour",
+      "and",
+      "1/3",
+      "cup",
+      "water",
+      "in",
+      "small",
+      "bowl",
+      ";"
+    ],
+    "5": [
+      "blend",
+      "well",
+      "."
+    ],
+    "6": [
+      "stir",
+      "into",
+      "potato",
+      "mixture",
+      "."
+    ],
+    "7": [
+      "add",
+      "milk",
+      "."
+    ],
+    "8": [
+      "simmer",
+      "until",
+      "slightly",
+      "thickened",
+      ",",
+      "stirring",
+      "frequently",
+      "."
+    ],
+    "9": [
+      "add",
+      "corn",
+      "and",
+      "ham",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "saute"
+    ],
+    "10": [
+      "heat"
+    ],
+    "11": [
+      "sprinkle"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cover",
+      "simmer"
+    ],
+    "4": [
+      "combine"
+    ],
+    "5": [
+      "blend"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "stir",
+      "simmer"
+    ],
+    "9": [
+      "add"
+    ]
+  }
+}

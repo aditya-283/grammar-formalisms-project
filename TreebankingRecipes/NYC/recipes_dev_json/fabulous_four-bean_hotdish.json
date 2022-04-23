@@ -1,0 +1,242 @@
+{
+  "events": {
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "oven"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "crockery",
+        "cooker"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "fabulous four-bean hotdish",
+  "ingredient_list": [
+    "bacon",
+    "onion",
+    "pork_bean",
+    "green_bean",
+    "butter_bean",
+    "bean",
+    "ketchup",
+    "sugar",
+    "mustard",
+    "salt"
+  ],
+  "ingredients": {
+    "2": [
+      0,
+      1
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "gayle",
+      "schuck",
+      "of",
+      "bismarck",
+      ",",
+      "north",
+      "dakota",
+      ",",
+      "waxes",
+      "nostalgic",
+      "at",
+      "the",
+      "thought",
+      "of",
+      "family",
+      "picnics",
+      "at",
+      "lamoure",
+      "county",
+      "memorial",
+      "park",
+      "in",
+      "grand",
+      "rapids",
+      ",",
+      "north",
+      "dakota",
+      "."
+    ],
+    "1": [
+      "brown",
+      "sugar",
+      "and",
+      "bacon",
+      "season",
+      "gayle",
+      "'s",
+      "baked",
+      "quartet",
+      "of",
+      "canned",
+      "pork",
+      "and",
+      "beans",
+      ",",
+      "butter",
+      "beans",
+      ",",
+      "kidney",
+      "beans",
+      ",",
+      "and",
+      "green",
+      "beans",
+      "."
+    ],
+    "2": [
+      "in",
+      "a",
+      "dutch",
+      "oven",
+      ",",
+      "cook",
+      "bacon",
+      "and",
+      "onion",
+      "till",
+      "bacon",
+      "is",
+      "browned",
+      "and",
+      "onion",
+      "is",
+      "tender",
+      "."
+    ],
+    "3": [
+      "drain",
+      "off",
+      "the",
+      "fat",
+      "."
+    ],
+    "4": [
+      "stir",
+      "in",
+      "the",
+      "remaining",
+      "ingredients",
+      "."
+    ],
+    "5": [
+      "transfer",
+      "the",
+      "mixture",
+      "to",
+      "a",
+      "31/2",
+      "or",
+      "4",
+      "quart",
+      "crockery",
+      "cooker",
+      "."
+    ],
+    "6": [
+      "cover",
+      ";"
+    ],
+    "7": [
+      "cook",
+      "on",
+      "low",
+      "heat",
+      "setting",
+      "for",
+      "6",
+      "hours",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "cook"
+    ]
+  }
+}

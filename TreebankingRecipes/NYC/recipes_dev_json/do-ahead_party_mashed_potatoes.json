@@ -1,0 +1,346 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed",
+        "molded"
+      ]
+    },
+    "7": {
+      "location": [
+        "casserole",
+        "refrigerator",
+        "container"
+      ]
+    },
+    "8": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "casserole"
+      ]
+    }
+  },
+  "id": "do-ahead party mashed potatoes",
+  "ingredient_list": [
+    "potato",
+    "cream_cheese",
+    "yogurt",
+    "onion_salt",
+    "salt",
+    "pepper",
+    "butter",
+    "cheese",
+    "paprika"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "peel",
+      "and",
+      "quarter",
+      "potatoes",
+      "."
+    ],
+    "1": [
+      "put",
+      "potatoes",
+      "in",
+      "large",
+      "saucepan",
+      "with",
+      "water",
+      "to",
+      "cover",
+      "."
+    ],
+    "10": [
+      "bake",
+      "at",
+      "350",
+      "degrees",
+      "for",
+      "30-45",
+      "minutes",
+      ",",
+      "uncovered",
+      ",",
+      "until",
+      "heated",
+      "through",
+      "."
+    ],
+    "2": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "and",
+      "boil",
+      "until",
+      "tender",
+      ",",
+      "about",
+      "20-25",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "drain",
+      "well",
+      "."
+    ],
+    "4": [
+      "mash",
+      "until",
+      "smooth",
+      "with",
+      "potato",
+      "masher",
+      "or",
+      "electric",
+      "mixer",
+      "."
+    ],
+    "5": [
+      "mix",
+      "cream",
+      "cheese",
+      "with",
+      "sour",
+      "cream",
+      "or",
+      "yogurt",
+      ",",
+      "onion",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "6": [
+      "beat",
+      "into",
+      "the",
+      "potatoes",
+      "and",
+      "beat",
+      "with",
+      "a",
+      "whisk",
+      "until",
+      "smooth",
+      "and",
+      "fluffy",
+      "."
+    ],
+    "7": [
+      "place",
+      "in",
+      "two-quart",
+      "casserole",
+      "or",
+      "a",
+      "refrigerator",
+      "container",
+      "."
+    ],
+    "8": [
+      "cool",
+      "and",
+      "cover",
+      "."
+    ],
+    "9": [
+      "to",
+      "serve",
+      ",",
+      "place",
+      "desired",
+      "amount",
+      "in",
+      "greased",
+      "casserole",
+      ",",
+      "dot",
+      "with",
+      "butter",
+      "or",
+      "margarine",
+      "and",
+      "sprinkle",
+      "with",
+      "paprika",
+      "or",
+      "top",
+      "with",
+      "lots",
+      "of",
+      "cheese",
+      "-lrb-",
+      "freshly",
+      "grated",
+      ",",
+      "if",
+      "possible",
+      "-rrb-",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "quarter",
+      "peel"
+    ],
+    "1": [
+      "put",
+      "cover"
+    ],
+    "10": [
+      "heat",
+      "bake"
+    ],
+    "2": [
+      "boil"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "mash"
+    ],
+    "5": [
+      "mix"
+    ],
+    "6": [
+      "beat",
+      "smooth",
+      "whisk"
+    ],
+    "7": [
+      "place"
+    ],
+    "8": [
+      "cover",
+      "cool"
+    ],
+    "9": [
+      "place",
+      "sprinkle",
+      "serve",
+      "dot"
+    ]
+  }
+}

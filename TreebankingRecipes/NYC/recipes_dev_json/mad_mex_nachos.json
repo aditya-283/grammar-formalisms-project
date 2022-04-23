@@ -1,0 +1,228 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "mad mex nachos",
+  "ingredient_list": [
+    "sausage",
+    "white",
+    "bean",
+    "sauce",
+    "tomato",
+    "cheddar_cheese",
+    "jalapeno_pepper",
+    "guacamole",
+    "sour_cream"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      2,
+      3
+    ],
+    "4": [
+      2,
+      3
+    ],
+    "5": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cook",
+      "sausage",
+      "until",
+      "brown",
+      "and",
+      "crumbly",
+      ";"
+    ],
+    "1": [
+      "drain",
+      "and",
+      "keep",
+      "warm",
+      "."
+    ],
+    "2": [
+      "place",
+      "tortilla",
+      "chips",
+      "on",
+      "a",
+      "baking",
+      "sheet",
+      "."
+    ],
+    "3": [
+      "combine",
+      "refried",
+      "beans",
+      "and",
+      "picante",
+      "sauce",
+      "in",
+      "saucepan",
+      ",",
+      "heat",
+      "until",
+      "warm",
+      ",",
+      "stirring",
+      "occasionally",
+      "."
+    ],
+    "4": [
+      "spoon",
+      "bean",
+      "mixture",
+      "over",
+      "chips",
+      "."
+    ],
+    "5": [
+      "top",
+      "with",
+      "sausage",
+      ",",
+      "tomatoes",
+      ",",
+      "cheese",
+      "and",
+      "jalapeno",
+      "slices",
+      "."
+    ],
+    "6": [
+      "for",
+      "10",
+      "minutes",
+      "or",
+      "until",
+      "cheese",
+      "is",
+      "melted",
+      "."
+    ],
+    "7": [
+      "top",
+      "with",
+      "guacamole",
+      "and",
+      "sour",
+      "cream",
+      ",",
+      "if",
+      "desired",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cook"
+    ],
+    "1": [
+      "warm",
+      "drain"
+    ],
+    "2": [
+      "place"
+    ],
+    "3": [
+      "stir",
+      "heat",
+      "combine"
+    ],
+    "4": [
+      "spoon"
+    ],
+    "5": [
+      "top"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "top"
+    ]
+  }
+}

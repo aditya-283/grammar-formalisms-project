@@ -1,0 +1,405 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "top"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "location": [
+        "blender",
+        "processor"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "cannellini salsa verde",
+  "ingredient_list": [
+    "shallot",
+    "olive_oil",
+    "garlic_clove",
+    "flour",
+    "white_wine",
+    "stock",
+    "nuts",
+    "parsley",
+    "pepper",
+    "cilantro",
+    "cannellini"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      10
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "heavy",
+      "saucepan",
+      ",",
+      "saut",
+      "the",
+      "shallots",
+      "in",
+      "the",
+      "olive",
+      "oil",
+      "over",
+      "medium",
+      "heat",
+      "until",
+      "they",
+      "begin",
+      "to",
+      "color",
+      ",",
+      "3-5",
+      "minutes",
+      "."
+    ],
+    "1": [
+      "add",
+      "the",
+      "garlic",
+      "and",
+      "saut",
+      "for",
+      "1",
+      "minute",
+      "."
+    ],
+    "10": [
+      "or",
+      "heat",
+      "the",
+      "beans",
+      "separately",
+      "and",
+      "serve",
+      "on",
+      "top",
+      "on",
+      "the",
+      "sauce",
+      "."
+    ],
+    "11": [
+      "serve",
+      "warm",
+      "."
+    ],
+    "2": [
+      "add",
+      "the",
+      "flour",
+      ";"
+    ],
+    "3": [
+      "stir",
+      "and",
+      "cook",
+      "for",
+      "1",
+      "minute",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "wine",
+      ",",
+      "stock",
+      ",",
+      "pine",
+      "nuts",
+      ",",
+      "parsley",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "5": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      "until",
+      "the",
+      "sauce",
+      "has",
+      "thickened",
+      ",",
+      "about",
+      "5",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "if",
+      "using",
+      "cilantro",
+      ",",
+      "add",
+      "it",
+      "now",
+      "."
+    ],
+    "7": [
+      "process",
+      "the",
+      "sauce",
+      "in",
+      "a",
+      "blender",
+      "or",
+      "food",
+      "processor",
+      "."
+    ],
+    "8": [
+      "return",
+      "the",
+      "sauce",
+      "to",
+      "the",
+      "saucepan",
+      "and",
+      "add",
+      "the",
+      "beans",
+      "."
+    ],
+    "9": [
+      "cook",
+      "just",
+      "until",
+      "beans",
+      "are",
+      "heated",
+      ",",
+      "2-3",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "heat",
+      "serve"
+    ],
+    "11": [
+      "serve"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cook",
+      "stir"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "cook"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "add",
+      "return"
+    ],
+    "9": [
+      "cook"
+    ]
+  }
+}

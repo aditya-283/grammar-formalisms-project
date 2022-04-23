@@ -1,0 +1,405 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "location": [
+        "platter"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "location": [
+        "unknown"
+      ]
+    }
+  },
+  "id": "ka diam dua pineapple fish chowder",
+  "ingredient_list": [
+    "carp",
+    "oil",
+    "garlic_clove",
+    "onion",
+    "water",
+    "orange",
+    "bay",
+    "chili_pepper",
+    "anise",
+    "saffron",
+    "sherry",
+    "shrimp",
+    "cornstaraach",
+    "soy_sauce",
+    "pineapple"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "2": [
+      1,
+      2,
+      3
+    ],
+    "3": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "9": [
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "remove",
+      "the",
+      "skin",
+      "of",
+      "the",
+      "fish",
+      "and",
+      "cut",
+      "into",
+      "bite-sized",
+      "pieces",
+      "."
+    ],
+    "1": [
+      "heat",
+      "the",
+      "oil",
+      "in",
+      "a",
+      "saucepan",
+      ";"
+    ],
+    "10": [
+      "serve",
+      "with",
+      "boiled",
+      "rice",
+      "."
+    ],
+    "11": [
+      "serves",
+      "8-10",
+      "pineapple",
+      "fish",
+      "chowder",
+      "ka",
+      "diam",
+      "dua",
+      "viet",
+      "nam"
+    ],
+    "2": [
+      "saute",
+      "the",
+      "garlic",
+      "and",
+      "onions",
+      "10",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "stir",
+      "in",
+      "the",
+      "water",
+      ",",
+      "orange",
+      "rind",
+      ",",
+      "bay",
+      "leaf",
+      ",",
+      "chili",
+      "peppers",
+      ",",
+      "anise",
+      ",",
+      "saffron",
+      ",",
+      "and",
+      "sherry",
+      "."
+    ],
+    "4": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "and",
+      "add",
+      "the",
+      "fish",
+      "."
+    ],
+    "5": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      "for",
+      "ten",
+      "minutes",
+      "add",
+      "the",
+      "shrimp",
+      "and",
+      "cook",
+      "over",
+      "low",
+      "heat",
+      "10",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "mix",
+      "the",
+      "cornstarch",
+      "with",
+      "the",
+      "soy",
+      "sauce",
+      "and",
+      "a",
+      "little",
+      "water",
+      "to",
+      "make",
+      "a",
+      "smooth",
+      "paste",
+      "and",
+      "stir",
+      "into",
+      "the",
+      "soup",
+      "until",
+      "thickened",
+      "."
+    ],
+    "7": [
+      "add",
+      "the",
+      "pineapple",
+      "and",
+      "cook",
+      "5",
+      "minutes",
+      "longer",
+      "."
+    ],
+    "8": [
+      "taste",
+      "for",
+      "seasoning",
+      "."
+    ],
+    "9": [
+      "discard",
+      "the",
+      "bay",
+      "leaf",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut",
+      "remove"
+    ],
+    "1": [
+      "heat"
+    ],
+    "10": [
+      "serve"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "saute"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "cook",
+      "add"
+    ],
+    "6": [
+      "mix",
+      "stir"
+    ],
+    "7": [
+      "cook",
+      "add"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "discard"
+    ]
+  }
+}

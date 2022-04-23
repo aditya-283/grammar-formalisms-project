@@ -1,0 +1,317 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "4": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "5": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "7": {
+      "location": [
+        "wire",
+        "rack"
+      ]
+    },
+    "8": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "care package chocolate sugar cookies",
+  "ingredient_list": [
+    "egg_white",
+    "margarine",
+    "water",
+    "vanilla",
+    "flour",
+    "sugar",
+    "sugar",
+    "cocoa_powder",
+    "baking_powder",
+    "baking_soda",
+    "salt",
+    "peanut_butter"
+  ],
+  "ingredients": {
+    "1": [
+      1,
+      2,
+      3
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "vegetable",
+      "oil",
+      "spray",
+      "."
+    ],
+    "1": [
+      "stir",
+      "in",
+      "melted",
+      "butter",
+      ",",
+      "water",
+      "and",
+      "vanilla",
+      "."
+    ],
+    "10": [
+      "to",
+      "make",
+      "glaze",
+      ",",
+      "put",
+      "1/2",
+      "cup",
+      "peanut",
+      "butter",
+      "chips",
+      "and",
+      "1",
+      "teaspoon",
+      "shortening",
+      "in",
+      "a",
+      "small",
+      ",",
+      "microwave",
+      "bowl",
+      "."
+    ],
+    "11": [
+      "microwave",
+      "on",
+      "high",
+      "for",
+      "30",
+      "to",
+      "45",
+      "seconds",
+      ",",
+      "just",
+      "until",
+      "chips",
+      "are",
+      "melted",
+      "and",
+      "mixture",
+      "is",
+      "smooth",
+      "when",
+      "stirred",
+      ";"
+    ],
+    "12": [
+      "use",
+      "immediately"
+    ],
+    "13": [
+      "95",
+      "cal",
+      ";"
+    ],
+    "2": [
+      "stir",
+      "in",
+      "egg",
+      "mixture",
+      "until",
+      "well",
+      "blended",
+      "."
+    ],
+    "3": [
+      "roll",
+      "balls",
+      "in",
+      "remaining",
+      "1/4",
+      "c",
+      "sugar",
+      "."
+    ],
+    "4": [
+      "place",
+      "2",
+      "inches",
+      "apart",
+      "on",
+      "cookie",
+      "sheet",
+      ";"
+    ],
+    "5": [
+      "press",
+      "balls",
+      "with",
+      "flat",
+      "bottom",
+      "of",
+      "glass",
+      "."
+    ],
+    "6": [
+      "cool",
+      "5",
+      "minutes",
+      ";"
+    ],
+    "7": [
+      "remove",
+      "from",
+      "cookie",
+      "sheet",
+      "to",
+      "wire",
+      "rack",
+      "."
+    ],
+    "8": [
+      "cool",
+      "completely",
+      "."
+    ],
+    "9": [
+      "drizzle",
+      "with",
+      "glaze",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "stir"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "roll"
+    ],
+    "4": [
+      "place"
+    ],
+    "5": [
+      "press"
+    ],
+    "6": [
+      "cool"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "cool"
+    ],
+    "9": [
+      "drizzle"
+    ]
+  }
+}

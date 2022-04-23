@@ -1,0 +1,615 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "11": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "13": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "dirty rice g",
+  "ingredient_list": [
+    "chicken_fat",
+    "chicken",
+    "pork",
+    "leaf",
+    "onion",
+    "celery",
+    "pepper",
+    "garlic_clove",
+    "tabasco_sauce",
+    "salt",
+    "pepper",
+    "paprika",
+    "mustard",
+    "cumin",
+    "thyme",
+    "oregano",
+    "butter",
+    "stock",
+    "chicken_liver",
+    "rice"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "13": [
+      3
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "fat",
+      ",",
+      "gizzards",
+      ",",
+      "pork",
+      "and",
+      "bay",
+      "leaves",
+      "in",
+      "large",
+      "heavy",
+      "skillet",
+      "over",
+      "high",
+      "heat",
+      ";"
+    ],
+    "1": [
+      "cook",
+      "until",
+      "meat",
+      "is",
+      "thoroughly",
+      "browned",
+      ",",
+      "about",
+      "6",
+      "minutes",
+      ",",
+      "stirring",
+      "occasionally",
+      "."
+    ],
+    "10": [
+      "cover",
+      "pan",
+      "and",
+      "turn",
+      "heat",
+      "to",
+      "very",
+      "low",
+      ";"
+    ],
+    "11": [
+      "cook",
+      "about",
+      "5",
+      "minutes",
+      "."
+    ],
+    "12": [
+      "remove",
+      "from",
+      "heat",
+      "and",
+      "leave",
+      "covered",
+      "until",
+      "rice",
+      "is",
+      "tender",
+      ",",
+      "about",
+      "10",
+      "minutes",
+      "."
+    ],
+    "13": [
+      "remove",
+      "bay",
+      "leaves",
+      "and",
+      "serve",
+      "immediately",
+      "."
+    ],
+    "2": [
+      "stir",
+      "in",
+      "the",
+      "onion",
+      ",",
+      "celery",
+      ",",
+      "bell",
+      "pepper",
+      ",",
+      "garlic",
+      ",",
+      "tabasco",
+      ",",
+      "salt",
+      ",",
+      "pepper",
+      ",",
+      "paprika",
+      ",",
+      "mustard",
+      ",",
+      "cumin",
+      ",",
+      "thyme",
+      ",",
+      "and",
+      "oregano",
+      ";"
+    ],
+    "3": [
+      "stir",
+      "thoroughly",
+      ",",
+      "scraping",
+      "pan",
+      "bottom",
+      "well",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "butter",
+      "and",
+      "stir",
+      "until",
+      "melted",
+      "."
+    ],
+    "5": [
+      "reduce",
+      "heat",
+      "to",
+      "medium",
+      "and",
+      "cook",
+      "about",
+      "8",
+      "minutes",
+      ",",
+      "stirring",
+      "constantly",
+      "and",
+      "scraping",
+      "pan",
+      "botton",
+      "well",
+      "."
+    ],
+    "6": [
+      "add",
+      "the",
+      "stock",
+      "and",
+      "stir",
+      "until",
+      "any",
+      "mixture",
+      "sticking",
+      "to",
+      "the",
+      "pan",
+      "bottom",
+      "comes",
+      "loose",
+      ";"
+    ],
+    "7": [
+      "cook",
+      "about",
+      "8",
+      "minutes",
+      "over",
+      "high",
+      "heat",
+      ",",
+      "stirring",
+      "once",
+      "."
+    ],
+    "8": [
+      "then",
+      "stir",
+      "in",
+      "the",
+      "livers",
+      "and",
+      "cook",
+      "about",
+      "2",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "add",
+      "the",
+      "rice",
+      "and",
+      "stir",
+      "thoroughly",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "cook",
+      "stir"
+    ],
+    "10": [
+      "turn",
+      "cover"
+    ],
+    "11": [
+      "cook"
+    ],
+    "12": [
+      "leave",
+      "remove"
+    ],
+    "13": [
+      "serve",
+      "remove"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "add",
+      "stir"
+    ],
+    "5": [
+      "cook",
+      "stir",
+      "reduce"
+    ],
+    "6": [
+      "add",
+      "stir"
+    ],
+    "7": [
+      "cook",
+      "stir"
+    ],
+    "8": [
+      "cook",
+      "stir"
+    ],
+    "9": [
+      "add",
+      "stir"
+    ]
+  }
+}

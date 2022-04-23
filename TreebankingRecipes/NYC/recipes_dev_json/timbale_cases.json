@@ -1,0 +1,340 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "10": {
+      "location": [
+        "paper"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "location": [
+        "tip",
+        "iron"
+      ]
+    },
+    "5": {
+      "location": [
+        "top"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "9": {
+      "location": [
+        "unknown"
+      ]
+    }
+  },
+  "id": "timbale cases",
+  "ingredient_list": [
+    "flour",
+    "egg",
+    "oil",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "ingredients": {
+    "0": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "slightly",
+      "beaten",
+      "egg",
+      ",",
+      "milk",
+      ",",
+      "sugar",
+      ",",
+      "salt",
+      ",",
+      "and",
+      "cooking",
+      "oil",
+      "."
+    ],
+    "1": [
+      "sift",
+      "flour",
+      "slowly",
+      "into",
+      "the",
+      "mixture",
+      ",",
+      "beating",
+      "constantly",
+      "until",
+      "smooth",
+      "."
+    ],
+    "10": [
+      "drain",
+      "on",
+      "crumpled",
+      ",",
+      "absorbent",
+      "paper",
+      "."
+    ],
+    "2": [
+      "set",
+      "aside",
+      "for",
+      "1",
+      "hour",
+      "or",
+      "until",
+      "free",
+      "from",
+      "bubbles",
+      "."
+    ],
+    "3": [
+      "fry",
+      "on",
+      "a",
+      "timbale-iron",
+      "which",
+      "has",
+      "been",
+      "heated",
+      "by",
+      "immersing",
+      "in",
+      "deep",
+      ",",
+      "hot",
+      "fat",
+      "-lrb-",
+      "360",
+      "f",
+      "-rrb-",
+      "."
+    ],
+    "4": [
+      "dip",
+      "heated",
+      "iron",
+      "into",
+      "batter",
+      "."
+    ],
+    "5": [
+      "hold",
+      "iron",
+      "at",
+      "an",
+      "angle",
+      "until",
+      "the",
+      "bottom",
+      "is",
+      "covered",
+      ",",
+      "then",
+      "lower",
+      "iron",
+      "into",
+      "batter",
+      "until",
+      "1/2",
+      "inch",
+      "from",
+      "top",
+      "."
+    ],
+    "6": [
+      "hold",
+      "iron",
+      "straight",
+      "and",
+      "lower",
+      "into",
+      "hot",
+      "fat",
+      "-lrb-",
+      "360",
+      "f",
+      "-rrb-",
+      "."
+    ],
+    "7": [
+      "cook",
+      "until",
+      "case",
+      "is",
+      "crisp",
+      "and",
+      "brown",
+      "."
+    ],
+    "8": [
+      "remove",
+      "from",
+      "fat",
+      ";"
+    ],
+    "9": [
+      "slip",
+      "case",
+      "from",
+      "iron",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "beat"
+    ],
+    "10": [
+      "drain"
+    ],
+    "2": [
+      "set"
+    ],
+    "3": [
+      "fry"
+    ],
+    "4": [
+      "dip"
+    ],
+    "5": [
+      "lower"
+    ],
+    "6": [
+      "lower"
+    ],
+    "7": [
+      "cook"
+    ],
+    "8": [
+      "remove"
+    ],
+    "9": [
+      "slip"
+    ]
+  }
+}

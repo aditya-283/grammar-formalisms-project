@@ -1,0 +1,338 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "dish"
+      ]
+    }
+  },
+  "id": "mexican mac cheese",
+  "ingredient_list": [
+    "cream",
+    "cheese",
+    "cheese",
+    "celery_seed",
+    "cayenne_pepper",
+    "egg_yolk",
+    "macaroni",
+    "grated",
+    "bread",
+    "parsley"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      7,
+      8
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "cream",
+      ",",
+      "half",
+      "and",
+      "half",
+      ",",
+      "chihuahua",
+      "and",
+      "manchego",
+      "cheese",
+      "in",
+      "heavy",
+      "medium",
+      "saucepan",
+      "."
+    ],
+    "1": [
+      "stir",
+      "over",
+      "low",
+      "heat",
+      "until",
+      "cheese",
+      "melts",
+      "."
+    ],
+    "10": [
+      "mix",
+      "cojita",
+      "cheese",
+      "and",
+      "bread",
+      "crumbs",
+      "in",
+      "small",
+      "bowl",
+      "."
+    ],
+    "11": [
+      "sprinkle",
+      "evenly",
+      "over",
+      "macaroni",
+      "."
+    ],
+    "12": [
+      "bake",
+      "until",
+      "sauce",
+      "is",
+      "bubbling",
+      "and",
+      "top",
+      "is",
+      "beginning",
+      "to",
+      "brown",
+      ",",
+      "about",
+      "25",
+      "minutes",
+      "."
+    ],
+    "2": [
+      "remove",
+      "from",
+      "heat",
+      "."
+    ],
+    "3": [
+      "add",
+      "celery",
+      "seeds",
+      "and",
+      "cayenne",
+      "pepper",
+      "."
+    ],
+    "4": [
+      "season",
+      "sauce",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "5": [
+      "beat",
+      "yolks",
+      "in",
+      "large",
+      "bowl",
+      "to",
+      "blend",
+      "."
+    ],
+    "6": [
+      "gradually",
+      "whisk",
+      "in",
+      "sauce",
+      "."
+    ],
+    "7": [
+      "add",
+      "macaroni",
+      "and",
+      "stir",
+      "to",
+      "blend",
+      "."
+    ],
+    "8": [
+      "butter",
+      "4",
+      "quart",
+      "baking",
+      "dish",
+      "."
+    ],
+    "9": [
+      "pour",
+      "macaroni",
+      "and",
+      "sauce",
+      "into",
+      "dish",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "stir"
+    ],
+    "10": [
+      "mix",
+      "bread"
+    ],
+    "11": [
+      "sprinkle"
+    ],
+    "12": [
+      "brown",
+      "bake"
+    ],
+    "2": [
+      "remove"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "beat",
+      "blend"
+    ],
+    "6": [
+      "whisk"
+    ],
+    "7": [
+      "add",
+      "stir"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "pour"
+    ]
+  }
+}

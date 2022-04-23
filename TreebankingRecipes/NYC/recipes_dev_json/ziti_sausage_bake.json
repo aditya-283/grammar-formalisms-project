@@ -1,0 +1,247 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "ziti sausage bake",
+  "ingredient_list": [
+    "ziti_cooked",
+    "sausage",
+    "cheese",
+    "green_pepper",
+    "salt",
+    "pepper",
+    "cheese"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cook",
+      "ziti",
+      "according",
+      "to",
+      "directions",
+      "and",
+      "drain",
+      "."
+    ],
+    "1": [
+      "remove",
+      "sausage",
+      "from",
+      "casing",
+      ",",
+      "crumble",
+      "and",
+      "brown",
+      "."
+    ],
+    "2": [
+      "drain",
+      "well",
+      "."
+    ],
+    "3": [
+      "add",
+      "to",
+      "pasta",
+      "along",
+      "with",
+      "diced",
+      "pepper",
+      ",",
+      "1",
+      "cup",
+      "half",
+      "and",
+      "half",
+      ",",
+      "1",
+      "cup",
+      "of",
+      "fontina",
+      "and",
+      "grated",
+      "cheese",
+      "."
+    ],
+    "4": [
+      "mix",
+      "well",
+      "."
+    ],
+    "5": [
+      "pour",
+      "into",
+      "buttered",
+      "13",
+      "by",
+      "9",
+      "''",
+      "pan",
+      "."
+    ],
+    "6": [
+      "cover",
+      "and",
+      "bake",
+      "at",
+      "350",
+      "for",
+      "20",
+      "min",
+      "."
+    ],
+    "7": [
+      "uncover",
+      "and",
+      "top",
+      "with",
+      "remaining",
+      "half",
+      "and",
+      "half",
+      "and",
+      "fontina",
+      "."
+    ],
+    "8": [
+      "bake",
+      "another",
+      "10",
+      "min",
+      "."
+    ],
+    "9": [
+      "before",
+      "serving",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cook",
+      "drain"
+    ],
+    "1": [
+      "remove"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "pour"
+    ],
+    "6": [
+      "bake",
+      "cover"
+    ],
+    "7": [
+      "top"
+    ],
+    "8": [
+      "bake"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

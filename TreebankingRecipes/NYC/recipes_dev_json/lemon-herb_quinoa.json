@@ -1,0 +1,329 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "1": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "lemon-herb quinoa",
+  "ingredient_list": [
+    "quinoa",
+    "vegetable_oil",
+    "water",
+    "oregano",
+    "thyme",
+    "rosemary",
+    "parsley",
+    "lemon_juice",
+    "salt",
+    "lemon",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      2
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      0,
+      1
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "the",
+      "quinoa",
+      "in",
+      "a",
+      "large",
+      "bowl",
+      ";"
+    ],
+    "1": [
+      "fill",
+      "with",
+      "cold",
+      "water",
+      "."
+    ],
+    "10": [
+      "serves",
+      "4",
+      "to",
+      "6"
+    ],
+    "11": [
+      "451",
+      "mg"
+    ],
+    "2": [
+      "drain",
+      "into",
+      "a",
+      "strainer",
+      "and",
+      "repeat",
+      "the",
+      "rinsing",
+      "and",
+      "draining",
+      "4",
+      "more",
+      "times",
+      "."
+    ],
+    "3": [
+      "over",
+      "medium-high",
+      "heat",
+      ",",
+      "heat",
+      "the",
+      "oil",
+      "in",
+      "a",
+      "2-quart",
+      "saucepan",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "rinsed",
+      "quinoa",
+      "and",
+      "cook",
+      ",",
+      "stirring",
+      ",",
+      "until",
+      "the",
+      "quinoa",
+      "makes",
+      "cracking",
+      "and",
+      "popping",
+      "noises",
+      ",",
+      "about",
+      "3",
+      "to",
+      "5",
+      "minutes",
+      "."
+    ],
+    "5": [
+      "stir",
+      "in",
+      "the",
+      "water",
+      ",",
+      "marjoram",
+      ",",
+      "thyme",
+      ",",
+      "and",
+      "rosemary",
+      "."
+    ],
+    "6": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "reduce",
+      "the",
+      "heat",
+      ",",
+      "and",
+      "simmer",
+      ",",
+      "covered",
+      ",",
+      "15",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "stir",
+      "in",
+      "the",
+      "parsley",
+      ",",
+      "lemon",
+      "juice",
+      ",",
+      "salt",
+      ",",
+      "lemon",
+      "rind",
+      ",",
+      "and",
+      "pepper",
+      "."
+    ],
+    "8": [
+      "simmer",
+      ",",
+      "covered",
+      ",",
+      "5",
+      "minutes",
+      "longer",
+      "."
+    ],
+    "9": [
+      "fluff",
+      "with",
+      "a",
+      "fork",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "fill"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "drain"
+    ],
+    "3": [
+      "heat"
+    ],
+    "4": [
+      "add",
+      "stir"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "reduce",
+      "cover",
+      "simmer",
+      "boil"
+    ],
+    "7": [
+      "stir"
+    ],
+    "8": [
+      "simmer"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

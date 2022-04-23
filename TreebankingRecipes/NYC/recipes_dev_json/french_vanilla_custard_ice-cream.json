@@ -1,0 +1,318 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "unknown"
+      ]
+    },
+    "5": {
+      "temperature": [
+        "cold"
+      ]
+    },
+    "6": {
+      "temperature": [
+        "cold"
+      ]
+    }
+  },
+  "id": "french vanilla custard ice-cream",
+  "ingredient_list": [
+    "egg_yolk",
+    "cream",
+    "white_sugar",
+    "salt",
+    "vanilla"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2,
+      3
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "beat",
+      "the",
+      "four",
+      "egg",
+      "yolks",
+      "with",
+      "the",
+      "sugar",
+      "and",
+      "salt",
+      "until",
+      "thick",
+      "and",
+      "pale",
+      "yellow",
+      "."
+    ],
+    "1": [
+      "stir",
+      "in",
+      "2",
+      "cups",
+      "scalded",
+      "whipping",
+      "cream",
+      "."
+    ],
+    "10": [
+      "substituting",
+      "maple",
+      "syrup",
+      "and",
+      "a",
+      "tich",
+      "of",
+      "maple",
+      "flavouring",
+      "and",
+      "some",
+      "broken",
+      "walnuts",
+      "makes",
+      "great",
+      "maple",
+      "walnut",
+      "ice-cream",
+      "."
+    ],
+    "2": [
+      "cook",
+      "in",
+      "heavy",
+      "saucepan",
+      "or",
+      "in",
+      "top",
+      "of",
+      "double",
+      "boiler",
+      "over",
+      "",
+      "",
+      "low",
+      "",
+      "",
+      "heat",
+      ",",
+      "stirring",
+      "often",
+      "-lrb-",
+      "constantly",
+      "is",
+      "more",
+      "like",
+      "it",
+      "-rrb-",
+      ",",
+      "until",
+      "mixture",
+      "thickens",
+      "enough",
+      "to",
+      "coat",
+      "a",
+      "spoon",
+      "."
+    ],
+    "3": [
+      "remove",
+      "mixture",
+      "from",
+      "heat",
+      "and",
+      "add",
+      "the",
+      "vanilla",
+      "and",
+      "the",
+      "remaining",
+      "2",
+      "cups",
+      "of",
+      "whipping",
+      "cream",
+      "."
+    ],
+    "4": [
+      "stir",
+      "well",
+      "."
+    ],
+    "5": [
+      "cover",
+      "and",
+      "chill",
+      "thoroughly",
+      "."
+    ],
+    "6": [
+      "freeze",
+      "according",
+      "to",
+      "instructions",
+      "that",
+      "come",
+      "with",
+      "your",
+      "machine",
+      "."
+    ],
+    "7": [
+      "haste",
+      "makes",
+      "waste",
+      "usually",
+      ",",
+      "but",
+      "in",
+      "ice-cream",
+      ",",
+      "haste",
+      "makes",
+      "less",
+      "product",
+      "."
+    ],
+    "8": [
+      "add",
+      "melted",
+      "baker",
+      "'s",
+      "bittersweet",
+      "chocolate",
+      "-lrb-",
+      "4",
+      "or",
+      "5",
+      "cubes",
+      "-lrb-",
+      "oz",
+      "."
+    ],
+    "9": [
+      "-rrb-",
+      "to",
+      "the",
+      "custard",
+      "mixture",
+      "when",
+      "removed",
+      "from",
+      "the",
+      "heat",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "beat"
+    ],
+    "1": [
+      "stir"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook",
+      "stir"
+    ],
+    "3": [
+      "add",
+      "remove"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "cover",
+      "chill"
+    ],
+    "6": [
+      "freeze"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

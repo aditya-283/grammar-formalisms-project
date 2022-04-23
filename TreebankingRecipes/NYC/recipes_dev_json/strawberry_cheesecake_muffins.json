@@ -1,0 +1,412 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "10": {
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "11": {
+      "location": [
+        "rack"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "12": {
+      "location": [
+        "container"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "cup"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top",
+        "cup"
+      ]
+    },
+    "8": {
+      "location": [
+        "top",
+        "content",
+        "cup"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "strawberry cheesecake muffins",
+  "ingredient_list": [
+    "cream_cheese",
+    "sugar",
+    "flour",
+    "baking_powder",
+    "salt",
+    "egg",
+    "milk",
+    "sugar",
+    "margarine",
+    "almond_extract",
+    "strawberry_jam"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      2,
+      3,
+      4
+    ],
+    "4": [
+      7,
+      8,
+      9,
+      5,
+      6
+    ],
+    "5": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "6": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "grease",
+      "large",
+      "muffin",
+      "tins",
+      "or",
+      "line",
+      "with",
+      "paper",
+      "baking",
+      "cups",
+      "."
+    ],
+    "1": [
+      "blend",
+      "cream",
+      "cheese",
+      "and",
+      "icing",
+      "sugar",
+      "until",
+      "smooth",
+      ";"
+    ],
+    "10": [
+      "cool",
+      "in",
+      "pan",
+      "5",
+      "minutes",
+      ";"
+    ],
+    "11": [
+      "remove",
+      "muffins",
+      "and",
+      "cool",
+      "on",
+      "rack",
+      "."
+    ],
+    "12": [
+      "store",
+      "in",
+      "airtight",
+      "container",
+      "."
+    ],
+    "2": [
+      "set",
+      "aside",
+      "."
+    ],
+    "3": [
+      "combine",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      "and",
+      "salt",
+      "in",
+      "large",
+      "bowl",
+      "."
+    ],
+    "4": [
+      "mix",
+      "egg",
+      ",",
+      "milk",
+      ",",
+      "brown",
+      "sugar",
+      ",",
+      "melted",
+      "butter",
+      ",",
+      "and",
+      "almond",
+      "extract",
+      "."
+    ],
+    "5": [
+      "stir",
+      "liquid",
+      "mixture",
+      "into",
+      "dry",
+      "ingredients",
+      ",",
+      "stirring",
+      "just",
+      "until",
+      "moistened",
+      "."
+    ],
+    "6": [
+      "spoon",
+      "half",
+      "of",
+      "batter",
+      "into",
+      "muffin",
+      "cups",
+      "."
+    ],
+    "7": [
+      "top",
+      "with",
+      "1",
+      "tb",
+      "cream",
+      "cheese",
+      "mixture",
+      "and",
+      "1",
+      "ts",
+      "jam",
+      "."
+    ],
+    "8": [
+      "spoon",
+      "remaining",
+      "muffin",
+      "batter",
+      "on",
+      "top",
+      "."
+    ],
+    "9": [
+      "bake",
+      "at",
+      "375",
+      "degrees",
+      "f",
+      "-lrb-",
+      "190",
+      "c",
+      "-rrb-",
+      "for",
+      "about",
+      "20",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "light",
+      "golden",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "blend"
+    ],
+    "10": [
+      "cool"
+    ],
+    "11": [
+      "remove",
+      "cool"
+    ],
+    "12": [
+      "store"
+    ],
+    "2": [
+      "set"
+    ],
+    "3": [
+      "bake",
+      "combine"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "spoon"
+    ],
+    "7": [
+      "top"
+    ],
+    "8": [
+      "spoon",
+      "batter"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

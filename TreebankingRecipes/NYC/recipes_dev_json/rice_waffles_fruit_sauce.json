@@ -1,0 +1,339 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "iron"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "oven",
+        "platter"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "rice waffles fruit sauce",
+  "ingredient_list": [
+    "safflower_oil",
+    "rice_flour",
+    "baking_powder",
+    "nutmeg",
+    "cinnamon",
+    "salt",
+    "honey",
+    "eggs",
+    "milk",
+    "safflower_oil",
+    "rice",
+    "strawberry",
+    "syrup",
+    "arrowroot_powder",
+    "yogurt"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      7,
+      8,
+      9,
+      10,
+      6
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "5": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "6": [
+      11,
+      12,
+      13
+    ],
+    "7": [
+      11,
+      12,
+      13
+    ],
+    "8": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "9": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "waffle",
+      "iron",
+      "and",
+      "lightly",
+      "brush",
+      "with",
+      "safflower",
+      "oil",
+      "."
+    ],
+    "1": [
+      "in",
+      "a",
+      "medium",
+      "bowl",
+      "combine",
+      "rice",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "nutmeg",
+      ",",
+      "cinnamon",
+      ",",
+      "and",
+      "salt",
+      "."
+    ],
+    "2": [
+      "in",
+      "a",
+      "separate",
+      "bowl",
+      "combine",
+      "honey",
+      ",",
+      "egg",
+      "yolks",
+      ",",
+      "milk",
+      ",",
+      "the",
+      "1/4",
+      "cup",
+      "safflower",
+      "oil",
+      ",",
+      "and",
+      "rice",
+      "."
+    ],
+    "3": [
+      "beat",
+      "egg",
+      "whites",
+      "until",
+      "stiff",
+      "peaks",
+      "form",
+      "."
+    ],
+    "4": [
+      "combine",
+      "dry",
+      "and",
+      "wet",
+      "ingredients",
+      ",",
+      "then",
+      "fold",
+      "in",
+      "egg",
+      "whites",
+      "."
+    ],
+    "5": [
+      "cook",
+      "waffles",
+      ",",
+      "one",
+      "at",
+      "a",
+      "time",
+      ",",
+      "keeping",
+      "them",
+      "warm",
+      "in",
+      "the",
+      "oven",
+      "on",
+      "a",
+      "heatproof",
+      "platter",
+      "."
+    ],
+    "6": [
+      "in",
+      "a",
+      "small",
+      "saucepan",
+      "combine",
+      "strawberries",
+      ",",
+      "date",
+      "sugar",
+      ",",
+      "and",
+      "arrowroot",
+      "."
+    ],
+    "7": [
+      "cook",
+      "over",
+      "medium-high",
+      "heat",
+      "until",
+      "thick",
+      "."
+    ],
+    "8": [
+      "let",
+      "cool",
+      "slightly",
+      ",",
+      "then",
+      "mix",
+      "with",
+      "yogurt",
+      "."
+    ],
+    "9": [
+      "pour",
+      "strawberry",
+      "sauce",
+      "over",
+      "warm",
+      "waffles",
+      "and",
+      "serve",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "preheat",
+      "brush"
+    ],
+    "1": [
+      "combine"
+    ],
+    "2": [
+      "combine"
+    ],
+    "3": [
+      "beat"
+    ],
+    "4": [
+      "fold",
+      "combine"
+    ],
+    "5": [
+      "cook"
+    ],
+    "6": [
+      "combine"
+    ],
+    "7": [
+      "cook"
+    ],
+    "8": [
+      "mix"
+    ],
+    "9": [
+      "serve",
+      "pour"
+    ]
+  }
+}

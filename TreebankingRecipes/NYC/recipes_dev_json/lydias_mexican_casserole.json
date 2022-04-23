@@ -1,0 +1,330 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "dish"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "casserole"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "lydias mexican casserole",
+  "ingredient_list": [
+    "corn_tortilla",
+    "onion",
+    "tomato",
+    "tomato_salsa",
+    "ground",
+    "jalapeno_chili",
+    "cloves_garlic",
+    "green",
+    "tofu",
+    "yogurt",
+    "vinaigrette_salad_dressing",
+    "cilantro"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "3": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "using",
+      "nonstick",
+      "baking",
+      "dish",
+      ",",
+      "line",
+      "casserole",
+      "with",
+      "six",
+      "tortillas",
+      "."
+    ],
+    "1": [
+      "mix",
+      "together",
+      "onion",
+      ",",
+      "tomatoes",
+      ",",
+      "salsa",
+      ",",
+      "1",
+      "teaspoon",
+      "cumin",
+      ",",
+      "chopped",
+      "red",
+      "chili",
+      "pepper",
+      ",",
+      "and",
+      "garlic",
+      "."
+    ],
+    "2": [
+      "pour",
+      "about",
+      "three",
+      "fourths",
+      "of",
+      "mixture",
+      "into",
+      "casserole",
+      "."
+    ],
+    "3": [
+      "lay",
+      "green",
+      "chili",
+      "peppers",
+      "flat",
+      "over",
+      "this",
+      ",",
+      "then",
+      "mashed",
+      "tofu",
+      "."
+    ],
+    "4": [
+      "cover",
+      "with",
+      "remainder",
+      "of",
+      "tortillas",
+      "."
+    ],
+    "5": [
+      "add",
+      "remaining",
+      "chopped",
+      "tomato",
+      "and",
+      "salsa",
+      "mixture",
+      "."
+    ],
+    "6": [
+      "mix",
+      "yogurt",
+      "with",
+      "dry",
+      "salad",
+      "dressing",
+      "mix",
+      "and",
+      "pour",
+      "over",
+      "chopped",
+      "tomato",
+      "and",
+      "salsa",
+      "."
+    ],
+    "7": [
+      "sprinkle",
+      "a",
+      "little",
+      "ground",
+      "cumin",
+      "over",
+      "this",
+      "and",
+      "bake",
+      "for",
+      "35-45",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "garnish",
+      "with",
+      "cilantro",
+      "."
+    ],
+    "9": [
+      "substitute",
+      "cooked",
+      "beans",
+      "for",
+      "the",
+      "tofu",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "line"
+    ],
+    "1": [
+      "chop",
+      "mix"
+    ],
+    "2": [
+      "pour"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "cover"
+    ],
+    "5": [
+      "chop",
+      "add"
+    ],
+    "6": [
+      "mix",
+      "pour"
+    ],
+    "7": [
+      "sprinkle",
+      "bake"
+    ],
+    "8": [
+      "garnish"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

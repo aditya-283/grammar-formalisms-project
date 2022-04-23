@@ -1,0 +1,274 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "location": [
+        "pan"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "ayallas banana bread",
+  "ingredient_list": [
+    "banana",
+    "sugar",
+    "butter",
+    "eggs",
+    "sour_cream",
+    "flour",
+    "baking_soda",
+    "walnut",
+    "rum"
+  ],
+  "ingredients": {
+    "0": [
+      1,
+      2
+    ],
+    "1": [
+      0
+    ],
+    "11": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "3": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "4": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cream",
+      "the",
+      "shortening",
+      "and",
+      "sugar",
+      "."
+    ],
+    "1": [
+      "mix",
+      "in",
+      "the",
+      "bananas",
+      "."
+    ],
+    "10": [
+      "at",
+      "least",
+      "95",
+      "minutes",
+      "."
+    ],
+    "11": [
+      "allow",
+      "some",
+      "time",
+      "for",
+      "cooling",
+      "."
+    ],
+    "12": [
+      "approximate",
+      "measurement",
+      "ok",
+      "."
+    ],
+    "2": [
+      "mix",
+      "in",
+      "the",
+      "remaining",
+      "ingredients",
+      "."
+    ],
+    "3": [
+      "pour",
+      "into",
+      "a",
+      "greased",
+      "loaf",
+      "pan",
+      "."
+    ],
+    "4": [
+      "bake",
+      "1",
+      "hour",
+      "15-20",
+      "minutes",
+      "at",
+      "350",
+      "degrees",
+      "f."
+    ],
+    "5": [
+      "moist",
+      ",",
+      "loaf",
+      "of",
+      "banana",
+      "bread",
+      "."
+    ],
+    "6": [
+      "lower",
+      "the",
+      "oven",
+      "temperature",
+      "and",
+      "cook",
+      "for",
+      "a",
+      "while",
+      "longer",
+      "."
+    ],
+    "7": [
+      "otherwise",
+      ",",
+      "the",
+      "crust",
+      "comes",
+      "out",
+      "almost",
+      "overcooked",
+      "while",
+      "the",
+      "middle",
+      "remains",
+      "moist",
+      "and",
+      "almost",
+      "undercooked",
+      "."
+    ],
+    "8": [
+      "easy",
+      "."
+    ],
+    "9": [
+      "10",
+      "minutes",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "cream"
+    ],
+    "1": [
+      "mix"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "mix"
+    ],
+    "3": [
+      "pour"
+    ],
+    "4": [
+      "bake"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "cook",
+      "lower"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

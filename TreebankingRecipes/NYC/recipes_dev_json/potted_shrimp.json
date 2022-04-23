@@ -1,0 +1,361 @@
+{
+  "events": {
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ]
+    },
+    "2": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "6": {
+      "location": [
+        "bowl",
+        "crock"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    }
+  },
+  "id": "potted shrimp",
+  "ingredient_list": [
+    "shrimp",
+    "butter",
+    "lemon_juice",
+    "nutmeg",
+    "mace",
+    "cayenne_pepper",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      1
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "1",
+      "-rrb-",
+      "bring",
+      "a",
+      "large",
+      "pot",
+      "of",
+      "salted",
+      "water",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "1": [
+      "toss",
+      "the",
+      "shrimp",
+      "and",
+      ",",
+      "1",
+      "minute",
+      "later",
+      ",",
+      "start",
+      "tasting",
+      "them",
+      ";"
+    ],
+    "10": [
+      "4",
+      "-rrb-",
+      "served",
+      "chilled",
+      "or",
+      "slightly",
+      "warmed",
+      "as",
+      "a",
+      "spread",
+      "-lrb-",
+      "traditionaly",
+      "served",
+      "on",
+      "brown",
+      "bread",
+      "."
+    ],
+    "11": [
+      "char",
+      "crabmeat",
+      "lobster",
+      "meat",
+      "salmon"
+    ],
+    "2": [
+      "drain",
+      "them",
+      "immediatly",
+      "and",
+      "peel",
+      "when",
+      "they",
+      "are",
+      "cool",
+      "."
+    ],
+    "3": [
+      "cut",
+      "them",
+      "into",
+      "little",
+      "bite-size",
+      "pieces",
+      "."
+    ],
+    "4": [
+      "2",
+      "-rrb-",
+      "melt",
+      "1/2",
+      "c",
+      "of",
+      "the",
+      "butter",
+      "over",
+      "medium",
+      "heat",
+      ";"
+    ],
+    "5": [
+      "stir",
+      "in",
+      "the",
+      "shrimp",
+      ",",
+      "lemon",
+      "juice",
+      ",",
+      "nutmeg",
+      ",",
+      "mace",
+      ",",
+      "cayenne",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      ",",
+      "and",
+      "turn",
+      "off",
+      "the",
+      "heat",
+      "."
+    ],
+    "6": [
+      "divide",
+      "the",
+      "shrimp",
+      "among",
+      "small",
+      "bowls",
+      "or",
+      "place",
+      "in",
+      "a",
+      "nice",
+      "crock",
+      "."
+    ],
+    "7": [
+      "3",
+      "-rrb-",
+      "melt",
+      "the",
+      "remaining",
+      "butter",
+      "over",
+      "very",
+      "low",
+      "heat",
+      "."
+    ],
+    "8": [
+      "skim",
+      "the",
+      "foam",
+      "off",
+      "the",
+      "top",
+      ",",
+      "then",
+      "carefully",
+      "pour",
+      "the",
+      "clarified",
+      "butter",
+      "over",
+      "the",
+      "shrimp",
+      ",",
+      "leaving",
+      "the",
+      "butter",
+      "solids",
+      "in",
+      "the",
+      "pan",
+      "."
+    ],
+    "9": [
+      "refrigerate",
+      "immediately",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "toss"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "drain",
+      "peel"
+    ],
+    "3": [
+      "cut"
+    ],
+    "4": [
+      "melt"
+    ],
+    "5": [
+      "turn",
+      "stir"
+    ],
+    "6": [
+      "place",
+      "divide"
+    ],
+    "7": [
+      "melt"
+    ],
+    "8": [
+      "skim",
+      "pour"
+    ],
+    "9": [
+      "refrigerate"
+    ]
+  }
+}

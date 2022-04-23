@@ -1,0 +1,389 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "10": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "3": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "location": [
+        "pan"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "chocolate sauerkraut bars",
+  "ingredient_list": [
+    "margarine",
+    "baking_powder",
+    "sugar",
+    "salt",
+    "vanilla",
+    "buttermilk",
+    "cocoa_powder",
+    "sauerkraut",
+    "chocolate",
+    "raisin",
+    "eggs",
+    "milk",
+    "flour"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "2": [
+      6,
+      0,
+      2,
+      4,
+      8
+    ],
+    "3": [
+      6,
+      0,
+      2,
+      4,
+      8
+    ],
+    "4": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "5": [
+      1,
+      3,
+      12
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      12
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "350",
+      "f",
+      "."
+    ],
+    "1": [
+      "in",
+      "a",
+      "large",
+      "bowl",
+      ",",
+      "beat",
+      "butter",
+      "and",
+      "granulated",
+      "sugar",
+      "with",
+      "an",
+      "electric",
+      "mixer",
+      "on",
+      "medium",
+      "until",
+      "light",
+      "and",
+      "fluffy",
+      ",",
+      "about",
+      "2",
+      "mins",
+      "."
+    ],
+    "10": [
+      "let",
+      "cool",
+      "before",
+      "cutting",
+      "into",
+      "49",
+      "-lrb-",
+      "11/2",
+      "x",
+      "3-inch",
+      "-rrb-",
+      "bars",
+      "."
+    ],
+    "2": [
+      "add",
+      "vanilla",
+      ",",
+      "cocoa",
+      ",",
+      "and",
+      "melted",
+      "chocolate",
+      ";"
+    ],
+    "3": [
+      "beat",
+      "well",
+      "."
+    ],
+    "4": [
+      "add",
+      "eggs",
+      ",",
+      "one",
+      "at",
+      "a",
+      "time",
+      ",",
+      "beating",
+      "well",
+      "after",
+      "each",
+      "addition",
+      "."
+    ],
+    "5": [
+      "stir",
+      "together",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "baking",
+      "soda",
+      ",",
+      "and",
+      "salt",
+      "to",
+      "mix",
+      "."
+    ],
+    "6": [
+      "add",
+      "to",
+      "chocolate",
+      "mixture",
+      "alternately",
+      "with",
+      "buttermilk",
+      ",",
+      "beating",
+      "until",
+      "just",
+      "combined",
+      "."
+    ],
+    "7": [
+      "stir",
+      "in",
+      "sauerkraut",
+      ",",
+      "currants",
+      ",",
+      "pecans",
+      ",",
+      "and",
+      "chocolate",
+      "chips",
+      "."
+    ],
+    "8": [
+      "spread",
+      "batter",
+      "in",
+      "a",
+      "greased",
+      "12",
+      "x",
+      "18-inch",
+      "sheet",
+      "cake",
+      "pan",
+      "."
+    ],
+    "9": [
+      "bake",
+      "25",
+      "to",
+      "30",
+      "mins",
+      ",",
+      "or",
+      "until",
+      "a",
+      "cake",
+      "tester",
+      "inserted",
+      "in",
+      "center",
+      "comes",
+      "out",
+      "clean",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "beat"
+    ],
+    "10": [
+      "cool"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "beat"
+    ],
+    "4": [
+      "beat",
+      "add"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "beat",
+      "add"
+    ],
+    "7": [
+      "stir"
+    ],
+    "8": [
+      "spread"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

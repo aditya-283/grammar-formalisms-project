@@ -1,0 +1,284 @@
+{
+  "events": {
+    "1": {
+      "location": [
+        "dish"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "location": [
+        "refrigerator"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan",
+        "rack"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "festive ham glaze",
+  "ingredient_list": [
+    "cooked",
+    "orange_peel",
+    "orange_juice",
+    "mustard",
+    "sugar",
+    "clove"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0
+    ],
+    "8": [
+      0
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "score",
+      "surface",
+      "of",
+      "ham",
+      ",",
+      "making",
+      "diamond",
+      "shapes",
+      "1/2",
+      "in",
+      "deep",
+      "."
+    ],
+    "1": [
+      "place",
+      "in",
+      "a",
+      "large",
+      "baking",
+      "dish",
+      "."
+    ],
+    "10": [
+      "about",
+      "2-4",
+      "hours",
+      ",",
+      "brushing",
+      "occasionally",
+      "with",
+      "glaze",
+      "."
+    ],
+    "11": [
+      "10",
+      "to",
+      "16",
+      "servings",
+      "."
+    ],
+    "2": [
+      "in",
+      "a",
+      "bowl",
+      ",",
+      "mix",
+      "remaining",
+      "ingredients",
+      ";"
+    ],
+    "3": [
+      "pour",
+      "over",
+      "ham",
+      "."
+    ],
+    "4": [
+      "cover",
+      "and",
+      "refrigerate",
+      "overnight",
+      ",",
+      "turning",
+      "ham",
+      "occasionally",
+      "."
+    ],
+    "5": [
+      "reserving",
+      "glaze",
+      ",",
+      "remove",
+      "ham",
+      "to",
+      "a",
+      "rack",
+      "in",
+      "a",
+      "shallow",
+      "roasting",
+      "pan",
+      ",",
+      "insert",
+      "meat",
+      "thrrmometer",
+      "."
+    ],
+    "6": [
+      "bake",
+      ",",
+      "uncovered",
+      "at",
+      "325",
+      "deg",
+      "."
+    ],
+    "7": [
+      "until",
+      "thermometer",
+      "."
+    ],
+    "8": [
+      "bake",
+      "uncovered",
+      "at",
+      "325",
+      "deg",
+      "."
+    ],
+    "9": [
+      "until",
+      "thermometer",
+      "registers",
+      "140",
+      "deg",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "make"
+    ],
+    "1": [
+      "place"
+    ],
+    "10": [
+      "brush"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "mix"
+    ],
+    "3": [
+      "pour"
+    ],
+    "4": [
+      "refrigerate",
+      "cover",
+      "turn"
+    ],
+    "5": [
+      "insert",
+      "remove"
+    ],
+    "6": [
+      "bake"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "bake"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

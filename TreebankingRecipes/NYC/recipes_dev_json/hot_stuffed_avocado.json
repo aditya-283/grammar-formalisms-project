@@ -1,0 +1,365 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "location": [
+        "pan"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "location": [
+        "plate"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "hot stuffed avocado",
+  "ingredient_list": [
+    "peel",
+    "lemon_juice",
+    "garlic",
+    "margarine",
+    "green_onion",
+    "celery_salt",
+    "cayenne_pepper",
+    "flour",
+    "cream",
+    "chicken",
+    "grated"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2
+    ],
+    "11": [
+      0,
+      1,
+      2
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      3
+    ],
+    "4": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      7,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "8": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "roll",
+      "outside",
+      "of",
+      "peeled",
+      "avocados",
+      "in",
+      "lemon",
+      "juice",
+      "to",
+      "keep",
+      "color",
+      "."
+    ],
+    "1": [
+      "put",
+      "in",
+      "large",
+      "baking",
+      "pan",
+      "."
+    ],
+    "10": [
+      "bake",
+      "avocados",
+      "at",
+      "350",
+      "degrees",
+      "for",
+      "15",
+      "minutes",
+      "."
+    ],
+    "11": [
+      "remove",
+      "to",
+      "serving",
+      "plates",
+      "."
+    ],
+    "12": [
+      "ladle",
+      "filling",
+      "over",
+      "avocados",
+      "."
+    ],
+    "13": [
+      "top",
+      "with",
+      "remaining",
+      "cheese",
+      "."
+    ],
+    "2": [
+      "sprinkle",
+      "with",
+      "lemon",
+      "juice",
+      "and",
+      "garlic",
+      "powder",
+      "."
+    ],
+    "3": [
+      "melt",
+      "butter",
+      ";"
+    ],
+    "4": [
+      "add",
+      "green",
+      "onions",
+      ",",
+      "celery",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "5": [
+      "cook",
+      "5",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "blend",
+      "in",
+      "flour",
+      "."
+    ],
+    "7": [
+      "add",
+      "cream",
+      "."
+    ],
+    "8": [
+      "cook",
+      "while",
+      "stirring",
+      "until",
+      "thickened",
+      "."
+    ],
+    "9": [
+      "fold",
+      "in",
+      "chicken",
+      "and",
+      "1/2",
+      "cup",
+      "cheese",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "roll"
+    ],
+    "1": [
+      "put"
+    ],
+    "10": [
+      "bake"
+    ],
+    "11": [
+      "remove"
+    ],
+    "12": [
+      "ladle"
+    ],
+    "13": [
+      "top"
+    ],
+    "2": [
+      "sprinkle"
+    ],
+    "3": [
+      "melt"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "cook"
+    ],
+    "6": [
+      "blend"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "cook",
+      "stir"
+    ],
+    "9": [
+      "fold"
+    ]
+  }
+}

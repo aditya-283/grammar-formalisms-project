@@ -1,0 +1,349 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "a sweet potato-crab chowder",
+  "ingredient_list": [
+    "olive_oil",
+    "LRB",
+    "tasso",
+    "shallot",
+    "cloves_garlic",
+    "inch",
+    "potato",
+    "water",
+    "cream",
+    "milk",
+    "flour",
+    "crabmeat",
+    "chive",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      2
+    ],
+    "2": [
+      0,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "5": [
+      8,
+      9,
+      10
+    ],
+    "6": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "7": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "8": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "large",
+      "soup",
+      "pot",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "heat",
+      "the",
+      "oil",
+      "."
+    ],
+    "1": [
+      "add",
+      "the",
+      "tasso",
+      "and",
+      "cook",
+      ",",
+      "stirring",
+      "for",
+      "1",
+      "minute",
+      "."
+    ],
+    "2": [
+      "add",
+      "the",
+      "shallots",
+      "and",
+      "cook",
+      "for",
+      "3",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "add",
+      "the",
+      "garlic",
+      ",",
+      "sweet",
+      "potatoes",
+      ",",
+      "and",
+      "water",
+      "and",
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "4": [
+      "cover",
+      "and",
+      "cook",
+      "for",
+      "15",
+      "minutes",
+      "or",
+      "until",
+      "the",
+      "potatoes",
+      "are",
+      "tender",
+      "."
+    ],
+    "5": [
+      "in",
+      "a",
+      "medium",
+      "bowl",
+      ",",
+      "whisk",
+      "together",
+      "the",
+      "cream",
+      ",",
+      "milk",
+      ",",
+      "and",
+      "flour",
+      "."
+    ],
+    "6": [
+      "add",
+      "to",
+      "the",
+      "soup",
+      "and",
+      "cook",
+      "until",
+      "the",
+      "mixture",
+      "begins",
+      "to",
+      "thicken",
+      "."
+    ],
+    "7": [
+      "add",
+      "the",
+      "crabmeat",
+      "and",
+      "the",
+      "chives",
+      "."
+    ],
+    "8": [
+      "season",
+      "with",
+      "the",
+      "salt",
+      "and",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "9": [
+      "yields",
+      "4",
+      "entree",
+      "portions",
+      ",",
+      "or",
+      "6-8",
+      "side",
+      "portions"
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "cook",
+      "add",
+      "stir"
+    ],
+    "2": [
+      "cook",
+      "add"
+    ],
+    "3": [
+      "add",
+      "boil"
+    ],
+    "4": [
+      "cook",
+      "cover"
+    ],
+    "5": [
+      "whisk"
+    ],
+    "6": [
+      "thicken",
+      "add"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "season"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

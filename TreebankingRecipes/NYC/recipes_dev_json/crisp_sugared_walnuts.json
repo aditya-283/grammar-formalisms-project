@@ -1,0 +1,313 @@
+{
+  "events": {
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ]
+    },
+    "10": {
+      "location": [
+        "container"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pot"
+      ]
+    },
+    "3": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "location": [
+        "plate"
+      ]
+    }
+  },
+  "id": "crisp sugared walnuts",
+  "ingredient_list": [
+    "water",
+    "walnut",
+    "sugar",
+    "salt",
+    "corn_oil"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      1,
+      2,
+      3
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "9": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "traditionally",
+      ",",
+      "these",
+      "crispy",
+      "sweet",
+      "walnuts",
+      "are",
+      "served",
+      "as",
+      "a",
+      "``",
+      "starter",
+      "''",
+      "appetizer",
+      "to",
+      "a",
+      "chinese",
+      "banquet",
+      "dinner",
+      "to",
+      "tease",
+      "the",
+      "palate",
+      "before",
+      "the",
+      "first",
+      "entree",
+      "."
+    ],
+    "1": [
+      "bring",
+      "a",
+      "pot",
+      "of",
+      "water",
+      "to",
+      "a",
+      "full",
+      "boil",
+      "."
+    ],
+    "10": [
+      "store",
+      "in",
+      "an",
+      "airtight",
+      "container",
+      "."
+    ],
+    "2": [
+      "add",
+      "walnuts",
+      ",",
+      "remove",
+      "from",
+      "heat",
+      "and",
+      "set",
+      "aside",
+      "for",
+      "3",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "drain",
+      "walnuts",
+      "and",
+      "pat",
+      "dry",
+      "."
+    ],
+    "4": [
+      "while",
+      "nuts",
+      "are",
+      "hot",
+      ",",
+      "toss",
+      "evenly",
+      "with",
+      "sugar",
+      "and",
+      "salt",
+      "to",
+      "coat",
+      "."
+    ],
+    "5": [
+      "add",
+      "oil",
+      "and",
+      "mix",
+      "thoroughly",
+      "."
+    ],
+    "6": [
+      "spread",
+      "nuts",
+      "in",
+      "1",
+      "layer",
+      "on",
+      "a",
+      "foil-lined",
+      "baking",
+      "sheet",
+      "."
+    ],
+    "7": [
+      "allow",
+      "the",
+      "nuts",
+      "to",
+      "dry",
+      "for",
+      "an",
+      "hour",
+      "or",
+      "until",
+      "their",
+      "surface",
+      "is",
+      "thoroughly",
+      "dry",
+      "."
+    ],
+    "8": [
+      "bake",
+      ",",
+      "stirring",
+      "occasionally",
+      ",",
+      "for",
+      "8",
+      "to",
+      "10",
+      "minutes",
+      "or",
+      "until",
+      "golden",
+      "brown",
+      "."
+    ],
+    "9": [
+      "remove",
+      "and",
+      "serve",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "store"
+    ],
+    "2": [
+      "add",
+      "set",
+      "remove"
+    ],
+    "3": [
+      "drain",
+      "pat"
+    ],
+    "4": [
+      "toss"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "spread"
+    ],
+    "7": [
+      "dry"
+    ],
+    "8": [
+      "bake",
+      "stir"
+    ],
+    "9": [
+      "serve",
+      "remove"
+    ]
+  }
+}

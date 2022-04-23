@@ -1,0 +1,341 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "processor"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "fettuccine creamy porcini-sage sauce",
+  "ingredient_list": [
+    "olive_oil",
+    "garlic_clove",
+    "vegetable_stock",
+    "sage",
+    "tomato_paste",
+    "piece",
+    "salt",
+    "tofu",
+    "fettuccine",
+    "nuts",
+    "pepper"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      8
+    ],
+    "8": [
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "fill",
+      "a",
+      "stock",
+      "pot",
+      "with",
+      "water",
+      "&",
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "1": [
+      "heat",
+      "1",
+      "tb",
+      "olive",
+      "oil",
+      "in",
+      "a",
+      "small",
+      "saucepan",
+      "&",
+      "add",
+      "the",
+      "garlic",
+      "."
+    ],
+    "10": [
+      "toss",
+      "in",
+      "the",
+      "remaining",
+      "oil",
+      ",",
+      "pine",
+      "nuts",
+      "&",
+      "black",
+      "pepper",
+      "."
+    ],
+    "11": [
+      "serve",
+      "immediately",
+      "."
+    ],
+    "2": [
+      "cook",
+      "for",
+      "a",
+      "few",
+      "seconds",
+      "."
+    ],
+    "3": [
+      "add",
+      "the",
+      "stock",
+      ",",
+      "sage",
+      ",",
+      "tomato",
+      "paste",
+      ",",
+      "porcini",
+      "pieces",
+      "&",
+      "salt",
+      "."
+    ],
+    "4": [
+      "bring",
+      "to",
+      "a",
+      "simmer",
+      ",",
+      "let",
+      "cook",
+      "for",
+      "15",
+      "minutes",
+      "&",
+      "remove",
+      "from",
+      "heat",
+      "."
+    ],
+    "5": [
+      "cool",
+      "slightly",
+      ",",
+      "then",
+      "place",
+      "in",
+      "a",
+      "food",
+      "processor",
+      "with",
+      "the",
+      "tofu",
+      "&",
+      "blend",
+      "until",
+      "smooth",
+      "."
+    ],
+    "6": [
+      "set",
+      "aside",
+      "."
+    ],
+    "7": [
+      "cook",
+      "pasta",
+      "according",
+      "to",
+      "package",
+      "directions",
+      "."
+    ],
+    "8": [
+      "drain",
+      "."
+    ],
+    "9": [
+      "toss",
+      "hot",
+      "pasta",
+      "with",
+      "the",
+      "blended",
+      "ingredients",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "heat",
+      "add"
+    ],
+    "10": [
+      "toss"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "cook",
+      "remove"
+    ],
+    "5": [
+      "place",
+      "cool"
+    ],
+    "6": [
+      "set"
+    ],
+    "7": [
+      "cook"
+    ],
+    "8": [
+      "drain"
+    ],
+    "9": [
+      "toss"
+    ]
+  }
+}

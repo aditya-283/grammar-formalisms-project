@@ -1,0 +1,364 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "4": {
+      "location": [
+        "mould"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "bowl"
+      ]
+    }
+  },
+  "id": "smoked mackerel nuts grapes  brown ric",
+  "ingredient_list": [
+    "smoked",
+    "toasted",
+    "grape",
+    "rice",
+    "watercres",
+    "lemon",
+    "oil",
+    "creamy"
+  ],
+  "ingredients": {
+    "0": [
+      3
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      1,
+      3,
+      4
+    ],
+    "4": [
+      1,
+      3,
+      4
+    ],
+    "5": [
+      2,
+      5,
+      6
+    ],
+    "6": [
+      2,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      7,
+      0
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cook",
+      "the",
+      "rice",
+      "in",
+      "double",
+      "its",
+      "volume",
+      "of",
+      "fast",
+      "boiling",
+      "salted",
+      "water",
+      "."
+    ],
+    "1": [
+      "refresh",
+      "it",
+      "and",
+      "dress",
+      "it",
+      "with",
+      "3",
+      "tablespoons",
+      "lemon",
+      "juice",
+      ",",
+      "1",
+      "tablespoon",
+      "oil",
+      "and",
+      "plenty",
+      "of",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "2": [
+      "stir",
+      "in",
+      "the",
+      "nuts",
+      "and",
+      "5-6",
+      "tablespoons",
+      "chopped",
+      "mint",
+      "or",
+      "watercress",
+      "."
+    ],
+    "3": [
+      "-lrb-",
+      "watercress",
+      "is",
+      "good",
+      "but",
+      "mint",
+      "is",
+      "even",
+      "better",
+      "for",
+      "this",
+      "dish",
+      "."
+    ],
+    "4": [
+      "-rrb-",
+      "press",
+      "the",
+      "mixture",
+      "firmly",
+      "into",
+      "a",
+      "lightly",
+      "oiled",
+      "ring",
+      "mould",
+      ",",
+      "cover",
+      "and",
+      "chill",
+      "for",
+      "a",
+      "couple",
+      "of",
+      "hours",
+      "or",
+      "more",
+      "."
+    ],
+    "5": [
+      "close",
+      "to",
+      "serving",
+      "time",
+      ",",
+      "halve",
+      "the",
+      "grapes",
+      "and",
+      "toss",
+      "them",
+      "in",
+      "the",
+      "juice",
+      "of",
+      "half",
+      "a",
+      "lemon",
+      "plus",
+      "scant",
+      "1",
+      "tablespoon",
+      "oil",
+      "."
+    ],
+    "6": [
+      "add",
+      "some",
+      "mint",
+      "or",
+      "watercress",
+      "sprigs",
+      "."
+    ],
+    "7": [
+      "skin",
+      ",",
+      "bone",
+      "and",
+      "flake",
+      "the",
+      "fish",
+      "and",
+      "mix",
+      "it",
+      "in",
+      "gently",
+      "."
+    ],
+    "8": [
+      "unmould",
+      "the",
+      "ring",
+      "of",
+      "rice",
+      ",",
+      "put",
+      "some",
+      "of",
+      "the",
+      "fish",
+      "and",
+      "grape",
+      "mixture",
+      "into",
+      "the",
+      "centre",
+      "and",
+      "garnish",
+      "with",
+      "sprigs",
+      "of",
+      "mint",
+      "or",
+      "watercress",
+      "."
+    ],
+    "9": [
+      "serve",
+      "the",
+      "rest",
+      "of",
+      "the",
+      "fish",
+      "mixture",
+      "in",
+      "a",
+      "separate",
+      "bowl",
+      ",",
+      "and",
+      "hand",
+      "round",
+      "the",
+      "well-chilled",
+      "yoghurt",
+      "in",
+      "a",
+      "second",
+      "bowl",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cook"
+    ],
+    "1": [
+      "dress",
+      "refresh"
+    ],
+    "2": [
+      "chop",
+      "stir"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "press",
+      "cover",
+      "chill"
+    ],
+    "5": [
+      "toss"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "mix",
+      "bone",
+      "skin"
+    ],
+    "8": [
+      "put",
+      "garnish"
+    ],
+    "9": [
+      "serve",
+      "round"
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "events": {
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "7": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top",
+        "shell"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "cheese \"steak\" pizza",
+  "ingredient_list": [
+    "beef",
+    "pepper",
+    "onion",
+    "bread",
+    "cheese"
+  ],
+  "ingredients": {
+    "10": [
+      4
+    ],
+    "11": [
+      4
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2
+    ],
+    "6": [
+      3
+    ],
+    "7": [
+      0,
+      1,
+      2
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "9": [
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "30",
+      "minutes"
+    ],
+    "1": [
+      "heat",
+      "oven",
+      "to",
+      "400",
+      "f",
+      "."
+    ],
+    "10": [
+      "bake",
+      "8",
+      "o",
+      "10",
+      "minutes",
+      "or",
+      "until",
+      "cheese",
+      "is",
+      "melted",
+      ";"
+    ],
+    "11": [
+      "cut",
+      "into",
+      "8",
+      "wedges",
+      "."
+    ],
+    "2": [
+      "in",
+      "large",
+      "skillet",
+      ",",
+      "brown",
+      "ground",
+      "beef",
+      "over",
+      "medium",
+      "heat",
+      "6",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "add",
+      "bell",
+      "pepper",
+      "and",
+      "onion",
+      ";"
+    ],
+    "4": [
+      "cook",
+      "3",
+      "to",
+      "4",
+      "minutes",
+      "or",
+      "until",
+      "beef",
+      "is",
+      "no",
+      "longer",
+      "pink",
+      "and",
+      "vegetables",
+      "are",
+      "crisp-tender",
+      "."
+    ],
+    "5": [
+      "season",
+      "with",
+      "3/4",
+      "teaspoon",
+      "salt",
+      "and",
+      "1/2",
+      "teaspoon",
+      "pepper",
+      "."
+    ],
+    "6": [
+      "place",
+      "bread",
+      "shell",
+      "on",
+      "baking",
+      "sheet",
+      "."
+    ],
+    "7": [
+      "remove",
+      "beef",
+      "and",
+      "vegetables",
+      "from",
+      "skillet",
+      "with",
+      "slotted",
+      "spoon",
+      ";"
+    ],
+    "8": [
+      "arrange",
+      "on",
+      "top",
+      "of",
+      "bread",
+      "shell",
+      "."
+    ],
+    "9": [
+      "sprinkle",
+      "with",
+      "cheese",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "bake"
+    ],
+    "11": [
+      "cut"
+    ],
+    "2": [
+      "brown"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "cook"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "place"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "shell",
+      "arrange"
+    ],
+    "9": [
+      "sprinkle"
+    ]
+  }
+}

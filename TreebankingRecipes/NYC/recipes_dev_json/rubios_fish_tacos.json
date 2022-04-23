@@ -1,0 +1,355 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "rubios fish tacos",
+  "ingredient_list": [
+    "whitefish_fillet",
+    "tortilla",
+    "flour",
+    "beer",
+    "garlic",
+    "mayonaise",
+    "yogurt",
+    "garlic_clove",
+    "tomato",
+    "onion",
+    "cilantro_leaf",
+    "jalapeno_chile",
+    "salt",
+    "pepper",
+    "oil",
+    "cabbage",
+    "lime"
+  ],
+  "ingredients": {
+    "1": [
+      2,
+      4
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      14,
+      15,
+      16
+    ],
+    "11": [
+      1
+    ],
+    "2": [
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "5": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "6": [
+      14
+    ],
+    "7": [
+      0,
+      14
+    ],
+    "8": [
+      1
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      14,
+      15
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "approx",
+      "."
+    ],
+    "1": [
+      "mix",
+      "flour",
+      "with",
+      "favorite",
+      "spices",
+      "such",
+      "as",
+      "garlic",
+      "powder",
+      ",",
+      "red",
+      "or",
+      "black",
+      "ground",
+      "pepper",
+      "."
+    ],
+    "10": [
+      "top",
+      "it",
+      "off",
+      "with",
+      "a",
+      "squeeze",
+      "of",
+      "lime",
+      "."
+    ],
+    "11": [
+      "fold",
+      "tortilla",
+      "over",
+      "to",
+      "serve",
+      "."
+    ],
+    "2": [
+      "stir",
+      "the",
+      "flour",
+      "mixture",
+      "into",
+      "the",
+      "beer",
+      "and",
+      "mix",
+      "until",
+      "well",
+      "blended",
+      "."
+    ],
+    "3": [
+      "wash",
+      "fish",
+      "by",
+      "dipping",
+      "in",
+      "cold",
+      ",",
+      "lightly",
+      "salted",
+      "water",
+      "or",
+      "water",
+      "with",
+      "a",
+      "little",
+      "bit",
+      "of",
+      "lemon",
+      "juice",
+      "added",
+      "."
+    ],
+    "4": [
+      "prepare",
+      "salsa",
+      ";"
+    ],
+    "5": [
+      "reserve",
+      "."
+    ],
+    "6": [
+      "put",
+      "the",
+      "vegetable",
+      "oil",
+      "into",
+      "a",
+      "deep",
+      "skillet",
+      "and",
+      "bring",
+      "to",
+      "375f",
+      "."
+    ],
+    "7": [
+      "cook",
+      "fish",
+      "until",
+      "batter",
+      "is",
+      "crispy",
+      "and",
+      "golden",
+      "brown",
+      "."
+    ],
+    "8": [
+      "heat",
+      "corn",
+      "tortillas",
+      "lightly",
+      "in",
+      "a",
+      "skillet",
+      "or",
+      "mexican",
+      "comal",
+      "until",
+      "they",
+      "are",
+      "soft",
+      "and",
+      "hot",
+      "."
+    ],
+    "9": [
+      "to",
+      "assemble",
+      ",",
+      "on",
+      "each",
+      "tortilla",
+      "layer",
+      "the",
+      "fish",
+      "fillet",
+      ",",
+      "white",
+      "sauce",
+      ",",
+      "salsa",
+      "and",
+      "cabbage",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "mix"
+    ],
+    "10": [
+      "top"
+    ],
+    "11": [
+      "fold"
+    ],
+    "2": [
+      "mix",
+      "stir"
+    ],
+    "3": [
+      "wash",
+      "add",
+      "dip"
+    ],
+    "4": [
+      "prepare"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "put"
+    ],
+    "7": [
+      "cook"
+    ],
+    "8": [
+      "heat"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "shape": [
+        "molded"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "4": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "malawach",
+  "ingredient_list": [
+    "flour",
+    "margarine",
+    "water",
+    "tomato_sauce",
+    "salt",
+    "sour_cream"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      2,
+      4
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0,
+      2,
+      4
+    ],
+    "3": [
+      0,
+      2,
+      4
+    ],
+    "4": [
+      0,
+      2,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "malawach",
+      "is",
+      "one",
+      "of",
+      "a",
+      "number",
+      "of",
+      "dishes",
+      "brought",
+      "to",
+      "israel",
+      "by",
+      "the",
+      "jews",
+      "from",
+      "yemen",
+      "."
+    ],
+    "1": [
+      "mix",
+      "flour",
+      ",",
+      "water",
+      ",",
+      "and",
+      "salt",
+      "until",
+      "dough",
+      "becomes",
+      "soft",
+      "."
+    ],
+    "10": [
+      "form",
+      "each",
+      "piece",
+      "of",
+      "dough",
+      "to",
+      "the",
+      "shape",
+      "of",
+      "your",
+      "frying",
+      "pan",
+      "and",
+      "fry",
+      "until",
+      "golden",
+      "brown",
+      "on",
+      "both",
+      "sides",
+      "."
+    ],
+    "11": [
+      "serve",
+      "with",
+      "tomato",
+      "sauce",
+      "or",
+      "sour",
+      "cream",
+      "."
+    ],
+    "2": [
+      "add",
+      "more",
+      "flour",
+      "if",
+      "dough",
+      "is",
+      "sticky",
+      "."
+    ],
+    "3": [
+      "cut",
+      "dough",
+      "into",
+      "two",
+      "sections",
+      "."
+    ],
+    "4": [
+      "knead",
+      "and",
+      "roll",
+      "each",
+      "section",
+      "into",
+      "a",
+      "20x20",
+      "inch",
+      "sheet",
+      "."
+    ],
+    "5": [
+      "spread",
+      "margarine",
+      "on",
+      "the",
+      "sheets",
+      "."
+    ],
+    "6": [
+      "fold",
+      "each",
+      "sheet",
+      "like",
+      "an",
+      "envelope",
+      "with",
+      "ends",
+      "meeting",
+      "at",
+      "center",
+      "."
+    ],
+    "7": [
+      "repeat",
+      "folding",
+      "process",
+      "to",
+      "get",
+      "two",
+      "layers",
+      "of",
+      "folds",
+      "."
+    ],
+    "8": [
+      "cover",
+      "with",
+      "a",
+      "paper",
+      "towel",
+      ",",
+      "let",
+      "sit",
+      "for",
+      "1/2",
+      "hour",
+      "."
+    ],
+    "9": [
+      "cut",
+      "each",
+      "sheet",
+      "into",
+      "10",
+      "parts",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "mix"
+    ],
+    "10": [
+      "fry",
+      "form"
+    ],
+    "11": [
+      "serve"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cut"
+    ],
+    "4": [
+      "knead",
+      "roll"
+    ],
+    "5": [
+      "spread"
+    ],
+    "6": [
+      "fold"
+    ],
+    "7": [
+      "get"
+    ],
+    "8": [
+      "cover",
+      "sit"
+    ],
+    "9": [
+      "cut"
+    ]
+  }
+}

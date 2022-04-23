@@ -1,0 +1,333 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "1": {
+      "location": [
+        "blender",
+        "container"
+      ]
+    },
+    "10": {
+      "location": [
+        "glass"
+      ]
+    },
+    "12": {
+      "location": [
+        "glass"
+      ]
+    },
+    "13": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "14": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "shape": [
+        "deformed"
+      ]
+    }
+  },
+  "id": "chocolate drizzled berry parfaits",
+  "ingredient_list": [
+    "jell-o",
+    "cool",
+    "water",
+    "chocolate",
+    "orange_juice",
+    "melted",
+    "ice"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2
+    ],
+    "1": [
+      0,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "2": [
+      4,
+      6
+    ],
+    "3": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "4": [
+      6
+    ],
+    "6": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "completely",
+      "dissolve",
+      "gelatin",
+      "in",
+      "boiling",
+      "water",
+      "."
+    ],
+    "1": [
+      "pour",
+      "into",
+      "blender",
+      "container",
+      "."
+    ],
+    "10": [
+      "pour",
+      "1/2",
+      "of",
+      "the",
+      "mixture",
+      "into",
+      "6",
+      "straight-sided",
+      "dessert",
+      "glasses",
+      ";"
+    ],
+    "11": [
+      "let",
+      "stand",
+      "1",
+      "minute",
+      "."
+    ],
+    "12": [
+      "fill",
+      "glasses",
+      "with",
+      "remaining",
+      "mixture",
+      "."
+    ],
+    "13": [
+      "refrigerate",
+      "1",
+      "hour",
+      "or",
+      "until",
+      "set",
+      "."
+    ],
+    "14": [
+      "garnish",
+      "with",
+      "strawberries",
+      "and",
+      "drizzle",
+      "with",
+      "melted",
+      "chocolate",
+      "just",
+      "before",
+      "serving",
+      "."
+    ],
+    "2": [
+      "combine",
+      "orange",
+      "juice",
+      "and",
+      "ice",
+      "cubes",
+      "to",
+      "make",
+      "11/4",
+      "cups",
+      "."
+    ],
+    "3": [
+      "add",
+      "to",
+      "gelatin",
+      ";"
+    ],
+    "4": [
+      "stir",
+      "until",
+      "ice",
+      "is",
+      "partially",
+      "melted",
+      ";"
+    ],
+    "5": [
+      "cover",
+      "."
+    ],
+    "6": [
+      "blend",
+      "on",
+      "high",
+      "speed",
+      "10",
+      "seconds",
+      "."
+    ],
+    "7": [
+      "add",
+      "whipped",
+      "topping",
+      ";"
+    ],
+    "8": [
+      "cover",
+      "."
+    ],
+    "9": [
+      "blend",
+      "15",
+      "seconds",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "dissolve"
+    ],
+    "1": [
+      "pour"
+    ],
+    "10": [
+      "pour"
+    ],
+    "11": [
+      "stand"
+    ],
+    "12": [
+      "fill"
+    ],
+    "13": [
+      "refrigerate"
+    ],
+    "14": [
+      "garnish",
+      "drizzle"
+    ],
+    "2": [
+      "combine"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "blend"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "blend"
+    ]
+  }
+}

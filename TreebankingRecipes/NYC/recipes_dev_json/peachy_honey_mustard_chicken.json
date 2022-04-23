@@ -1,0 +1,291 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "location": [
+        "plate"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "peachy honey mustard chicken",
+  "ingredient_list": [
+    "vegetable_oil",
+    "chicken_cut",
+    "cling_sliced",
+    "mustard",
+    "honey",
+    "green_onion"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "4": [
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "heat",
+      "oil",
+      "in",
+      "12-inch",
+      "skillet",
+      "."
+    ],
+    "1": [
+      "add",
+      "chicken",
+      ";"
+    ],
+    "10": [
+      "spoon",
+      "over",
+      "chicken",
+      "and",
+      "serve",
+      "."
+    ],
+    "2": [
+      "brown",
+      "on",
+      "both",
+      "sides",
+      "over",
+      "high",
+      "heat",
+      ";"
+    ],
+    "3": [
+      "drain",
+      "off",
+      "fat",
+      "."
+    ],
+    "4": [
+      "in",
+      "small",
+      "bowl",
+      "blend",
+      "reserved",
+      "peach",
+      "liquid",
+      "with",
+      "mustard",
+      "and",
+      "honey",
+      "."
+    ],
+    "5": [
+      "pour",
+      "over",
+      "chicken",
+      ";"
+    ],
+    "6": [
+      "cover",
+      ",",
+      "reduce",
+      "heat",
+      "and",
+      "simmer",
+      "10",
+      "minutes",
+      "or",
+      "until",
+      "cooked",
+      "through",
+      "."
+    ],
+    "7": [
+      "remove",
+      "chicken",
+      "to",
+      "serving",
+      "plate",
+      "."
+    ],
+    "8": [
+      "add",
+      "peaches",
+      "and",
+      "green",
+      "onions",
+      "to",
+      "skillet",
+      "."
+    ],
+    "9": [
+      "boil",
+      "over",
+      "high",
+      "heat",
+      "to",
+      "thicken",
+      "slightly",
+      ",",
+      "about",
+      "5",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "spoon",
+      "serve"
+    ],
+    "2": [
+      "brown"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "blend"
+    ],
+    "5": [
+      "pour"
+    ],
+    "6": [
+      "cover",
+      "reduce",
+      "simmer"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "boil"
+    ]
+  }
+}

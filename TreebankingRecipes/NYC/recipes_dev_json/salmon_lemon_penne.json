@@ -1,0 +1,429 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "11": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "location": [
+        "plate"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "salmon lemon penne",
+  "ingredient_list": [
+    "penne_pastum",
+    "pasta_sauce",
+    "milk",
+    "butter",
+    "lemon_juice",
+    "lemon",
+    "mayonnaise",
+    "basil",
+    "salmon_fillet",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ],
+    "10": [
+      0
+    ],
+    "11": [
+      0
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      9
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "2": [
+      1,
+      2,
+      3
+    ],
+    "3": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "4": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "5": [
+      7,
+      6
+    ],
+    "6": [
+      7,
+      8,
+      6
+    ],
+    "7": [
+      7,
+      8,
+      9,
+      6
+    ],
+    "8": [
+      9
+    ],
+    "9": [
+      7,
+      8,
+      9,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "large",
+      "pot",
+      "of",
+      "salted",
+      "water",
+      ",",
+      "cook",
+      "the",
+      "penne",
+      "for",
+      "8-10",
+      "minutes",
+      "or",
+      "until",
+      "tender",
+      "but",
+      "firm",
+      "."
+    ],
+    "1": [
+      "in",
+      "a",
+      "saucepan",
+      "combine",
+      "the",
+      "sauce",
+      "mix",
+      ",",
+      "milk",
+      "and",
+      "butter",
+      "."
+    ],
+    "10": [
+      "drain",
+      "pasta",
+      ";"
+    ],
+    "11": [
+      "return",
+      "to",
+      "saucepan",
+      "."
+    ],
+    "12": [
+      "add",
+      "peppers",
+      "and",
+      "sauce",
+      ",",
+      "toss",
+      "well",
+      "."
+    ],
+    "13": [
+      "place",
+      "pasta",
+      "and",
+      "sauce",
+      "on",
+      "plate",
+      ",",
+      "top",
+      "with",
+      "salmon",
+      "."
+    ],
+    "14": [
+      "garnish",
+      "with",
+      "fresh",
+      "basil",
+      "leaves",
+      ",",
+      "serve",
+      "immediately"
+    ],
+    "2": [
+      "bring",
+      "to",
+      "boil",
+      "over",
+      "med-high",
+      "heat",
+      ",",
+      "stirring",
+      "constantly",
+      "."
+    ],
+    "3": [
+      "reduce",
+      "heat",
+      "to",
+      "med-low",
+      "and",
+      "add",
+      "lemon",
+      "juice",
+      "and",
+      "rind",
+      "."
+    ],
+    "4": [
+      "cook",
+      "uncovered",
+      "3-5",
+      "minutes",
+      ",",
+      "stirring",
+      "occasionally",
+      "."
+    ],
+    "5": [
+      "combine",
+      "mayonnaise",
+      "and",
+      "basil",
+      "."
+    ],
+    "6": [
+      "cut",
+      "salmon",
+      "fillets",
+      "into",
+      "3-4",
+      "portions",
+      ",",
+      "brush",
+      "with",
+      "mayonnaise",
+      "mixture",
+      "."
+    ],
+    "7": [
+      "broil",
+      "or",
+      "grill",
+      "the",
+      "salmon",
+      "and",
+      "peppers",
+      "for",
+      "5-10",
+      "minutes",
+      ",",
+      "turning",
+      "once",
+      ",",
+      "until",
+      "salmon",
+      "starts",
+      "to",
+      "flake",
+      "and",
+      "peppers",
+      "are",
+      "softened",
+      "."
+    ],
+    "8": [
+      "cut",
+      "peppers",
+      "into",
+      "strips",
+      ";"
+    ],
+    "9": [
+      "remove",
+      "skin",
+      "from",
+      "salmon",
+      "and",
+      "cut",
+      "into",
+      "chunks",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cook"
+    ],
+    "1": [
+      "combine"
+    ],
+    "10": [
+      "drain"
+    ],
+    "11": [
+      "return"
+    ],
+    "12": [
+      "toss",
+      "add"
+    ],
+    "13": [
+      "top",
+      "place"
+    ],
+    "14": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir",
+      "boil"
+    ],
+    "3": [
+      "add",
+      "reduce"
+    ],
+    "4": [
+      "cook",
+      "stir"
+    ],
+    "5": [
+      "combine"
+    ],
+    "6": [
+      "cut",
+      "brush"
+    ],
+    "7": [
+      "grill",
+      "broil",
+      "soften",
+      "turn"
+    ],
+    "8": [
+      "cut"
+    ],
+    "9": [
+      "cut",
+      "remove"
+    ]
+  }
+}

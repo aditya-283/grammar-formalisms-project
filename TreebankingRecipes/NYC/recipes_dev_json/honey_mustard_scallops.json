@@ -1,0 +1,327 @@
+{
+  "events": {
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "location": [
+        "platter"
+      ]
+    },
+    "3": {
+      "location": [
+        "pan"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "rotation": [
+        "turned"
+      ]
+    }
+  },
+  "id": "honey mustard scallops",
+  "ingredient_list": [
+    "fast",
+    "lemon_juice",
+    "carolyn",
+    "salt",
+    "scallop",
+    "ground",
+    "honey",
+    "pepper",
+    "mustard",
+    "lemon",
+    "curry_powder",
+    "desired"
+  ],
+  "ingredients": {
+    "10": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "11": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      4
+    ],
+    "3": [
+      4
+    ],
+    "4": [
+      10,
+      0,
+      6,
+      8
+    ],
+    "5": [
+      10,
+      0,
+      6,
+      8
+    ],
+    "6": [
+      7,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "8": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "9": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "line",
+      "a",
+      "15x10x1",
+      "''",
+      "baking",
+      "pan",
+      "with",
+      "foil",
+      ";"
+    ],
+    "1": [
+      "spray",
+      "with",
+      "pam",
+      "."
+    ],
+    "10": [
+      "broil",
+      "an",
+      "additional",
+      "2-5",
+      "minutes",
+      "or",
+      "until",
+      "scallops",
+      "just",
+      "become",
+      "opague",
+      "."
+    ],
+    "11": [
+      "garnish",
+      "with",
+      "lemon",
+      "slices",
+      ";"
+    ],
+    "12": [
+      "serve",
+      "with",
+      "hot",
+      "cooked",
+      "rice",
+      ",",
+      "if",
+      "desired",
+      "."
+    ],
+    "13": [
+      "6",
+      "servings",
+      "."
+    ],
+    "2": [
+      "pat",
+      "scallops",
+      "dry",
+      "with",
+      "paper",
+      "towels",
+      ";"
+    ],
+    "3": [
+      "arrange",
+      "in",
+      "a",
+      "single",
+      "layer",
+      "in",
+      "pan",
+      "."
+    ],
+    "4": [
+      "in",
+      "small",
+      "bowl",
+      ",",
+      "combine",
+      "honey",
+      ",",
+      "mustard",
+      ",",
+      "curry",
+      "powder",
+      "and",
+      "lemon",
+      "juice",
+      ";"
+    ],
+    "5": [
+      "stir",
+      "until",
+      "smooth",
+      "."
+    ],
+    "6": [
+      "sprinkle",
+      "scallops",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      ";"
+    ],
+    "7": [
+      "brush",
+      "with",
+      "half",
+      "of",
+      "honey",
+      "mustard",
+      "mixture",
+      "."
+    ],
+    "8": [
+      "broil",
+      "4-6",
+      "''",
+      "from",
+      "heat",
+      "for",
+      "6",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "turn",
+      "scallops",
+      "and",
+      "brush",
+      "with",
+      "remaining",
+      "honey-mustard",
+      "mixture",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "broil"
+    ],
+    "11": [
+      "garnish"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "pat"
+    ],
+    "3": [
+      "arrange"
+    ],
+    "4": [
+      "combine"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "sprinkle"
+    ],
+    "7": [
+      "brush"
+    ],
+    "8": [
+      "broil"
+    ],
+    "9": [
+      "turn",
+      "brush"
+    ]
+  }
+}

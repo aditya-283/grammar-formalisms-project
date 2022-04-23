@@ -1,0 +1,338 @@
+{
+  "events": {
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "shape": [
+        "molded"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "melina kanakaredes very easy tiropita greek cheese pies",
+  "ingredient_list": [
+    "cheese",
+    "salt",
+    "ricotta_cheese",
+    "pepper",
+    "eggs",
+    "skin",
+    "shrimp",
+    "egg_white"
+  ],
+  "ingredients": {
+    "4": [
+      0,
+      2,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "6": [
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "when",
+      "melina",
+      "kanakaredes",
+      "visits",
+      "her",
+      "family",
+      "in",
+      "akron",
+      ",",
+      "ohio",
+      ",",
+      "the",
+      "first",
+      "stop",
+      "on",
+      "her",
+      "list",
+      "is",
+      "her",
+      "uncles",
+      "'",
+      "candy",
+      "store",
+      ",",
+      "temo",
+      "'s",
+      "candy",
+      "."
+    ],
+    "1": [
+      "and",
+      "though",
+      "kanakaredes",
+      "never",
+      "mastered",
+      "the",
+      "art",
+      "of",
+      "concocting",
+      "sweet",
+      "confections",
+      ",",
+      "the",
+      "newly",
+      "married",
+      "actress",
+      "is",
+      "fond",
+      "of",
+      "making",
+      "ethnic",
+      "specialties",
+      "with",
+      "her",
+      "husband",
+      ",",
+      "fellow",
+      "greek",
+      "peter",
+      "constantinedes",
+      "."
+    ],
+    "10": [
+      "serve",
+      "as",
+      "an",
+      "appetizer",
+      "."
+    ],
+    "2": [
+      "together",
+      ",",
+      "they",
+      "make",
+      "everything",
+      "from",
+      "spanakopita",
+      "to",
+      "moussaka",
+      "and",
+      "tsatsiki",
+      "."
+    ],
+    "3": [
+      "kanakaredes",
+      "says",
+      "her",
+      "grandmother",
+      "areti",
+      "is",
+      "particularly",
+      "proud",
+      "of",
+      "the",
+      "actress",
+      "'s",
+      "daytime",
+      "profession",
+      "."
+    ],
+    "4": [
+      "blend",
+      "feta",
+      "cheese",
+      ",",
+      "ricotta",
+      "cheese",
+      ",",
+      "and",
+      "eggs",
+      "together",
+      "until",
+      "creamy",
+      "."
+    ],
+    "5": [
+      "add",
+      "shrimp",
+      ",",
+      "then",
+      "dill",
+      ",",
+      "salt",
+      ",",
+      "and",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "6": [
+      "brush",
+      "each",
+      "defrosted",
+      "won",
+      "ton",
+      "skin",
+      "with",
+      "beaten",
+      "egg",
+      "whites",
+      "to",
+      "keep",
+      "from",
+      "sticking",
+      "."
+    ],
+    "7": [
+      "spread",
+      "1",
+      "teaspoon",
+      "of",
+      "shrimp-and-cheese",
+      "mixture",
+      "ont",
+      "each",
+      "skin",
+      "."
+    ],
+    "8": [
+      "heat",
+      "oil",
+      "in",
+      "frying",
+      "pan",
+      "."
+    ],
+    "9": [
+      "fold",
+      "skins",
+      "in",
+      "half",
+      "and",
+      "fry",
+      "for",
+      "5",
+      "minutes",
+      "on",
+      "each",
+      "side",
+      ",",
+      "or",
+      "until",
+      "golden",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "blend"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "brush"
+    ],
+    "7": [
+      "spread"
+    ],
+    "8": [
+      "heat"
+    ],
+    "9": [
+      "fold",
+      "fry"
+    ]
+  }
+}

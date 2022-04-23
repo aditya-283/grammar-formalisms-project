@@ -1,0 +1,291 @@
+{
+  "events": {
+    "1": {
+      "cleanliness": [
+        "clean"
+      ],
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "accessibility": [
+        "not_accessible"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "fat-free bran muffins",
+  "ingredient_list": [
+    "wheat_bran",
+    "buttermilk",
+    "flour",
+    "baking_powder",
+    "raisin",
+    "applesauce",
+    "egg_white",
+    "molass",
+    "vanilla"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      1
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      2,
+      3,
+      4
+    ],
+    "3": [
+      7,
+      8,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "375",
+      "degrees",
+      "."
+    ],
+    "1": [
+      "soak",
+      "bran",
+      "in",
+      "buttermilk",
+      "for",
+      "10",
+      "minuets",
+      "."
+    ],
+    "10": [
+      "serve",
+      "warm",
+      "."
+    ],
+    "11": [
+      "store",
+      "at",
+      "room",
+      "temperature",
+      "up",
+      "to",
+      "1",
+      "day",
+      "."
+    ],
+    "2": [
+      "in",
+      "a",
+      "large",
+      "bowl",
+      ",",
+      "combine",
+      "flour",
+      ",",
+      "baking",
+      "poder",
+      ",",
+      "and",
+      "raisins",
+      "."
+    ],
+    "3": [
+      "in",
+      "a",
+      "medium",
+      "bowl",
+      ",",
+      "combine",
+      "applesauce",
+      ",",
+      "egg",
+      "whites",
+      ",",
+      "molasses",
+      ",",
+      "and",
+      "vanilla",
+      "."
+    ],
+    "4": [
+      "add",
+      "soaked",
+      "bran",
+      "to",
+      "flour",
+      "mixture",
+      "."
+    ],
+    "5": [
+      "then",
+      "add",
+      "molasses",
+      "misture",
+      "."
+    ],
+    "6": [
+      "use",
+      "rubber",
+      "spatula",
+      "to",
+      "combine",
+      "for",
+      "about",
+      "15",
+      "strokes",
+      "."
+    ],
+    "7": [
+      "do",
+      "n't",
+      "overmix",
+      "."
+    ],
+    "8": [
+      "spray",
+      "muffin",
+      "tins",
+      "with",
+      "nonfat",
+      ",",
+      "nonstick",
+      "spray",
+      "."
+    ],
+    "9": [
+      "bake",
+      "20-25",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "soak"
+    ],
+    "10": [
+      "serve"
+    ],
+    "11": [
+      "store"
+    ],
+    "2": [
+      "combine"
+    ],
+    "3": [
+      "combine"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "combine"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

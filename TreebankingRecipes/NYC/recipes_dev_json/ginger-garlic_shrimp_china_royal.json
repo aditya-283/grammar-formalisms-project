@@ -1,0 +1,292 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "location": [
+        "wok"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "ginger-garlic shrimp china royal",
+  "ingredient_list": [
+    "shrimp",
+    "vegetable_oil",
+    "ginger",
+    "cloves_garlic",
+    "green",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "slit",
+      "the",
+      "shrimp",
+      "up",
+      "the",
+      "back",
+      "with",
+      "a",
+      "sharp",
+      "knife",
+      "and",
+      "remove",
+      "the",
+      "vein",
+      "."
+    ],
+    "1": [
+      "heat",
+      "the",
+      "oil",
+      "in",
+      "a",
+      "wok",
+      "or",
+      "wide",
+      "heavy",
+      "skillet",
+      "."
+    ],
+    "10": [
+      "serve",
+      "at",
+      "once",
+      "."
+    ],
+    "2": [
+      "when",
+      "the",
+      "oil",
+      "is",
+      "rippling",
+      ",",
+      "throw",
+      "in",
+      "the",
+      "shrimp",
+      "and",
+      "stir-fry",
+      "over",
+      "high",
+      "heat",
+      "for",
+      "2",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "drain",
+      "very",
+      "well",
+      "."
+    ],
+    "4": [
+      "return",
+      "1/2",
+      "t",
+      "oil",
+      "to",
+      "the",
+      "wok",
+      "."
+    ],
+    "5": [
+      "heat",
+      "."
+    ],
+    "6": [
+      "throw",
+      "in",
+      "the",
+      "shrimp",
+      "along",
+      "with",
+      "the",
+      "ginger",
+      ",",
+      "garlic",
+      ",",
+      "and",
+      "onions",
+      "."
+    ],
+    "7": [
+      "stir-fry",
+      "for",
+      "20",
+      "seconds",
+      "."
+    ],
+    "8": [
+      "season",
+      "with",
+      "salt",
+      "and",
+      "freshly",
+      "ground",
+      "pepper",
+      "."
+    ],
+    "9": [
+      "stir-fry",
+      "for",
+      "an",
+      "additional",
+      "20",
+      "seconds",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "slit",
+      "remove"
+    ],
+    "1": [
+      "heat"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir-fry"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "return"
+    ],
+    "5": [
+      "heat"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "stir-fry"
+    ],
+    "8": [
+      "season"
+    ],
+    "9": [
+      "stir-fry"
+    ]
+  }
+}

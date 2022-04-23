@@ -1,0 +1,286 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "rack",
+        "roaster"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "walnut stuffed pheasant",
+  "ingredient_list": [
+    "pheasant",
+    "pepper",
+    "butter",
+    "salt",
+    "turkey_bourbon",
+    "walnut",
+    "thyme",
+    "grape"
+  ],
+  "ingredients": {
+    "1": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "3": [
+      7
+    ],
+    "4": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "425",
+      "degrees",
+      "."
+    ],
+    "1": [
+      "melt",
+      "butter",
+      "in",
+      "small",
+      "saucepan",
+      "and",
+      "mix",
+      "in",
+      "bourbon",
+      ",",
+      "thyme",
+      ",",
+      "pepper",
+      ",",
+      "and",
+      "salt",
+      "."
+    ],
+    "2": [
+      "rub",
+      "birds",
+      "inside",
+      "and",
+      "out",
+      "with",
+      "part",
+      "of",
+      "seasoned",
+      "butter",
+      "mixture",
+      "."
+    ],
+    "3": [
+      "mash",
+      "half",
+      "the",
+      "grapes",
+      "."
+    ],
+    "4": [
+      "mix",
+      "mashed",
+      "grapes",
+      ",",
+      "whole",
+      "grapes",
+      ",",
+      "and",
+      "walnuts",
+      "with",
+      "remaining",
+      "seasoned",
+      "butter",
+      "untill",
+      "well",
+      "blended",
+      "."
+    ],
+    "5": [
+      "place",
+      "mixture",
+      "inside",
+      "birds",
+      "and",
+      "truss",
+      "birds",
+      "closed",
+      "."
+    ],
+    "6": [
+      "place",
+      "birds",
+      "on",
+      "rack",
+      "in",
+      "open",
+      "roaster",
+      ",",
+      "breast",
+      "side",
+      "up",
+      "."
+    ],
+    "7": [
+      "roast",
+      "for",
+      "15",
+      "minutes",
+      ",",
+      "reduce",
+      "oven",
+      "temperature",
+      "to",
+      "325",
+      "degrees",
+      "and",
+      "continue",
+      "roasting",
+      "for",
+      "45",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "baste",
+      "frequently",
+      "with",
+      "drippings",
+      "."
+    ],
+    "9": [
+      "per",
+      "gale",
+      "barrows",
+      "fidonet",
+      "cooking",
+      "echo"
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "mix",
+      "melt"
+    ],
+    "2": [
+      "rub"
+    ],
+    "3": [
+      "mash"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "place"
+    ],
+    "6": [
+      "place"
+    ],
+    "7": [
+      "reduce",
+      "roast"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

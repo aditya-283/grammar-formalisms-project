@@ -1,0 +1,359 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "processor",
+        "bowl"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan",
+        "cup"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "unknown"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "spice  peach muffins",
+  "ingredient_list": [
+    "flour",
+    "sugar",
+    "baking_powder",
+    "salt",
+    "cinnamon",
+    "nutmeg",
+    "peach_slice",
+    "cereal",
+    "egg_white",
+    "sugar",
+    "almond",
+    "vegetable_cooking"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "2": [
+      6
+    ],
+    "3": [
+      7,
+      8,
+      6
+    ],
+    "4": [
+      7,
+      8,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "large",
+      "mixing",
+      "bowl",
+      ",",
+      "stir",
+      "together",
+      "flour",
+      ",",
+      "granulated",
+      "sugar",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "salt",
+      "and",
+      "spices",
+      "."
+    ],
+    "1": [
+      "set",
+      "aside",
+      "."
+    ],
+    "10": [
+      "serve",
+      "warm",
+      "."
+    ],
+    "2": [
+      "drain",
+      "peaches",
+      ",",
+      "reserving",
+      "liquid",
+      "."
+    ],
+    "3": [
+      "place",
+      "peaches",
+      ",",
+      "rice",
+      "krispies",
+      "cereal",
+      ",",
+      "egg",
+      "whites",
+      "and",
+      "3/4",
+      "cup",
+      "of",
+      "the",
+      "peach",
+      "liquid",
+      "in",
+      "food",
+      "processor",
+      "bowl",
+      "."
+    ],
+    "4": [
+      "using",
+      "metal",
+      "blade",
+      ",",
+      "process",
+      "mixture",
+      "about",
+      "45",
+      "seconds",
+      "or",
+      "until",
+      "smooth",
+      "."
+    ],
+    "5": [
+      "add",
+      "to",
+      "flour",
+      "mixture",
+      "stirring",
+      "only",
+      "until",
+      "combined",
+      "."
+    ],
+    "6": [
+      "portion",
+      "evenly",
+      "into",
+      "twelve",
+      "1/2-inch",
+      "muffin-pan",
+      "cups",
+      "coated",
+      "with",
+      "cooking",
+      "spray",
+      "."
+    ],
+    "7": [
+      "about",
+      "23",
+      "minutes",
+      "or",
+      "until",
+      "golden",
+      "brown",
+      "."
+    ],
+    "8": [
+      "remove",
+      "from",
+      "pan",
+      "and",
+      "drizzle",
+      "with",
+      "mixture",
+      "of",
+      "powdered",
+      "sugar",
+      "and",
+      "2",
+      "tablespoons",
+      "peach",
+      "liquid",
+      "or",
+      "hot",
+      "water",
+      "."
+    ],
+    "9": [
+      "sprinkle",
+      "with",
+      "almonds",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "stir"
+    ],
+    "1": [
+      "set"
+    ],
+    "10": [
+      "serve"
+    ],
+    "2": [
+      "drain"
+    ],
+    "3": [
+      "place"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "add",
+      "stir"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "drizzle",
+      "remove"
+    ],
+    "9": [
+      "sprinkle"
+    ]
+  }
+}

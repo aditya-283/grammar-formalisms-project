@@ -1,0 +1,394 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "glass",
+        "dish"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "glass",
+        "dish"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "risotto scampi",
+  "ingredient_list": [
+    "shrimp",
+    "clove_garlic",
+    "lemon_juice",
+    "parsley",
+    "butter",
+    "clove_garlic",
+    "onion",
+    "chicken",
+    "white_wine",
+    "rice",
+    "parmesan_cheese"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "10": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "5": [
+      4,
+      5,
+      6
+    ],
+    "6": [
+      4,
+      5,
+      6
+    ],
+    "7": [
+      9,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "9": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "to",
+      "prepare",
+      "prawns",
+      "peel",
+      ",",
+      "devein",
+      ",",
+      "and",
+      "cut",
+      "in",
+      "half",
+      "."
+    ],
+    "1": [
+      "toss",
+      "with",
+      "lemon",
+      "juice",
+      ",",
+      "garlic",
+      ",",
+      "and",
+      "parsley",
+      "."
+    ],
+    "10": [
+      "reduce",
+      "high",
+      "to",
+      "medium",
+      "and",
+      "cook",
+      "another",
+      "6",
+      "minutes",
+      "."
+    ],
+    "11": [
+      "stir",
+      "in",
+      "prawns",
+      "an",
+      "d",
+      "their",
+      "juice",
+      "and",
+      "cook",
+      "3",
+      "minutes",
+      "on",
+      "high",
+      "."
+    ],
+    "12": [
+      "mix",
+      "in",
+      "cheese",
+      "and",
+      "let",
+      "stand",
+      "5",
+      "minutes",
+      "."
+    ],
+    "2": [
+      "-lsb-",
+      "preferrably",
+      "marinate",
+      "for",
+      "an",
+      "hour",
+      "-rsb-",
+      "."
+    ],
+    "3": [
+      "place",
+      "in",
+      "glass",
+      "dish",
+      "and",
+      "microwave",
+      "for",
+      "3",
+      "minutes",
+      "on",
+      "high",
+      "."
+    ],
+    "4": [
+      "set",
+      "aside",
+      "."
+    ],
+    "5": [
+      "to",
+      "prepare",
+      "risotto",
+      "in",
+      "glass",
+      "serving",
+      "dish",
+      ",",
+      "combine",
+      "butter",
+      ",",
+      "garlic",
+      "and",
+      "onion",
+      "."
+    ],
+    "6": [
+      "cook",
+      "on",
+      "high",
+      "2-3",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "stir",
+      "in",
+      "rice",
+      "to",
+      "coat",
+      "."
+    ],
+    "8": [
+      "add",
+      "in",
+      "heated",
+      "broth",
+      "and",
+      "wine",
+      "."
+    ],
+    "9": [
+      "cover",
+      "and",
+      "cook",
+      "on",
+      "high",
+      "6",
+      "minutes",
+      "until",
+      "boiling",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut"
+    ],
+    "1": [
+      "toss"
+    ],
+    "10": [
+      "cook",
+      "reduce"
+    ],
+    "11": [
+      "cook",
+      "stir"
+    ],
+    "12": [
+      "mix",
+      "stand"
+    ],
+    "2": [
+      "marinate"
+    ],
+    "3": [
+      "place",
+      "microwave"
+    ],
+    "4": [
+      "set"
+    ],
+    "5": [
+      "combine",
+      "prepare"
+    ],
+    "6": [
+      "cook"
+    ],
+    "7": [
+      "stir"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "cook",
+      "cover"
+    ]
+  }
+}

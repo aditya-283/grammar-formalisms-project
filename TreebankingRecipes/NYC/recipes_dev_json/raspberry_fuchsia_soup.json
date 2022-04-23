@@ -1,0 +1,375 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "1": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "location": [
+        "pan"
+      ]
+    },
+    "12": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "13": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "14": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "location": [
+        "pan"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "7": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "raspberry fuchsia soup",
+  "ingredient_list": [
+    "raspberry",
+    "water",
+    "lemon_juice",
+    "lemon",
+    "arrowroot",
+    "syrup",
+    "strawberry_wine",
+    "sour_cream",
+    "raspberry"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0,
+      1
+    ],
+    "5": [
+      0,
+      1
+    ],
+    "6": [
+      0,
+      1
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      2,
+      3,
+      4
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "puree",
+      "raspberries",
+      "for",
+      "soup",
+      ";"
+    ],
+    "1": [
+      "strain",
+      "through",
+      "a",
+      "sieve",
+      "into",
+      "bowl",
+      ";"
+    ],
+    "10": [
+      "add",
+      "maple",
+      "syrup",
+      "and",
+      "wine",
+      ";"
+    ],
+    "11": [
+      "transfer",
+      "to",
+      "sauce",
+      "pan",
+      "."
+    ],
+    "12": [
+      "simmer",
+      "over",
+      "low",
+      "heat",
+      "until",
+      "thick",
+      "."
+    ],
+    "13": [
+      "refrigerate",
+      "2",
+      "hours",
+      "."
+    ],
+    "14": [
+      "serve",
+      "in",
+      "individual",
+      "bowls",
+      "with",
+      "a",
+      "dollop",
+      "of",
+      "sour",
+      "cream",
+      "and",
+      "a",
+      "spoonful",
+      "of",
+      "berries",
+      "on",
+      "top",
+      "of",
+      "each",
+      "bowl",
+      "."
+    ],
+    "2": [
+      "set",
+      "aside",
+      "."
+    ],
+    "3": [
+      "take",
+      "seeds",
+      "and",
+      "rind",
+      "left",
+      "in",
+      "sieve",
+      "and",
+      "transfer",
+      "to",
+      "sauce",
+      "pan",
+      ";"
+    ],
+    "4": [
+      "add",
+      "water",
+      ";"
+    ],
+    "5": [
+      "simmer",
+      "for",
+      "5",
+      "minutes",
+      ";"
+    ],
+    "6": [
+      "strain",
+      "into",
+      "bowl",
+      "containing",
+      "berry",
+      "juice",
+      ";"
+    ],
+    "7": [
+      "discard",
+      "seeds",
+      "remaining",
+      "in",
+      "sieve",
+      "."
+    ],
+    "8": [
+      "combine",
+      "lemon",
+      "juice",
+      ",",
+      "lemon",
+      "rind",
+      "and",
+      "arrowroot",
+      "."
+    ],
+    "9": [
+      "add",
+      "to",
+      "berry",
+      "juice",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "puree"
+    ],
+    "1": [
+      "strain"
+    ],
+    "10": [
+      "add"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "simmer"
+    ],
+    "13": [
+      "refrigerate"
+    ],
+    "14": [
+      "serve"
+    ],
+    "2": [
+      "set"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "simmer"
+    ],
+    "6": [
+      "strain"
+    ],
+    "7": [
+      "discard"
+    ],
+    "8": [
+      "combine"
+    ],
+    "9": [
+      "add"
+    ]
+  }
+}

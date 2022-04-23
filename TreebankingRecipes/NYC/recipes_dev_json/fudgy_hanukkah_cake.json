@@ -1,0 +1,509 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "fudgy hanukkah cake",
+  "ingredient_list": [
+    "sugar",
+    "flour",
+    "cocoa_powder",
+    "baking_soda",
+    "baking_powder",
+    "cinnamon",
+    "salt",
+    "egg",
+    "egg_white",
+    "buttermilk",
+    "coffee",
+    "oil",
+    "cocoa_powder",
+    "sugar",
+    "cornstarch",
+    "milk",
+    "corn_syrup",
+    "vanilla",
+    "edible_gold"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "1": [
+      7,
+      8
+    ],
+    "10": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "11": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "2": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "8": [
+      12,
+      13,
+      14
+    ],
+    "9": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "bowl",
+      ",",
+      "combine",
+      "brown",
+      "sugar",
+      ",",
+      "flour",
+      ",",
+      "cocoa",
+      ",",
+      "baking",
+      "soda",
+      "and",
+      "baking",
+      "powder",
+      ",",
+      "cinnamon",
+      "and",
+      "salt",
+      "."
+    ],
+    "1": [
+      "in",
+      "separate",
+      "bowl",
+      ",",
+      "beat",
+      "together",
+      "egg",
+      "and",
+      "egg",
+      "white",
+      ";"
+    ],
+    "10": [
+      "bring",
+      "to",
+      "boil",
+      "over",
+      "medium-high",
+      "heat",
+      ",",
+      "whisking",
+      "constantly",
+      ",",
+      "reduce",
+      "heat",
+      "to",
+      "low",
+      "and",
+      "cook",
+      ",",
+      "whisking",
+      "for",
+      "1",
+      "to",
+      "2",
+      "minutes",
+      "or",
+      "till",
+      "thickened",
+      "and",
+      "glossy",
+      "."
+    ],
+    "11": [
+      "let",
+      "cool",
+      "for",
+      "5",
+      "minutes",
+      "."
+    ],
+    "12": [
+      "spread",
+      "evenly",
+      "over",
+      "cake",
+      "."
+    ],
+    "13": [
+      "sprinkle",
+      "with",
+      "glitter",
+      "if",
+      "using",
+      "."
+    ],
+    "2": [
+      "beat",
+      "in",
+      "buttermilk",
+      ",",
+      "coffee",
+      "and",
+      "oil",
+      "."
+    ],
+    "3": [
+      "make",
+      "a",
+      "well",
+      "in",
+      "sugar",
+      "mixture",
+      ";"
+    ],
+    "4": [
+      "pour",
+      "coffee",
+      "mixture",
+      "into",
+      "well",
+      "and",
+      "whisk",
+      "just",
+      "till",
+      "blended",
+      "."
+    ],
+    "5": [
+      "pour",
+      "into",
+      "greased",
+      "8",
+      "''",
+      "square",
+      "cake",
+      "pans",
+      "."
+    ],
+    "6": [
+      "bake",
+      "in",
+      "350f",
+      "oven",
+      "for",
+      "30",
+      "to",
+      "40",
+      "min",
+      "or",
+      "till",
+      "tester",
+      "inserted",
+      "into",
+      "centre",
+      "comes",
+      "out",
+      "clean",
+      "and",
+      "cake",
+      "springs",
+      "back",
+      "when",
+      "pressed",
+      "."
+    ],
+    "7": [
+      "let",
+      "cool",
+      "in",
+      "pan",
+      "on",
+      "rack",
+      "for",
+      "20",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "in",
+      "small",
+      "saucepan",
+      ",",
+      "combine",
+      "cocoa",
+      ",",
+      "sugar",
+      "and",
+      "cornstarch",
+      "."
+    ],
+    "9": [
+      "whisk",
+      "in",
+      "milk",
+      "until",
+      "blended",
+      ",",
+      "then",
+      "corn",
+      "syrup",
+      "and",
+      "vanilla",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "beat"
+    ],
+    "10": [
+      "cook",
+      "reduce",
+      "whisk"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "spread"
+    ],
+    "13": [
+      "sprinkle"
+    ],
+    "2": [
+      "beat"
+    ],
+    "3": [
+      "make"
+    ],
+    "4": [
+      "whisk",
+      "pour"
+    ],
+    "5": [
+      "pour"
+    ],
+    "6": [
+      "press",
+      "insert",
+      "bake"
+    ],
+    "7": [
+      "cool"
+    ],
+    "8": [
+      "combine"
+    ],
+    "9": [
+      "whisk"
+    ]
+  }
+}

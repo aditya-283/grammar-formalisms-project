@@ -1,0 +1,361 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "9": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    }
+  },
+  "id": "hersheys cocoa cream pie",
+  "ingredient_list": [
+    "cocoa",
+    "sugar",
+    "cornstarch",
+    "salt",
+    "milk",
+    "margarine",
+    "vanilla",
+    "inch",
+    "cream"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "medium",
+      "saucepan",
+      ",",
+      "stir",
+      "together",
+      "cocoa",
+      ",",
+      "sugar",
+      ",",
+      "cornstarch",
+      "and",
+      "salt",
+      "."
+    ],
+    "1": [
+      "gradually",
+      "add",
+      "milk",
+      "to",
+      "dry",
+      "ingredients",
+      ",",
+      "stirring",
+      "until",
+      "smooth",
+      "."
+    ],
+    "10": [
+      "top",
+      "with",
+      "whipped",
+      "cream",
+      "."
+    ],
+    "11": [
+      "cover",
+      ";"
+    ],
+    "12": [
+      "refrigerate",
+      "leftover",
+      "pie",
+      "."
+    ],
+    "13": [
+      "6",
+      "to",
+      "8",
+      "servings",
+      "."
+    ],
+    "14": [
+      "hershey",
+      "'s",
+      "is",
+      "a",
+      "registered",
+      "trademark",
+      "of",
+      "hershey",
+      "foods",
+      "corporation",
+      "."
+    ],
+    "2": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "until",
+      "mixture",
+      "boils",
+      ";"
+    ],
+    "3": [
+      "boil",
+      "l",
+      "minute",
+      "."
+    ],
+    "4": [
+      "remove",
+      "from",
+      "heat",
+      ";"
+    ],
+    "5": [
+      "stir",
+      "in",
+      "butter",
+      "and",
+      "vanilla",
+      "."
+    ],
+    "6": [
+      "pour",
+      "into",
+      "baked",
+      "pie",
+      "crust",
+      "."
+    ],
+    "7": [
+      "carefully",
+      "press",
+      "plastic",
+      "wrap",
+      "directly",
+      "onto",
+      "pie",
+      "filling",
+      "."
+    ],
+    "8": [
+      "cool",
+      ";"
+    ],
+    "9": [
+      "refrigerate",
+      "6",
+      "to",
+      "8",
+      "hours",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "stir"
+    ],
+    "1": [
+      "add",
+      "stir"
+    ],
+    "10": [
+      "top"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "refrigerate"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "14": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook",
+      "stir"
+    ],
+    "3": [
+      "boil"
+    ],
+    "4": [
+      "remove"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "pour"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "cool"
+    ],
+    "9": [
+      "refrigerate"
+    ]
+  }
+}

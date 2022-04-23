@@ -1,0 +1,419 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "10": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "11": {
+      "location": [
+        "dish"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "location": [
+        "pan"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "sour cream-walnut coffee cake",
+  "ingredient_list": [
+    "butter",
+    "soda",
+    "sugar",
+    "salt",
+    "eggs",
+    "sour_cream",
+    "vanilla",
+    "sugar",
+    "flour",
+    "cinnamon",
+    "baking_powder",
+    "walnut",
+    "sugar",
+    "vanilla",
+    "vater"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2
+    ],
+    "1": [
+      0,
+      2,
+      4
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "2": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "3": [
+      8,
+      1,
+      10,
+      3
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10
+    ],
+    "5": [
+      7,
+      9,
+      11
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10
+    ],
+    "7": [
+      7,
+      9,
+      11
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "butter",
+      "and",
+      "sugar",
+      ",",
+      "creaming",
+      "until",
+      "light",
+      "and",
+      "fluffy",
+      "."
+    ],
+    "1": [
+      "add",
+      "eggs",
+      ",",
+      "one",
+      "at",
+      "a",
+      "time",
+      ",",
+      "beating",
+      "well",
+      "after",
+      "each",
+      "addition",
+      "."
+    ],
+    "10": [
+      "let",
+      "stand",
+      "5",
+      "minutes",
+      "before",
+      "removing",
+      "from",
+      "pan",
+      "."
+    ],
+    "11": [
+      "place",
+      "on",
+      "serving",
+      "dish",
+      ",",
+      "and",
+      "drizzle",
+      "with",
+      "glaze",
+      "."
+    ],
+    "12": [
+      "combine",
+      "all",
+      "ingredients",
+      ",",
+      "mixing",
+      "well",
+      "."
+    ],
+    "13": [
+      "about",
+      "1",
+      "cup",
+      "."
+    ],
+    "2": [
+      "stir",
+      "in",
+      "vanilla",
+      "."
+    ],
+    "3": [
+      "combine",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "soda",
+      ",",
+      "and",
+      "salt",
+      ";"
+    ],
+    "4": [
+      "add",
+      "to",
+      "creamed",
+      "mixture",
+      "alternately",
+      "with",
+      "sour",
+      "cream",
+      ",",
+      "mixing",
+      "well",
+      "after",
+      "each",
+      "addition",
+      "."
+    ],
+    "5": [
+      "combine",
+      "brown",
+      "sugar",
+      ",",
+      "cinnamon",
+      ",",
+      "and",
+      "walnuts",
+      ",",
+      "mixing",
+      "well",
+      "."
+    ],
+    "6": [
+      "spoon",
+      "about",
+      "1/3",
+      "of",
+      "batter",
+      "into",
+      "a",
+      "greased",
+      "and",
+      "floured",
+      "10",
+      "''",
+      "tube",
+      "pan",
+      "or",
+      "bundt",
+      "pan",
+      ";"
+    ],
+    "7": [
+      "sprinkle",
+      "with",
+      "one-third",
+      "of",
+      "nut",
+      "mixture",
+      "."
+    ],
+    "8": [
+      "repeat",
+      "layers",
+      "twice",
+      ";"
+    ],
+    "9": [
+      "bake",
+      "at",
+      "350",
+      "degrees",
+      "for",
+      "1",
+      "hour",
+      "or",
+      "until",
+      "done",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine",
+      "cream"
+    ],
+    "1": [
+      "beat",
+      "add"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "place",
+      "drizzle"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "combine"
+    ],
+    "4": [
+      "mix",
+      "add"
+    ],
+    "5": [
+      "mix",
+      "combine"
+    ],
+    "6": [
+      "spoon"
+    ],
+    "7": [
+      "sprinkle"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

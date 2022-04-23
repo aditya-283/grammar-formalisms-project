@@ -1,0 +1,401 @@
+{
+  "events": {
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "iron",
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "iron",
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "trout sauteed in butter",
+  "ingredient_list": [
+    "salt",
+    "pepper",
+    "trout",
+    "flour",
+    "butter",
+    "parsley",
+    "lemon_wedge"
+  ],
+  "ingredients": {
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      4,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "as",
+      "every",
+      "angler",
+      "knows",
+      ",",
+      "skillet-size",
+      "brook",
+      ",",
+      "brown",
+      ",",
+      "and",
+      "rainbow",
+      "trout",
+      "are",
+      "never",
+      "more",
+      "tasty",
+      "than",
+      "when",
+      "prepared",
+      "this",
+      "way",
+      "."
+    ],
+    "1": [
+      "yet",
+      ",",
+      "at",
+      "the",
+      "same",
+      "time",
+      ",",
+      "one",
+      "wants",
+      "the",
+      "flesh",
+      "moist",
+      "but",
+      "with",
+      "the",
+      "outside",
+      "golden",
+      "brown",
+      "."
+    ],
+    "2": [
+      "salt",
+      ",",
+      "pepper",
+      "and",
+      "coat",
+      "the",
+      "trout",
+      "by",
+      "rolling",
+      "them",
+      "in",
+      "the",
+      "flour",
+      "."
+    ],
+    "3": [
+      "melt",
+      "the",
+      "butter",
+      "in",
+      "a",
+      "big",
+      "iron",
+      "skillet",
+      "."
+    ],
+    "4": [
+      "cook",
+      "the",
+      "trout",
+      "slowly",
+      "and",
+      "at",
+      "the",
+      "same",
+      "time",
+      "brown",
+      "the",
+      "trout",
+      "."
+    ],
+    "5": [
+      "just",
+      "as",
+      "soon",
+      "as",
+      "the",
+      "flour",
+      "coating",
+      "has",
+      "set",
+      "on",
+      "the",
+      "down",
+      "side",
+      ",",
+      "loosen",
+      "each",
+      "trout",
+      "from",
+      "the",
+      "skillet",
+      ",",
+      "shaking",
+      "the",
+      "skillet",
+      "gently",
+      "to",
+      "keep",
+      "the",
+      "slow",
+      "browning",
+      "trout",
+      "free",
+      "."
+    ],
+    "6": [
+      "after",
+      "10",
+      "minutes",
+      "of",
+      "slow",
+      "browning",
+      ",",
+      "turn",
+      "each",
+      "trout",
+      "carefully",
+      "and",
+      "repeat",
+      "the",
+      "above",
+      "process",
+      "."
+    ],
+    "7": [
+      "when",
+      "you",
+      "serve",
+      "the",
+      "trout",
+      ",",
+      "pour",
+      "a",
+      "bit",
+      "of",
+      "the",
+      "butter",
+      "over",
+      "each",
+      "and",
+      "garnish",
+      "with",
+      "a",
+      "sprig",
+      "of",
+      "parsley",
+      "and",
+      "a",
+      "wedge",
+      "of",
+      "lemon",
+      "."
+    ],
+    "8": [
+      "if",
+      "you",
+      "wish",
+      ",",
+      "add",
+      "a",
+      "couple",
+      "of",
+      "pats",
+      "of",
+      "butter",
+      "to",
+      "the",
+      "skillet",
+      "after",
+      "the",
+      "trout",
+      "has",
+      "been",
+      "served",
+      ",",
+      "melt",
+      "them",
+      ",",
+      "squeeze",
+      "in",
+      "a",
+      "tablespoon",
+      "of",
+      "lemon",
+      "juice",
+      ",",
+      "turn",
+      "up",
+      "the",
+      "heat",
+      ",",
+      "and",
+      "stir",
+      "."
+    ],
+    "9": [
+      "then",
+      "pour",
+      "this",
+      "lemon-butter",
+      "sauce",
+      "over",
+      "each",
+      "trout",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "coat",
+      "roll"
+    ],
+    "3": [
+      "melt"
+    ],
+    "4": [
+      "cook",
+      "brown"
+    ],
+    "5": [
+      "shake"
+    ],
+    "6": [
+      "turn"
+    ],
+    "7": [
+      "garnish",
+      "serve",
+      "pour"
+    ],
+    "8": [
+      "add",
+      "melt",
+      "turn",
+      "squeeze",
+      "stir"
+    ],
+    "9": [
+      "pour"
+    ]
+  }
+}

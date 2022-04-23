@@ -1,0 +1,317 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "4": {
+      "location": [
+        "kettle"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "kettle"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "kettle"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "kettle"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "dutch pot pie",
+  "ingredient_list": [
+    "egg",
+    "butter",
+    "milk",
+    "cream",
+    "soda",
+    "flour",
+    "salt",
+    "potato",
+    "parsley",
+    "butter"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "beat",
+      "eggs",
+      ",",
+      "add",
+      "milk",
+      ",",
+      "cream",
+      ",",
+      "soda",
+      ",",
+      "salt",
+      "and",
+      "melted",
+      "butter",
+      "."
+    ],
+    "1": [
+      "mix",
+      "well",
+      "."
+    ],
+    "2": [
+      "gradually",
+      "add",
+      "flour",
+      "until",
+      "dough",
+      "is",
+      "stiff",
+      "enough",
+      "to",
+      "roll",
+      "."
+    ],
+    "3": [
+      "-lrb-",
+      "may",
+      "require",
+      "up",
+      "to",
+      "4",
+      "cups",
+      "-rrb-",
+      "."
+    ],
+    "4": [
+      "roll",
+      "on",
+      "floured",
+      "board",
+      "and",
+      "line",
+      "a",
+      "cooking",
+      "kettle",
+      "with",
+      "the",
+      "dough",
+      "."
+    ],
+    "5": [
+      "place",
+      "a",
+      "large",
+      "piece",
+      "of",
+      "butter",
+      "in",
+      "bottom",
+      "of",
+      "kettle",
+      "and",
+      "add",
+      "peeled",
+      "and",
+      "quartered",
+      "potatoes",
+      "alternately",
+      "with",
+      "small",
+      "pieces",
+      "of",
+      "the",
+      "dough",
+      "."
+    ],
+    "6": [
+      "sprinkle",
+      "with",
+      "salt",
+      ",",
+      "pepper",
+      "and",
+      "minced",
+      "parsley",
+      "."
+    ],
+    "7": [
+      "dot",
+      "with",
+      "butter",
+      "."
+    ],
+    "8": [
+      "add",
+      "11/2",
+      "to",
+      "2",
+      "cups",
+      "water",
+      "."
+    ],
+    "9": [
+      "bake",
+      "at",
+      "350-f",
+      "about",
+      "3",
+      "hours",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "beat",
+      "add"
+    ],
+    "1": [
+      "mix"
+    ],
+    "2": [
+      "add",
+      "roll"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "line",
+      "roll"
+    ],
+    "5": [
+      "add",
+      "place"
+    ],
+    "6": [
+      "sprinkle"
+    ],
+    "7": [
+      "dot"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

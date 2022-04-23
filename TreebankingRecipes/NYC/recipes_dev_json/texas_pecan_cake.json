@@ -1,0 +1,365 @@
+{
+  "events": {
+    "1": {
+      "location": [
+        "pan"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "location": [
+        "unknown"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "2": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "4": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "pan"
+      ]
+    }
+  },
+  "id": "texas pecan cake",
+  "ingredient_list": [
+    "butter",
+    "sugar",
+    "eggs",
+    "lemon",
+    "flour",
+    "baking_powder",
+    "pecan_half",
+    "white_raisin"
+  ],
+  "ingredients": {
+    "1": [
+      4
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "2": [
+      4
+    ],
+    "3": [
+      0,
+      1
+    ],
+    "4": [
+      0,
+      1
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      4,
+      5
+    ],
+    "7": [
+      7,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "the",
+      "oven",
+      "to",
+      "300f",
+      "."
+    ],
+    "1": [
+      "grease",
+      "and",
+      "lightly",
+      "flour",
+      "a",
+      "93/4",
+      "in",
+      "tube",
+      "pan",
+      "."
+    ],
+    "10": [
+      "bake",
+      "11/2",
+      "to",
+      "2",
+      "hours",
+      ",",
+      "or",
+      "until",
+      "a",
+      "cake",
+      "tester",
+      "comes",
+      "out",
+      "clean",
+      "."
+    ],
+    "11": [
+      "cool",
+      "the",
+      "cake",
+      "for",
+      "15",
+      "minutes",
+      ",",
+      "then",
+      "remove",
+      "it",
+      "from",
+      "the",
+      "pan",
+      "."
+    ],
+    "12": [
+      "serve",
+      "it",
+      "dusted",
+      "with",
+      "powdered",
+      "sugar",
+      ",",
+      "if",
+      "desired",
+      "."
+    ],
+    "2": [
+      "shake",
+      "out",
+      "any",
+      "excess",
+      "flour",
+      "from",
+      "the",
+      "pan",
+      "."
+    ],
+    "3": [
+      "with",
+      "a",
+      "mixer",
+      "or",
+      "by",
+      "hand",
+      ",",
+      "blend",
+      "the",
+      "butter",
+      "and",
+      "sugar",
+      "together",
+      "in",
+      "a",
+      "large",
+      "bowl",
+      ";"
+    ],
+    "4": [
+      "beat",
+      "until",
+      "the",
+      "mixture",
+      "is",
+      "light",
+      "and",
+      "fluffy",
+      "."
+    ],
+    "5": [
+      "gradually",
+      "add",
+      "the",
+      "eggs",
+      "and",
+      "lemon",
+      "extract",
+      ",",
+      "and",
+      "beat",
+      "well",
+      "."
+    ],
+    "6": [
+      "sift",
+      "the",
+      "flour",
+      "and",
+      "baking",
+      "powder",
+      "together",
+      "three",
+      "times",
+      ";"
+    ],
+    "7": [
+      "add",
+      "the",
+      "nuts",
+      "and",
+      "raisins",
+      "."
+    ],
+    "8": [
+      "gradually",
+      "add",
+      "the",
+      "dry",
+      "ingredients",
+      "to",
+      "the",
+      "creamed",
+      "mixture",
+      "and",
+      "blend",
+      "well",
+      "."
+    ],
+    "9": [
+      "pour",
+      "the",
+      "batter",
+      "into",
+      "the",
+      "tube",
+      "pan",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "flour",
+      "grease"
+    ],
+    "10": [
+      "bake"
+    ],
+    "11": [
+      "remove",
+      "cool"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "shake"
+    ],
+    "3": [
+      "blend"
+    ],
+    "4": [
+      "beat"
+    ],
+    "5": [
+      "beat",
+      "add"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "add",
+      "blend"
+    ],
+    "9": [
+      "pour"
+    ]
+  }
+}

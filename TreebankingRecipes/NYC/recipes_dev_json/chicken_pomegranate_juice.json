@@ -1,0 +1,415 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "chicken pomegranate juice",
+  "ingredient_list": [
+    "fryer",
+    "shortening",
+    "butter",
+    "poultry_seasoning",
+    "tomato_sauce",
+    "onion",
+    "walnut",
+    "water",
+    "salt",
+    "pepper",
+    "cinnamon",
+    "lemon_juice",
+    "pomegranate_juice",
+    "pomegranate_syrup",
+    "sugar"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      3
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "2": [
+      0,
+      1,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      3
+    ],
+    "4": [
+      2,
+      5
+    ],
+    "5": [
+      2,
+      4,
+      5
+    ],
+    "6": [
+      2,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "8": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "9": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "wash",
+      "and",
+      "prepare",
+      "chicken",
+      "for",
+      "frying",
+      "."
+    ],
+    "1": [
+      "saute",
+      "the",
+      "chicken",
+      "with",
+      "seasoning",
+      "in",
+      "shortening",
+      "until",
+      "light",
+      "brown",
+      "on",
+      "all",
+      "sides",
+      "."
+    ],
+    "10": [
+      "arrange",
+      "chicken",
+      "pieces",
+      "in",
+      "the",
+      "sauce",
+      ",",
+      "cover",
+      "and",
+      "continue",
+      "to",
+      "simmer",
+      "for",
+      "20-25",
+      "minutes",
+      "."
+    ],
+    "11": [
+      "serve",
+      "with",
+      "white",
+      "rice",
+      "."
+    ],
+    "2": [
+      "bake",
+      "chicken",
+      "at",
+      "350",
+      "degrees",
+      "f",
+      "for",
+      "45",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "put",
+      "chicken",
+      "aside",
+      "."
+    ],
+    "4": [
+      "saute",
+      "the",
+      "onions",
+      "in",
+      "3",
+      "tbsp",
+      "butter",
+      "until",
+      "golden",
+      "brown",
+      "."
+    ],
+    "5": [
+      "add",
+      "tomato",
+      "sauce",
+      "and",
+      "saute",
+      "for",
+      "a",
+      "few",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "add",
+      "walnuts",
+      "to",
+      "the",
+      "sauteed",
+      "onions",
+      "and",
+      "sauce",
+      ",",
+      "and",
+      "saute",
+      "over",
+      "medium",
+      "fire",
+      "for",
+      "about",
+      "5",
+      "minutes",
+      ",",
+      "stirring",
+      "constantly",
+      "."
+    ],
+    "7": [
+      "add",
+      "water",
+      ",",
+      "salt",
+      ",",
+      "pepper",
+      ",",
+      "cinnamon",
+      ",",
+      "lemon",
+      "juice",
+      ",",
+      "and",
+      "pomegranate",
+      "juice/syrup",
+      "."
+    ],
+    "8": [
+      "cover",
+      "and",
+      "let",
+      "cook",
+      "on",
+      "a",
+      "low",
+      "fire",
+      "for",
+      "about",
+      "35",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "taste",
+      "the",
+      "sauce",
+      ",",
+      "and",
+      "if",
+      "you",
+      "find",
+      "it",
+      "a",
+      "little",
+      "sour",
+      ",",
+      "add",
+      "the",
+      "sugar",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "wash",
+      "prepare"
+    ],
+    "1": [
+      "saute",
+      "light"
+    ],
+    "10": [
+      "cover",
+      "simmer",
+      "arrange"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "bake"
+    ],
+    "3": [
+      "put"
+    ],
+    "4": [
+      "saute"
+    ],
+    "5": [
+      "saute",
+      "add"
+    ],
+    "6": [
+      "saute",
+      "add",
+      "stir"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "cover"
+    ],
+    "9": [
+      "taste",
+      "add"
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pot"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "daall-mepali lentil soup recipe",
+  "ingredient_list": [
+    "rice",
+    "water",
+    "lentil",
+    "broth",
+    "butter",
+    "onion",
+    "tomato",
+    "seasoning",
+    "garlic",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "11": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2,
+      3
+    ],
+    "5": [
+      2,
+      3
+    ],
+    "6": [
+      4,
+      5,
+      6
+    ],
+    "7": [
+      7,
+      8,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "rinse",
+      "the",
+      "rice",
+      "."
+    ],
+    "1": [
+      "in",
+      "a",
+      "medium",
+      "pot",
+      ",",
+      "bring",
+      "2",
+      "cups",
+      "of",
+      "wawter",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "then",
+      "add",
+      "rice",
+      "."
+    ],
+    "10": [
+      "add",
+      "paste",
+      "to",
+      "lentils",
+      "and",
+      "stir",
+      "."
+    ],
+    "11": [
+      "add",
+      "salt",
+      "and",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "12": [
+      "serve",
+      "over",
+      "rice",
+      "."
+    ],
+    "2": [
+      "return",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "stirring",
+      "once",
+      ",",
+      "then",
+      "reduce",
+      "heat",
+      "and",
+      "simmer",
+      "about",
+      "20",
+      "30",
+      "minutes",
+      ",",
+      "until",
+      "water",
+      "is",
+      "absorbed",
+      "."
+    ],
+    "3": [
+      "rince",
+      "the",
+      "lentils",
+      "."
+    ],
+    "4": [
+      "place",
+      "them",
+      "in",
+      "a",
+      "soup",
+      "pot",
+      "and",
+      "cover",
+      "with",
+      "2-3",
+      "cups",
+      "of",
+      "water",
+      "or",
+      "broth",
+      "."
+    ],
+    "5": [
+      "bring",
+      "liquid",
+      "to",
+      "a",
+      "boil",
+      ",",
+      "then",
+      "reduce",
+      "heat",
+      "and",
+      "simmer",
+      "about",
+      "30",
+      "minutes",
+      "or",
+      "until",
+      "lentils",
+      "are",
+      "soft",
+      "."
+    ],
+    "6": [
+      "in",
+      "a",
+      "skillet",
+      ",",
+      "melt",
+      "butter",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "add",
+      "onion",
+      "and",
+      "tomato",
+      "."
+    ],
+    "7": [
+      "when",
+      "onion",
+      "is",
+      "transparent",
+      ",",
+      "add",
+      "seasoning",
+      "paket",
+      "and",
+      "garlic",
+      "."
+    ],
+    "8": [
+      "-lrb-",
+      "to",
+      "prevent",
+      "sticking",
+      ",",
+      "you",
+      "may",
+      "need",
+      "to",
+      "add",
+      "water",
+      ",",
+      "a",
+      "tablespoon",
+      "at",
+      "a",
+      "time",
+      "."
+    ],
+    "9": [
+      "-rrb-",
+      "cook",
+      "1-3",
+      "minutes",
+      ",",
+      "until",
+      "vegetables",
+      "are",
+      "coated",
+      "and",
+      "mixture",
+      "is",
+      "a",
+      "paste",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "rinse"
+    ],
+    "1": [
+      "add",
+      "boil"
+    ],
+    "10": [
+      "add",
+      "stir"
+    ],
+    "11": [
+      "add"
+    ],
+    "12": [
+      "serve"
+    ],
+    "2": [
+      "reduce",
+      "return"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "place",
+      "cover"
+    ],
+    "5": [
+      "reduce",
+      "simmer"
+    ],
+    "6": [
+      "add",
+      "melt"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "cook"
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "10": {
+      "temperature": [
+        "cold"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "blender"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "location": [
+        "cup",
+        "dish"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "lemony light vineyard \"cheesecakes\"",
+  "ingredient_list": [
+    "gelatin",
+    "water",
+    "cream_cheese",
+    "yogurt",
+    "sugar",
+    "lemon",
+    "lemon_juice",
+    "vanilla",
+    "ice",
+    "grape"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "8": [
+      9
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "small",
+      "saucepan",
+      ",",
+      "sprinkle",
+      "gelatin",
+      "over",
+      "cold",
+      "water",
+      ";"
+    ],
+    "1": [
+      "let",
+      "stand",
+      "1",
+      "min",
+      "to",
+      "soften",
+      "."
+    ],
+    "10": [
+      "chill",
+      "until",
+      "set",
+      "."
+    ],
+    "11": [
+      "garnish",
+      "with",
+      "additional",
+      "grated",
+      "lemon",
+      "peel",
+      "and",
+      "grapes",
+      ",",
+      "if",
+      "desired",
+      "."
+    ],
+    "2": [
+      "warm",
+      "over",
+      "low",
+      "heat",
+      "to",
+      "dissolve",
+      "."
+    ],
+    "3": [
+      "combine",
+      "in",
+      "blender",
+      "softened",
+      "gelatin",
+      ",",
+      "cream",
+      "cheese",
+      ",",
+      "yogurt",
+      ",",
+      "sugar",
+      "."
+    ],
+    "4": [
+      "lemon",
+      "peel",
+      ",",
+      "lemon",
+      "juice",
+      "and",
+      "vanilla",
+      "."
+    ],
+    "5": [
+      "blend",
+      "until",
+      "smooth",
+      ",",
+      "scraping",
+      "sides",
+      "as",
+      "needed",
+      "."
+    ],
+    "6": [
+      "add",
+      "ice",
+      "cubes",
+      ";"
+    ],
+    "7": [
+      "blend",
+      "until",
+      "smooth",
+      "."
+    ],
+    "8": [
+      "divide",
+      "grapes",
+      "between",
+      "six",
+      "-lrb-",
+      "6",
+      "oz",
+      "-rrb-",
+      "custard",
+      "cups",
+      "or",
+      "individual",
+      "dessert",
+      "dishes",
+      "."
+    ],
+    "9": [
+      "pour",
+      "cheese",
+      "mixture",
+      "over",
+      "each",
+      ",",
+      "dividing",
+      "equally",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "sprinkle"
+    ],
+    "1": [
+      "stand"
+    ],
+    "10": [
+      "chill"
+    ],
+    "11": [
+      "garnish"
+    ],
+    "2": [
+      "warm"
+    ],
+    "3": [
+      "combine"
+    ],
+    "4": [
+      "peel"
+    ],
+    "5": [
+      "blend"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "blend"
+    ],
+    "8": [
+      "divide"
+    ],
+    "9": [
+      "divide",
+      "pour"
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "microwave"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "12": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "13": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    }
+  },
+  "id": "chocolate tortoni",
+  "ingredient_list": [
+    "chocolate",
+    "sweet_chocolate",
+    "almond",
+    "egg_white",
+    "tartar",
+    "salt",
+    "sugar",
+    "cream",
+    "sugar",
+    "vanilla",
+    "cherry"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "12": [
+      7
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      2
+    ],
+    "3": [
+      3,
+      4,
+      5
+    ],
+    "4": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      7
+    ],
+    "6": [
+      7,
+      8,
+      1,
+      9,
+      0
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "microwave",
+      "oven",
+      "or",
+      "over",
+      "boiling",
+      "water",
+      ",",
+      "melt",
+      "both",
+      "kinds",
+      "of",
+      "chocolate",
+      "."
+    ],
+    "1": [
+      "set",
+      "aside",
+      "to",
+      "cool",
+      "."
+    ],
+    "10": [
+      "freeze",
+      "until",
+      "firm",
+      "."
+    ],
+    "11": [
+      "four",
+      "hours",
+      "or",
+      "overnight",
+      "."
+    ],
+    "12": [
+      "beat",
+      "remaining",
+      "1/2",
+      "cup",
+      "of",
+      "cream",
+      "in",
+      "a",
+      "small",
+      "bowl",
+      "until",
+      "stiff",
+      "."
+    ],
+    "13": [
+      "garnish",
+      "each",
+      "tortoni",
+      "with",
+      "a",
+      "rosette",
+      "of",
+      "cream",
+      "and",
+      "a",
+      "candied",
+      "cherry",
+      "."
+    ],
+    "2": [
+      "toast",
+      "the",
+      "almonds",
+      "in",
+      "a",
+      "shallow",
+      "pan",
+      "in",
+      "a",
+      "moderate",
+      "oven",
+      "-lrb-",
+      "350",
+      "degrees",
+      "-rrb-",
+      "for",
+      "about",
+      "10",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "beat",
+      "egg",
+      "whites",
+      "with",
+      "cream",
+      "of",
+      "tartar",
+      "and",
+      "salt",
+      "until",
+      "foamy",
+      "white",
+      "."
+    ],
+    "4": [
+      "gradually",
+      "beat",
+      "in",
+      "1/4",
+      "cup",
+      "of",
+      "sugar",
+      ",",
+      "1",
+      "tablespoon",
+      "at",
+      "a",
+      "time",
+      ",",
+      "until",
+      "soft",
+      "peaks",
+      "form",
+      "."
+    ],
+    "5": [
+      "beat",
+      "two",
+      "cups",
+      "of",
+      "cream",
+      "in",
+      "a",
+      "bowl",
+      "until",
+      "stiff",
+      "."
+    ],
+    "6": [
+      "beat",
+      "in",
+      "two",
+      "teaspoons",
+      "of",
+      "sugar",
+      ",",
+      "the",
+      "vanilla",
+      "and",
+      "melted",
+      "chocolate",
+      ",",
+      "blend",
+      "well",
+      "."
+    ],
+    "7": [
+      "fold",
+      "the",
+      "beaten",
+      "egg",
+      "whites",
+      ",",
+      "the",
+      "chopped",
+      "cherries",
+      ",",
+      "toasted",
+      "almonds",
+      "and",
+      "the",
+      "melted",
+      "semi-sweet",
+      "chocolate",
+      "into",
+      "the",
+      "whipped",
+      "cream",
+      "mixture",
+      "."
+    ],
+    "8": [
+      "small",
+      "chunks",
+      "of",
+      "chocolate",
+      "may",
+      "remain",
+      "."
+    ],
+    "9": [
+      "place",
+      "paper",
+      "baking",
+      "cups",
+      "in",
+      "24",
+      "muffin-pan",
+      "cups",
+      "-lrb-",
+      "about",
+      "2",
+      "inches",
+      "diameter",
+      "-rrb-",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "set"
+    ],
+    "10": [
+      "freeze"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "beat"
+    ],
+    "13": [
+      "garnish"
+    ],
+    "2": [
+      "toast"
+    ],
+    "3": [
+      "beat"
+    ],
+    "4": [
+      "beat"
+    ],
+    "5": [
+      "beat"
+    ],
+    "6": [
+      "beat",
+      "blend"
+    ],
+    "7": [
+      "fold"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

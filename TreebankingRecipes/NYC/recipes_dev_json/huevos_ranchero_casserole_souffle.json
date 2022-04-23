@@ -1,0 +1,496 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "glass",
+        "earthenware",
+        "casserole",
+        "dish"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "13": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "plate"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "5": {
+      "location": [
+        "casserole"
+      ]
+    },
+    "6": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "9": {
+      "location": [
+        "casserole",
+        "oven"
+      ]
+    }
+  },
+  "id": "huevos ranchero casserole souffle",
+  "ingredient_list": [
+    "butter",
+    "pepper",
+    "eggs",
+    "cheddar_cheese",
+    "corn_kernel",
+    "milk",
+    "jalapeno_pepper",
+    "salt",
+    "pepper",
+    "salsa"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "11": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "12": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "13": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "8": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "butter",
+      "a",
+      "9-by-13-inch",
+      "oven-proof",
+      "glass",
+      "or",
+      "earthenware",
+      "casserole",
+      "dish",
+      "."
+    ],
+    "1": [
+      "make",
+      "an",
+      "incision",
+      "along",
+      "the",
+      "length",
+      "of",
+      "each",
+      "bell",
+      "pepper",
+      "and",
+      "remove",
+      "the",
+      "stem",
+      ",",
+      "seeds",
+      "and",
+      "membranes",
+      ",",
+      "keeping",
+      "the",
+      "peppers",
+      "whole",
+      "."
+    ],
+    "10": [
+      "bake",
+      "just",
+      "until",
+      "the",
+      "eggs",
+      "are",
+      "puffy",
+      "and",
+      "the",
+      "top",
+      "is",
+      "lightly",
+      "browned",
+      ",",
+      "about",
+      "7",
+      "minutes",
+      "."
+    ],
+    "11": [
+      "test",
+      "by",
+      "inserting",
+      "a",
+      "knife",
+      "into",
+      "the",
+      "center",
+      "."
+    ],
+    "12": [
+      "remove",
+      "the",
+      "pan",
+      "and",
+      "let",
+      "it",
+      "sit",
+      "for",
+      "a",
+      "few",
+      "minutes",
+      "before",
+      "cutting",
+      "the",
+      "casserole",
+      "into",
+      "12",
+      "rectangles",
+      "."
+    ],
+    "13": [
+      "serve",
+      "each",
+      "portion",
+      "with",
+      "some",
+      "salsa",
+      "spooned",
+      "on",
+      "top",
+      "."
+    ],
+    "2": [
+      "fill",
+      "a",
+      "medium-size",
+      "saucepan",
+      "or",
+      "skillet",
+      "halfway",
+      "with",
+      "water",
+      "and",
+      "bring",
+      "it",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "3": [
+      "add",
+      "the",
+      "peppers",
+      ",",
+      "let",
+      "the",
+      "water",
+      "return",
+      "to",
+      "a",
+      "boil",
+      "and",
+      "cook",
+      "until",
+      "the",
+      "peppers",
+      "are",
+      "just",
+      "softened",
+      ",",
+      "about",
+      "3",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "remove",
+      "and",
+      "blot",
+      "them",
+      "very",
+      "dry",
+      "with",
+      "paper",
+      "towels",
+      "."
+    ],
+    "5": [
+      "let",
+      "them",
+      "cool",
+      "completely",
+      "and",
+      "then",
+      "line",
+      "the",
+      "bottom",
+      "of",
+      "the",
+      "casserole",
+      "with",
+      "them",
+      "."
+    ],
+    "6": [
+      "separate",
+      "the",
+      "eggs",
+      "into",
+      "2",
+      "large",
+      "bowls",
+      "."
+    ],
+    "7": [
+      "beat",
+      "the",
+      "yolks",
+      "until",
+      "smooth",
+      ",",
+      "then",
+      "stir",
+      "in",
+      "the",
+      "cheese",
+      ",",
+      "corn",
+      ",",
+      "milk",
+      ",",
+      "jalapeno",
+      "peppers",
+      "and",
+      "salt",
+      "and",
+      "black",
+      "pepper",
+      "."
+    ],
+    "8": [
+      "whisk",
+      "the",
+      "whites",
+      "until",
+      "soft",
+      "peaks",
+      "form",
+      ",",
+      "then",
+      "fold",
+      "them",
+      "into",
+      "the",
+      "yolk",
+      "mixture",
+      ",",
+      "gently",
+      "stirring",
+      "just",
+      "until",
+      "almost",
+      "blended",
+      "."
+    ],
+    "9": [
+      "scrape",
+      "the",
+      "mixture",
+      "into",
+      "the",
+      "prepared",
+      "dish",
+      "and",
+      "transfer",
+      "it",
+      "to",
+      "the",
+      "middle",
+      "rack",
+      "of",
+      "the",
+      "preheated",
+      "oven",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "butter"
+    ],
+    "1": [
+      "make",
+      "remove"
+    ],
+    "10": [
+      "bake"
+    ],
+    "11": [
+      "insert"
+    ],
+    "12": [
+      "cut",
+      "remove",
+      "sit"
+    ],
+    "13": [
+      "serve"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "cook",
+      "add"
+    ],
+    "4": [
+      "blot",
+      "remove"
+    ],
+    "5": [
+      "line"
+    ],
+    "6": [
+      "separate"
+    ],
+    "7": [
+      "beat",
+      "stir"
+    ],
+    "8": [
+      "fold",
+      "stir",
+      "whisk"
+    ],
+    "9": [
+      "scrape"
+    ]
+  }
+}

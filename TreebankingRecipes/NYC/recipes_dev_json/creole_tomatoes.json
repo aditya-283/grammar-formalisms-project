@@ -1,0 +1,337 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "location": [
+        "dish"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "creole tomatoes",
+  "ingredient_list": [
+    "tomato",
+    "onion",
+    "green_pepper",
+    "salt",
+    "cayenne_pepper",
+    "butter",
+    "water",
+    "flour",
+    "half-and-half",
+    "toast"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      7,
+      5
+    ],
+    "8": [
+      7,
+      8,
+      5
+    ],
+    "9": [
+      7,
+      8,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "core",
+      "tomatoes",
+      ",",
+      "and",
+      "cut",
+      "in",
+      "hafl",
+      "crosswise",
+      ";"
+    ],
+    "1": [
+      "place",
+      "cut",
+      "side",
+      "up",
+      "in",
+      "a",
+      "shallow",
+      "baking",
+      "dish",
+      "."
+    ],
+    "10": [
+      "serve",
+      "tomatoes",
+      "on",
+      "toast",
+      ",",
+      "and",
+      "pour",
+      "sauce",
+      "around",
+      "them",
+      "."
+    ],
+    "2": [
+      "sprinkle",
+      "onion",
+      ",",
+      "green",
+      "pepper",
+      ",",
+      "salt",
+      ",",
+      "and",
+      "cayenne",
+      "pepper",
+      "over",
+      "tomato",
+      "halves",
+      "."
+    ],
+    "3": [
+      "place",
+      "a",
+      "small",
+      "amount",
+      "of",
+      "butter",
+      "on",
+      "top",
+      "of",
+      "each",
+      "tomato",
+      "half",
+      "."
+    ],
+    "4": [
+      "pour",
+      "water",
+      "in",
+      "dish",
+      "."
+    ],
+    "5": [
+      "bake",
+      ",",
+      "uncovered",
+      ",",
+      "at",
+      "375",
+      "degrees",
+      "for",
+      "20",
+      "to",
+      "30",
+      "minutes",
+      "or",
+      "until",
+      "tomatoes",
+      "are",
+      "tender",
+      "."
+    ],
+    "6": [
+      "melt",
+      "remaining",
+      "butter",
+      "in",
+      "a",
+      "skillet",
+      ";"
+    ],
+    "7": [
+      "add",
+      "flour",
+      "and",
+      "cook",
+      "until",
+      "flour",
+      "turns",
+      "brown",
+      "."
+    ],
+    "8": [
+      "add",
+      "half-and-half",
+      ";"
+    ],
+    "9": [
+      "cook",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "about",
+      "3",
+      "minutes",
+      "longer",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut"
+    ],
+    "1": [
+      "place"
+    ],
+    "10": [
+      "serve",
+      "pour"
+    ],
+    "2": [
+      "sprinkle"
+    ],
+    "3": [
+      "place"
+    ],
+    "4": [
+      "pour"
+    ],
+    "5": [
+      "bake"
+    ],
+    "6": [
+      "melt"
+    ],
+    "7": [
+      "cook",
+      "flour",
+      "add"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "cook",
+      "stir"
+    ]
+  }
+}

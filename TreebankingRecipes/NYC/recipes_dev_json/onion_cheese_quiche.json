@@ -1,0 +1,329 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "11": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "shell"
+      ]
+    },
+    "5": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "7": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "onion cheese quiche",
+  "ingredient_list": [
+    "pie",
+    "onion",
+    "butter",
+    "eggs",
+    "milk",
+    "flour",
+    "salt",
+    "pepper",
+    "cheese"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      1,
+      2
+    ],
+    "3": [
+      1,
+      2
+    ],
+    "4": [
+      0,
+      3
+    ],
+    "5": [
+      3
+    ],
+    "6": [
+      7,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      7,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "bake",
+      "pie",
+      "shell",
+      "in",
+      "preheated",
+      "425",
+      "oven",
+      "10",
+      "mins",
+      ".",
+      "or",
+      "until",
+      "light",
+      "golden",
+      ";"
+    ],
+    "1": [
+      "cool",
+      "completely",
+      "."
+    ],
+    "10": [
+      "or",
+      "until",
+      "knife",
+      "inserted",
+      "in",
+      "center",
+      "comes",
+      "out",
+      "clean",
+      "."
+    ],
+    "11": [
+      "cool",
+      "at",
+      "least",
+      "10",
+      "mins",
+      "."
+    ],
+    "12": [
+      "serve",
+      "warm",
+      "or",
+      "at",
+      "room",
+      "temperature",
+      "."
+    ],
+    "2": [
+      "in",
+      "small",
+      "skillet",
+      ",",
+      "saute",
+      "onion",
+      "in",
+      "butter",
+      "until",
+      "tender",
+      ";"
+    ],
+    "3": [
+      "set",
+      "aside",
+      "."
+    ],
+    "4": [
+      "separate",
+      "1",
+      "egg",
+      ",",
+      "then",
+      "brush",
+      "egg",
+      "white",
+      "on",
+      "pie",
+      "shell",
+      "."
+    ],
+    "5": [
+      "pour",
+      "excess",
+      "white",
+      "into",
+      "large",
+      "bowl",
+      "."
+    ],
+    "6": [
+      "add",
+      "yolk",
+      ",",
+      "remaining",
+      "2",
+      "eggs",
+      ",",
+      "milk",
+      ",",
+      "flour",
+      ",",
+      "salt",
+      ",",
+      "and",
+      "pepper",
+      ";"
+    ],
+    "7": [
+      "beat",
+      "until",
+      "smooth",
+      "."
+    ],
+    "8": [
+      "stir",
+      "in",
+      "cheese",
+      "and",
+      "onion",
+      "."
+    ],
+    "9": [
+      "turn",
+      "into",
+      "pie",
+      "shell",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "bake"
+    ],
+    "1": [
+      "cool"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "cool"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "saute"
+    ],
+    "3": [
+      "set"
+    ],
+    "4": [
+      "brush",
+      "separate"
+    ],
+    "5": [
+      "pour"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "beat"
+    ],
+    "8": [
+      "stir"
+    ],
+    "9": [
+      "turn"
+    ]
+  }
+}

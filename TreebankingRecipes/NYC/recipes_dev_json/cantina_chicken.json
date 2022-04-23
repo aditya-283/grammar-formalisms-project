@@ -1,0 +1,359 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "location": [
+        "platter"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "skillet"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "location": [
+        "skillet"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bed"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top"
+      ]
+    }
+  },
+  "id": "cantina chicken",
+  "ingredient_list": [
+    "split_chicken",
+    "boneles",
+    "chili_powder",
+    "canola_oil",
+    "tomato",
+    "green",
+    "lime_juice",
+    "pepper_sauce",
+    "lettuce",
+    "cheese",
+    "shredded",
+    "lime_wedge",
+    "corn_tortillas_warm"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2
+    ],
+    "1": [
+      3
+    ],
+    "10": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "11": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12
+    ],
+    "2": [
+      0,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      2,
+      3
+    ],
+    "4": [
+      7,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      7,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      0,
+      2,
+      3,
+      8
+    ],
+    "9": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "rub",
+      "chicken",
+      "with",
+      "chili",
+      "powder",
+      "."
+    ],
+    "1": [
+      "in",
+      "large",
+      "nonstick",
+      "skillet",
+      ",",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "heat",
+      "oil",
+      "."
+    ],
+    "10": [
+      "sprinkle",
+      "with",
+      "shredded",
+      "cheese",
+      "and",
+      "garnish",
+      "with",
+      "lime",
+      ";"
+    ],
+    "11": [
+      "accompany",
+      "with",
+      "a",
+      "basket",
+      "of",
+      "warm",
+      "tortillas",
+      "."
+    ],
+    "2": [
+      "add",
+      "chicken",
+      ";"
+    ],
+    "3": [
+      "cook",
+      "4",
+      "to",
+      "5",
+      "minutes",
+      "on",
+      "each",
+      "side",
+      ",",
+      "or",
+      "until",
+      "browned",
+      "."
+    ],
+    "4": [
+      "meanwhile",
+      ",",
+      "in",
+      "medium",
+      "bowl",
+      ",",
+      "combine",
+      "tomatoes",
+      ",",
+      "chiles",
+      ",",
+      "lime",
+      "juice",
+      "and",
+      "pepper",
+      "sauce",
+      ";"
+    ],
+    "5": [
+      "add",
+      "to",
+      "skillet",
+      "."
+    ],
+    "6": [
+      "reduce",
+      "heat",
+      "to",
+      "medium-low",
+      ";"
+    ],
+    "7": [
+      "cover",
+      "and",
+      "simmer",
+      "12",
+      "to",
+      "15",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "chicken",
+      "is",
+      "cooked",
+      "through",
+      "."
+    ],
+    "8": [
+      "to",
+      "serve",
+      ",",
+      "place",
+      "chicken",
+      "on",
+      "bed",
+      "of",
+      "shredded",
+      "lettuce",
+      ";"
+    ],
+    "9": [
+      "top",
+      "with",
+      "sauce",
+      "from",
+      "skillet",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "rub"
+    ],
+    "1": [
+      "heat"
+    ],
+    "10": [
+      "sprinkle"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cook"
+    ],
+    "4": [
+      "combine"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "cook",
+      "simmer"
+    ],
+    "8": [
+      "place",
+      "serve"
+    ],
+    "9": [
+      "top"
+    ]
+  }
+}

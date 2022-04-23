@@ -1,0 +1,287 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "cup"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "mc oatmeal muffins",
+  "ingredient_list": [
+    "oats",
+    "apple_juice",
+    "wheat_flour",
+    "baking_powder",
+    "salt",
+    "cinnamon",
+    "egg",
+    "honey",
+    "orange_juice"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      1
+    ],
+    "2": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "3": [
+      7,
+      0,
+      1,
+      6,
+      8
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "400",
+      "."
+    ],
+    "1": [
+      "combine",
+      "the",
+      "oatmeal",
+      "and",
+      "apple",
+      "juice",
+      "in",
+      "a",
+      "large",
+      "mixing",
+      "bowl",
+      "and",
+      "let",
+      "stand",
+      "10",
+      "mins",
+      "."
+    ],
+    "2": [
+      "sift",
+      "the",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "salt",
+      "and",
+      "cinnamon",
+      "together",
+      "in",
+      "a",
+      "separate",
+      "bowl",
+      "."
+    ],
+    "3": [
+      "after",
+      "the",
+      "oatmeal",
+      "and",
+      "apple",
+      "juice",
+      "have",
+      "stood",
+      "10",
+      "mins",
+      ",",
+      "add",
+      "the",
+      "egg",
+      "replacer",
+      ",",
+      "honey",
+      "and",
+      "orange",
+      "or",
+      "apple",
+      "juice",
+      "and",
+      "combine",
+      "wet",
+      "and",
+      "dry",
+      "mixtures",
+      "."
+    ],
+    "4": [
+      "mix",
+      "until",
+      "just",
+      "moistened",
+      "."
+    ],
+    "5": [
+      "fill",
+      "nonstick",
+      "muffin",
+      "cups",
+      "with",
+      "the",
+      "batter",
+      "and",
+      "bake",
+      "15",
+      "mins",
+      ",",
+      "until",
+      "golden",
+      "brown",
+      "on",
+      "top",
+      "."
+    ],
+    "6": [
+      "variations",
+      "--",
+      "add",
+      "1/3c",
+      "chopped",
+      "nuts",
+      ",",
+      "waterchestnuts",
+      ",",
+      "or",
+      "raisins",
+      "to",
+      "the",
+      "dyr",
+      "ingredients",
+      "."
+    ],
+    "7": [
+      "substitute",
+      "1t",
+      "molasses",
+      "for",
+      "1t",
+      "honey",
+      "."
+    ],
+    "8": [
+      "add",
+      "1/4t",
+      "ginger",
+      "to",
+      "the",
+      "dry",
+      "ingredients",
+      "."
+    ],
+    "9": [
+      "if",
+      "your",
+      "muffins",
+      "stick",
+      ",",
+      "you",
+      "may",
+      "need",
+      "to",
+      "lightly",
+      "oil",
+      "muffins",
+      "cups",
+      "before",
+      "using",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "combine"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "add",
+      "combine"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "bake",
+      "fill"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

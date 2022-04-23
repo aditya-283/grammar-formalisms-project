@@ -1,0 +1,311 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "pot"
+      ]
+    }
+  },
+  "id": "pozole stewed hominy",
+  "ingredient_list": [
+    "hominy",
+    "piece",
+    "water",
+    "onion",
+    "pork",
+    "garlic_clove",
+    "pork",
+    "fresh",
+    "chile",
+    "pods"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      2
+    ],
+    "3": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      4,
+      6
+    ],
+    "6": [
+      4,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "soak",
+      "the",
+      "hominy",
+      "overnight",
+      "in",
+      "1",
+      "quart",
+      "water",
+      "."
+    ],
+    "1": [
+      "place",
+      "the",
+      "hominy",
+      "in",
+      "a",
+      "large",
+      "pot",
+      "filled",
+      "with",
+      "the",
+      "remaining",
+      "5",
+      "quarts",
+      "water",
+      "and",
+      "cook",
+      "over",
+      "low",
+      "to",
+      "medium",
+      "heat",
+      "about",
+      "4",
+      "hours",
+      ",",
+      "until",
+      "the",
+      "kernels",
+      "burst",
+      "and",
+      "are",
+      "puffy",
+      "and",
+      "tender",
+      "."
+    ],
+    "2": [
+      "add",
+      "more",
+      "water",
+      "if",
+      "necessary",
+      ",",
+      "to",
+      "cover",
+      "the",
+      "kernels",
+      "."
+    ],
+    "3": [
+      "add",
+      "the",
+      "pork",
+      "rind",
+      "and",
+      "ribs",
+      ",",
+      "red",
+      "chiles",
+      ",",
+      "onion",
+      "and",
+      "garlic",
+      "and",
+      "cook",
+      "another",
+      "11/2",
+      "hours",
+      ",",
+      "until",
+      "the",
+      "meat",
+      "is",
+      "tender",
+      "and",
+      "falling",
+      "off",
+      "the",
+      "bone",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "oregano",
+      "and",
+      "azafran",
+      "and",
+      "cook",
+      "another",
+      "15",
+      "minutes",
+      "."
+    ],
+    "5": [
+      "remove",
+      "the",
+      "meat",
+      "from",
+      "the",
+      "ribs",
+      "and",
+      "discard",
+      "the",
+      "bones",
+      "."
+    ],
+    "6": [
+      "return",
+      "the",
+      "meat",
+      "to",
+      "the",
+      "pot",
+      "."
+    ],
+    "7": [
+      "serve",
+      "hot",
+      "."
+    ],
+    "8": [
+      "pozole",
+      "is",
+      "a",
+      "simple",
+      ",",
+      "rustic",
+      "stew",
+      "common",
+      "throughout",
+      "the",
+      "pueblos",
+      "in",
+      "new",
+      "mexico",
+      "and",
+      "parts",
+      "of",
+      "arizona",
+      "."
+    ],
+    "9": [
+      "made",
+      "from",
+      "dried",
+      "hominy",
+      ",",
+      "salt",
+      "pork",
+      ",",
+      "spices",
+      ",",
+      "and",
+      "dried",
+      "red",
+      "chiles",
+      ",",
+      "the",
+      "stew",
+      "is",
+      "usually",
+      "cooked",
+      "in",
+      "large",
+      "quantities",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "soak"
+    ],
+    "1": [
+      "cook",
+      "place"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "cook",
+      "add"
+    ],
+    "5": [
+      "remove"
+    ],
+    "6": [
+      "return"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

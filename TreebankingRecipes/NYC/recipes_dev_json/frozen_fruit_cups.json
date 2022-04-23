@@ -1,0 +1,281 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "location": [
+        "freezer",
+        "tray"
+      ]
+    },
+    "4": {
+      "temperature": [
+        "cold"
+      ]
+    },
+    "5": {
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "tin"
+      ]
+    }
+  },
+  "id": "frozen fruit cups",
+  "ingredient_list": [
+    "pineapple_juice",
+    "cream",
+    "lemon",
+    "food_coloring",
+    "lemon",
+    "fruit",
+    "sugar",
+    "fresh",
+    "milk"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "1": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "2": [
+      6,
+      0,
+      2,
+      4,
+      8
+    ],
+    "3": [
+      6,
+      0,
+      2,
+      4,
+      8
+    ],
+    "4": [
+      6,
+      0,
+      2,
+      4,
+      8
+    ],
+    "5": [
+      6,
+      0,
+      2,
+      4,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "pineapple",
+      "juice",
+      ",",
+      "lemon",
+      "juice",
+      ",",
+      "lemon",
+      "rind",
+      ",",
+      "and",
+      "sugar",
+      ";"
+    ],
+    "1": [
+      "blend",
+      "well",
+      "."
+    ],
+    "10": [
+      "to",
+      "serve",
+      ",",
+      "peel",
+      "papper",
+      "from",
+      "fruit",
+      "cups",
+      "."
+    ],
+    "2": [
+      "add",
+      "milk",
+      "and",
+      "mix",
+      "thoroughly",
+      "."
+    ],
+    "3": [
+      "pour",
+      "into",
+      "freezer",
+      "tray",
+      "."
+    ],
+    "4": [
+      "freeze",
+      "until",
+      "icy",
+      ";"
+    ],
+    "5": [
+      "remove",
+      "from",
+      "tray",
+      "and",
+      "beat",
+      "in",
+      "a",
+      "chilled",
+      "bowl",
+      "until",
+      "smooth",
+      "."
+    ],
+    "6": [
+      "fold",
+      "in",
+      "whipped",
+      "cream",
+      "."
+    ],
+    "7": [
+      "line",
+      "24",
+      "cupcake",
+      "tins",
+      "with",
+      "cupcake",
+      "papers",
+      "."
+    ],
+    "8": [
+      "spoon",
+      "fruit",
+      "into",
+      "the",
+      "bottom",
+      "of",
+      "each",
+      ",",
+      "and",
+      "fill",
+      "with",
+      "whipped",
+      "cream",
+      "mixture",
+      "."
+    ],
+    "9": [
+      "cover",
+      "with",
+      "aluminum",
+      "foil",
+      "and",
+      "freeze",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "blend"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "mix",
+      "add"
+    ],
+    "3": [
+      "pour"
+    ],
+    "4": [
+      "freeze"
+    ],
+    "5": [
+      "beat",
+      "remove"
+    ],
+    "6": [
+      "fold"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "spoon",
+      "fill"
+    ],
+    "9": [
+      "cover"
+    ]
+  }
+}

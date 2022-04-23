@@ -1,0 +1,320 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "location": [
+        "container",
+        "bag"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "paper",
+        "towel"
+      ]
+    },
+    "7": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "cinnamon munch",
+  "ingredient_list": [
+    "sugar",
+    "combination",
+    "cinnamon",
+    "raisin",
+    "margarine",
+    "milk_chocolate",
+    "rice",
+    "piece"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2,
+      4
+    ],
+    "1": [
+      4,
+      6
+    ],
+    "10": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      4,
+      6
+    ],
+    "3": [
+      4,
+      6
+    ],
+    "4": [
+      4,
+      6
+    ],
+    "5": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "6": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "7": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "8": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "sugar",
+      "and",
+      "cinnamon",
+      "in",
+      "large",
+      "skillet",
+      ",",
+      "melt",
+      "butter",
+      "over",
+      "low",
+      "heat",
+      "."
+    ],
+    "1": [
+      "add",
+      "cereal",
+      "squares",
+      "."
+    ],
+    "10": [
+      "store",
+      "in",
+      "tightly",
+      "sealed",
+      "container",
+      "or",
+      "large",
+      ",",
+      "sealed",
+      "plastic",
+      "bag",
+      "."
+    ],
+    "11": [
+      "found",
+      "in",
+      "the",
+      "pioneer",
+      "press",
+      "newspaper"
+    ],
+    "12": [
+      "credit",
+      "given",
+      "to",
+      "``",
+      "my",
+      "watkins",
+      "cookbook",
+      "''",
+      "produced",
+      "by",
+      "watkins",
+      "spice",
+      "and",
+      "flavor",
+      "extract",
+      "company"
+    ],
+    "2": [
+      "stir",
+      "gently",
+      "until",
+      "all",
+      "pieces",
+      "are",
+      "coated",
+      "."
+    ],
+    "3": [
+      "heat",
+      ",",
+      "stirring",
+      ",",
+      "for",
+      "about",
+      "4",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "remove",
+      "from",
+      "heat",
+      "."
+    ],
+    "5": [
+      "sprinkle",
+      "sugar",
+      "mixture",
+      "over",
+      "cereal",
+      ",",
+      "tossing",
+      "to",
+      "coat",
+      "all",
+      "sides",
+      "."
+    ],
+    "6": [
+      "spread",
+      "on",
+      "paper",
+      "towels",
+      "to",
+      "cool",
+      "."
+    ],
+    "7": [
+      "place",
+      "cereal",
+      "mixture",
+      "in",
+      "large",
+      "bowl",
+      "."
+    ],
+    "8": [
+      "add",
+      "raisins",
+      "and",
+      "chocolate",
+      "pieces",
+      "."
+    ],
+    "9": [
+      "toss",
+      "to",
+      "mix",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine",
+      "melt"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "store"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "stir"
+    ],
+    "3": [
+      "heat",
+      "stir"
+    ],
+    "4": [
+      "remove"
+    ],
+    "5": [
+      "toss",
+      "sprinkle"
+    ],
+    "6": [
+      "spread"
+    ],
+    "7": [
+      "place"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "toss",
+      "mix"
+    ]
+  }
+}

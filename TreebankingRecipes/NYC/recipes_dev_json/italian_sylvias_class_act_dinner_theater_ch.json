@@ -1,0 +1,307 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "italian sylvias class act dinner theater ch",
+  "ingredient_list": [
+    "flour",
+    "salt",
+    "pepper",
+    "boneles",
+    "chicken",
+    "olive_oil",
+    "cloves_garlic",
+    "RRB",
+    "chicken_broth",
+    "sherry",
+    "rosemary"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "2": [
+      5
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "5": [
+      6
+    ],
+    "6": [
+      8,
+      9,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "flour",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "1": [
+      "dredge",
+      "chicken",
+      "breasts",
+      "in",
+      "flour",
+      "mixture",
+      ",",
+      "shaking",
+      "off",
+      "excess",
+      "."
+    ],
+    "2": [
+      "heat",
+      "oil",
+      "over",
+      "medium",
+      "heat",
+      "in",
+      "a",
+      "large",
+      "skillet",
+      "."
+    ],
+    "3": [
+      "brown",
+      "chicken",
+      "in",
+      "oil",
+      "until",
+      "lightly",
+      "browned",
+      ",",
+      "approximately",
+      "5",
+      "minutes",
+      "on",
+      "each",
+      "side",
+      "."
+    ],
+    "4": [
+      "remove",
+      "from",
+      "skillet",
+      "."
+    ],
+    "5": [
+      "add",
+      "minced",
+      "garlic",
+      "to",
+      "the",
+      "skillet",
+      "and",
+      "saute",
+      "'",
+      "lightly",
+      "."
+    ],
+    "6": [
+      "stir",
+      "in",
+      "chicken",
+      "broth",
+      "and",
+      "sherry",
+      "."
+    ],
+    "7": [
+      "return",
+      "chicken",
+      "to",
+      "skillet",
+      "and",
+      "sprinkle",
+      "with",
+      "rosemary",
+      "."
+    ],
+    "8": [
+      "cover",
+      "skillet",
+      "tightly",
+      "with",
+      "a",
+      "lid",
+      ",",
+      "and",
+      "simmer",
+      "slowly",
+      "for",
+      "30",
+      "to",
+      "45",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "chicken",
+      "is",
+      "tender",
+      "."
+    ],
+    "9": [
+      "thicken",
+      "juice",
+      ",",
+      "if",
+      "desired",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "shake"
+    ],
+    "2": [
+      "heat"
+    ],
+    "3": [
+      "brown"
+    ],
+    "4": [
+      "remove"
+    ],
+    "5": [
+      "saute",
+      "add"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "sprinkle",
+      "return"
+    ],
+    "8": [
+      "cover",
+      "simmer"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "events": {
+    "1": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "12": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "13": {
+      "location": [
+        "plate"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "rotation": [
+        "turned"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "4": {
+      "location": [
+        "pan"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "location": [
+        "unknown"
+      ]
+    }
+  },
+  "id": "australian pork port coffee sauce",
+  "ingredient_list": [
+    "pork_loin",
+    "sugar",
+    "coffee",
+    "water",
+    "cream",
+    "cornstarch",
+    "port"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "11": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "12": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      1,
+      4,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      0
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "350f",
+      "."
+    ],
+    "1": [
+      "remove",
+      "rind",
+      "from",
+      "pork",
+      "and",
+      "trim",
+      "fat",
+      "to",
+      "make",
+      "a",
+      "1",
+      "cm",
+      "layer",
+      "."
+    ],
+    "10": [
+      "skim",
+      "fat",
+      "from",
+      "the",
+      "pan",
+      "juices",
+      "."
+    ],
+    "11": [
+      "place",
+      "juices",
+      "in",
+      "a",
+      "small",
+      "saucepan",
+      "with",
+      "water",
+      ",",
+      "remaining",
+      "1/4",
+      "c",
+      "cream",
+      ",",
+      "remaining",
+      "port",
+      "and",
+      "cornstarch",
+      "."
+    ],
+    "12": [
+      "cook",
+      "until",
+      "thickened",
+      ",",
+      "strain",
+      "."
+    ],
+    "13": [
+      "slice",
+      "pork",
+      "thinly",
+      "and",
+      "place",
+      "a",
+      "tablespoon",
+      "or",
+      "two",
+      "of",
+      "sauce",
+      "on",
+      "each",
+      "serving",
+      "."
+    ],
+    "2": [
+      "roll",
+      "and",
+      "tie",
+      "the",
+      "meat",
+      "."
+    ],
+    "3": [
+      "per",
+      "500",
+      "gr",
+      "."
+    ],
+    "4": [
+      "place",
+      "meat",
+      "in",
+      "roasting",
+      "pan",
+      "."
+    ],
+    "5": [
+      "roast",
+      "pork",
+      "for",
+      "30",
+      "mins",
+      "."
+    ],
+    "6": [
+      "cream",
+      ",",
+      "1/4",
+      "c",
+      "port",
+      "&",
+      "sugar",
+      ",",
+      "pour",
+      "over",
+      "pork",
+      "."
+    ],
+    "7": [
+      "continue",
+      "roasting",
+      "pork",
+      "for",
+      "calculated",
+      "cooking",
+      "time",
+      ",",
+      "basting",
+      "pork",
+      "every",
+      "15",
+      "mins",
+      "with",
+      "coffee",
+      "mixture",
+      "."
+    ],
+    "8": [
+      "remove",
+      "pork",
+      "from",
+      "oven",
+      "when",
+      "cooked",
+      "."
+    ],
+    "9": [
+      "keep",
+      "covered",
+      "in",
+      "a",
+      "warm",
+      "place",
+      "while",
+      "making",
+      "the",
+      "sauce",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "trim",
+      "remove"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "place"
+    ],
+    "12": [
+      "cook",
+      "strain"
+    ],
+    "13": [
+      "slice",
+      "place"
+    ],
+    "2": [
+      "tie",
+      "roll"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "place"
+    ],
+    "5": [
+      "roast"
+    ],
+    "6": [
+      "pour"
+    ],
+    "7": [
+      "baste",
+      "roast"
+    ],
+    "8": [
+      "remove"
+    ],
+    "9": [
+      "make",
+      "cover"
+    ]
+  }
+}

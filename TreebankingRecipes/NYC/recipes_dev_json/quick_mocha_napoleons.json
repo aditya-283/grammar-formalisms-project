@@ -1,0 +1,442 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "composition": [
+        "change"
+      ]
+    },
+    "14": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "6": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "7": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "9": {
+      "shape": [
+        "deformed"
+      ]
+    }
+  },
+  "id": "quick mocha napoleons",
+  "ingredient_list": [
+    "puff_pastry",
+    "chocolate",
+    "milk",
+    "cream",
+    "coffee",
+    "chocolate_sauce",
+    "liqueur",
+    "sliced"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "11": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "9": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "unwrap",
+      "thawed",
+      "puff",
+      "pastry",
+      "sheets",
+      "and",
+      "cut",
+      "each",
+      "sheet",
+      "into",
+      "thirds",
+      "at",
+      "the",
+      "fold",
+      "marks",
+      "."
+    ],
+    "1": [
+      "place",
+      "on",
+      "2",
+      "ungreased",
+      "baking",
+      "sheets",
+      ";"
+    ],
+    "10": [
+      "fold",
+      "in",
+      "whipped",
+      "cream",
+      "."
+    ],
+    "11": [
+      "cover",
+      "and",
+      "refrigerate",
+      "11/2",
+      "hours",
+      "."
+    ],
+    "12": [
+      "to",
+      "assemble",
+      ",",
+      "place",
+      "a",
+      "generous",
+      "tablespoonful",
+      "of",
+      "pudding",
+      "mixture",
+      "on",
+      "bottom",
+      "half",
+      "of",
+      "each",
+      "puff",
+      "pastry",
+      "piece",
+      ",",
+      "then",
+      "replace",
+      "top",
+      "piece",
+      "of",
+      "puff",
+      "pastry",
+      "."
+    ],
+    "13": [
+      "drizzle",
+      "chocolate",
+      "sauce",
+      "lightly",
+      "over",
+      "each",
+      "napoleon",
+      ",",
+      "then",
+      "sprinkle",
+      "toasted",
+      "almonds",
+      "on",
+      "top",
+      "."
+    ],
+    "14": [
+      "refrigerate",
+      "6",
+      "hours",
+      "before",
+      "serving",
+      "."
+    ],
+    "2": [
+      "prick",
+      "all",
+      "over",
+      "with",
+      "a",
+      "fork",
+      "."
+    ],
+    "3": [
+      "bake",
+      "15",
+      "mins",
+      "."
+    ],
+    "4": [
+      "prick",
+      "with",
+      "a",
+      "fork",
+      "again",
+      "and",
+      "bake",
+      "8",
+      "to",
+      "10",
+      "mins",
+      "longer",
+      ",",
+      "or",
+      "until",
+      "pastry",
+      "is",
+      "golden",
+      "brown",
+      "."
+    ],
+    "5": [
+      "let",
+      "cool",
+      "completely",
+      "on",
+      "baking",
+      "sheets",
+      "."
+    ],
+    "6": [
+      "when",
+      "cool",
+      ",",
+      "cut",
+      "each",
+      "piece",
+      "of",
+      "pastry",
+      "crosswise",
+      "into",
+      "6",
+      "equal",
+      "pieces",
+      "."
+    ],
+    "7": [
+      "split",
+      "each",
+      "piece",
+      "in",
+      "half",
+      "horizontally",
+      ",",
+      "keeping",
+      "tops",
+      "and",
+      "bottoms",
+      "together",
+      "."
+    ],
+    "8": [
+      "in",
+      "a",
+      "large",
+      "mixing",
+      "bowl",
+      ",",
+      "combine",
+      "milk",
+      ",",
+      "cold",
+      "coffee",
+      ",",
+      "coffee",
+      "liqueur",
+      ",",
+      "and",
+      "pudding",
+      "mix",
+      "."
+    ],
+    "9": [
+      "beat",
+      "with",
+      "an",
+      "electric",
+      "mixer",
+      "on",
+      "low",
+      "until",
+      "well",
+      "combined",
+      ",",
+      "1",
+      "min",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut"
+    ],
+    "1": [
+      "place"
+    ],
+    "10": [
+      "fold"
+    ],
+    "11": [
+      "refrigerate",
+      "cover"
+    ],
+    "12": [
+      "place",
+      "replace"
+    ],
+    "13": [
+      "sprinkle",
+      "drizzle"
+    ],
+    "14": [
+      "refrigerate"
+    ],
+    "2": [
+      "prick"
+    ],
+    "3": [
+      "bake"
+    ],
+    "4": [
+      "bake",
+      "prick"
+    ],
+    "5": [
+      "cool"
+    ],
+    "6": [
+      "cut"
+    ],
+    "7": [
+      "split"
+    ],
+    "8": [
+      "combine"
+    ],
+    "9": [
+      "beat"
+    ]
+  }
+}

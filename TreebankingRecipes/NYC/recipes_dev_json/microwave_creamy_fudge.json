@@ -1,0 +1,270 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "microwave"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "location": [
+        "pan"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "9": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    }
+  },
+  "id": "microwave creamy fudge",
+  "ingredient_list": [
+    "sugar",
+    "milk",
+    "margarine",
+    "marshmallow",
+    "chocolate",
+    "vanilla",
+    "nuts"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "mix",
+      "sugar",
+      ",",
+      "milk",
+      ",",
+      "butter",
+      "and",
+      "a",
+      "dash",
+      "of",
+      "salt",
+      "in",
+      "a",
+      "3",
+      "quart",
+      "microwave",
+      "safe",
+      "bowl",
+      "."
+    ],
+    "1": [
+      "cover",
+      "loosely",
+      "with",
+      "wax",
+      "paper",
+      "."
+    ],
+    "2": [
+      "microcook",
+      "on",
+      "high",
+      "4",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "uncover",
+      ",",
+      "microcook",
+      "10",
+      "minutes",
+      "more",
+      ",",
+      "stirring",
+      "every",
+      "3",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "continue",
+      "cooking",
+      ",",
+      "stirring",
+      "every",
+      "2",
+      "minutes",
+      ",",
+      "until",
+      "candy",
+      "thermometer",
+      "reads",
+      "234",
+      "to",
+      "240",
+      "degrees",
+      "."
+    ],
+    "5": [
+      "-lrb-",
+      "soft",
+      "ball",
+      "stage",
+      "-rrb-",
+      "."
+    ],
+    "6": [
+      "stir",
+      "in",
+      "marshmallows",
+      "and",
+      "chocolate",
+      "chips",
+      "and",
+      "nuts",
+      "if",
+      "using",
+      "."
+    ],
+    "7": [
+      "stir",
+      "vigorously",
+      "until",
+      "creamy",
+      "and",
+      "slightly",
+      "glossy",
+      "."
+    ],
+    "8": [
+      "spread",
+      "in",
+      "a",
+      "buttered",
+      "11x7",
+      "pan",
+      "."
+    ],
+    "9": [
+      "refrigerate",
+      "2",
+      "hours",
+      "or",
+      "until",
+      "set",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "mix"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "cook",
+      "stir"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "stir"
+    ],
+    "8": [
+      "spread"
+    ],
+    "9": [
+      "refrigerate"
+    ]
+  }
+}

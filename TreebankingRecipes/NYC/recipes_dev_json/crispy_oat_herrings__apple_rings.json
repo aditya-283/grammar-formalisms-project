@@ -1,0 +1,292 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "cleanliness": [
+        "dry"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "location": [
+        "paper",
+        "towel"
+      ]
+    },
+    "6": {
+      "cleanliness": [
+        "clean"
+      ],
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "shape": [
+        "separated"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "location": [
+        "dish"
+      ]
+    },
+    "8": {
+      "location": [
+        "dish"
+      ]
+    }
+  },
+  "id": "crispy oat herrings  apple rings",
+  "ingredient_list": [
+    "herring",
+    "oatmeal",
+    "egg",
+    "apple",
+    "parsley",
+    "salt",
+    "pepper",
+    "oil"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      0,
+      5,
+      6
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      3
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "clean",
+      "and",
+      "scale",
+      "herrings",
+      ",",
+      "remove",
+      "fins",
+      ",",
+      "wash",
+      "in",
+      "cold",
+      "water",
+      "."
+    ],
+    "1": [
+      "dry",
+      "well",
+      "."
+    ],
+    "2": [
+      "season",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "3": [
+      "dip",
+      "herrings",
+      "in",
+      "beaten",
+      "egg",
+      ",",
+      "and",
+      "coat",
+      "with",
+      "oatmeal",
+      "."
+    ],
+    "4": [
+      "fry",
+      "in",
+      "hot",
+      "fat",
+      "for",
+      "4-5",
+      "minutes",
+      "on",
+      "each",
+      "side",
+      "."
+    ],
+    "5": [
+      "drain",
+      "well",
+      "on",
+      "paper",
+      "towels",
+      "and",
+      "keep",
+      "hot",
+      "."
+    ],
+    "6": [
+      "wash",
+      "apples",
+      ",",
+      "core",
+      ",",
+      "cut",
+      "in",
+      "slices",
+      "and",
+      "fry",
+      "in",
+      "hot",
+      "fat",
+      "for",
+      "a",
+      "few",
+      "seconds",
+      ",",
+      "turning",
+      "once",
+      "."
+    ],
+    "7": [
+      "serve",
+      "herrings",
+      "with",
+      "apple",
+      "rings",
+      "on",
+      "a",
+      "hot",
+      "dish",
+      "."
+    ],
+    "8": [
+      "garnish",
+      "with",
+      "parsley",
+      "sprigs",
+      "."
+    ],
+    "9": [
+      "serve",
+      "with",
+      "a",
+      "cider",
+      "sauce",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "wash",
+      "scale",
+      "clean",
+      "remove"
+    ],
+    "1": [
+      "dry"
+    ],
+    "2": [
+      "season"
+    ],
+    "3": [
+      "dip"
+    ],
+    "4": [
+      "fry"
+    ],
+    "5": [
+      "drain"
+    ],
+    "6": [
+      "core",
+      "fry",
+      "cut",
+      "wash"
+    ],
+    "7": [
+      "serve"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

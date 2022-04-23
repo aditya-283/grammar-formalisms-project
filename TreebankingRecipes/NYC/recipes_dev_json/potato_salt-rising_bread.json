@@ -1,0 +1,362 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "shape": [
+        "deformed"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed",
+        "molded"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "potato salt-rising bread",
+  "ingredient_list": [
+    "medium",
+    "salt",
+    "sugar",
+    "cornmeal",
+    "water",
+    "baking_soda",
+    "flour",
+    "milk",
+    "butter"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cut",
+      "2/1/2",
+      "c",
+      "new",
+      "non-mealy",
+      "potatoes",
+      "in",
+      "thin",
+      "slices",
+      ",",
+      "place",
+      "in",
+      "bowl",
+      ",",
+      "sprinkle",
+      "ove",
+      "them",
+      "1",
+      "t",
+      "sale",
+      ",",
+      "2",
+      "t",
+      "sugar",
+      ",",
+      "2",
+      "t",
+      "white",
+      "cornmeal",
+      ",",
+      "add",
+      "4",
+      "c",
+      "boiling",
+      "water",
+      "and",
+      "stir",
+      "till",
+      "salt",
+      "disolved",
+      "."
+    ],
+    "1": [
+      "let",
+      "stand",
+      ",",
+      "covered",
+      ",",
+      "15",
+      "hours",
+      ",",
+      "squeeze",
+      "out",
+      "potatoes",
+      "."
+    ],
+    "2": [
+      "drain",
+      "liquid",
+      "into",
+      "bowl",
+      "and",
+      "add",
+      ",",
+      "stiring",
+      "till",
+      "blended",
+      ",",
+      "1",
+      "t",
+      "baking",
+      "soda",
+      ",",
+      "11/2",
+      "t",
+      "salt",
+      ",",
+      "5",
+      "c",
+      "sifted",
+      "flour",
+      "."
+    ],
+    "3": [
+      "beat",
+      "-lrb-",
+      "forever",
+      "-rrb-",
+      "place",
+      "in",
+      "greased",
+      "bowl",
+      "in",
+      "warm",
+      "place",
+      "to",
+      "rise",
+      "till",
+      "light",
+      "."
+    ],
+    "4": [
+      "bubbles",
+      "should",
+      "come",
+      "to",
+      "surface",
+      "and",
+      "increase",
+      "in",
+      "size",
+      "1/3",
+      "-lrb-",
+      "11/2",
+      "hrs",
+      "-rrb-",
+      "."
+    ],
+    "5": [
+      "scald",
+      "1",
+      "c",
+      "milk",
+      "and",
+      "when",
+      "lukewarm",
+      ",",
+      "add",
+      "2",
+      "t",
+      "butter",
+      ",",
+      "add",
+      "to",
+      "sponge",
+      "with",
+      "5",
+      "-6",
+      "6",
+      "c",
+      "sifted",
+      "flour",
+      "."
+    ],
+    "6": [
+      "knead",
+      "10",
+      "min",
+      ",",
+      "shape",
+      "into",
+      "loaves",
+      ",",
+      "let",
+      "rise",
+      ",",
+      "covered",
+      ",",
+      "to",
+      "near",
+      "double",
+      "in",
+      "size",
+      "."
+    ],
+    "7": [
+      "bake",
+      "350",
+      "1",
+      "hour",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "stir",
+      "sprinkle",
+      "cut",
+      "place",
+      "add"
+    ],
+    "1": [
+      "squeeze"
+    ],
+    "2": [
+      "add",
+      "drain",
+      "stir"
+    ],
+    "3": [
+      "beat",
+      "rise",
+      "place"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "scald",
+      "add"
+    ],
+    "6": [
+      "knead",
+      "rise",
+      "shape"
+    ],
+    "7": [
+      "bake"
+    ]
+  }
+}

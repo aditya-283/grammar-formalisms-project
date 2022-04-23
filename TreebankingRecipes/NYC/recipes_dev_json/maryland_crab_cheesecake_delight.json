@@ -1,0 +1,304 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "7": {
+      "temperature": [
+        "cold"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "unknown"
+      ]
+    },
+    "9": {
+      "location": [
+        "platter"
+      ]
+    }
+  },
+  "id": "maryland crab cheesecake delight",
+  "ingredient_list": [
+    "cream_cheese",
+    "bouillon",
+    "margarine",
+    "crab_meat",
+    "pretzel",
+    "eggs",
+    "lemon_juice",
+    "sour_cream",
+    "dill"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      5
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "350",
+      "deg",
+      "."
+    ],
+    "1": [
+      "cream",
+      "the",
+      "cheese",
+      "and",
+      "mix",
+      "in",
+      "eggs",
+      "one",
+      "at",
+      "a",
+      "time",
+      "."
+    ],
+    "2": [
+      "blend",
+      "in",
+      "butter",
+      "or",
+      "margarine",
+      ",",
+      "sour",
+      "cream",
+      ",",
+      "bouillon",
+      "and",
+      "lemon",
+      "juice",
+      "."
+    ],
+    "3": [
+      "blend",
+      "crab",
+      "meat",
+      "into",
+      "mixture",
+      "."
+    ],
+    "4": [
+      "butter",
+      "9-inch",
+      "springform",
+      "pan",
+      ",",
+      "coat",
+      "with",
+      "pretzel",
+      "crumbs",
+      "and",
+      "fill",
+      "with",
+      "crab",
+      "mixture",
+      "."
+    ],
+    "5": [
+      "bake",
+      "45",
+      "minutes",
+      "to",
+      "1",
+      "hour",
+      "at",
+      "350",
+      "degrees",
+      "or",
+      "until",
+      "center",
+      "is",
+      "firm",
+      ";"
+    ],
+    "6": [
+      "cool",
+      "with",
+      "oven",
+      "door",
+      "open",
+      "."
+    ],
+    "7": [
+      "chill",
+      "in",
+      "pan",
+      ";"
+    ],
+    "8": [
+      "unmold",
+      "and",
+      "garnish",
+      "with",
+      "fresh",
+      "dill",
+      "."
+    ],
+    "9": [
+      "serve",
+      "with",
+      "crackers",
+      "as",
+      "hors",
+      "d'oeuvres",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "mix",
+      "cream"
+    ],
+    "2": [
+      "blend"
+    ],
+    "3": [
+      "blend"
+    ],
+    "4": [
+      "butter",
+      "coat"
+    ],
+    "5": [
+      "bake"
+    ],
+    "6": [
+      "cool"
+    ],
+    "7": [
+      "chill"
+    ],
+    "8": [
+      "garnish"
+    ],
+    "9": [
+      "serve"
+    ]
+  }
+}

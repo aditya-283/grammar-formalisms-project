@@ -1,0 +1,244 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "pan"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "nana es  aunt claras noodle pudding",
+  "ingredient_list": [
+    "medium",
+    "butter",
+    "sugar",
+    "cream",
+    "vanilla",
+    "eggs",
+    "milk",
+    "crumb"
+  ],
+  "ingredients": {
+    "0": [
+      1
+    ],
+    "1": [
+      0
+    ],
+    "3": [
+      0,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      5,
+      6
+    ],
+    "6": [
+      7,
+      0,
+      5,
+      6
+    ],
+    "9": [
+      7,
+      0,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "butter",
+      "an",
+      "8-inch",
+      "square",
+      "pan",
+      "."
+    ],
+    "1": [
+      "cook",
+      "noodles",
+      "according",
+      "to",
+      "package",
+      "directions",
+      ";"
+    ],
+    "10": [
+      "serve",
+      "at",
+      "room",
+      "temperature",
+      "."
+    ],
+    "11": [
+      "per",
+      "serving",
+      ";"
+    ],
+    "12": [
+      "407",
+      "cal",
+      ";"
+    ],
+    "2": [
+      "drain",
+      "."
+    ],
+    "3": [
+      "add",
+      "eggs",
+      "and",
+      "milk",
+      "and",
+      "beat",
+      "well",
+      "."
+    ],
+    "4": [
+      "stir",
+      "in",
+      "noodles",
+      "."
+    ],
+    "5": [
+      "pour",
+      "into",
+      "pan",
+      "."
+    ],
+    "6": [
+      "sprinkle",
+      "cornflake",
+      "crumbs",
+      "on",
+      "top",
+      "-lrb-",
+      "opt",
+      "-rrb-",
+      "."
+    ],
+    "7": [
+      "place",
+      "the",
+      "pan",
+      "holding",
+      "the",
+      "pudding",
+      "in",
+      "a",
+      "large",
+      "pan",
+      "."
+    ],
+    "8": [
+      "then",
+      "fill",
+      "the",
+      "larger",
+      "pan",
+      "with",
+      "enough",
+      "water",
+      "to",
+      "go",
+      "halfway",
+      "up",
+      "the",
+      "sides",
+      "of",
+      "the",
+      "square",
+      "pan",
+      "."
+    ],
+    "9": [
+      "when",
+      "cool",
+      "cut",
+      "into",
+      "squares",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "butter"
+    ],
+    "1": [
+      "cook"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "drain"
+    ],
+    "3": [
+      "beat",
+      "add"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "pour"
+    ],
+    "6": [
+      "sprinkle"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "cut"
+    ]
+  }
+}

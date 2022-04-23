@@ -1,0 +1,323 @@
+{
+  "events": {
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "location": [
+        "rack"
+      ]
+    },
+    "8": {
+      "location": [
+        "container"
+      ],
+      "temperature": [
+        "room"
+      ]
+    }
+  },
+  "id": "cardamon-almond muffins",
+  "ingredient_list": [
+    "wheat_pastry_flour",
+    "baking_powder",
+    "baking_soda",
+    "salt",
+    "cardamon",
+    "soymilk"
+  ],
+  "ingredients": {
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      4,
+      5
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "2",
+      "tbsp",
+      "pear",
+      "puree",
+      "-lrb-",
+      "directions",
+      "follow",
+      "-rrb-",
+      "2",
+      "tsp",
+      "lemon",
+      "juice",
+      "1",
+      "tsp",
+      "almond",
+      "extract",
+      "1",
+      "tsp",
+      "vanilla",
+      "1",
+      "tsp",
+      "artificial",
+      "sugar",
+      "substitute",
+      "-lrb-",
+      "or",
+      "2",
+      "tbsp",
+      "sucanat",
+      "-rrb-",
+      "2",
+      "tbsp",
+      "cornstarch"
+    ],
+    "1": [
+      "coat",
+      "10",
+      "muffin",
+      "wells",
+      "with",
+      "non-stick",
+      "spray",
+      "."
+    ],
+    "10": [
+      "container",
+      "of",
+      "canned",
+      "pears",
+      "-lrb-",
+      "packed",
+      "in",
+      "fruit",
+      "juice",
+      "is",
+      "preferrable",
+      "-rrb-",
+      "."
+    ],
+    "2": [
+      "sift",
+      "together",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "baking",
+      "soda",
+      ",",
+      "and",
+      "salt",
+      "."
+    ],
+    "3": [
+      "in",
+      "a",
+      "medium",
+      "bowl",
+      ",",
+      "stir",
+      "together",
+      "remaining",
+      "ingredients",
+      "."
+    ],
+    "4": [
+      "make",
+      "certain",
+      "it",
+      "is",
+      "completely",
+      "dissolved",
+      "in",
+      "the",
+      "liquid",
+      "."
+    ],
+    "5": [
+      "pour",
+      "dry",
+      "ingredients",
+      "in",
+      "to",
+      "wet",
+      "and",
+      "stir",
+      "just",
+      "long",
+      "enough",
+      "to",
+      "mix",
+      "completely",
+      "."
+    ],
+    "6": [
+      "bake",
+      "muffins",
+      "for",
+      "25-30",
+      "minutes",
+      ",",
+      "until",
+      "tops",
+      "are",
+      "lightly",
+      "golden",
+      "."
+    ],
+    "7": [
+      "allow",
+      "the",
+      "muffins",
+      "to",
+      "rest",
+      "a",
+      "few",
+      "minutes",
+      "before",
+      "removing",
+      "to",
+      "a",
+      "cooling",
+      "rack",
+      "."
+    ],
+    "8": [
+      "serve",
+      ",",
+      "or",
+      "cool",
+      "completely",
+      "and",
+      "store",
+      "in",
+      "an",
+      "air-tight",
+      "container",
+      "up",
+      "to",
+      "two",
+      "days",
+      "."
+    ],
+    "9": [
+      "puree",
+      "is",
+      "easily",
+      "made",
+      "by",
+      "blending",
+      ",",
+      "until",
+      "smooth",
+      ",",
+      "half",
+      "of",
+      "the",
+      "fruit",
+      "in",
+      "a",
+      "15",
+      "oz",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "bake"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "stir",
+      "pour"
+    ],
+    "6": [
+      "bake"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "serve",
+      "store",
+      "cool"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

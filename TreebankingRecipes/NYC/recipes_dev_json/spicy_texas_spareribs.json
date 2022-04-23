@@ -1,0 +1,220 @@
+{
+  "events": {
+    "2": {
+      "location": [
+        "rack",
+        "pan"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "spicy texas spareribs",
+  "ingredient_list": [
+    "sauce",
+    "pork_sparerib",
+    "lemon",
+    "onion"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1,
+      2,
+      3
+    ],
+    "4": [
+      1,
+      2,
+      3
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "7": [
+      0
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "pieces",
+      "."
+    ],
+    "1": [
+      "prepare",
+      "spicy",
+      "texas",
+      "barbecue",
+      "sauce",
+      "and",
+      "set",
+      "aside",
+      "."
+    ],
+    "2": [
+      "place",
+      "pork",
+      "spareribs",
+      ",",
+      "meaty",
+      "sides",
+      "up",
+      ",",
+      "on",
+      "rack",
+      "in",
+      "shallow",
+      "roasting",
+      "pan",
+      "."
+    ],
+    "3": [
+      "place",
+      "lemon",
+      "and",
+      "onion",
+      "slices",
+      "on",
+      "pork",
+      "."
+    ],
+    "4": [
+      "cover",
+      "and",
+      "bake",
+      "for",
+      "2",
+      "hours",
+      "."
+    ],
+    "5": [
+      "pour",
+      "2",
+      "cups",
+      "of",
+      "the",
+      "spicy",
+      "texas",
+      "barbecue",
+      "sauce",
+      "over",
+      "pork",
+      "."
+    ],
+    "6": [
+      "bake",
+      "uncovered",
+      ",",
+      "brushing",
+      "with",
+      "the",
+      "sauce",
+      "2",
+      "or",
+      "3",
+      "times",
+      ",",
+      "until",
+      "done",
+      ",",
+      "about",
+      "2",
+      "hours",
+      "longer",
+      "."
+    ],
+    "7": [
+      "heat",
+      "any",
+      "remaining",
+      "sauce",
+      "and",
+      "serve",
+      "with",
+      "the",
+      "pork",
+      "spareribs",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "set",
+      "prepare"
+    ],
+    "2": [
+      "place"
+    ],
+    "3": [
+      "place"
+    ],
+    "4": [
+      "bake",
+      "cover"
+    ],
+    "5": [
+      "pour"
+    ],
+    "6": [
+      "bake",
+      "brush"
+    ],
+    "7": [
+      "heat",
+      "serve"
+    ]
+  }
+}

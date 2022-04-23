@@ -1,0 +1,291 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "location": [
+        "colander"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    }
+  },
+  "id": "tan tan noodles",
+  "ingredient_list": [
+    "peanut_oil",
+    "vegetable",
+    "garlic",
+    "sherry",
+    "chili_bean_sauce",
+    "sesame_paste",
+    "soy_sauce",
+    "sugar",
+    "chicken",
+    "noodle"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "4": [
+      9
+    ],
+    "5": [
+      9
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "heat",
+      "a",
+      "wok",
+      "or",
+      "large",
+      "frying-pan",
+      "over",
+      "high",
+      "heat",
+      "and",
+      "add",
+      "the",
+      "oil",
+      "."
+    ],
+    "1": [
+      "put",
+      "in",
+      "the",
+      "preserved",
+      "vegetables",
+      ",",
+      "garlic",
+      ",",
+      "and",
+      "ginger",
+      "and",
+      "stir-fry",
+      "for",
+      "1",
+      "minute",
+      "."
+    ],
+    "2": [
+      "add",
+      "the",
+      "rice",
+      "wine",
+      ",",
+      "chili",
+      "bean",
+      "sauce",
+      ",",
+      "sesame",
+      "paste",
+      ",",
+      "soy",
+      "sauce",
+      ",",
+      "sugar",
+      ",",
+      "and",
+      "stock",
+      "."
+    ],
+    "3": [
+      "reduce",
+      "the",
+      "heat",
+      "and",
+      "simmer",
+      "for",
+      "3",
+      "minutes",
+      "over",
+      "low",
+      "heat",
+      "."
+    ],
+    "4": [
+      "bring",
+      "a",
+      "large",
+      "pot",
+      "of",
+      "water",
+      "to",
+      "boil",
+      "and",
+      "cook",
+      "the",
+      "noodles",
+      "for",
+      "2",
+      "minutes",
+      "if",
+      "they",
+      "are",
+      "fresh",
+      "and",
+      "5",
+      "minutes",
+      "if",
+      "dried",
+      "."
+    ],
+    "5": [
+      "drain",
+      "well",
+      "in",
+      "a",
+      "colander",
+      "."
+    ],
+    "6": [
+      "divide",
+      "the",
+      "noodles",
+      "into",
+      "individual",
+      "bowls",
+      "and",
+      "ladle",
+      "the",
+      "sauce",
+      "over",
+      "them",
+      "."
+    ],
+    "7": [
+      "serve",
+      "at",
+      "once",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat",
+      "add"
+    ],
+    "1": [
+      "put",
+      "stir-fry"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "reduce",
+      "simmer"
+    ],
+    "4": [
+      "cook"
+    ],
+    "5": [
+      "drain"
+    ],
+    "6": [
+      "divide",
+      "ladle"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

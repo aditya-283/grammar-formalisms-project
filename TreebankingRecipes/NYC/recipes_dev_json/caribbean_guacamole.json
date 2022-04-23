@@ -1,0 +1,274 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "location": [
+        "pan"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ]
+    },
+    "4": {
+      "location": [
+        "rack"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "5": {
+      "accessibility": [
+        "not_accessible"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "caribbean guacamole",
+  "ingredient_list": [
+    "sweet_bread",
+    "lime_juice",
+    "coconut",
+    "sugar",
+    "papaya"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      4
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      2
+    ],
+    "8": [
+      2
+    ],
+    "9": [
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cut",
+      "bread",
+      "into",
+      "1/4",
+      "''",
+      "thick",
+      "slices",
+      ",",
+      "then",
+      "cut",
+      "diagonally",
+      "into",
+      "triangles",
+      "."
+    ],
+    "1": [
+      "arrange",
+      "in",
+      "a",
+      "single",
+      "layer",
+      "in",
+      "a",
+      "10x15",
+      "''",
+      "pan",
+      "."
+    ],
+    "10": [
+      "discard",
+      "seeds",
+      "and",
+      "peel",
+      ",",
+      "leaving",
+      "halves",
+      "intact",
+      "."
+    ],
+    "2": [
+      "bake",
+      "in",
+      "a",
+      "300",
+      "`",
+      "f.",
+      "oven",
+      "until",
+      "lightly",
+      "browned",
+      ",",
+      "about",
+      "10",
+      "minutes",
+      ";"
+    ],
+    "3": [
+      "turn",
+      "slices",
+      "over",
+      "halfway",
+      "through",
+      "baking",
+      "."
+    ],
+    "4": [
+      "cool",
+      "on",
+      "racks",
+      "."
+    ],
+    "5": [
+      "if",
+      "made",
+      "ahead",
+      ",",
+      "wrap",
+      "airtight",
+      "and",
+      "store",
+      "at",
+      "room",
+      "temperature",
+      "up",
+      "to",
+      "a",
+      "day",
+      "."
+    ],
+    "6": [
+      "in",
+      "a",
+      "7-8",
+      "''",
+      "frying",
+      "pan",
+      ",",
+      "stir",
+      "coconut",
+      "over",
+      "medium-high",
+      "heat",
+      "until",
+      "golden",
+      "brown",
+      ",",
+      "about",
+      "3",
+      "minutes",
+      "."
+    ],
+    "7": [
+      "pour",
+      "from",
+      "pan",
+      ";"
+    ],
+    "8": [
+      "set",
+      "aside",
+      "."
+    ],
+    "9": [
+      "cut",
+      "papaya",
+      "in",
+      "half",
+      "lengthwise",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cut"
+    ],
+    "1": [
+      "arrange"
+    ],
+    "10": [
+      "discard"
+    ],
+    "2": [
+      "bake"
+    ],
+    "3": [
+      "turn"
+    ],
+    "4": [
+      "cool"
+    ],
+    "5": [
+      "wrap",
+      "store"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "pour"
+    ],
+    "8": [
+      "set"
+    ],
+    "9": [
+      "cut"
+    ]
+  }
+}

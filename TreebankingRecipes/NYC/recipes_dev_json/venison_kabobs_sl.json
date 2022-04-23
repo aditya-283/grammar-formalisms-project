@@ -1,0 +1,317 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "glass",
+        "container"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "container"
+      ]
+    },
+    "4": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "5": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "skewer"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "location": [
+        "plate"
+      ]
+    }
+  },
+  "id": "venison kabobs sl",
+  "ingredient_list": [
+    "venison_sirloin",
+    "onion_juice",
+    "vegetable_oil",
+    "cherry_tomato",
+    "burgundy",
+    "mushroom",
+    "cider_vinegar",
+    "onion",
+    "liquid",
+    "green_pepper",
+    "salt",
+    "piece",
+    "white_pepper",
+    "rice"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "3": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "4": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "6": [
+      0,
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      13
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "meat",
+      "in",
+      "a",
+      "shallow",
+      "glass",
+      "container",
+      ";"
+    ],
+    "1": [
+      "set",
+      "aside",
+      "."
+    ],
+    "10": [
+      "8",
+      "servings",
+      "."
+    ],
+    "2": [
+      "combine",
+      "oil",
+      "and",
+      "next",
+      "7",
+      "ingredients",
+      ";"
+    ],
+    "3": [
+      "pour",
+      "over",
+      "meat",
+      "."
+    ],
+    "4": [
+      "cover",
+      "and",
+      "refrigerate",
+      "48",
+      "hours",
+      ",",
+      "stirring",
+      "occasionally",
+      "."
+    ],
+    "5": [
+      "remove",
+      "meat",
+      "from",
+      "marinade",
+      ",",
+      "reserving",
+      "marinade",
+      "."
+    ],
+    "6": [
+      "alternate",
+      "meat",
+      "and",
+      "vegetables",
+      "on",
+      "skewers",
+      ";"
+    ],
+    "7": [
+      "brush",
+      "with",
+      "marinade",
+      "."
+    ],
+    "8": [
+      "grill",
+      "kabobs",
+      "over",
+      "medium-hot",
+      "coals",
+      "15",
+      "minutes",
+      ",",
+      "turning",
+      "and",
+      "basting",
+      "frequently",
+      "with",
+      "marinade",
+      "."
+    ],
+    "9": [
+      "serve",
+      "with",
+      "wild",
+      "rice",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "set"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "combine"
+    ],
+    "3": [
+      "pour"
+    ],
+    "4": [
+      "refrigerate",
+      "cover"
+    ],
+    "5": [
+      "remove"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "brush"
+    ],
+    "8": [
+      "grill",
+      "baste",
+      "turn"
+    ],
+    "9": [
+      "serve"
+    ]
+  }
+}

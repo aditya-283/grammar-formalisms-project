@@ -1,0 +1,331 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "separated"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "refrigerator"
+      ]
+    }
+  },
+  "id": "chocolate nut cake",
+  "ingredient_list": [
+    "butter",
+    "sugar",
+    "eggs",
+    "almond",
+    "cocoa",
+    "graham_cracker",
+    "milk",
+    "vanilla"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      3
+    ],
+    "2": [
+      0,
+      1,
+      3,
+      4,
+      6
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cream",
+      "together",
+      "the",
+      "butter",
+      "and",
+      "sugar",
+      "."
+    ],
+    "1": [
+      "chop",
+      "the",
+      "nuts",
+      "and",
+      "roast",
+      "if",
+      "desired",
+      "."
+    ],
+    "10": [
+      "easy",
+      "to",
+      "moderate",
+      "."
+    ],
+    "11": [
+      "30",
+      "minutes",
+      "preparation",
+      ",",
+      "several",
+      "hours",
+      "chilling",
+      "."
+    ],
+    "12": [
+      "approximate",
+      "measurement",
+      "ok",
+      "."
+    ],
+    "2": [
+      "dissolve",
+      "cocoa",
+      "in",
+      "about",
+      "2",
+      "t",
+      "milk",
+      ",",
+      "and",
+      "add",
+      "this",
+      "and",
+      "the",
+      "nuts",
+      "to",
+      "the",
+      "creamed",
+      "butter/sugar",
+      "mixture",
+      "."
+    ],
+    "3": [
+      "separate",
+      "the",
+      "eggs",
+      "and",
+      "set",
+      "the",
+      "whites",
+      "aside",
+      "."
+    ],
+    "4": [
+      "to",
+      "the",
+      "creamed",
+      "mixture",
+      "add",
+      "the",
+      "yolks",
+      "and",
+      "vanilla",
+      "and",
+      "beat",
+      "."
+    ],
+    "5": [
+      "whip",
+      "the",
+      "whites",
+      "until",
+      "stiff",
+      "peaks",
+      "form",
+      ",",
+      "then",
+      "fold",
+      "this",
+      "into",
+      "the",
+      "mixture",
+      "."
+    ],
+    "6": [
+      "line",
+      "a",
+      "9-inch",
+      "square",
+      "pan",
+      "with",
+      "a",
+      "layer",
+      "of",
+      "crackers",
+      ",",
+      "mixture",
+      ",",
+      "and",
+      "crackers",
+      "."
+    ],
+    "7": [
+      "top",
+      "with",
+      "the",
+      "remaining",
+      "mixture",
+      "and",
+      "set",
+      "in",
+      "the",
+      "refrigerator",
+      "until",
+      "hard",
+      "."
+    ],
+    "8": [
+      "easy-to-make",
+      "cake",
+      "that",
+      "everyone",
+      "enjoys",
+      "."
+    ],
+    "9": [
+      "crackers",
+      "until",
+      "they",
+      "are",
+      "slightly",
+      "softened",
+      "or",
+      "until",
+      "they",
+      "fall",
+      "apart",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cream"
+    ],
+    "1": [
+      "chop",
+      "roast"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add",
+      "dissolve"
+    ],
+    "3": [
+      "set",
+      "separate"
+    ],
+    "4": [
+      "beat",
+      "add"
+    ],
+    "5": [
+      "fold",
+      "whip"
+    ],
+    "6": [
+      "line"
+    ],
+    "7": [
+      "top",
+      "set"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

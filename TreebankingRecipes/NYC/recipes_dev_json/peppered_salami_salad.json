@@ -1,0 +1,366 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "jar"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "peppered salami salad",
+  "ingredient_list": [
+    "olive_oil",
+    "garlic_clove",
+    "white_bread",
+    "chili_seasoning",
+    "lettuce",
+    "salami",
+    "onion",
+    "pepper",
+    "mushroom",
+    "lemon_juice",
+    "sugar",
+    "mustard",
+    "salt",
+    "pepper",
+    "olife"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "4": [
+      4
+    ],
+    "5": [
+      7,
+      8,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "7": [
+      0,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "8": [
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "9": [
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "heat",
+      "3",
+      "tablespoons",
+      "of",
+      "oil",
+      "in",
+      "a",
+      "skillet",
+      "."
+    ],
+    "1": [
+      "add",
+      "garlic",
+      "and",
+      "bread",
+      "cubes",
+      "and",
+      "fry",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "until",
+      "golden",
+      "."
+    ],
+    "10": [
+      "serve",
+      "at",
+      "once",
+      "."
+    ],
+    "11": [
+      "just",
+      "before",
+      "serving",
+      ",",
+      "shake",
+      "dressing",
+      "ingredients",
+      "vigorously",
+      ",",
+      "add",
+      "to",
+      "salad",
+      "and",
+      "toss",
+      "well",
+      "."
+    ],
+    "12": [
+      "add",
+      "croutons",
+      "and",
+      "olives",
+      "and",
+      "serve",
+      "at",
+      "once",
+      "."
+    ],
+    "2": [
+      "remove",
+      "from",
+      "heat",
+      "."
+    ],
+    "3": [
+      "add",
+      "chili",
+      "seasoning",
+      ",",
+      "stir",
+      "well",
+      "and",
+      "cool",
+      "."
+    ],
+    "4": [
+      "tear",
+      "spinach",
+      "or",
+      "lettuce",
+      "leaves",
+      "into",
+      "bite-size",
+      "pieces",
+      "."
+    ],
+    "5": [
+      "in",
+      "a",
+      "large",
+      "salad",
+      "bowl",
+      ",",
+      "combine",
+      "spinach",
+      "or",
+      "lettuce",
+      "leaves",
+      ",",
+      "salami",
+      ",",
+      "onion",
+      ",",
+      "bell",
+      "pepper",
+      "and",
+      "mushrooms",
+      "."
+    ],
+    "6": [
+      "place",
+      "remaining",
+      "oil",
+      "in",
+      "a",
+      "screw-top",
+      "jar",
+      "with",
+      "lemon",
+      "juice",
+      ",",
+      "sugar",
+      ",",
+      "mustard",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "7": [
+      "shake",
+      "vigorously",
+      "until",
+      "well",
+      "blended",
+      "."
+    ],
+    "8": [
+      "pour",
+      "over",
+      "salad",
+      "and",
+      "toss",
+      "well",
+      "."
+    ],
+    "9": [
+      "sprinkle",
+      "croutons",
+      "on",
+      "top",
+      "and",
+      "garnish",
+      "with",
+      "olives",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "add",
+      "stir",
+      "fry"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "remove"
+    ],
+    "3": [
+      "add",
+      "stir"
+    ],
+    "4": [
+      "tear"
+    ],
+    "5": [
+      "combine"
+    ],
+    "6": [
+      "place"
+    ],
+    "7": [
+      "shake"
+    ],
+    "8": [
+      "toss",
+      "pour"
+    ],
+    "9": [
+      "sprinkle",
+      "garnish"
+    ]
+  }
+}

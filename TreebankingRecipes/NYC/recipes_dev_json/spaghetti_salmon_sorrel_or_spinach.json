@@ -1,0 +1,431 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "1": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "casserole"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "spaghetti salmon sorrel or spinach",
+  "ingredient_list": [
+    "salmon",
+    "spaghettus",
+    "fresh",
+    "butter",
+    "broccoli",
+    "parmesan"
+  ],
+  "ingredients": {
+    "0": [
+      2
+    ],
+    "1": [
+      2
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "11": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      4
+    ],
+    "3": [
+      3
+    ],
+    "4": [
+      3,
+      4
+    ],
+    "5": [
+      3,
+      4
+    ],
+    "6": [
+      3,
+      4
+    ],
+    "7": [
+      1
+    ],
+    "8": [
+      3,
+      4
+    ],
+    "9": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "take",
+      "some",
+      "sorrel",
+      "or",
+      "spinach",
+      "leaves",
+      "and",
+      "roll",
+      "them",
+      "up",
+      "tightly",
+      ",",
+      "a",
+      "few",
+      "at",
+      "a",
+      "time",
+      "."
+    ],
+    "1": [
+      "snip",
+      "across",
+      "with",
+      "scissors",
+      "to",
+      "make",
+      "fine",
+      "green",
+      "ribbony",
+      "shreds",
+      "."
+    ],
+    "10": [
+      "toss",
+      "quickly",
+      ",",
+      "gently",
+      "and",
+      "thoroughly",
+      "so",
+      "that",
+      "every",
+      "strand",
+      "of",
+      "pasta",
+      "is",
+      "anointed",
+      "with",
+      "butter",
+      "and",
+      "prettily",
+      "flecked",
+      "with",
+      "the",
+      "pink",
+      "and",
+      "green",
+      "of",
+      "the",
+      "salmon",
+      "and",
+      "vegetables",
+      "."
+    ],
+    "11": [
+      "check",
+      "the",
+      "seasoning",
+      ",",
+      "sprinkle",
+      "the",
+      "remaining",
+      "ribbons",
+      "of",
+      "greenery",
+      "over",
+      "the",
+      "top",
+      "and",
+      "serve",
+      "straight",
+      "away",
+      ",",
+      "accompanied",
+      "by",
+      "wedges",
+      "of",
+      "lemon",
+      "instead",
+      "of",
+      "the",
+      "ubiquitous",
+      "bowl",
+      "of",
+      "grated",
+      "parmesan",
+      "cheese",
+      "."
+    ],
+    "2": [
+      "chop",
+      "the",
+      "broccoli",
+      "florets",
+      "into",
+      "very",
+      "small",
+      "pieces",
+      "indeed",
+      ",",
+      "and",
+      "bring",
+      "a",
+      "large",
+      "pan",
+      "of",
+      "salted",
+      "water",
+      "to",
+      "the",
+      "boil",
+      "for",
+      "cooking",
+      "the",
+      "pasta",
+      "."
+    ],
+    "3": [
+      "melt",
+      "2",
+      "oz",
+      "butter",
+      "in",
+      "a",
+      "flameproof",
+      "casserole",
+      "suitable",
+      "for",
+      "bringing",
+      "to",
+      "table",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "broccoli",
+      ",",
+      "stir",
+      "to",
+      "coat",
+      "with",
+      "fat",
+      ",",
+      "cover",
+      "with",
+      "a",
+      "lid",
+      "and",
+      "cook",
+      "gently",
+      "for",
+      "just",
+      "1",
+      "minute",
+      "."
+    ],
+    "5": [
+      "add",
+      "a",
+      "very",
+      "generous",
+      "grinding",
+      "of",
+      "pepper",
+      ",",
+      "some",
+      "salt",
+      "and",
+      "2",
+      "teaspoons",
+      "lemon",
+      "juice",
+      "-lrb-",
+      "or",
+      "quite",
+      "a",
+      "bit",
+      "more",
+      "lemon",
+      "if",
+      "using",
+      "spinach",
+      "-rrb-",
+      "."
+    ],
+    "6": [
+      "cover",
+      "and",
+      "leave",
+      "over",
+      "very",
+      "gentle",
+      "heat",
+      "for",
+      "just",
+      "3",
+      "minutes",
+      "or",
+      "so",
+      "."
+    ],
+    "7": [
+      "meanwhile",
+      "cook",
+      "the",
+      "pasta",
+      "."
+    ],
+    "8": [
+      "draw",
+      "the",
+      "casserole",
+      "away",
+      "from",
+      "the",
+      "heat",
+      "."
+    ],
+    "9": [
+      "add",
+      "the",
+      "well",
+      "drained",
+      "pasta",
+      ",",
+      "the",
+      "parmesan",
+      "and",
+      "most",
+      "of",
+      "the",
+      "sorrel",
+      "or",
+      "spinach",
+      "ribbons",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "roll"
+    ],
+    "1": [
+      "snip"
+    ],
+    "10": [
+      "toss"
+    ],
+    "11": [
+      "sprinkle",
+      "serve",
+      "check"
+    ],
+    "2": [
+      "chop"
+    ],
+    "3": [
+      "melt"
+    ],
+    "4": [
+      "cook",
+      "cover",
+      "add",
+      "stir"
+    ],
+    "5": [
+      "grind"
+    ],
+    "6": [
+      "leave",
+      "cover"
+    ],
+    "7": [
+      "cook"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "add"
+    ]
+  }
+}

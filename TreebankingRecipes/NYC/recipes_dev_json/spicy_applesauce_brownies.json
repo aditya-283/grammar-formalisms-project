@@ -1,0 +1,377 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "10": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "11": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "spicy applesauce brownies",
+  "ingredient_list": [
+    "shortening",
+    "sugar",
+    "eggs",
+    "applesauce",
+    "chocolate",
+    "vanilla",
+    "flour",
+    "baking_powder",
+    "salt",
+    "cinnamon",
+    "walnut",
+    "sugar",
+    "cinnamon",
+    "milk"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "3": [
+      7,
+      8,
+      9,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      9,
+      11,
+      12,
+      13
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "cream",
+      "shortening",
+      "and",
+      "granulated",
+      "sugar",
+      ";"
+    ],
+    "1": [
+      "beat",
+      "in",
+      "eggs",
+      "."
+    ],
+    "10": [
+      "cool",
+      ";"
+    ],
+    "11": [
+      "cut",
+      "into",
+      "bars",
+      "."
+    ],
+    "2": [
+      "blend",
+      "in",
+      "applesauce",
+      ",",
+      "chocolate",
+      ",",
+      "and",
+      "vanilla",
+      "."
+    ],
+    "3": [
+      "stir",
+      "together",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "salt",
+      "and",
+      "1/2",
+      "t",
+      "cinnamon",
+      ";"
+    ],
+    "4": [
+      "stir",
+      "into",
+      "creamed",
+      "mixture",
+      "."
+    ],
+    "5": [
+      "mix",
+      "in",
+      "chopped",
+      "walnuts",
+      "."
+    ],
+    "6": [
+      "spread",
+      "in",
+      "greased",
+      "13",
+      "x",
+      "9",
+      "x",
+      "2-inch",
+      "baking",
+      "pan",
+      "."
+    ],
+    "7": [
+      "bake",
+      "at",
+      "350",
+      "degrees",
+      "f",
+      "for",
+      "25",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "combine",
+      "powdered",
+      "sugar",
+      ",",
+      "1/8",
+      "t",
+      "cinnamon",
+      ",",
+      "and",
+      "enough",
+      "milk",
+      "-lrb-",
+      "about",
+      "4",
+      "t",
+      "-rrb-",
+      "til",
+      "of",
+      "drizzling",
+      "consistency",
+      "."
+    ],
+    "9": [
+      "drizzle",
+      "over",
+      "slightly",
+      "warm",
+      "brownies",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cream"
+    ],
+    "1": [
+      "beat"
+    ],
+    "10": [
+      "cool"
+    ],
+    "11": [
+      "cut"
+    ],
+    "2": [
+      "blend"
+    ],
+    "3": [
+      "stir"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "mix"
+    ],
+    "6": [
+      "spread"
+    ],
+    "7": [
+      "bake"
+    ],
+    "8": [
+      "combine"
+    ],
+    "9": [
+      "drizzle"
+    ]
+  }
+}

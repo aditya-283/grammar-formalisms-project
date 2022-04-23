@@ -1,0 +1,389 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "blender",
+        "container"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "blender",
+        "container"
+      ]
+    },
+    "4": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ]
+    }
+  },
+  "id": "imperial sesame fish",
+  "ingredient_list": [
+    "sesame_seed",
+    "soy_sauce",
+    "white_vinegar",
+    "ginger",
+    "sugar",
+    "water",
+    "fish_fillet",
+    "cornstarch",
+    "top"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "measure",
+      "sesame",
+      "seed",
+      "into",
+      "blender",
+      "container",
+      ";"
+    ],
+    "1": [
+      "cover",
+      "and",
+      "process",
+      "about",
+      "10",
+      "seconds",
+      ",",
+      "or",
+      "until",
+      "finely",
+      "ground",
+      "."
+    ],
+    "10": [
+      "cook",
+      "and",
+      "stir",
+      "until",
+      "sauce",
+      "thickens",
+      "."
+    ],
+    "11": [
+      "stir",
+      "in",
+      "green",
+      "onion",
+      "."
+    ],
+    "12": [
+      "just",
+      "before",
+      "serving",
+      ",",
+      "spoon",
+      "sauce",
+      "over",
+      "cooked",
+      "fish",
+      "."
+    ],
+    "13": [
+      "serve",
+      "with",
+      "assorted",
+      "vegetables",
+      "."
+    ],
+    "2": [
+      "add",
+      "soy",
+      "sauce",
+      ",",
+      "vinegar",
+      ",",
+      "ginger",
+      "and",
+      "sugar",
+      ";"
+    ],
+    "3": [
+      "cover",
+      "and",
+      "process",
+      "about",
+      "15",
+      "seconds",
+      ",",
+      "scraping",
+      "down",
+      "sides",
+      "once",
+      "."
+    ],
+    "4": [
+      "remove",
+      "3",
+      "tb",
+      ".",
+      "sauce",
+      "mixture",
+      "from",
+      "blender",
+      "container",
+      ";"
+    ],
+    "5": [
+      "combine",
+      "with",
+      "water",
+      "in",
+      "small",
+      "saucepan",
+      "and",
+      "set",
+      "aside",
+      "."
+    ],
+    "6": [
+      "generously",
+      "brush",
+      "both",
+      "sides",
+      "of",
+      "fish",
+      "with",
+      "remaining",
+      "sauce",
+      "."
+    ],
+    "7": [
+      "broil",
+      "about",
+      "5",
+      "minutes",
+      ",",
+      "or",
+      "until",
+      "fish",
+      "flakes",
+      "easily",
+      "when",
+      "tested",
+      "with",
+      "fork",
+      "."
+    ],
+    "8": [
+      "meanwhile",
+      ",",
+      "blend",
+      "cornstarch",
+      "with",
+      "mixture",
+      "in",
+      "saucepan",
+      "."
+    ],
+    "9": [
+      "bring",
+      "to",
+      "boil",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "cover"
+    ],
+    "10": [
+      "cook",
+      "stir"
+    ],
+    "11": [
+      "stir"
+    ],
+    "12": [
+      "spoon"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "cover"
+    ],
+    "4": [
+      "remove"
+    ],
+    "5": [
+      "set",
+      "combine"
+    ],
+    "6": [
+      "brush"
+    ],
+    "7": [
+      "broil"
+    ],
+    "8": [
+      "blend"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

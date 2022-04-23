@@ -1,0 +1,325 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "location": [
+        "pan"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "temperature": [
+        "room"
+      ]
+    },
+    "9": {
+      "temperature": [
+        "cold"
+      ]
+    }
+  },
+  "id": "chocolate mint cheesecake",
+  "ingredient_list": [
+    "chocolate",
+    "butter",
+    "cream_cheese",
+    "sugar",
+    "eggs",
+    "green",
+    "white_chocolate",
+    "mint_chocolate"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      7
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "3": [
+      2,
+      3
+    ],
+    "4": [
+      2,
+      3,
+      4
+    ],
+    "5": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "chocolate",
+      "wafer",
+      "crumbs",
+      "with",
+      "melted",
+      "butter",
+      "."
+    ],
+    "1": [
+      "press",
+      "into",
+      "bottom",
+      "and",
+      "2",
+      "inches",
+      "up",
+      "sides",
+      "of",
+      "a",
+      "9-inch",
+      "springform",
+      "pan",
+      "."
+    ],
+    "10": [
+      "make",
+      "curls",
+      "by",
+      "running",
+      "a",
+      "vegetable",
+      "peeler",
+      "along",
+      "narrow",
+      "edge",
+      "of",
+      "a",
+      "frosted",
+      "mint",
+      "chocolate",
+      "bar",
+      "."
+    ],
+    "11": [
+      "decorate",
+      "cake",
+      "."
+    ],
+    "2": [
+      "heat",
+      "oven",
+      "to",
+      "325f",
+      "160c",
+      "."
+    ],
+    "3": [
+      "beat",
+      "cream",
+      "cheese",
+      "and",
+      "sugar",
+      "until",
+      "very",
+      "smooth",
+      "."
+    ],
+    "4": [
+      "beat",
+      "in",
+      "eggs",
+      ",",
+      "one",
+      "at",
+      "a",
+      "time",
+      ",",
+      "just",
+      "until",
+      "blended",
+      "."
+    ],
+    "5": [
+      "beat",
+      "in",
+      "liqueur",
+      "and",
+      "melted",
+      "white",
+      "chocolate",
+      "."
+    ],
+    "6": [
+      "pour",
+      "over",
+      "prepared",
+      "crust",
+      "and",
+      "bake",
+      "for",
+      "50",
+      "minutes",
+      "or",
+      "until",
+      "centre",
+      "is",
+      "just",
+      "set",
+      "."
+    ],
+    "7": [
+      "remove",
+      "from",
+      "oven",
+      "and",
+      "run",
+      "knife",
+      "around",
+      "sides",
+      "of",
+      "pan",
+      "to",
+      "loosen",
+      "."
+    ],
+    "8": [
+      "cool",
+      "at",
+      "room",
+      "temperature",
+      "."
+    ],
+    "9": [
+      "chill",
+      "overnight",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "press"
+    ],
+    "10": [
+      "make"
+    ],
+    "11": [
+      "decorate"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "beat"
+    ],
+    "4": [
+      "beat"
+    ],
+    "5": [
+      "beat"
+    ],
+    "6": [
+      "bake",
+      "pour"
+    ],
+    "7": [
+      "remove"
+    ],
+    "8": [
+      "cool"
+    ],
+    "9": [
+      "chill"
+    ]
+  }
+}

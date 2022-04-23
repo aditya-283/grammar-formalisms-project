@@ -1,0 +1,292 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "oven"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "soupe a livrogne drunkards soup",
+  "ingredient_list": [
+    "herb",
+    "salt_pork",
+    "onion",
+    "white_bread",
+    "beef",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "2": [
+      1,
+      2
+    ],
+    "3": [
+      1,
+      2,
+      3
+    ],
+    "4": [
+      1,
+      2,
+      3
+    ],
+    "5": [
+      1,
+      2,
+      3
+    ],
+    "6": [
+      1,
+      2,
+      3
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "soak",
+      "herbs",
+      "in",
+      "cold",
+      "water",
+      ",",
+      "then",
+      "drain",
+      "."
+    ],
+    "1": [
+      "fry",
+      "salt",
+      "pork",
+      "until",
+      "crisp",
+      "and",
+      "brown",
+      "in",
+      "a",
+      "large",
+      ",",
+      "heavy",
+      "frying",
+      "pan",
+      "."
+    ],
+    "2": [
+      "add",
+      "onions",
+      "and",
+      "saute",
+      "until",
+      "browned",
+      "."
+    ],
+    "3": [
+      "add",
+      "bread",
+      "cubes",
+      "to",
+      "the",
+      "frying",
+      "pan",
+      ";"
+    ],
+    "4": [
+      "toss",
+      "to",
+      "coat",
+      "well",
+      "."
+    ],
+    "5": [
+      "place",
+      "frying",
+      "pan",
+      "in",
+      "a",
+      "preheated",
+      "350",
+      "deg",
+      "f",
+      "oven",
+      "for",
+      "15",
+      "minutes",
+      "to",
+      "toast",
+      "bread",
+      "lightly",
+      "."
+    ],
+    "6": [
+      "transfer",
+      "mixture",
+      "to",
+      "a",
+      "large",
+      ",",
+      "heavy",
+      "saucepan",
+      "."
+    ],
+    "7": [
+      "add",
+      "beef",
+      "stock",
+      "and",
+      "salted",
+      "herbs",
+      "."
+    ],
+    "8": [
+      "simmer",
+      "gently",
+      "for",
+      "1",
+      "hour",
+      "."
+    ],
+    "9": [
+      "adjust",
+      "seasoning",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "drain",
+      "soak"
+    ],
+    "1": [
+      "fry"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "toss"
+    ],
+    "5": [
+      "toast",
+      "place",
+      "fry"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "simmer"
+    ],
+    "9": [
+      "adjust"
+    ]
+  }
+}

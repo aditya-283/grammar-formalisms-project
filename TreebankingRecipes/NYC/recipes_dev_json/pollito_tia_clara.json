@@ -1,0 +1,517 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "location": [
+        "platter"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "platter"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "location": [
+        "platter"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "casserole"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top"
+      ]
+    }
+  },
+  "id": "pollito tia clara",
+  "ingredient_list": [
+    "chicken",
+    "cloves_garlic",
+    "salt",
+    "paprika",
+    "wine_vinegar",
+    "olive_oil",
+    "plum_tomato",
+    "plum_tomato",
+    "onion",
+    "butter",
+    "piece",
+    "pepper",
+    "parsley",
+    "garnish"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      8,
+      9,
+      2,
+      11,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "rinse",
+      "the",
+      "chicken",
+      ",",
+      "remove",
+      "any",
+      "excess",
+      "fat",
+      "from",
+      "around",
+      "the",
+      "vent",
+      ",",
+      "and",
+      "pat",
+      "dry",
+      "with",
+      "paper",
+      "towels",
+      "."
+    ],
+    "1": [
+      "in",
+      "a",
+      "small",
+      "bowl",
+      ",",
+      "mix",
+      "together",
+      "the",
+      "garlic",
+      ",",
+      "1",
+      "teaspoon",
+      "salt",
+      ",",
+      "paprika",
+      ",",
+      "and",
+      "vinegar",
+      "."
+    ],
+    "10": [
+      "roast",
+      "the",
+      "chicken",
+      "for",
+      "20",
+      "minutes",
+      "per",
+      "pound",
+      ",",
+      "or",
+      "until",
+      "the",
+      "thigh",
+      "meat",
+      "is",
+      "done",
+      "through",
+      "with",
+      "no",
+      "trace",
+      "of",
+      "pink",
+      "remaining",
+      "."
+    ],
+    "11": [
+      "transfer",
+      "the",
+      "chicken",
+      "to",
+      "a",
+      "warm",
+      "serving",
+      "platter",
+      "and",
+      "cover",
+      "loosely",
+      "with",
+      "aluminum",
+      "foil",
+      ",",
+      "while",
+      "you",
+      "tip",
+      "the",
+      "casserole",
+      "to",
+      "one",
+      "side",
+      "and",
+      "spoon",
+      "off",
+      "the",
+      "excess",
+      "fat",
+      "."
+    ],
+    "12": [
+      "carve",
+      "the",
+      "chicken",
+      "into",
+      "serving",
+      "pieces",
+      "as",
+      "desired",
+      ",",
+      "and",
+      "serve",
+      "with",
+      "some",
+      "of",
+      "the",
+      "vegetables",
+      "from",
+      "the",
+      "pan",
+      ",",
+      "sprinkled",
+      "with",
+      "the",
+      "parsley",
+      "."
+    ],
+    "2": [
+      "use",
+      "this",
+      "mixture",
+      "to",
+      "rub",
+      "all",
+      "over",
+      "and",
+      "inside",
+      "the",
+      "cavity",
+      "of",
+      "the",
+      "chicken",
+      "."
+    ],
+    "3": [
+      "cover",
+      "the",
+      "chicken",
+      "and",
+      "let",
+      "it",
+      "sit",
+      "on",
+      "a",
+      "platter",
+      "for",
+      "1",
+      "hour",
+      "."
+    ],
+    "4": [
+      "heat",
+      "a",
+      "large",
+      "castiron",
+      "skillet",
+      "over",
+      "mediumhigh",
+      "heat",
+      "and",
+      "add",
+      "the",
+      "olive",
+      "oil",
+      "."
+    ],
+    "5": [
+      "shake",
+      "the",
+      "chicken",
+      "from",
+      "both",
+      "ends",
+      "to",
+      "drain",
+      "off",
+      "the",
+      "excess",
+      "vinegar",
+      "."
+    ],
+    "6": [
+      "using",
+      "kitchen",
+      "tongs",
+      "and",
+      "a",
+      "large",
+      "wooden",
+      "spoon",
+      "to",
+      "steady",
+      "the",
+      "bird",
+      ",",
+      "brown",
+      "it",
+      "on",
+      "all",
+      "sides",
+      "in",
+      "the",
+      "hot",
+      "oil",
+      "."
+    ],
+    "7": [
+      "preheat",
+      "the",
+      "oven",
+      "to",
+      "350",
+      "degrees",
+      "."
+    ],
+    "8": [
+      "in",
+      "a",
+      "large",
+      "enamel",
+      "and",
+      "castiron",
+      "casserole",
+      ",",
+      "combine",
+      "the",
+      "tomatoes",
+      ",",
+      "onions",
+      ",",
+      "butter",
+      ",",
+      "1/2",
+      "teaspoon",
+      "salt",
+      "and",
+      "the",
+      "black",
+      "pepper",
+      "."
+    ],
+    "9": [
+      "add",
+      "1/2",
+      "cup",
+      "water",
+      "and",
+      "set",
+      "the",
+      "chicken",
+      "on",
+      "top",
+      "of",
+      "this",
+      "mixture",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "pat",
+      "rinse",
+      "remove"
+    ],
+    "1": [
+      "mix"
+    ],
+    "10": [
+      "roast"
+    ],
+    "11": [
+      "cover",
+      "spoon",
+      "tip"
+    ],
+    "12": [
+      "carve",
+      "serve"
+    ],
+    "2": [
+      "rub"
+    ],
+    "3": [
+      "cover"
+    ],
+    "4": [
+      "heat",
+      "add"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "brown"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "combine"
+    ],
+    "9": [
+      "add",
+      "set"
+    ]
+  }
+}

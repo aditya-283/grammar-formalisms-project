@@ -1,0 +1,357 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "cleanliness": [
+        "dry",
+        "clean"
+      ],
+      "shape": [
+        "molded"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "temperature": [
+        "cold"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "lamb sauce icelandic",
+  "ingredient_list": [
+    "lamb",
+    "rosemary",
+    "pepper",
+    "mushroom",
+    "water",
+    "olive_oil",
+    "butter",
+    "mushroom",
+    "rosemary",
+    "sage",
+    "cheese",
+    "currant_jelly",
+    "cream",
+    "salt",
+    "pepper",
+    "bitter"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2
+    ],
+    "5": [
+      0,
+      1,
+      2
+    ],
+    "7": [
+      7,
+      5,
+      6
+    ],
+    "8": [
+      7,
+      5,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "trim",
+      "excess",
+      "fat",
+      "from",
+      "lamb",
+      "."
+    ],
+    "1": [
+      "rinse",
+      ",",
+      "dry",
+      "roll",
+      "and",
+      "tie",
+      "kitchen",
+      "string",
+      "."
+    ],
+    "10": [
+      "just",
+      "before",
+      "serving",
+      ",",
+      "add",
+      "bitters",
+      "and",
+      "heat",
+      "through",
+      "gently",
+      "."
+    ],
+    "2": [
+      "rub",
+      "rosemary",
+      "and",
+      "pepper",
+      "all",
+      "over",
+      "the",
+      "meat",
+      "."
+    ],
+    "3": [
+      "wrap",
+      "and",
+      "refrigerate",
+      "until",
+      "30",
+      "minutes",
+      "before",
+      "cooking",
+      "time",
+      "."
+    ],
+    "4": [
+      "roast",
+      "lamb",
+      "at",
+      "350",
+      "degrees",
+      "for",
+      "about",
+      "90",
+      "minutes",
+      "-lrb-",
+      "temperature",
+      "should",
+      "register",
+      "130",
+      "degrees",
+      "on",
+      "a",
+      "meat",
+      "theomometer",
+      "insderted",
+      "in",
+      "center",
+      "of",
+      "the",
+      "roast",
+      "-rrb-",
+      "."
+    ],
+    "5": [
+      "let",
+      "stand",
+      "10",
+      "minutes",
+      "before",
+      "carving",
+      "."
+    ],
+    "6": [
+      "drain",
+      "through",
+      "a",
+      "paper",
+      "coffee",
+      "filter",
+      "cone",
+      ",",
+      "reserving",
+      "liquid",
+      "."
+    ],
+    "7": [
+      "saute",
+      "buttom",
+      "mushrooms",
+      "in",
+      "oil",
+      "and",
+      "butter",
+      "over",
+      "medium",
+      "high",
+      "heat",
+      "for",
+      "three",
+      "minutes",
+      "."
+    ],
+    "8": [
+      "reduce",
+      "heat",
+      "to",
+      "medium",
+      "low",
+      "."
+    ],
+    "9": [
+      "add",
+      "herbs",
+      ",",
+      "cheese",
+      ",",
+      "jelly",
+      ",",
+      "cream",
+      ",",
+      "seasonings",
+      ",",
+      "drained",
+      "dried",
+      "mushrooms",
+      "and",
+      "1/2",
+      "cup",
+      "of",
+      "the",
+      "reserved",
+      "mushroom",
+      "liquid",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "trim"
+    ],
+    "1": [
+      "dry",
+      "tie",
+      "rinse"
+    ],
+    "10": [
+      "add",
+      "heat"
+    ],
+    "2": [
+      "rub"
+    ],
+    "3": [
+      "wrap",
+      "refrigerate"
+    ],
+    "4": [
+      "roast"
+    ],
+    "5": [
+      "stand"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "butter",
+      "saute"
+    ],
+    "8": [
+      "reduce"
+    ],
+    "9": [
+      "add"
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ]
+    },
+    "10": {
+      "location": [
+        "sieve"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "11": {
+      "location": [
+        "container",
+        "refrigerator"
+      ]
+    },
+    "2": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "mixer"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "saucepan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "creme anglaise-martha stewart living",
+  "ingredient_list": [
+    "milk",
+    "vanilla_bean",
+    "sugar",
+    "egg_yolk",
+    "cornstarch",
+    "cognac"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      2,
+      3
+    ],
+    "4": [
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "small",
+      "saucepan",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "bring",
+      "milk",
+      "and",
+      "vanilla",
+      "bean",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "1": [
+      "remove",
+      "from",
+      "heat",
+      "and",
+      "let",
+      "stand",
+      "for",
+      "5",
+      "minutes",
+      "."
+    ],
+    "10": [
+      "strain",
+      "through",
+      "a",
+      "fine",
+      "sieve",
+      "and",
+      "cool",
+      "."
+    ],
+    "11": [
+      "refrigerate",
+      "in",
+      "a",
+      "covered",
+      "container",
+      "until",
+      "ready",
+      "to",
+      "use",
+      ",",
+      "up",
+      "to",
+      "2",
+      "days",
+      "."
+    ],
+    "12": [
+      "martha",
+      "stewart",
+      "living/feb",
+      "."
+    ],
+    "2": [
+      "remove",
+      "vanilla",
+      "bean",
+      "."
+    ],
+    "3": [
+      "using",
+      "an",
+      "electric",
+      "mixer",
+      ",",
+      "beat",
+      "together",
+      "sugar",
+      "and",
+      "egg",
+      "yolks",
+      "until",
+      "thick",
+      "and",
+      "fluffy",
+      "."
+    ],
+    "4": [
+      "add",
+      "cornstarch",
+      "."
+    ],
+    "5": [
+      "mix",
+      "in",
+      "boiled",
+      "milk",
+      ",",
+      "a",
+      "little",
+      "at",
+      "a",
+      "time",
+      ",",
+      "on",
+      "low",
+      "speed",
+      "."
+    ],
+    "6": [
+      "when",
+      "mixture",
+      "is",
+      "thoroughly",
+      "blended",
+      ",",
+      "transfer",
+      "to",
+      "a",
+      "heavy",
+      "enameled",
+      "saucepan",
+      "."
+    ],
+    "7": [
+      "cook",
+      "over",
+      "low",
+      "heat",
+      ",",
+      "stirring",
+      "slowly",
+      "and",
+      "constantly",
+      "with",
+      "a",
+      "wooden",
+      "spoon",
+      "."
+    ],
+    "8": [
+      "continue",
+      "stirring",
+      ",",
+      "without",
+      "letting",
+      "sauce",
+      "boil",
+      ",",
+      "until",
+      "sauce",
+      "thickens",
+      "to",
+      "a",
+      "creamy",
+      "consistency",
+      "and",
+      "surface",
+      "froth",
+      "has",
+      "subsided",
+      "."
+    ],
+    "9": [
+      "remove",
+      "mixture",
+      "from",
+      "heat",
+      "and",
+      "whisk",
+      "in",
+      "cognac",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "remove"
+    ],
+    "10": [
+      "strain",
+      "cool"
+    ],
+    "11": [
+      "refrigerate"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "remove"
+    ],
+    "3": [
+      "beat"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "mix"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "cook",
+      "stir"
+    ],
+    "8": [
+      "stir"
+    ],
+    "9": [
+      "whisk",
+      "remove"
+    ]
+  }
+}

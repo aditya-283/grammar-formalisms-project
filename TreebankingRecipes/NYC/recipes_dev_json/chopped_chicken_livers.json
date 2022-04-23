@@ -1,0 +1,309 @@
+{
+  "events": {
+    "1": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "10": {
+      "location": [
+        "bed"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "foil",
+        "sheet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "7": {
+      "location": [
+        "bowl",
+        "processor",
+        "blender"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl",
+        "processor",
+        "blender"
+      ]
+    }
+  },
+  "id": "chopped chicken livers",
+  "ingredient_list": [
+    "chicken_liver",
+    "onion",
+    "chicken",
+    "eggs",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      1,
+      2
+    ],
+    "6": [
+      3
+    ],
+    "7": [
+      3
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "oven",
+      "to",
+      "375",
+      "deg",
+      "."
+    ],
+    "1": [
+      "wash",
+      "and",
+      "drain",
+      "the",
+      "chicken",
+      "livers",
+      "."
+    ],
+    "10": [
+      "serve",
+      "as",
+      "an",
+      "appetizer",
+      "on",
+      "a",
+      "bed",
+      "of",
+      "lettuce",
+      "with",
+      "chopped",
+      "onion",
+      "."
+    ],
+    "2": [
+      "remove",
+      "all",
+      "fat",
+      "and",
+      "any",
+      "discolored",
+      "spots",
+      "."
+    ],
+    "3": [
+      "if",
+      "you",
+      "find",
+      "one",
+      "with",
+      "a",
+      "green",
+      "area",
+      ",",
+      "which",
+      "is",
+      "the",
+      "gall",
+      ",",
+      "throw",
+      "it",
+      "away",
+      "."
+    ],
+    "4": [
+      "arrange",
+      "the",
+      "livers",
+      "on",
+      "a",
+      "foil",
+      "lined",
+      "baking",
+      "sheet",
+      "and",
+      "bake",
+      "for",
+      "30",
+      "minutes",
+      "at",
+      "375",
+      "deg",
+      "."
+    ],
+    "5": [
+      "while",
+      "livers",
+      "are",
+      "baking",
+      ",",
+      "saute",
+      "the",
+      "onions",
+      "in",
+      "the",
+      "schmaltz",
+      "-lrb-",
+      "chicken",
+      "fat",
+      "-rrb-",
+      "until",
+      "very",
+      "brown",
+      "."
+    ],
+    "6": [
+      "peel",
+      "the",
+      "eggs",
+      "and",
+      "chop",
+      "them",
+      "coarsely",
+      "."
+    ],
+    "7": [
+      "place",
+      "in",
+      "a",
+      "bowl",
+      "of",
+      "food",
+      "processor",
+      ",",
+      "or",
+      "blender",
+      "."
+    ],
+    "8": [
+      "add",
+      "the",
+      "livers",
+      ",",
+      "the",
+      "sauteed",
+      "onions",
+      ",",
+      "salt",
+      "and",
+      "pepper",
+      "."
+    ],
+    "9": [
+      "pulse",
+      "the",
+      "machine",
+      "until",
+      "everything",
+      "is",
+      "ground",
+      "and",
+      "mixed",
+      "together",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "wash"
+    ],
+    "10": [
+      "serve"
+    ],
+    "2": [
+      "remove"
+    ],
+    "3": [
+      "<NO_CHANGE>"
+    ],
+    "4": [
+      "bake",
+      "arrange"
+    ],
+    "5": [
+      "saute"
+    ],
+    "6": [
+      "chop",
+      "peel"
+    ],
+    "7": [
+      "place"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

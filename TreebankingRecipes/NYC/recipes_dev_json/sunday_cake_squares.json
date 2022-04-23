@@ -1,0 +1,383 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl",
+        "mixer"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "location": [
+        "wire",
+        "rack"
+      ],
+      "temperature": [
+        "room"
+      ]
+    },
+    "9": {
+      "shape": [
+        "separated"
+      ]
+    }
+  },
+  "id": "sunday cake squares",
+  "ingredient_list": [
+    "flour",
+    "baking_powder",
+    "salt",
+    "nutmeg",
+    "vegetable_shortening",
+    "sugar",
+    "eggs",
+    "vanilla",
+    "milk",
+    "sugar",
+    "cinnamon"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "1": [
+      4,
+      5
+    ],
+    "2": [
+      4,
+      5,
+      6
+    ],
+    "3": [
+      7,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "sift",
+      "the",
+      "flour",
+      ",",
+      "baking",
+      "powder",
+      ",",
+      "salt",
+      "and",
+      "nutmeg",
+      "together",
+      "and",
+      "set",
+      "aside",
+      "."
+    ],
+    "1": [
+      "cream",
+      "the",
+      "sugar",
+      "and",
+      "shortening",
+      "together",
+      ",",
+      "in",
+      "a",
+      "large",
+      "mixing",
+      "bowl",
+      ",",
+      "until",
+      "light",
+      "and",
+      "fluffy",
+      ",",
+      "using",
+      "an",
+      "electric",
+      "mixer",
+      "set",
+      "ad",
+      "medium",
+      "speed",
+      "."
+    ],
+    "2": [
+      "add",
+      "the",
+      "eggs",
+      ",",
+      "one",
+      "at",
+      "a",
+      "time",
+      ",",
+      "beating",
+      "well",
+      "after",
+      "each",
+      "addition",
+      "."
+    ],
+    "3": [
+      "blend",
+      "in",
+      "the",
+      "vanilla",
+      "extract",
+      "."
+    ],
+    "4": [
+      "add",
+      "the",
+      "dry",
+      "ingredients",
+      "alternately",
+      "with",
+      "the",
+      "milk",
+      ",",
+      "beating",
+      "well",
+      "after",
+      "each",
+      "addition",
+      ",",
+      "using",
+      "the",
+      "mixer",
+      "set",
+      "at",
+      "low",
+      "speed",
+      "."
+    ],
+    "5": [
+      "spread",
+      "the",
+      "batter",
+      "in",
+      "two",
+      "13",
+      "x",
+      "9",
+      "x",
+      "2-inch",
+      "baking",
+      "pans",
+      "."
+    ],
+    "6": [
+      "combine",
+      "the",
+      "brown",
+      "sugar",
+      "and",
+      "cinnamon",
+      ",",
+      "blending",
+      "well",
+      ",",
+      "and",
+      "sprinkle",
+      "over",
+      "the",
+      "cake",
+      "batter",
+      "."
+    ],
+    "7": [
+      "oven",
+      "for",
+      "15",
+      "minutes",
+      "or",
+      "until",
+      "the",
+      "cake",
+      "tests",
+      "done",
+      "."
+    ],
+    "8": [
+      "cool",
+      "in",
+      "the",
+      "pans",
+      "on",
+      "wire",
+      "racks",
+      "."
+    ],
+    "9": [
+      "cut",
+      "each",
+      "pan",
+      "into",
+      "24",
+      "servings",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "set"
+    ],
+    "1": [
+      "cream"
+    ],
+    "2": [
+      "beat",
+      "add"
+    ],
+    "3": [
+      "blend"
+    ],
+    "4": [
+      "beat",
+      "add"
+    ],
+    "5": [
+      "spread"
+    ],
+    "6": [
+      "blend",
+      "sprinkle",
+      "combine"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "cool"
+    ],
+    "9": [
+      "cut"
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "oven"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "oven"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "12": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "oven"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "7": {
+      "location": [
+        "processor"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "location": [
+        "colander"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "zinfandelis tortilla soup",
+  "ingredient_list": [
+    "vegetable_oil",
+    "garlic",
+    "corn_tortilla",
+    "onion_puree",
+    "cayenne_pepper",
+    "cumin_powder",
+    "leaf",
+    "tomato_paste",
+    "chicken",
+    "water",
+    "cilantro",
+    "epazote",
+    "salt",
+    "white_pepper",
+    "chicken",
+    "avocado",
+    "corn",
+    "shredded"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "12": [
+      15,
+      16,
+      17,
+      14
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "6": [
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "large",
+      "dutch",
+      "oven",
+      ",",
+      "heat",
+      "vegetable",
+      "oil",
+      "."
+    ],
+    "1": [
+      "add",
+      "garlic",
+      "and",
+      "8",
+      "chopped",
+      "corn",
+      "tortillas",
+      "."
+    ],
+    "10": [
+      "add",
+      "salt",
+      "and",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "11": [
+      "to",
+      "serve",
+      ",",
+      "spoon",
+      "a",
+      "portion",
+      "of",
+      "soup",
+      "in",
+      "individual",
+      "serving",
+      "bowls",
+      "."
+    ],
+    "12": [
+      "garnish",
+      "with",
+      "diced",
+      "chicken",
+      ",",
+      "avocado",
+      ",",
+      "fried",
+      "tortilla",
+      "strips",
+      "and",
+      "cheese",
+      "."
+    ],
+    "13": [
+      "serve",
+      "immediately",
+      "."
+    ],
+    "2": [
+      "saute",
+      "until",
+      "tender",
+      "."
+    ],
+    "3": [
+      "add",
+      "onion",
+      "puree",
+      ",",
+      "tomato",
+      "puree",
+      ",",
+      "cayenne",
+      "pepper",
+      ",",
+      "cumin",
+      ",",
+      "bay",
+      "leaves",
+      ",",
+      "tomato",
+      "paste",
+      ",",
+      "chicken",
+      "base",
+      "and",
+      "water",
+      "."
+    ],
+    "4": [
+      "simmer",
+      "20",
+      "minutes",
+      "."
+    ],
+    "5": [
+      "add",
+      "chopped",
+      "cilantro",
+      "and",
+      "epazote",
+      "."
+    ],
+    "6": [
+      "remove",
+      "bay",
+      "leaves",
+      "."
+    ],
+    "7": [
+      "blend",
+      "mixture",
+      "briefly",
+      "in",
+      "food",
+      "processor",
+      "."
+    ],
+    "8": [
+      "strain",
+      "through",
+      "colander",
+      "."
+    ],
+    "9": [
+      "adjust",
+      "seasoning",
+      "if",
+      "necessary",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "add"
+    ],
+    "11": [
+      "spoon",
+      "serve"
+    ],
+    "12": [
+      "garnish"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "saute"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "simmer"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "remove"
+    ],
+    "7": [
+      "blend"
+    ],
+    "8": [
+      "strain"
+    ],
+    "9": [
+      "adjust"
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "events": {
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "pan"
+      ]
+    },
+    "6": {
+      "location": [
+        "pan"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "location": [
+        "platter"
+      ]
+    }
+  },
+  "id": "chicken marguerite",
+  "ingredient_list": [
+    "olive_oil",
+    "garlic",
+    "salt",
+    "cinnamon",
+    "pepper",
+    "chicken",
+    "potato",
+    "slice",
+    "white_wine_vinegar",
+    "chicken",
+    "chicken",
+    "breast"
+  ],
+  "ingredients": {
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      5
+    ],
+    "6": [
+      8,
+      6
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "the",
+      "oven",
+      "to",
+      "375f",
+      "."
+    ],
+    "1": [
+      "spray",
+      "an",
+      "8",
+      "''",
+      "square",
+      "baking",
+      "pan",
+      "with",
+      "non-stick",
+      "cooking",
+      "spray",
+      "."
+    ],
+    "10": [
+      "50",
+      "mg",
+      "cholesterol",
+      ";"
+    ],
+    "11": [
+      "1",
+      "gm",
+      "dietary",
+      "fiber",
+      "."
+    ],
+    "2": [
+      "in",
+      "a",
+      "large",
+      "bowl",
+      ",",
+      "combine",
+      "the",
+      "oil",
+      ",",
+      "garlic",
+      ",",
+      "salt",
+      ",",
+      "cinnamon",
+      ",",
+      "and",
+      "pepper",
+      "."
+    ],
+    "3": [
+      "add",
+      "chicken",
+      "and",
+      "potatoes",
+      ";"
+    ],
+    "4": [
+      "toss",
+      "well",
+      "to",
+      "coat",
+      "thoroughly",
+      "."
+    ],
+    "5": [
+      "arrange",
+      "chicken",
+      "in",
+      "a",
+      "single",
+      "layer",
+      "in",
+      "prepared",
+      "baking",
+      "pan",
+      ";"
+    ],
+    "6": [
+      "add",
+      "vinegar",
+      ",",
+      "then",
+      "top",
+      "evenly",
+      "with",
+      "potatoes",
+      "."
+    ],
+    "7": [
+      "bake",
+      "40-50",
+      "minutes",
+      ",",
+      "until",
+      "potatoes",
+      "are",
+      "tender",
+      ",",
+      "chicken",
+      "is",
+      "cooked",
+      "thoroughly",
+      "and",
+      "thigh",
+      "juices",
+      "run",
+      "clear",
+      "when",
+      "pierced",
+      "with",
+      "a",
+      "fork",
+      "."
+    ],
+    "8": [
+      "serve",
+      "topped",
+      "with",
+      "pan",
+      "juices",
+      "."
+    ],
+    "9": [
+      "14",
+      "mg",
+      "calcium",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "combine"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "toss"
+    ],
+    "5": [
+      "arrange"
+    ],
+    "6": [
+      "add",
+      "top"
+    ],
+    "7": [
+      "pierce",
+      "bake"
+    ],
+    "8": [
+      "serve"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

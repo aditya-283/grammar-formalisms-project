@@ -1,0 +1,342 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "shape": [
+        "separated",
+        "molded"
+      ]
+    },
+    "4": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "5": {
+      "location": [
+        "cup"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "cup"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "pecan tea cakes miniature pecan pies",
+  "ingredient_list": [
+    "butter",
+    "cream_cheese",
+    "flour",
+    "salt",
+    "sugar",
+    "butter",
+    "vanilla",
+    "almond_extract",
+    "pecan"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      0,
+      1,
+      2
+    ],
+    "5": [
+      0,
+      1,
+      2
+    ],
+    "7": [
+      7,
+      8,
+      4,
+      5,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "for",
+      "crust",
+      ",",
+      "in",
+      "small",
+      "mixing",
+      "bowl",
+      "beat",
+      "butter",
+      "and",
+      "cream",
+      "cheese",
+      "with",
+      "an",
+      "electric",
+      "mixer",
+      "on",
+      "medium",
+      "speed",
+      "until",
+      "softened",
+      "-lrb-",
+      "about",
+      "30",
+      "seconds",
+      "-rrb-",
+      "."
+    ],
+    "1": [
+      "stir",
+      "in",
+      "the",
+      "flour",
+      "."
+    ],
+    "10": [
+      "or",
+      "until",
+      "filling",
+      "is",
+      "set",
+      "."
+    ],
+    "2": [
+      "cover",
+      "and",
+      "chill",
+      "about",
+      "1",
+      "hour",
+      "until",
+      "dough",
+      "is",
+      "easy",
+      "to",
+      "handled",
+      "."
+    ],
+    "3": [
+      "form",
+      "the",
+      "chilled",
+      "dough",
+      "into",
+      "two",
+      "balls",
+      ",",
+      "then",
+      "divide",
+      "each",
+      "ball",
+      "into",
+      "24",
+      "equal",
+      "portions",
+      "."
+    ],
+    "4": [
+      "roll",
+      "each",
+      "portion",
+      "into",
+      "a",
+      "small",
+      "ball",
+      "."
+    ],
+    "5": [
+      "place",
+      "each",
+      "ball",
+      "into",
+      "a",
+      "grease",
+      "13/4",
+      "inch",
+      "mini",
+      "-rrb-",
+      "muffin",
+      "cup",
+      "."
+    ],
+    "6": [
+      "press",
+      "the",
+      "dough",
+      "evenly",
+      "against",
+      "the",
+      "bottom",
+      "and",
+      "up",
+      "the",
+      "sides",
+      "of",
+      "the",
+      "cup",
+      "."
+    ],
+    "7": [
+      "for",
+      "filling",
+      ",",
+      "stir",
+      "together",
+      "egg",
+      ",",
+      "brown",
+      "sugar",
+      ",",
+      "melted",
+      "butter",
+      ",",
+      "vanilla",
+      ",",
+      "almond",
+      "extract",
+      "and",
+      "pecans",
+      "in",
+      "a",
+      "medium",
+      "bowl",
+      "."
+    ],
+    "8": [
+      "fill",
+      "each",
+      "dough-lined",
+      "muffin",
+      "cup",
+      "with",
+      "a",
+      "scant",
+      "tablespoon",
+      "of",
+      "filling",
+      "."
+    ],
+    "9": [
+      "bake",
+      "in",
+      "a",
+      "375f",
+      "oven",
+      "for",
+      "15",
+      "to",
+      "18",
+      "minutes",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "beat"
+    ],
+    "1": [
+      "stir"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cover"
+    ],
+    "3": [
+      "divide",
+      "form"
+    ],
+    "4": [
+      "roll"
+    ],
+    "5": [
+      "place"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "stir"
+    ],
+    "8": [
+      "fill"
+    ],
+    "9": [
+      "bake"
+    ]
+  }
+}

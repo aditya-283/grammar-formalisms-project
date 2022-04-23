@@ -1,0 +1,308 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "2": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "barbeque sauce chipotles",
+  "ingredient_list": [
+    "chile",
+    "water",
+    "butter",
+    "onion",
+    "garlic_clove",
+    "cumin",
+    "thyme",
+    "tomato_paste",
+    "sugar",
+    "cider_vinegar",
+    "dry",
+    "water",
+    "soy_sauce",
+    "tabasco_sauce"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "combine",
+      "chiles",
+      "and",
+      "boiling",
+      "water",
+      "."
+    ],
+    "1": [
+      "soak",
+      "for",
+      "1",
+      "hr",
+      "."
+    ],
+    "10": [
+      "freezes",
+      "well",
+      "."
+    ],
+    "2": [
+      "then",
+      "remove",
+      "the",
+      "stems",
+      "and",
+      "seeds",
+      "and",
+      "chop",
+      "."
+    ],
+    "3": [
+      "in",
+      "large",
+      "nonaluminum",
+      "saucepan",
+      ",",
+      "melt",
+      "butter",
+      "."
+    ],
+    "4": [
+      "saute",
+      "onion",
+      ",",
+      "garlic",
+      ",",
+      "cumin",
+      ",",
+      "and",
+      "thyme",
+      "oveer",
+      "low",
+      "hea",
+      "until",
+      "onions",
+      "are",
+      "soft",
+      "and",
+      "translucent",
+      ",",
+      "abt",
+      "."
+    ],
+    "5": [
+      "5",
+      "min",
+      "."
+    ],
+    "6": [
+      "add",
+      "the",
+      "chiles",
+      ",",
+      "soaking",
+      "water",
+      ",",
+      "and",
+      "remaining",
+      "ingreds",
+      "."
+    ],
+    "7": [
+      "bring",
+      "to",
+      "boil",
+      "."
+    ],
+    "8": [
+      "partially",
+      "cover",
+      "and",
+      "simmer",
+      "for",
+      "1",
+      "hr",
+      "."
+    ],
+    "9": [
+      "taste",
+      "and",
+      "adjust",
+      "the",
+      "seasonings",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "combine"
+    ],
+    "1": [
+      "soak"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "chop",
+      "remove"
+    ],
+    "3": [
+      "melt"
+    ],
+    "4": [
+      "saute"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "cover",
+      "simmer"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

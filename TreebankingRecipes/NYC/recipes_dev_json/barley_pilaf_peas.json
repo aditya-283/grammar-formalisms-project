@@ -1,0 +1,395 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "14": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "barley pilaf peas",
+  "ingredient_list": [
+    "onion",
+    "garlic_clove",
+    "vegetable_oil",
+    "chicken_broth",
+    "water",
+    "barley",
+    "soy_sauce",
+    "peas"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "14": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      0,
+      1,
+      2
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "medium",
+      "saucepan",
+      ",",
+      "cook",
+      "onion",
+      "and",
+      "garlic",
+      "in",
+      "oil",
+      "until",
+      "onion",
+      "is",
+      "tender",
+      "."
+    ],
+    "1": [
+      "add",
+      "chicken",
+      "broth",
+      ",",
+      "water",
+      ",",
+      "barley",
+      "and",
+      "soy",
+      "sauce",
+      ";"
+    ],
+    "10": [
+      "add",
+      "remaining",
+      "ingredients",
+      ";"
+    ],
+    "11": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "12": [
+      "reduce",
+      "heat",
+      "to",
+      "low",
+      ";"
+    ],
+    "13": [
+      "cover",
+      "."
+    ],
+    "14": [
+      "simmer",
+      "15",
+      "to",
+      "18",
+      "minutes",
+      "or",
+      "until",
+      "liquid",
+      "is",
+      "absorbed",
+      "and",
+      "barley",
+      "is",
+      "tender",
+      "."
+    ],
+    "2": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "3": [
+      "reduce",
+      "heat",
+      "to",
+      "low",
+      ";"
+    ],
+    "4": [
+      "cover",
+      "."
+    ],
+    "5": [
+      "simmer",
+      "35",
+      "minutes",
+      ";"
+    ],
+    "6": [
+      "add",
+      "peas",
+      "."
+    ],
+    "7": [
+      "continue",
+      "simmering",
+      "10",
+      "to",
+      "15",
+      "minutes",
+      "or",
+      "until",
+      "liquid",
+      "is",
+      "absorbed",
+      "and",
+      "barley",
+      "is",
+      "tender",
+      "."
+    ],
+    "8": [
+      "to",
+      "use",
+      "quick",
+      "quaker",
+      "barley",
+      ",",
+      "substitute",
+      "1",
+      "cup",
+      "quick",
+      "barley",
+      "for",
+      "medium",
+      "barley",
+      "and",
+      "decrease",
+      "water",
+      "to",
+      "1",
+      "cup",
+      "."
+    ],
+    "9": [
+      "cook",
+      "onion",
+      "and",
+      "garlic",
+      "as",
+      "directed",
+      "above",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "cook"
+    ],
+    "1": [
+      "add"
+    ],
+    "10": [
+      "add"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "12": [
+      "reduce"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "14": [
+      "simmer"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "reduce"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "simmer"
+    ],
+    "6": [
+      "add"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "cook"
+    ]
+  }
+}

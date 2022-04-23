@@ -1,0 +1,519 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "location": [
+        "plate"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "spicy chorizo rellenos",
+  "ingredient_list": [
+    "chorizo",
+    "olive_oil",
+    "shallot",
+    "garlic",
+    "cilantro",
+    "cream",
+    "cheese",
+    "bread",
+    "masa",
+    "flour",
+    "essence",
+    "egg_white",
+    "milk",
+    "vegetable_oil",
+    "pepper",
+    "stem",
+    "peeled",
+    "one",
+    "cilantro",
+    "tortilla",
+    "strip"
+  ],
+  "ingredients": {
+    "0": [
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      14
+    ],
+    "11": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      18,
+      19
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "5": [
+      8,
+      9,
+      10
+    ],
+    "6": [
+      11,
+      12
+    ],
+    "7": [
+      9,
+      10
+    ],
+    "8": [
+      13
+    ],
+    "9": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      14
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "large",
+      "skillet",
+      "over",
+      "high",
+      "heat",
+      ",",
+      "heat",
+      "the",
+      "olive",
+      "oil",
+      "."
+    ],
+    "1": [
+      "add",
+      "the",
+      "chorizo",
+      "and",
+      "saute",
+      "for",
+      "about",
+      "1",
+      "minute",
+      "."
+    ],
+    "10": [
+      "dip",
+      "each",
+      "filled",
+      "pepper",
+      "in",
+      "the",
+      "batter",
+      ",",
+      "then",
+      "dredge",
+      "in",
+      "the",
+      "seasoned",
+      "flour",
+      "."
+    ],
+    "11": [
+      "when",
+      "the",
+      "oil",
+      "is",
+      "very",
+      "hot",
+      ",",
+      "fry",
+      "the",
+      "rellenos",
+      "until",
+      "golden",
+      "brown",
+      ",",
+      "about",
+      "3",
+      "to",
+      "4",
+      "minutes",
+      "."
+    ],
+    "12": [
+      "garnish",
+      "with",
+      "cilantro",
+      "and",
+      "tortilla",
+      "strips",
+      "."
+    ],
+    "2": [
+      "add",
+      "the",
+      "shallots",
+      ",",
+      "garlic",
+      "and",
+      "cilantro",
+      "and",
+      "saute",
+      "for",
+      "1",
+      "minute",
+      "."
+    ],
+    "3": [
+      "stir",
+      "in",
+      "the",
+      "cream",
+      "and",
+      "cheese",
+      ",",
+      "stir",
+      "well",
+      "and",
+      "turn",
+      "off",
+      "the",
+      "heat",
+      "."
+    ],
+    "4": [
+      "stir",
+      "in",
+      "the",
+      "bread",
+      "crumbs",
+      ",",
+      "turn",
+      "the",
+      "mixture",
+      "into",
+      "a",
+      "bowl",
+      ",",
+      "and",
+      "allow",
+      "to",
+      "cool",
+      "."
+    ],
+    "5": [
+      "combine",
+      "the",
+      "masa",
+      "harina",
+      ",",
+      "1/2",
+      "cup",
+      "of",
+      "the",
+      "flour",
+      "and",
+      "1",
+      "tablespoon",
+      "of",
+      "essence",
+      "in",
+      "a",
+      "bowl",
+      "."
+    ],
+    "6": [
+      "fold",
+      "in",
+      "the",
+      "egg",
+      "white",
+      "and",
+      "add",
+      "the",
+      "milk",
+      "1/4",
+      "cup",
+      "at",
+      "a",
+      "time",
+      ",",
+      "mixing",
+      "thoroughly",
+      "between",
+      "additions",
+      ",",
+      "until",
+      "all",
+      "of",
+      "the",
+      "milk",
+      "is",
+      "incorporated",
+      "and",
+      "the",
+      "mixture",
+      "is",
+      "smooth",
+      "."
+    ],
+    "7": [
+      "in",
+      "another",
+      "bowl",
+      "combine",
+      "the",
+      "remaining",
+      "1/2",
+      "cup",
+      "flour",
+      "with",
+      "the",
+      "remaining",
+      "1/2",
+      "tablespoon",
+      "of",
+      "essence",
+      "."
+    ],
+    "8": [
+      "start",
+      "heating",
+      "the",
+      "oil",
+      "in",
+      "a",
+      "large",
+      "pot",
+      "."
+    ],
+    "9": [
+      "spoon",
+      "1/4",
+      "cup",
+      "of",
+      "the",
+      "filling",
+      "into",
+      "each",
+      "pepper",
+      "through",
+      "the",
+      "slit",
+      "in",
+      "its",
+      "side",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "heat"
+    ],
+    "1": [
+      "saute",
+      "add"
+    ],
+    "10": [
+      "dip"
+    ],
+    "11": [
+      "fry"
+    ],
+    "12": [
+      "garnish"
+    ],
+    "2": [
+      "saute",
+      "add"
+    ],
+    "3": [
+      "turn",
+      "stir"
+    ],
+    "4": [
+      "turn",
+      "stir"
+    ],
+    "5": [
+      "combine"
+    ],
+    "6": [
+      "mix",
+      "add",
+      "fold"
+    ],
+    "7": [
+      "combine"
+    ],
+    "8": [
+      "heat"
+    ],
+    "9": [
+      "spoon"
+    ]
+  }
+}

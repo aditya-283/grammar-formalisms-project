@@ -1,0 +1,459 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "cleanliness": [
+        "clean"
+      ],
+      "location": [
+        "colander"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "location": [
+        "dish"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pot",
+        "colander"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "vegetable curry",
+  "ingredient_list": [
+    "cauliflower",
+    "peeled",
+    "cut",
+    "shallot",
+    "potato",
+    "ginger",
+    "diced",
+    "peeled",
+    "butter",
+    "curry_powder",
+    "onion",
+    "flour",
+    "peeled",
+    "coconut_milk",
+    "green_apple",
+    "chickpea",
+    "peeled",
+    "spinach",
+    "garlic",
+    "coarsely"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      18
+    ],
+    "11": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      18
+    ],
+    "2": [
+      4
+    ],
+    "3": [
+      0,
+      4
+    ],
+    "4": [
+      8
+    ],
+    "5": [
+      3,
+      5,
+      8,
+      10,
+      14,
+      18
+    ],
+    "6": [
+      3,
+      5,
+      8,
+      9,
+      10,
+      14,
+      18
+    ],
+    "7": [
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      14,
+      18
+    ],
+    "8": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      18
+    ],
+    "9": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      18
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "parboil",
+      "cauliflower",
+      "in",
+      "a",
+      "large",
+      "pot",
+      "of",
+      "water",
+      "for",
+      "5",
+      "min",
+      "."
+    ],
+    "1": [
+      "drain",
+      "in",
+      "a",
+      "colander",
+      "and",
+      "rinse",
+      "with",
+      "cold",
+      "water",
+      "."
+    ],
+    "10": [
+      "add",
+      "spinach",
+      ",",
+      "cover",
+      ",",
+      "and",
+      "cook",
+      "until",
+      "wilted",
+      ",",
+      "about",
+      "3",
+      "min",
+      "."
+    ],
+    "11": [
+      "serve",
+      "warm",
+      "over",
+      "rice",
+      "with",
+      "condiments",
+      "such",
+      "as",
+      "raisins",
+      ",",
+      "flaked",
+      "coconut",
+      ",",
+      "chopped",
+      "cilantro",
+      ",",
+      "and",
+      "toasted",
+      "cashews",
+      "."
+    ],
+    "2": [
+      "repeat",
+      "process",
+      "with",
+      "potatoes",
+      "."
+    ],
+    "3": [
+      "set",
+      "both",
+      "aside",
+      "."
+    ],
+    "4": [
+      "heat",
+      "butter",
+      "in",
+      "a",
+      "skillet",
+      "over",
+      "medium-high",
+      "heat",
+      "."
+    ],
+    "5": [
+      "add",
+      "onions",
+      ",",
+      "apples",
+      ",",
+      "garlic",
+      ",",
+      "shallots",
+      ",",
+      "and",
+      "ginger",
+      ",",
+      "and",
+      "cook",
+      "until",
+      "onions",
+      "are",
+      "golden",
+      ",",
+      "about",
+      "10",
+      "min",
+      "."
+    ],
+    "6": [
+      "add",
+      "curry",
+      "powder",
+      "and",
+      "cook",
+      ",",
+      "stirring",
+      "frequently",
+      ",",
+      "until",
+      "mixture",
+      "turns",
+      "dark",
+      "brown",
+      ",",
+      "about",
+      "8",
+      "min",
+      "."
+    ],
+    "7": [
+      "stir",
+      "in",
+      "flour",
+      "and",
+      "cook",
+      "2",
+      "min",
+      "more",
+      "."
+    ],
+    "8": [
+      "add",
+      "coconut",
+      "milk",
+      ",",
+      "chickpeas",
+      ",",
+      "cauliflower",
+      ",",
+      "potatoes",
+      ",",
+      "and",
+      "1/2",
+      "cup",
+      "water",
+      "."
+    ],
+    "9": [
+      "lower",
+      "heat",
+      "to",
+      "medium",
+      ",",
+      "cover",
+      ",",
+      "and",
+      "cook",
+      "15",
+      "min",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "parboil"
+    ],
+    "1": [
+      "drain",
+      "rinse"
+    ],
+    "10": [
+      "cook",
+      "add"
+    ],
+    "11": [
+      "serve"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "set"
+    ],
+    "4": [
+      "heat"
+    ],
+    "5": [
+      "cook",
+      "add"
+    ],
+    "6": [
+      "cook",
+      "add",
+      "stir"
+    ],
+    "7": [
+      "cook",
+      "stir"
+    ],
+    "8": [
+      "add"
+    ],
+    "9": [
+      "cook",
+      "lower",
+      "cover"
+    ]
+  }
+}

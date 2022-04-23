@@ -1,0 +1,273 @@
+{
+  "events": {
+    "1": {
+      "location": [
+        "dish"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "refrigerator"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "6": {
+      "location": [
+        "sheet"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "location": [
+        "sieve"
+      ]
+    }
+  },
+  "id": "thai honey chicken",
+  "ingredient_list": [
+    "chicken",
+    "garlic_clove",
+    "honey",
+    "soy_sauce",
+    "chili_paste"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "3": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "remove",
+      "and",
+      "discard",
+      "skin",
+      "from",
+      "chicken",
+      "breasts",
+      "."
+    ],
+    "1": [
+      "place",
+      "breasts",
+      "in",
+      "single",
+      "layer",
+      "in",
+      "shallow",
+      "dish",
+      "."
+    ],
+    "10": [
+      "tofu",
+      "salad",
+      "with",
+      "fresh",
+      "herbs",
+      "''"
+    ],
+    "2": [
+      "score",
+      "each",
+      "a",
+      "few",
+      "times",
+      "on",
+      "meaty",
+      "side",
+      "."
+    ],
+    "3": [
+      "combine",
+      "garlic",
+      ",",
+      "honey",
+      ",",
+      "soy",
+      "sauce",
+      "and",
+      "chili",
+      "paste",
+      ";"
+    ],
+    "4": [
+      "spread",
+      "over",
+      "chicken",
+      "."
+    ],
+    "5": [
+      "cover",
+      "and",
+      "refrigerate",
+      "for",
+      "at",
+      "least",
+      "6",
+      "hours",
+      "or",
+      "up",
+      "to",
+      "12",
+      "hours",
+      "."
+    ],
+    "6": [
+      "place",
+      "chicken",
+      "breasts",
+      "on",
+      "baking",
+      "sheet",
+      ";"
+    ],
+    "7": [
+      "bake",
+      "in",
+      "375f",
+      "190c",
+      "oven",
+      ",",
+      "turning",
+      "once",
+      "and",
+      "basting",
+      "occasionally",
+      "with",
+      "juices",
+      ",",
+      "for",
+      "30-40",
+      "minutes",
+      "or",
+      "until",
+      "no",
+      "longer",
+      "pink",
+      "in",
+      "centre",
+      "."
+    ],
+    "8": [
+      "strain",
+      "juices",
+      "through",
+      "fine",
+      "sieve",
+      ";"
+    ],
+    "9": [
+      "serve",
+      "with",
+      "chicken",
+      "breasts",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "discard",
+      "remove"
+    ],
+    "1": [
+      "place"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "combine"
+    ],
+    "4": [
+      "spread"
+    ],
+    "5": [
+      "refrigerate",
+      "cover"
+    ],
+    "6": [
+      "place"
+    ],
+    "7": [
+      "turn",
+      "baste",
+      "bake"
+    ],
+    "8": [
+      "strain"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

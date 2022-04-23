@@ -1,0 +1,378 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "location": [
+        "skillet"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "location": [
+        "platter"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "9": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "pan-broiled steak",
+  "ingredient_list": [
+    "LRB",
+    "porterhouse",
+    "steak",
+    "salt",
+    "ground",
+    "wine",
+    "last",
+    "water",
+    "butter"
+  ],
+  "ingredients": {
+    "0": [
+      2
+    ],
+    "1": [
+      2,
+      3,
+      4
+    ],
+    "10": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "11": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2,
+      3,
+      4
+    ],
+    "5": [
+      2,
+      3,
+      4
+    ],
+    "6": [
+      2,
+      3,
+      4
+    ],
+    "7": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "9": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "trim",
+      "excess",
+      "fat",
+      "from",
+      "steak",
+      "and",
+      "reserve",
+      "."
+    ],
+    "1": [
+      "sprinkle",
+      "each",
+      "side",
+      "of",
+      "the",
+      "steak",
+      "with",
+      "salt",
+      "and",
+      "pepper",
+      "and",
+      "let",
+      "stand",
+      "at",
+      "room",
+      "temperature",
+      "for",
+      "1",
+      "hour",
+      "."
+    ],
+    "10": [
+      "stir",
+      "in",
+      "butter",
+      "."
+    ],
+    "11": [
+      "pour",
+      "sauce",
+      "over",
+      "steak",
+      "and",
+      "serve",
+      "."
+    ],
+    "2": [
+      "heat",
+      "heavy",
+      "cast",
+      "iron",
+      "skillet",
+      "over",
+      "high",
+      "heat",
+      "."
+    ],
+    "3": [
+      "grease",
+      "the",
+      "skillet",
+      "with",
+      "the",
+      "reserved",
+      "beef",
+      "fat",
+      "."
+    ],
+    "4": [
+      "sear",
+      "the",
+      "steak",
+      "quickly",
+      "on",
+      "both",
+      "sides",
+      ",",
+      "only",
+      "2",
+      "minutes",
+      "per",
+      "side",
+      "reduce",
+      "heat",
+      "to",
+      "med",
+      ",",
+      "continue",
+      "cooking",
+      "for",
+      "additional",
+      "2",
+      "to",
+      "3",
+      "minutes",
+      "each",
+      "side",
+      "to",
+      "the",
+      "desired",
+      "degree",
+      "of",
+      "doneness",
+      "."
+    ],
+    "5": [
+      "remove",
+      "the",
+      "steak",
+      "to",
+      "a",
+      "warm",
+      "platter",
+      "and",
+      "keep",
+      "warm",
+      "in",
+      "a",
+      "oven",
+      "while",
+      "you",
+      "make",
+      "a",
+      "sauce",
+      "by",
+      "deglazing",
+      "the",
+      "pan",
+      "."
+    ],
+    "6": [
+      "discard",
+      "all",
+      "but",
+      "1",
+      "tablespoon",
+      "of",
+      "fat",
+      "from",
+      "the",
+      "skillet",
+      "."
+    ],
+    "7": [
+      "put",
+      "pan",
+      "back",
+      "over",
+      "moderate",
+      "heat",
+      "and",
+      "add",
+      "the",
+      "liquid",
+      "."
+    ],
+    "8": [
+      "when",
+      "liquid",
+      "boils",
+      ",",
+      "scrape",
+      "pan",
+      "with",
+      "a",
+      "wooden",
+      "spoon",
+      "to",
+      "loosen",
+      "the",
+      "good",
+      "stuff",
+      "sticking",
+      "to",
+      "pan",
+      "bottom",
+      "."
+    ],
+    "9": [
+      "continue",
+      "cooking",
+      "until",
+      "liquid",
+      "is",
+      "reduced",
+      "in",
+      "volume",
+      "and",
+      "slightly",
+      "thickened",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "trim"
+    ],
+    "1": [
+      "sprinkle",
+      "stand"
+    ],
+    "10": [
+      "stir"
+    ],
+    "11": [
+      "serve",
+      "pour"
+    ],
+    "2": [
+      "<NO_CHANGE>"
+    ],
+    "3": [
+      "grease"
+    ],
+    "4": [
+      "cook",
+      "sear"
+    ],
+    "5": [
+      "deglaze",
+      "remove"
+    ],
+    "6": [
+      "discard"
+    ],
+    "7": [
+      "put",
+      "add"
+    ],
+    "8": [
+      "<NO_CHANGE>"
+    ],
+    "9": [
+      "cook"
+    ]
+  }
+}

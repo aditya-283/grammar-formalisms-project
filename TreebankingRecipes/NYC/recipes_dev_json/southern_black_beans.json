@@ -1,0 +1,292 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pot"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ]
+    }
+  },
+  "id": "southern black beans",
+  "ingredient_list": [
+    "bean",
+    "water",
+    "onion",
+    "green_pepper",
+    "garlic",
+    "bay",
+    "oregano",
+    "marjoram",
+    "cornstarch"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "beans",
+      "and",
+      "water",
+      "in",
+      "a",
+      "large",
+      "pot",
+      "."
+    ],
+    "1": [
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "10": [
+      "also",
+      "try",
+      "some",
+      "green",
+      "chili",
+      "salsa",
+      "spooned",
+      "over",
+      "the",
+      "top",
+      "."
+    ],
+    "2": [
+      "reduce",
+      "heat",
+      ",",
+      "cover",
+      "and",
+      "cook",
+      "over",
+      "low",
+      "heat",
+      "for",
+      "1",
+      "hour",
+      "."
+    ],
+    "3": [
+      "add",
+      "remaining",
+      "ingredients",
+      "except",
+      "the",
+      "arrowroot",
+      "."
+    ],
+    "4": [
+      "cover",
+      "and",
+      "continue",
+      "cooking",
+      "for",
+      "1",
+      "&",
+      "1/2",
+      "hours",
+      "longer",
+      "."
+    ],
+    "5": [
+      "cold",
+      "water",
+      "."
+    ],
+    "6": [
+      "remove",
+      "beans",
+      "from",
+      "heat",
+      ",",
+      "slowly",
+      "add",
+      "the",
+      "cornstarch",
+      "mixture",
+      "while",
+      "stirring",
+      "."
+    ],
+    "7": [
+      "return",
+      "to",
+      "heat",
+      "and",
+      "stir",
+      "until",
+      "thickened",
+      "."
+    ],
+    "8": [
+      "serve",
+      "over",
+      "born",
+      "rice",
+      "."
+    ],
+    "9": [
+      "good",
+      "with",
+      "chopped",
+      "onions",
+      "sprinkled",
+      "over",
+      "the",
+      "top",
+      "of",
+      "beans",
+      "and",
+      "rice",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "10": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook",
+      "reduce",
+      "cover"
+    ],
+    "3": [
+      "add"
+    ],
+    "4": [
+      "cook",
+      "cover"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "add",
+      "stir",
+      "remove"
+    ],
+    "7": [
+      "thicken",
+      "stir",
+      "return"
+    ],
+    "8": [
+      "serve"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

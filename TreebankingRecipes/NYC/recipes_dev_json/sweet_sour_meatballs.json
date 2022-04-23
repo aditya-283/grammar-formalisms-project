@@ -1,0 +1,381 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ]
+    },
+    "1": {
+      "shape": [
+        "molded"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "location": [
+        "unknown"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "location": [
+        "skillet"
+      ]
+    }
+  },
+  "id": "sweet/sour meatballs",
+  "ingredient_list": [
+    "beef",
+    "cracker_crumb",
+    "onion",
+    "egg",
+    "salt",
+    "ginger",
+    "milk",
+    "shortening",
+    "corn",
+    "sugar",
+    "pineapple_tidbit",
+    "syrup",
+    "vinegar",
+    "soy_sauce",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "10": [
+      10,
+      12,
+      13
+    ],
+    "11": [
+      10,
+      12,
+      13
+    ],
+    "12": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      12,
+      13,
+      14
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      12,
+      13,
+      14
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      8,
+      9
+    ],
+    "8": [
+      10,
+      12,
+      13
+    ],
+    "9": [
+      10,
+      12,
+      13
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "mix",
+      "thoroughly",
+      "beef",
+      ",",
+      "crumbs",
+      ",",
+      "onion",
+      ",",
+      "egg",
+      ",",
+      "salt",
+      ",",
+      "ginger",
+      "and",
+      "milk",
+      "."
+    ],
+    "1": [
+      "shape",
+      "mixture",
+      "by",
+      "rounded",
+      "tablespoonfuls",
+      "into",
+      "balls",
+      "."
+    ],
+    "10": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      ",",
+      "stirring",
+      "constantly",
+      ",",
+      "until",
+      "mixture",
+      "thickens",
+      "and",
+      "boils",
+      "."
+    ],
+    "11": [
+      "boil",
+      "and",
+      "stir",
+      "1",
+      "minute",
+      "."
+    ],
+    "12": [
+      "add",
+      "meatballs",
+      ",",
+      "pineapple",
+      "tidbits",
+      "and",
+      "green",
+      "pepper",
+      ";"
+    ],
+    "13": [
+      "heat",
+      "through",
+      "."
+    ],
+    "2": [
+      "melt",
+      "shortening",
+      "in",
+      "large",
+      "skillet",
+      ";"
+    ],
+    "3": [
+      "brown",
+      "and",
+      "cook",
+      "meatballs",
+      "."
+    ],
+    "4": [
+      "remove",
+      "meatballs",
+      ";"
+    ],
+    "5": [
+      "keep",
+      "warm",
+      "."
+    ],
+    "6": [
+      "pour",
+      "fat",
+      "from",
+      "skillet",
+      "."
+    ],
+    "7": [
+      "mix",
+      "cornstarch",
+      "and",
+      "sugar",
+      "."
+    ],
+    "8": [
+      "stir",
+      "in",
+      "reserved",
+      "pineapple",
+      "syrup",
+      ",",
+      "vinegar",
+      "and",
+      "soy",
+      "sauce",
+      "until",
+      "smooth",
+      "."
+    ],
+    "9": [
+      "poor",
+      "into",
+      "skillet",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "mix"
+    ],
+    "1": [
+      "shape"
+    ],
+    "10": [
+      "cook",
+      "stir"
+    ],
+    "11": [
+      "stir",
+      "boil"
+    ],
+    "12": [
+      "add"
+    ],
+    "13": [
+      "heat"
+    ],
+    "2": [
+      "melt"
+    ],
+    "3": [
+      "cook",
+      "brown"
+    ],
+    "4": [
+      "remove"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "mix"
+    ],
+    "8": [
+      "stir"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

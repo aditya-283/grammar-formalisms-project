@@ -1,0 +1,349 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "10": {
+      "location": [
+        "pan"
+      ]
+    },
+    "11": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "location": [
+        "bowl"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "wok",
+        "skillet"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "prawns-in-shell",
+  "ingredient_list": [
+    "prawn",
+    "white_wine",
+    "ginger",
+    "vegetable_oil",
+    "green_onion",
+    "ginger",
+    "clove_garlic",
+    "chili_pepper",
+    "sugar",
+    "tomato_catsup",
+    "soy_sauce",
+    "cornstarch"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      8,
+      9,
+      10,
+      11,
+      1
+    ],
+    "11": [
+      8,
+      9,
+      10,
+      11,
+      1
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0,
+      1,
+      2
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "9": [
+      8,
+      9,
+      10,
+      11,
+      1
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "wash",
+      "and",
+      "devein",
+      "prawns",
+      ";"
+    ],
+    "1": [
+      "cut",
+      "prawns",
+      "diagonally",
+      "into",
+      "halves",
+      ";"
+    ],
+    "10": [
+      "pour",
+      "into",
+      "pan",
+      "."
+    ],
+    "11": [
+      "cook",
+      "and",
+      "stir",
+      "until",
+      "sauce",
+      "thickens",
+      "."
+    ],
+    "12": [
+      "serve",
+      "immediately",
+      "."
+    ],
+    "13": [
+      "garnish",
+      "as",
+      "desired",
+      "."
+    ],
+    "2": [
+      "place",
+      "in",
+      "medium",
+      "bowl",
+      "."
+    ],
+    "3": [
+      "sprinkle",
+      "1",
+      "tablespoon",
+      "wine",
+      "and",
+      "grated",
+      "ginger",
+      "over",
+      "prawns",
+      "."
+    ],
+    "4": [
+      "heat",
+      "oil",
+      "in",
+      "hot",
+      "wok",
+      "or",
+      "large",
+      "skillet",
+      "over",
+      "high",
+      "heat",
+      "."
+    ],
+    "5": [
+      "add",
+      "prawns",
+      ";"
+    ],
+    "6": [
+      "stir-fry",
+      "until",
+      "completely",
+      "pink",
+      "or",
+      "red",
+      "."
+    ],
+    "7": [
+      "add",
+      "green",
+      "onions",
+      ",",
+      "chopped",
+      "ginger",
+      ",",
+      "garlic",
+      "and",
+      "chili",
+      "peppers",
+      ";"
+    ],
+    "8": [
+      "stir-fry",
+      "only",
+      "until",
+      "the",
+      "onions",
+      "are",
+      "tender",
+      "."
+    ],
+    "9": [
+      "combine",
+      "sugar",
+      ",",
+      "catsup",
+      ",",
+      "soy",
+      "sauce",
+      ",",
+      "remaining",
+      "1",
+      "tablespoon",
+      "wine",
+      "and",
+      "cornstarch",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "wash",
+      "devein"
+    ],
+    "1": [
+      "cut"
+    ],
+    "10": [
+      "pour"
+    ],
+    "11": [
+      "cook",
+      "stir"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "13": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "place"
+    ],
+    "3": [
+      "sprinkle"
+    ],
+    "4": [
+      "heat"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "stir-fry"
+    ],
+    "7": [
+      "add"
+    ],
+    "8": [
+      "stir-fry"
+    ],
+    "9": [
+      "combine"
+    ]
+  }
+}

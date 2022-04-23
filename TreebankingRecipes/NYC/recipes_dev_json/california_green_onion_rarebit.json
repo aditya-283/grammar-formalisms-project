@@ -1,0 +1,246 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "california green onion rarebit",
+  "ingredient_list": [
+    "butter",
+    "slice",
+    "pumpernickel_bread",
+    "flour",
+    "white_wine",
+    "tarragon",
+    "nutmeg",
+    "green_onion",
+    "cheese",
+    "green_onion"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      3
+    ],
+    "2": [
+      4
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      5
+    ],
+    "5": [
+      0,
+      3,
+      4,
+      5,
+      8
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      7,
+      5,
+      6
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "melt",
+      "butter",
+      "in",
+      "medium",
+      "saucepan",
+      "over",
+      "low",
+      "heat",
+      "."
+    ],
+    "1": [
+      "stir",
+      "in",
+      "flour",
+      "and",
+      "cook",
+      "for",
+      "2",
+      "minutes",
+      "."
+    ],
+    "2": [
+      "gradually",
+      ",",
+      "pour",
+      "in",
+      "the",
+      "wine",
+      ",",
+      "whisking",
+      "constantly",
+      "."
+    ],
+    "3": [
+      "cook",
+      "over",
+      "medium",
+      "heat",
+      "until",
+      "thickened",
+      ",",
+      "about",
+      "5",
+      "minutes",
+      "."
+    ],
+    "4": [
+      "stir",
+      "in",
+      "tarragon",
+      ",8",
+      "chopped",
+      "green",
+      "onions",
+      "and",
+      "the",
+      "cheese",
+      "."
+    ],
+    "5": [
+      "cook",
+      "over",
+      "low",
+      "heat",
+      ",",
+      "stirring",
+      "constantly",
+      "until",
+      "cheese",
+      "is",
+      "melted",
+      "."
+    ],
+    "6": [
+      "to",
+      "serve",
+      ",",
+      "arrange",
+      "toast",
+      "on",
+      "plates",
+      ",",
+      "spoon",
+      "sauce",
+      "over",
+      "toast",
+      "."
+    ],
+    "7": [
+      "sprinkle",
+      "with",
+      "nutmeg",
+      "and",
+      "garnish",
+      "with",
+      "additional",
+      "green",
+      "onions",
+      ",",
+      "if",
+      "desired",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "cook",
+      "stir"
+    ],
+    "2": [
+      "whisk",
+      "pour"
+    ],
+    "3": [
+      "cook"
+    ],
+    "4": [
+      "stir"
+    ],
+    "5": [
+      "cook",
+      "stir"
+    ],
+    "6": [
+      "spoon",
+      "arrange"
+    ],
+    "7": [
+      "sprinkle",
+      "garnish"
+    ]
+  }
+}

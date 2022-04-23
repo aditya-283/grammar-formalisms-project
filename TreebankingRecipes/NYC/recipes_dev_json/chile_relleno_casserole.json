@@ -1,0 +1,384 @@
+{
+  "events": {
+    "0": {
+      "cleanliness": [
+        "clean"
+      ]
+    },
+    "1": {
+      "location": [
+        "paper",
+        "towel"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "13": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "pan"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ]
+    },
+    "9": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "chile relleno casserole",
+  "ingredient_list": [
+    "green_chile",
+    "onion",
+    "cumin",
+    "salt",
+    "cheddar",
+    "milk",
+    "tomato_sauce",
+    "beef",
+    "cloves_garlic",
+    "chile_powder",
+    "jack",
+    "eggs",
+    "flour",
+    "sour_cream",
+    "pecan",
+    "raisin"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "11": [
+      2,
+      6
+    ],
+    "12": [
+      9,
+      2,
+      6
+    ],
+    "13": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "2": [
+      7,
+      8,
+      1
+    ],
+    "3": [
+      7,
+      8,
+      1
+    ],
+    "4": [
+      7,
+      8,
+      1,
+      2
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10,
+      13
+    ],
+    "9": [
+      11,
+      12,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "rinse",
+      "chiles",
+      ",",
+      "open",
+      "flat",
+      "and",
+      "remove",
+      "seeds",
+      "."
+    ],
+    "1": [
+      "drain",
+      "on",
+      "paper",
+      "towels",
+      "."
+    ],
+    "10": [
+      "pour",
+      "over",
+      "cheese",
+      "mixture",
+      "."
+    ],
+    "11": [
+      "to",
+      "the",
+      "tomato",
+      "sauce",
+      "add",
+      "2",
+      "tsp",
+      "cumin",
+      "and",
+      "1",
+      "."
+    ],
+    "12": [
+      "5",
+      "tbs",
+      "chili",
+      "powder",
+      "."
+    ],
+    "13": [
+      "pour",
+      "over",
+      "all",
+      "."
+    ],
+    "14": [
+      "-rrb-",
+      "serve",
+      "toppings",
+      "in",
+      "seperate",
+      "bowls",
+      "and",
+      "let",
+      "guests",
+      "help",
+      "themselves",
+      "."
+    ],
+    "2": [
+      "brown",
+      "meat",
+      "with",
+      "onion",
+      "and",
+      "garlic",
+      "."
+    ],
+    "3": [
+      "drain",
+      "."
+    ],
+    "4": [
+      "add",
+      "1",
+      "tsp",
+      "cumin",
+      ",",
+      "1",
+      "."
+    ],
+    "5": [
+      "5",
+      "tbs",
+      "chili",
+      "powder",
+      "and",
+      "salt",
+      "."
+    ],
+    "6": [
+      "stir",
+      "."
+    ],
+    "7": [
+      "in",
+      "a",
+      "greased",
+      "9x13",
+      "''",
+      "pan",
+      ",",
+      "layer",
+      "chiles",
+      ",",
+      "beef",
+      "and",
+      "additional",
+      "chiles",
+      "."
+    ],
+    "8": [
+      "combine",
+      "cheeses",
+      "and",
+      "sprinkle",
+      "over",
+      "chiles",
+      "."
+    ],
+    "9": [
+      "beat",
+      "together",
+      "eggs",
+      ",",
+      "milk",
+      "and",
+      "flour",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "open",
+      "rinse",
+      "remove"
+    ],
+    "1": [
+      "drain"
+    ],
+    "10": [
+      "pour"
+    ],
+    "11": [
+      "add"
+    ],
+    "12": [
+      "<NO_CHANGE>"
+    ],
+    "13": [
+      "pour"
+    ],
+    "14": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "brown"
+    ],
+    "3": [
+      "drain"
+    ],
+    "4": [
+      "add"
+    ],
+    "5": [
+      "<NO_CHANGE>"
+    ],
+    "6": [
+      "stir"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "sprinkle",
+      "combine"
+    ],
+    "9": [
+      "beat"
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "events": {
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "separated",
+        "deformed"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "sheet"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "brazilian onion bites",
+  "ingredient_list": [
+    "onion",
+    "bread",
+    "mayonnaise",
+    "parmesan_cheese",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "1": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "2": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "3": [
+      1,
+      2
+    ],
+    "4": [
+      1,
+      2
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "preheat",
+      "the",
+      "oven",
+      "to",
+      "350",
+      "."
+    ],
+    "1": [
+      "mix",
+      "the",
+      "onion",
+      "with",
+      "5",
+      "tbsp",
+      "of",
+      "the",
+      "mayonaise",
+      "and",
+      "salt",
+      "and",
+      "pepper",
+      "to",
+      "taste",
+      "."
+    ],
+    "2": [
+      "set",
+      "aside",
+      "."
+    ],
+    "3": [
+      "spread",
+      "3",
+      "slices",
+      "of",
+      "bread",
+      "on",
+      "one",
+      "side",
+      "with",
+      "the",
+      "remaining",
+      "mayonaise",
+      "."
+    ],
+    "4": [
+      "cut",
+      "these",
+      "into",
+      "quarters",
+      "."
+    ],
+    "5": [
+      "cut",
+      "the",
+      "remaining",
+      "3",
+      "slices",
+      "of",
+      "bread",
+      "into",
+      "quarters",
+      "and",
+      "spread",
+      "each",
+      "square",
+      "evenly",
+      "with",
+      "the",
+      "onion",
+      "mixture",
+      "."
+    ],
+    "6": [
+      "top",
+      "with",
+      "the",
+      "reserved",
+      "bread",
+      "squares",
+      ",",
+      "mayonaise",
+      "side",
+      "up",
+      "."
+    ],
+    "7": [
+      "place",
+      "these",
+      "on",
+      "a",
+      "baking",
+      "sheet",
+      "and",
+      "sprinkle",
+      "the",
+      "tops",
+      "generously",
+      "with",
+      "parmesan",
+      "cheese",
+      "."
+    ],
+    "8": [
+      "bake",
+      "until",
+      "lightly",
+      "golden",
+      "and",
+      "slightly",
+      "puffy",
+      ",",
+      "about",
+      "15",
+      "minutes",
+      "."
+    ],
+    "9": [
+      "serve",
+      "immediately",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "<NO_CHANGE>"
+    ],
+    "1": [
+      "mix"
+    ],
+    "2": [
+      "set"
+    ],
+    "3": [
+      "spread"
+    ],
+    "4": [
+      "cut"
+    ],
+    "5": [
+      "spread",
+      "cut"
+    ],
+    "6": [
+      "top"
+    ],
+    "7": [
+      "sprinkle",
+      "place"
+    ],
+    "8": [
+      "bake"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

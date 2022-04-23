@@ -1,0 +1,348 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bag"
+      ]
+    },
+    "1": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "10": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "rotation": [
+        "turned"
+      ]
+    },
+    "4": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "grill"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "rotation": [
+        "turned"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "8": {
+      "location": [
+        "board"
+      ]
+    }
+  },
+  "id": "tabasco steak rhp",
+  "ingredient_list": [
+    "thick",
+    "cloves_garlic",
+    "pepper",
+    "butter"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2
+    ],
+    "1": [
+      0,
+      2
+    ],
+    "10": [
+      0,
+      1,
+      3
+    ],
+    "2": [
+      0,
+      2
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      1,
+      3
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      0
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "place",
+      "the",
+      "piece",
+      "of",
+      "beef",
+      "in",
+      "a",
+      "plastic",
+      "zip-lock",
+      "bag",
+      "with",
+      "the",
+      "contents",
+      "of",
+      "2",
+      "bottles",
+      "of",
+      "tabasco",
+      "sauce",
+      "."
+    ],
+    "1": [
+      "soak",
+      "the",
+      "beef",
+      "in",
+      "the",
+      "sauce",
+      "in",
+      "the",
+      "refrigerator",
+      "for",
+      "3",
+      "days",
+      ";"
+    ],
+    "10": [
+      "after",
+      "carving",
+      ",",
+      "brush",
+      "the",
+      "slices",
+      "with",
+      "the",
+      "garlic",
+      "butter",
+      "."
+    ],
+    "11": [
+      "jackson",
+      ",",
+      "in",
+      "",
+      "",
+      "red",
+      "hot",
+      "peppers",
+      "",
+      "",
+      "by",
+      "jean",
+      "andrews",
+      "."
+    ],
+    "2": [
+      "turn",
+      "often",
+      "."
+    ],
+    "3": [
+      "remove",
+      "the",
+      "beef",
+      "from",
+      "the",
+      "sauce",
+      "and",
+      "cook",
+      "over",
+      "mesquite",
+      "wood",
+      "coals",
+      "."
+    ],
+    "4": [
+      "when",
+      "the",
+      "coals",
+      "are",
+      "at",
+      "the",
+      "hottest",
+      "stage",
+      ",",
+      "put",
+      "the",
+      "steak",
+      "on",
+      "the",
+      "grill",
+      "2",
+      "inches",
+      "above",
+      "the",
+      "fire",
+      "."
+    ],
+    "5": [
+      "cook",
+      "for",
+      "10",
+      "minutes",
+      ",",
+      "turn",
+      "and",
+      "cook",
+      "on",
+      "the",
+      "other",
+      "side",
+      "for",
+      "10",
+      "minutes",
+      ";"
+    ],
+    "6": [
+      "repeat",
+      "for",
+      "two",
+      "more",
+      "10-minute",
+      "periods",
+      "."
+    ],
+    "7": [
+      "while",
+      "the",
+      "meat",
+      "is",
+      "cooking",
+      ",",
+      "blend",
+      "the",
+      "garlic",
+      "with",
+      "the",
+      "softened",
+      "butter",
+      "and",
+      "slightly",
+      "melt",
+      "."
+    ],
+    "8": [
+      "after",
+      "the",
+      "meat",
+      "has",
+      "cooked",
+      "for",
+      "40",
+      "minutes",
+      ",",
+      "remove",
+      "from",
+      "the",
+      "fire",
+      "and",
+      "place",
+      "on",
+      "a",
+      "cutting",
+      "board",
+      ";"
+    ],
+    "9": [
+      "allow",
+      "to",
+      "rest",
+      "for",
+      "10",
+      "minutes",
+      "before",
+      "carving",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "place"
+    ],
+    "1": [
+      "soak"
+    ],
+    "10": [
+      "brush"
+    ],
+    "11": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "turn"
+    ],
+    "3": [
+      "cook",
+      "remove"
+    ],
+    "4": [
+      "put"
+    ],
+    "5": [
+      "cook",
+      "turn"
+    ],
+    "6": [
+      "<NO_CHANGE>"
+    ],
+    "7": [
+      "blend",
+      "melt"
+    ],
+    "8": [
+      "place",
+      "remove"
+    ],
+    "9": [
+      "carve"
+    ]
+  }
+}

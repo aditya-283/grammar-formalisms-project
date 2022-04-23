@@ -1,0 +1,337 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "1": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ]
+    },
+    "3": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "7": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    }
+  },
+  "id": "diner goulash",
+  "ingredient_list": [
+    "round_steak",
+    "cube",
+    "shortening",
+    "onion",
+    "garlic",
+    "ketchup",
+    "sugar",
+    "salt",
+    "paprika",
+    "pepper",
+    "mustard",
+    "worcestershire_sauce",
+    "water",
+    "flour",
+    "water",
+    "noodle"
+  ],
+  "ingredients": {
+    "0": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "1": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "2": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "3": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "4": [
+      13,
+      14
+    ],
+    "5": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "6": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "7": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "8": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "brown",
+      "first",
+      "4",
+      "ingredients",
+      "."
+    ],
+    "1": [
+      "combine",
+      "and",
+      "mix",
+      "ketchup",
+      ",",
+      "brown",
+      "sugar",
+      ",",
+      "salt",
+      "paprika",
+      ",",
+      "pepper",
+      ",",
+      "dry",
+      "mustard",
+      "and",
+      "worcestershire",
+      "sauce",
+      "."
+    ],
+    "2": [
+      "add",
+      "mixture",
+      "and",
+      "11/2",
+      "cup",
+      "water",
+      "to",
+      "meat",
+      "mixture",
+      "."
+    ],
+    "3": [
+      "simmer",
+      "2",
+      "to",
+      "21/2",
+      "hours",
+      "."
+    ],
+    "4": [
+      "when",
+      "meat",
+      "is",
+      "tender",
+      ",",
+      "mix",
+      "flour",
+      "and",
+      "1/4",
+      "cup",
+      "cold",
+      "water",
+      "."
+    ],
+    "5": [
+      "stir",
+      "into",
+      "meat",
+      "mixture",
+      "."
+    ],
+    "6": [
+      "heat",
+      "to",
+      "boiling",
+      ",",
+      "stirring",
+      "constantly",
+      "."
+    ],
+    "7": [
+      "boil",
+      "1",
+      "minute",
+      "."
+    ],
+    "8": [
+      "pour",
+      "over",
+      "hot",
+      "cooked",
+      "noodles",
+      "."
+    ],
+    "9": [
+      "serves",
+      "6",
+      "to",
+      "8",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "brown"
+    ],
+    "1": [
+      "mix",
+      "combine"
+    ],
+    "2": [
+      "add"
+    ],
+    "3": [
+      "simmer"
+    ],
+    "4": [
+      "mix"
+    ],
+    "5": [
+      "stir"
+    ],
+    "6": [
+      "heat",
+      "stir"
+    ],
+    "7": [
+      "boil"
+    ],
+    "8": [
+      "pour"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

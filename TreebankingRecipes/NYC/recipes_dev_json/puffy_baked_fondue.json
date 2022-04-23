@@ -1,0 +1,270 @@
+{
+  "events": {
+    "0": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ],
+      "shape": [
+        "deformed"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ]
+    },
+    "5": {
+      "location": [
+        "casserole"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "casserole"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "casserole"
+      ]
+    },
+    "8": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "oven"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    }
+  },
+  "id": "puffy baked fondue",
+  "ingredient_list": [
+    "eggs",
+    "milk",
+    "white_wine",
+    "salt",
+    "bread",
+    "cheese"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      0
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "5": [
+      4
+    ],
+    "6": [
+      4,
+      5
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "8": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "in",
+      "a",
+      "small",
+      "mixer",
+      "bowl",
+      ",",
+      "beat",
+      "egg",
+      "whites",
+      "till",
+      "stiff",
+      "peaks",
+      "form",
+      "-lrb-",
+      "tips",
+      "stand",
+      "straight",
+      "-rrb-",
+      "."
+    ],
+    "1": [
+      "set",
+      "aside",
+      "."
+    ],
+    "2": [
+      "in",
+      "another",
+      "small",
+      "bowl",
+      "beat",
+      "egg",
+      "yolks",
+      ",",
+      "milk",
+      ",",
+      "wine",
+      ",",
+      "and",
+      "salt",
+      "till",
+      "smooth",
+      "."
+    ],
+    "3": [
+      "fold",
+      "into",
+      "egg",
+      "whites",
+      "."
+    ],
+    "4": [
+      "spray",
+      "two",
+      "12-oz",
+      "individual",
+      "casseroles",
+      "with",
+      "nonstick",
+      "spray",
+      "coating",
+      "."
+    ],
+    "5": [
+      "divide",
+      "bread",
+      "betweem",
+      "casseroles",
+      "."
+    ],
+    "6": [
+      "top",
+      "with",
+      "cheese",
+      ";"
+    ],
+    "7": [
+      "pour",
+      "egg",
+      "mixture",
+      "over",
+      "bread",
+      "and",
+      "cheese",
+      "."
+    ],
+    "8": [
+      "bake",
+      ",",
+      "uncovered",
+      ",",
+      "in",
+      "350",
+      "deg",
+      "f",
+      "oven",
+      "for",
+      "20-30",
+      "minutes",
+      "or",
+      "till",
+      "golden",
+      "."
+    ],
+    "9": [
+      "try",
+      "sourdough",
+      "french",
+      "bread",
+      "for",
+      "a",
+      "little",
+      "different",
+      "flavor",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "beat"
+    ],
+    "1": [
+      "set"
+    ],
+    "2": [
+      "beat"
+    ],
+    "3": [
+      "fold"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "divide"
+    ],
+    "6": [
+      "top"
+    ],
+    "7": [
+      "pour"
+    ],
+    "8": [
+      "bake"
+    ],
+    "9": [
+      "<NO_CHANGE>"
+    ]
+  }
+}

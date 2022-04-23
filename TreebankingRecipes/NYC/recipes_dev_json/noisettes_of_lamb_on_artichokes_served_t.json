@@ -1,0 +1,312 @@
+{
+  "events": {
+    "0": {
+      "shape": [
+        "separated"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "location": [
+        "plate"
+      ]
+    },
+    "2": {
+      "cleanliness": [
+        "clean"
+      ],
+      "temperature": [
+        "cold"
+      ]
+    },
+    "3": {
+      "cleanliness": [
+        "clean"
+      ],
+      "composition": [
+        "change"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "8": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "top"
+      ]
+    },
+    "9": {
+      "location": [
+        "plate"
+      ]
+    }
+  },
+  "id": "noisettes of lamb on artichokes served t",
+  "ingredient_list": [
+    "lamb_fillet",
+    "artichokes_small",
+    "carrot",
+    "parsnip",
+    "leek",
+    "tarragon",
+    "butter",
+    "olive_oil",
+    "lamb",
+    "salt",
+    "pepper"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "1": [
+      1
+    ],
+    "10": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "4": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "5": [
+      8,
+      5
+    ],
+    "6": [
+      8,
+      9,
+      10,
+      5
+    ],
+    "7": [
+      0,
+      6
+    ],
+    "8": [
+      0,
+      1,
+      6
+    ],
+    "9": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "trim",
+      "lamb",
+      "fillets",
+      ",",
+      "cut",
+      "into",
+      "noisettes",
+      "approx",
+      "60",
+      "gm",
+      "each",
+      "."
+    ],
+    "1": [
+      "trimk",
+      "and",
+      "cook",
+      "off",
+      "the",
+      "artichoke",
+      "hearts",
+      "."
+    ],
+    "10": [
+      "garnish",
+      "with",
+      "the",
+      "julienne",
+      "of",
+      "vegs",
+      "and",
+      "serve",
+      "."
+    ],
+    "2": [
+      "refresh",
+      "and",
+      "refrigerate",
+      "."
+    ],
+    "3": [
+      "clean",
+      "and",
+      "prepare",
+      "vegetables",
+      "into",
+      "julienne",
+      "."
+    ],
+    "4": [
+      "sweat",
+      "in",
+      "butter",
+      "until",
+      "al",
+      "dente",
+      "."
+    ],
+    "5": [
+      "add",
+      "tarragon",
+      "to",
+      "lamb",
+      "jus",
+      "and",
+      "reduce",
+      "by",
+      "half",
+      "."
+    ],
+    "6": [
+      "correct",
+      "seasoning",
+      "."
+    ],
+    "7": [
+      "cook",
+      "off",
+      "the",
+      "noisettes",
+      "in",
+      "butter",
+      "and",
+      "oil",
+      "until",
+      "pink",
+      "."
+    ],
+    "8": [
+      "put",
+      "the",
+      "noisettes",
+      "on",
+      "top",
+      "of",
+      "the",
+      "artichoke",
+      "hearts",
+      "."
+    ],
+    "9": [
+      "place",
+      "on",
+      "the",
+      "plate",
+      "that",
+      "has",
+      "been",
+      "masked",
+      "with",
+      "the",
+      "lamb",
+      "jus",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "trim",
+      "cut"
+    ],
+    "1": [
+      "cook"
+    ],
+    "10": [
+      "garnish",
+      "serve"
+    ],
+    "2": [
+      "refrigerate",
+      "refresh"
+    ],
+    "3": [
+      "clean",
+      "prepare"
+    ],
+    "4": [
+      "<NO_CHANGE>"
+    ],
+    "5": [
+      "add",
+      "reduce"
+    ],
+    "6": [
+      "correct"
+    ],
+    "7": [
+      "cook"
+    ],
+    "8": [
+      "put"
+    ],
+    "9": [
+      "place"
+    ]
+  }
+}

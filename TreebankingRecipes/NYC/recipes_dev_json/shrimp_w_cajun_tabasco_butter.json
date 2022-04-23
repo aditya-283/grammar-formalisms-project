@@ -1,0 +1,375 @@
+{
+  "events": {
+    "0": {
+      "location": [
+        "refrigerator"
+      ]
+    },
+    "1": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "skillet"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "10": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "11": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "12": {
+      "composition": [
+        "change"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "location": [
+        "skillet"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ]
+    },
+    "8": {
+      "location": [
+        "plate"
+      ],
+      "shape": [
+        "separated"
+      ]
+    },
+    "9": {
+      "location": [
+        "skillet"
+      ]
+    }
+  },
+  "id": "shrimp w/cajun tabasco butter",
+  "ingredient_list": [
+    "butter",
+    "butter",
+    "green_onion",
+    "crab_boil",
+    "tabasco_sauce",
+    "shrimp",
+    "onion",
+    "green_pepper",
+    "shrimp",
+    "vermouth"
+  ],
+  "ingredients": {
+    "0": [
+      1
+    ],
+    "1": [
+      0
+    ],
+    "10": [
+      9
+    ],
+    "11": [
+      0,
+      9
+    ],
+    "12": [
+      0,
+      2,
+      5,
+      6,
+      7,
+      9
+    ],
+    "13": [
+      0,
+      2,
+      5,
+      6,
+      7,
+      9
+    ],
+    "2": [
+      7,
+      0,
+      2,
+      6
+    ],
+    "3": [
+      7,
+      2,
+      6
+    ],
+    "4": [
+      7,
+      0,
+      2,
+      6
+    ],
+    "5": [
+      7,
+      0,
+      2,
+      5,
+      6
+    ],
+    "6": [
+      7,
+      0,
+      2,
+      5,
+      6
+    ],
+    "8": [
+      7,
+      0,
+      2,
+      5,
+      6
+    ],
+    "9": [
+      9
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "prepare",
+      "butter",
+      ",",
+      "cover",
+      "and",
+      "refrigerate",
+      "."
+    ],
+    "1": [
+      "melt",
+      "2",
+      "tb",
+      "cajun",
+      "butter",
+      "in",
+      "large",
+      "skillet",
+      "."
+    ],
+    "10": [
+      "boil",
+      "1",
+      "minute",
+      "."
+    ],
+    "11": [
+      "gradually",
+      "add",
+      "remaining",
+      "cajun",
+      "butter",
+      ",",
+      "whisking",
+      "until",
+      "just",
+      "melted",
+      "."
+    ],
+    "12": [
+      "pour",
+      "sauce",
+      "over",
+      "shrimp",
+      "."
+    ],
+    "13": [
+      "serve",
+      "over",
+      "freshly",
+      "cooked",
+      "grits",
+      "that",
+      "have",
+      "been",
+      "flavored",
+      "with",
+      "sauteed",
+      "garlic",
+      "and",
+      "chopped",
+      "green",
+      "onions",
+      "."
+    ],
+    "2": [
+      "add",
+      "onion",
+      "and",
+      "bell",
+      "pepper",
+      "and",
+      "saute",
+      "until",
+      "almost",
+      "tender",
+      ",",
+      "about",
+      "5",
+      "minutes",
+      "."
+    ],
+    "3": [
+      "push",
+      "veggies",
+      "to",
+      "side",
+      "of",
+      "skillet",
+      "."
+    ],
+    "4": [
+      "melt",
+      "another",
+      "2",
+      "tb",
+      "cajun",
+      "butter",
+      "in",
+      "same",
+      "skillet",
+      ";"
+    ],
+    "5": [
+      "add",
+      "shrimp",
+      "and",
+      "saute",
+      "just",
+      "until",
+      "cooked",
+      "through",
+      ",",
+      "3",
+      "minutes",
+      "."
+    ],
+    "6": [
+      "mix",
+      "shrimp",
+      "and",
+      "veggies",
+      "together",
+      "."
+    ],
+    "7": [
+      "season",
+      "with",
+      "salt",
+      "."
+    ],
+    "8": [
+      "divide",
+      "among",
+      "plates",
+      "."
+    ],
+    "9": [
+      "add",
+      "vermouth",
+      "to",
+      "same",
+      "skillet",
+      ";"
+    ]
+  },
+  "verb": {
+    "0": [
+      "cover",
+      "prepare"
+    ],
+    "1": [
+      "melt"
+    ],
+    "10": [
+      "boil"
+    ],
+    "11": [
+      "add",
+      "whisk"
+    ],
+    "12": [
+      "pour"
+    ],
+    "13": [
+      "serve"
+    ],
+    "2": [
+      "saute",
+      "add"
+    ],
+    "3": [
+      "push"
+    ],
+    "4": [
+      "melt"
+    ],
+    "5": [
+      "add"
+    ],
+    "6": [
+      "mix"
+    ],
+    "7": [
+      "<NO_CHANGE>"
+    ],
+    "8": [
+      "divide"
+    ],
+    "9": [
+      "add"
+    ]
+  }
+}

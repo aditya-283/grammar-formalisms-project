@@ -1,0 +1,254 @@
+{
+  "events": {
+    "0": {
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "shape": [
+        "deformed"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "2": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "location": [
+        "saucepan"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "3": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "4": {
+      "composition": [
+        "change"
+      ],
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "5": {
+      "cookedness": [
+        "cooked"
+      ],
+      "temperature": [
+        "hot"
+      ]
+    },
+    "6": {
+      "composition": [
+        "change"
+      ],
+      "location": [
+        "bowl"
+      ]
+    },
+    "7": {
+      "composition": [
+        "change"
+      ]
+    }
+  },
+  "id": "onion soup la fitte",
+  "ingredient_list": [
+    "butter",
+    "onion",
+    "bouillon",
+    "salt",
+    "sauterne_wine",
+    "cayenne_pepper",
+    "pepper",
+    "toast_round",
+    "grated"
+  ],
+  "ingredients": {
+    "0": [
+      0
+    ],
+    "2": [
+      0,
+      1
+    ],
+    "3": [
+      0,
+      1,
+      4
+    ],
+    "4": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ],
+    "7": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "split": "dev",
+  "text": {
+    "0": [
+      "melt",
+      "butter",
+      "in",
+      "lge",
+      "."
+    ],
+    "1": [
+      "saucepan",
+      "."
+    ],
+    "2": [
+      "add",
+      "onions",
+      "and",
+      "cook",
+      ",",
+      "stirring",
+      "frequently",
+      ",",
+      "until",
+      "golden",
+      "brown",
+      "."
+    ],
+    "3": [
+      "add",
+      "wine",
+      "and",
+      "cook",
+      "additional",
+      "5",
+      "min",
+      "."
+    ],
+    "4": [
+      "add",
+      "bouillon",
+      ",",
+      "salt",
+      "cayenne",
+      "and",
+      "black",
+      "pepper",
+      "and",
+      "bring",
+      "to",
+      "a",
+      "boil",
+      "."
+    ],
+    "5": [
+      "cover",
+      "and",
+      "simmer",
+      "for",
+      "15",
+      "min",
+      "."
+    ],
+    "6": [
+      "pour",
+      "into",
+      "6",
+      "soup",
+      "bowls",
+      "and",
+      "place",
+      "toast",
+      "round",
+      "in",
+      "each",
+      "."
+    ],
+    "7": [
+      "sprinkle",
+      "with",
+      "grated",
+      "cheese",
+      "and",
+      "serve",
+      "."
+    ]
+  },
+  "verb": {
+    "0": [
+      "melt"
+    ],
+    "1": [
+      "<NO_CHANGE>"
+    ],
+    "2": [
+      "cook",
+      "add",
+      "stir"
+    ],
+    "3": [
+      "cook",
+      "add"
+    ],
+    "4": [
+      "add",
+      "boil"
+    ],
+    "5": [
+      "cover",
+      "simmer"
+    ],
+    "6": [
+      "pour"
+    ],
+    "7": [
+      "sprinkle",
+      "serve"
+    ]
+  }
+}
