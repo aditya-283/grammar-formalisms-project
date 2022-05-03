@@ -164,14 +164,14 @@
 # text = butter baking tins and dust with sugar .
 # sentid = 12
 # original_sentid = 253
-1	butter	butter	NOUN	NN	Number=Sing	3	compound	_	start_char=0|end_char=6
-2	baking	baking	NOUN	NN	Number=Sing	3	compound	_	start_char=7|end_char=13
-3	tins	tin	NOUN	NNS	Number=Plur	0	root	_	start_char=14|end_char=18
+1	butter	butter	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=6
+2	baking	baking	ADJ	JJ	Number=Sing	3	amod	_	start_char=7|end_char=13
+3	tins	tin	NOUN	NNS	Number=Plur	1	obj	_	start_char=14|end_char=18
 4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
-5	dust	dust	NOUN	NN	Number=Sing	3	conj	_	start_char=23|end_char=27
+5	dust	dust	VERB	VB	Number=Sing	1	conj	_	start_char=23|end_char=27
 6	with	with	ADP	IN	_	7	case	_	start_char=28|end_char=32
-7	sugar	sugar	NOUN	NN	Number=Sing	3	nmod	_	start_char=33|end_char=38
-8	.	.	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+7	sugar	sugar	NOUN	NN	Number=Sing	5	obl	_	start_char=33|end_char=38
+8	.	.	PUNCT	.	_	1	punct	_	start_char=39|end_char=40
 
 # text = allow to cool for 5 – 10 min . before serving .
 # sentid = 13
