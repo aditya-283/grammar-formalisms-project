@@ -1,0 +1,1863 @@
+# text = add a pinch of salt .
+# sentid = 1
+# original_sentid = 2
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=4|end_char=5
+3	pinch	pinch	NOUN	NN	Number=Sing	1	obj	_	start_char=6|end_char=11
+4	of	of	ADP	IN	_	5	case	_	start_char=12|end_char=14
+5	salt	salt	NOUN	NN	Number=Sing	3	nmod	_	start_char=15|end_char=19
+6	.	.	PUNCT	.	_	1	punct	_	start_char=20|end_char=21
+
+# text = add cayenne pepper , paprika , caraway seeds , nutmeg , and bay leaf .
+# sentid = 2
+# original_sentid = 22
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	cayenne	cayenne	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=11
+3	pepper	pepper	NOUN	NN	Number=Sing	1	obj	_	start_char=12|end_char=18
+4	,	,	PUNCT	,	_	5	punct	_	start_char=19|end_char=20
+5	paprika	paprika	NOUN	NN	Number=Sing	3	conj	_	start_char=21|end_char=28
+6	,	,	PUNCT	,	_	8	punct	_	start_char=29|end_char=30
+7	caraway	caraway	NOUN	NN	Number=Sing	8	compound	_	start_char=31|end_char=38
+8	seeds	seed	NOUN	NNS	Number=Plur	3	conj	_	start_char=39|end_char=44
+9	,	,	PUNCT	,	_	10	punct	_	start_char=45|end_char=46
+10	nutmeg	nutmeg	NOUN	NN	Number=Sing	3	conj	_	start_char=47|end_char=53
+11	,	,	PUNCT	,	_	14	punct	_	start_char=54|end_char=55
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=56|end_char=59
+13	bay	bay	NOUN	NN	Number=Sing	14	compound	_	start_char=60|end_char=63
+14	leaf	leaf	NOUN	NN	Number=Sing	3	conj	_	start_char=64|end_char=68
+15	.	.	PUNCT	.	_	1	punct	_	start_char=69|end_char=70
+
+# text = add all ingredients to a large bowl .
+# sentid = 3
+# original_sentid = 3
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	all	all	DET	DT	_	3	det	_	start_char=4|end_char=7
+3	ingredients	ingredient	NOUN	NNS	Number=Plur	1	obj	_	start_char=8|end_char=19
+4	to	to	ADP	IN	_	7	case	_	start_char=20|end_char=22
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=23|end_char=24
+6	large	large	ADJ	JJ	Degree=Pos	7	amod	_	start_char=25|end_char=30
+7	bowl	bowl	NOUN	NN	Number=Sing	1	obl	_	start_char=31|end_char=35
+8	.	.	PUNCT	.	_	1	punct	_	start_char=36|end_char=37
+
+# text = alternatively , use two teaspoons .
+# sentid = 4
+# original_sentid = 180
+1	alternatively	alternatively	ADV	RB	Degree=Pos	3	advmod	_	start_char=0|end_char=13
+2	,	,	PUNCT	,	_	3	punct	_	start_char=14|end_char=15
+3	use	use	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=16|end_char=19
+4	two	two	NUM	CD	NumForm=Word|NumType=Card	5	nummod	_	start_char=20|end_char=23
+5	teaspoons	teaspoon	NOUN	NNS	Number=Plur	3	obj	_	start_char=24|end_char=33
+6	.	.	PUNCT	.	_	3	punct	_	start_char=34|end_char=35
+
+# newdoc
+# newpar
+# text = allow to set for approx . 10-15 min .
+# sentid = 5
+# original_sentid = 177
+1	allow	allow	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	to	to	PART	TO	_	3	mark	_	start_char=6|end_char=8
+3	set	set	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=9|end_char=12
+4	for	for	ADP	IN	_	8	case	_	start_char=13|end_char=16
+5	approx	approx	ADV	ADV	Number=Sing	7	advmod	_	start_char=17|end_char=23
+6	.	.	PUNCT	.	_	5	punct	_	start_char=24|end_char=25
+7	10-15	10-15	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	_	start_char=26|end_char=28
+8	min	minute	NOUN	NNS	Number=Plur	3	obl	_	start_char=34|end_char=37
+9	.	.	PUNCT	.	_	1	punct	_	start_char=38|end_char=39
+
+# text = add cream cheese and a portion of prosciutto to the omelette .
+# sentid = 6
+# original_sentid = 46
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	cream	cream	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=9
+3	cheese	cheese	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=16
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=21|end_char=22
+6	portion	portion	NOUN	NN	Number=Sing	3	conj	_	start_char=23|end_char=30
+7	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+8	prosciutto	prosciutto	NOUN	NN	Number=Sing	6	nmod	_	start_char=34|end_char=44
+9	to	to	ADP	IN	_	11	case	_	start_char=45|end_char=47
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=48|end_char=51
+11	omelette	omelette	NOUN	NN	Number=Sing	1	obl	_	start_char=52|end_char=60
+12	.	.	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+
+# text = blend into a smooth batter .
+# sentid = 7
+# original_sentid = 226
+1	blend	blend	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	into	into	ADP	IN	_	5	case	_	start_char=6|end_char=10
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=11|end_char=12
+4	smooth	smooth	ADJ	JJ	Degree=Pos	5	amod	_	start_char=13|end_char=19
+5	batter	batter	NOUN	NN	Number=Sing	1	obl	_	start_char=20|end_char=26
+6	.	.	PUNCT	.	_	1	punct	_	start_char=27|end_char=28
+
+# text = add beet and sauté for approx . 5-7 min .
+# sentid = 8
+# original_sentid = 9
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	beet	beet	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=8
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=9|end_char=12
+4	sauté	sauté	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=13|end_char=18
+5	for	for	ADP	IN	_	9	case	_	start_char=19|end_char=22
+6	approx	approx	ADV	ADV	Number=Sing	8	advmod	_	start_char=23|end_char=29
+7	.	.	PUNCT	.	_	6	punct	_	start_char=30|end_char=31
+8	5-7	5-7	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	_	start_char=32|end_char=33
+9	min	minute	NOUN	NNS	Number=Plur	4	obl	_	start_char=38|end_char=41
+10	.	.	PUNCT	.	_	1	punct	_	start_char=42|end_char=43
+
+# text = preheat oven to 110 C ° / 230 F ° .
+# sentid = 9
+# original_sentid = 846
+1	preheat	preheat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	oven	oven	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=12
+3	to	to	ADP	IN	_	6	case	_	start_char=13|end_char=15
+4	110	110	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	_	start_char=16|end_char=19
+5	C	celsius	ADJ	CD	NumForm=Digit|NumType=Card	6	amod	_	start_char=16|end_char=19
+6	°	degree	NOUN	NOUN	Number=Plur	1	obl	_	start_char=20|end_char=21
+7	/	or	NUM	CD	NumForm=Digit|NumType=Card	10	cc	_	start_char=22|end_char=27
+8	230	230	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	_	start_char=22|end_char=27
+9	F	F	ADJ	JJ	NumForm=Digit|NumType=Card	10	amod	_	start_char=22|end_char=27
+10	°	degree	ADJ	ADJ	Number=Plur	6	conj	_	start_char=28|end_char=29
+11	.	.	PUNCT	.	_	1	punct	_	start_char=32|end_char=33
+
+# text = add to jar along with coconut drink , almond drink , and honey .
+# sentid = 10
+# original_sentid = 151
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	to	to	ADP	IN	_	3	case	_	start_char=4|end_char=6
+3	jar	jar	NOUN	NN	Number=Sing	1	obl	_	start_char=7|end_char=10
+4	along	along	ADP	IN	_	7	case	_	start_char=11|end_char=16
+5	with	with	ADP	IN	_	7	case	_	start_char=17|end_char=21
+6	coconut	coconut	NOUN	NN	Number=Sing	7	compound	_	start_char=22|end_char=29
+7	drink	drink	NOUN	NN	Number=Sing	1	obl	_	start_char=30|end_char=35
+8	,	,	PUNCT	,	_	10	punct	_	start_char=36|end_char=37
+9	almond	almond	NOUN	NN	Number=Sing	10	compound	_	start_char=38|end_char=44
+10	drink	drink	NOUN	NN	Number=Sing	7	conj	_	start_char=45|end_char=50
+11	,	,	PUNCT	,	_	13	punct	_	start_char=51|end_char=52
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=53|end_char=56
+13	honey	honey	NOUN	NN	Number=Sing	7	conj	_	start_char=57|end_char=62
+14	.	.	PUNCT	.	_	1	punct	_	start_char=63|end_char=64
+
+# text = add cabbage , season with salt and pepper , and cook for approx . 10 min .
+# sentid = 11
+# original_sentid = 17
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	cabbage	cabbage	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=11
+3	,	,	PUNCT	,	_	4	punct	_	start_char=12|end_char=13
+4	season	season	VERB	VB	Number=Sing	1	conj	_	start_char=14|end_char=20
+5	with	with	ADP	IN	_	6	case	_	start_char=21|end_char=25
+6	salt	salt	NOUN	NN	Number=Sing	4	obl	_	start_char=26|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	pepper	pepper	NOUN	NN	Number=Sing	6	conj	_	start_char=35|end_char=41
+9	,	,	PUNCT	,	_	11	punct	_	start_char=42|end_char=43
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=44|end_char=47
+11	cook	cook	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=48|end_char=52
+12	for	for	ADP	IN	_	16	case	_	start_char=53|end_char=56
+13	approx	approx	ADV	ADV	Number=Sing	16	advmod	_	start_char=57|end_char=63
+14	.	.	PUNCT	.	_	13	punct	_	start_char=64|end_char=65
+15	10	10	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	_	start_char=66|end_char=68
+16	min	minute	NOUN	NNS	Number=Plur	11	obl:tmod	_	start_char=69|end_char=72
+17	.	.	PUNCT	.	_	1	punct	_	start_char=73|end_char=74
+
+# text = butter baking tins and dust with sugar .
+# sentid = 12
+# original_sentid = 253
+1	butter	butter	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=6
+2	baking	baking	ADJ	JJ	Number=Sing	3	amod	_	start_char=7|end_char=13
+3	tins	tin	NOUN	NNS	Number=Plur	1	obj	_	start_char=14|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	dust	dust	VERB	VB	Number=Sing	1	conj	_	start_char=23|end_char=27
+6	with	with	ADP	IN	_	7	case	_	start_char=28|end_char=32
+7	sugar	sugar	NOUN	NN	Number=Sing	5	obl	_	start_char=33|end_char=38
+8	.	.	PUNCT	.	_	1	punct	_	start_char=39|end_char=40
+
+# text = allow to cool for 5-10 min . before serving .
+# sentid = 13
+# original_sentid = 175
+1	allow	allow	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	to	to	PART	TO	_	3	mark	_	start_char=6|end_char=8
+3	cool	cool	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=9|end_char=13
+4	for	for	ADP	IN	_	6	case	_	start_char=14|end_char=17
+5	5-10	5-10	NUM	CD	NumType=Card	6	nummod	_	start_char=18|end_char=19
+6	min	minute	NOUN	NNS	Number=Plur	3	obl	_	start_char=25|end_char=28
+7	.	.	PUNCT	.	_	6	punct	_	start_char=29|end_char=30
+8	before	before	SCONJ	IN	_	9	mark	_	start_char=31|end_char=37
+9	serving	serve	VERB	VBG	VerbForm=Ger	3	obl	_	start_char=38|end_char=45
+10	.	.	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+
+# text = add soaked gelatin with the water and sugar to a small saucepan .
+# sentid = 14
+# original_sentid = 121
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	soaked	soak	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=4|end_char=10
+3	gelatin	gelatin	NOUN	NN	Number=Sing	1	obj	_	start_char=11|end_char=18
+4	with	with	ADP	IN	_	6	case	_	start_char=19|end_char=23
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=24|end_char=27
+6	water	water	NOUN	NN	Number=Sing	1	obl	_	start_char=28|end_char=33
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=34|end_char=37
+8	sugar	sugar	NOUN	NN	Number=Sing	6	conj	_	start_char=38|end_char=43
+9	to	to	ADP	IN	_	12	case	_	start_char=44|end_char=46
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=47|end_char=48
+11	small	small	ADJ	JJ	Degree=Pos	12	amod	_	start_char=49|end_char=54
+12	saucepan	saucepan	NOUN	NN	Number=Sing	1	obl	_	start_char=55|end_char=63
+13	.	.	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+
+# text = core and dice apples .
+# sentid = 15
+# original_sentid = 295
+1	core	core	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=5|end_char=8
+3	dice	dice	NOUN	NN	Number=Sing	1	conj	_	start_char=9|end_char=13
+4	apples	apple	NOUN	NNS	Number=Plur	1	obj	_	start_char=14|end_char=20
+5	.	.	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+# text = cover and refrigerate overnight .
+# sentid = 16
+# original_sentid = 298
+1	cover	cover	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	refrigerate	refrigerate	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=10|end_char=21
+4	overnight	overnight	ADV	RB	Degree=Pos	3	advmod	_	start_char=22|end_char=31
+5	.	.	PUNCT	.	_	1	punct	_	start_char=32|end_char=33
+
+# text = add chicken breast without the excess marinade and continue to sauté .
+# sentid = 17
+# original_sentid = 31
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	chicken	chicken	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=11
+3	breast	breast	NOUN	NN	Number=Sing	1	obj	_	start_char=12|end_char=18
+4	without	without	ADP	IN	_	7	case	_	start_char=19|end_char=26
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=27|end_char=30
+6	excess	excess	ADJ	JJ	Number=Sing	7	amod	_	start_char=31|end_char=37
+7	marinade	marinade	NOUN	NN	Number=Sing	1	obl	_	start_char=38|end_char=46
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+9	continue	continue	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=51|end_char=59
+10	to	to	PART	TO	_	11	mark	_	start_char=60|end_char=62
+11	sauté	sauté	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=63|end_char=68
+12	.	.	PUNCT	.	_	1	punct	_	start_char=69|end_char=70
+
+# text = finely chop garlic , chili , ginger , and spring onion .
+# sentid = 18
+# original_sentid = 442
+1	finely	finely	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=6
+2	chop	chop	VERB	VB	Number=Sing	0	root	_	start_char=7|end_char=11
+3	garlic	garlic	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=18
+4	,	,	PUNCT	,	_	5	punct	_	start_char=19|end_char=20
+5	chili	chili	NOUN	NN	Number=Sing	3	conj	_	start_char=21|end_char=26
+6	,	,	PUNCT	,	_	7	punct	_	start_char=27|end_char=28
+7	ginger	ginger	NOUN	NN	Number=Sing	3	conj	_	start_char=29|end_char=35
+8	,	,	PUNCT	,	_	11	punct	_	start_char=36|end_char=37
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=38|end_char=41
+10	spring	spring	NOUN	NN	Number=Sing	11	compound	_	start_char=42|end_char=48
+11	onion	onion	NOUN	NN	Number=Sing	3	conj	_	start_char=49|end_char=54
+12	.	.	PUNCT	.	_	2	punct	_	start_char=55|end_char=56
+
+# text = add chopped tomatoes , sundried tomatoes , vegetable broth , and thyme to pot .
+# sentid = 19
+# original_sentid = 37
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	chopped	chop	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=4|end_char=11
+3	tomatoes	tomato	NOUN	NNS	Number=Plur	1	obj	_	start_char=12|end_char=20
+4	,	,	PUNCT	,	_	6	punct	_	start_char=21|end_char=22
+5	sundried	sundry	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=23|end_char=31
+6	tomatoes	tomato	NOUN	NNS	Number=Plur	3	conj	_	start_char=32|end_char=40
+7	,	,	PUNCT	,	_	9	punct	_	start_char=41|end_char=42
+8	vegetable	vegetable	ADJ	JJ	Number=Sing	9	amod	_	start_char=43|end_char=52
+9	broth	broth	NOUN	NN	Number=Sing	3	conj	_	start_char=53|end_char=58
+10	,	,	PUNCT	,	_	12	punct	_	start_char=59|end_char=60
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=61|end_char=64
+12	thyme	thyme	NOUN	NN	Number=Sing	3	conj	_	start_char=65|end_char=70
+13	to	to	ADP	IN	_	14	case	_	start_char=71|end_char=73
+14	pot	pot	NOUN	NN	Number=Sing	1	obl	_	start_char=74|end_char=77
+15	.	.	PUNCT	.	_	1	punct	_	start_char=78|end_char=79
+
+# text = crumble feta on top and add roasted pine nuts .
+# sentid = 20
+# original_sentid = 307
+1	crumble	crumble	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	feta	feta	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=12
+3	on	on	ADP	IN	_	4	case	_	start_char=13|end_char=15
+4	top	top	NOUN	NN	Number=Sing	1	obl	_	start_char=16|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=24|end_char=27
+7	roasted	roast	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	_	start_char=28|end_char=35
+8	pine	pine	NOUN	NN	Number=Sing	9	compound	_	start_char=36|end_char=40
+9	nuts	nut	NOUN	NNS	Number=Plur	6	obj	_	start_char=41|end_char=45
+10	.	.	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+
+# text = gently stir in mint and basil .
+# sentid = 21
+# original_sentid = 520
+1	gently	gently	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=6
+2	stir	stir	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	in	in	ADP	IN	_	4	case	_	start_char=12|end_char=14
+4	mint	mint	NOUN	NN	Number=Sing	2	obl	_	start_char=15|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	basil	basil	NOUN	NN	Number=Sing	4	conj	_	start_char=24|end_char=29
+7	.	.	PUNCT	.	_	2	punct	_	start_char=30|end_char=31
+
+# text = line with baking paper and weigh down with pie weights .
+# sentid = 22
+# original_sentid = 658
+1	line	line	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	with	with	ADP	IN	_	4	case	_	start_char=5|end_char=9
+3	baking	baking	NOUN	NN	Number=Sing	4	compound	_	start_char=10|end_char=16
+4	paper	paper	NOUN	NN	Number=Sing	1	obl	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	weigh	weigh	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=27|end_char=32
+7	down	down	ADP	RP	_	6	compound:prt	_	start_char=33|end_char=37
+8	with	with	ADP	IN	_	10	case	_	start_char=38|end_char=42
+9	pie	pie	ADJ	JJ	Number=Sing	10	amod	_	start_char=43|end_char=46
+10	weights	weight	NOUN	NNS	Number=Plur	6	obl	_	start_char=47|end_char=54
+11	.	.	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+
+# text = add broccoli and continue to sauté .
+# sentid = 23
+# original_sentid = 12
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	broccoli	broccoli	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	continue	continue	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=17|end_char=25
+5	to	to	PART	TO	_	6	mark	_	start_char=26|end_char=28
+6	sauté	sauté	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=29|end_char=34
+7	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+# text = add ginger and garlic and toss together .
+# sentid = 24
+# original_sentid = 69
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	ginger	ginger	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	garlic	garlic	NOUN	NN	Number=Sing	2	conj	_	start_char=15|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	toss	toss	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=26|end_char=30
+7	together	together	ADV	RB	Degree=Pos	6	advmod	_	start_char=31|end_char=39
+8	.	.	PUNCT	.	_	1	punct	_	start_char=40|end_char=41
+
+# text = for the pesto , pick basil , parsley , rosemary , and thyme leaves .
+# sentid = 25
+# original_sentid = 492
+1	for	for	ADP	IN	_	3	case	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	pesto	pesto	NOUN	NN	Number=Sing	5	obl	_	start_char=8|end_char=13
+4	,	,	PUNCT	,	_	5	punct	_	start_char=14|end_char=15
+5	pick	pick	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+6	basil	basil	NOUN	NN	Number=Sing	5	obj	_	start_char=21|end_char=26
+7	,	,	PUNCT	,	_	8	punct	_	start_char=27|end_char=28
+8	parsley	parsley	NOUN	NN	Number=Sing	6	conj	_	start_char=29|end_char=36
+9	,	,	PUNCT	,	_	10	punct	_	start_char=37|end_char=38
+10	rosemary	rosemary	NOUN	NN	Number=Sing	6	conj	_	start_char=39|end_char=47
+11	,	,	PUNCT	,	_	14	punct	_	start_char=48|end_char=49
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=50|end_char=53
+13	thyme	thyme	NOUN	NN	Number=Sing	14	compound	_	start_char=54|end_char=59
+14	leaves	leave	NOUN	NNS	Number=Plur	6	conj	_	start_char=60|end_char=66
+15	.	.	PUNCT	.	_	5	punct	_	start_char=67|end_char=68
+
+# text = next , cut pumpkin and bell pepper into cubes .
+# sentid = 26
+# original_sentid = 717
+1	next	next	ADV	RB	Degree=Pos	3	advmod	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	3	punct	_	start_char=5|end_char=6
+3	cut	cut	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+4	pumpkin	pumpkin	NOUN	NN	Number=Sing	3	obj	_	start_char=11|end_char=18
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=19|end_char=22
+6	bell	bell	NOUN	NN	Number=Sing	7	compound	_	start_char=23|end_char=27
+7	pepper	pepper	NOUN	NN	Number=Sing	3	obj	_	start_char=28|end_char=34
+8	into	into	ADP	IN	_	9	case	_	start_char=35|end_char=39
+9	cubes	cube	NOUN	NNS	Number=Plur	3	obl	_	start_char=40|end_char=45
+10	.	.	PUNCT	.	_	3	punct	_	start_char=46|end_char=47
+
+# text = enjoy with a slice of crusty bread !
+# sentid = 27
+# original_sentid = 424
+1	enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	with	with	ADP	IN	_	4	case	_	start_char=6|end_char=10
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=11|end_char=12
+4	slice	slice	NOUN	NN	Number=Sing	1	obl	_	start_char=13|end_char=18
+5	of	of	ADP	IN	_	7	case	_	start_char=19|end_char=21
+6	crusty	crusty	ADJ	JJ	Degree=Pos	7	amod	_	start_char=22|end_char=28
+7	bread	bread	NOUN	NN	Number=Sing	4	nmod	_	start_char=29|end_char=34
+8	!	!	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+# text = add in chopped herbs .
+# sentid = 28
+# original_sentid = 75
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	in	in	ADP	IN	_	1	compound	_	start_char=4|end_char=6
+3	chopped	chop	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=7|end_char=14
+4	herbs	herb	NOUN	NNS	Number=Plur	1	obj	_	start_char=15|end_char=20
+5	.	.	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+# text = add butter and stir until well mixed .
+# sentid = 29
+# original_sentid = 14
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	butter	butter	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	stir	stir	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=15|end_char=19
+5	until	until	SCONJ	IN	_	7	mark	_	start_char=20|end_char=25
+6	well	well	ADV	RB	Degree=Pos	7	advmod	_	start_char=26|end_char=30
+7	mixed	mix	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	start_char=31|end_char=36
+8	.	.	PUNCT	.	_	1	punct	_	start_char=37|end_char=38
+
+# text = add grand marnier , a part of the olive oil , sugar , and mint .
+# sentid = 30
+# original_sentid = 71
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	grand	grand	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=9
+3	marnier	marnier	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=17
+4	,	,	PUNCT	,	_	6	punct	_	start_char=18|end_char=19
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=20|end_char=21
+6	part	part	NOUN	NN	Number=Sing	3	conj	_	start_char=22|end_char=26
+7	of	of	ADP	IN	_	10	case	_	start_char=27|end_char=29
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=30|end_char=33
+9	olive	olive	NOUN	NN	Number=Sing	10	compound	_	start_char=34|end_char=39
+10	oil	oil	NOUN	NN	Number=Sing	6	nmod	_	start_char=40|end_char=43
+11	,	,	PUNCT	,	_	12	punct	_	start_char=44|end_char=45
+12	sugar	sugar	NOUN	NN	Number=Sing	3	conj	_	start_char=46|end_char=51
+13	,	,	PUNCT	,	_	15	punct	_	start_char=52|end_char=53
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=54|end_char=57
+15	mint	mint	NOUN	NN	Number=Sing	3	conj	_	start_char=58|end_char=62
+16	.	.	PUNCT	.	_	1	punct	_	start_char=63|end_char=64
+
+# text = bake in a preheated oven at 160 C ° / 320 ° F for approx . 7 min .
+# sentid = 31
+# original_sentid = 194
+1	bake	bake	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	in	in	ADP	IN	_	5	case	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+4	preheated	preheate	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	start_char=10|end_char=19
+5	oven	oven	NOUN	NN	Number=Sing	1	obl	_	start_char=20|end_char=24
+6	at	at	ADP	IN	_	9	case	_	start_char=25|end_char=27
+7	160	160	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	_	start_char=28|end_char=31
+8	C	Celsius	ADJ	JJ	NumForm=Digit|NumType=Card	9	amod	_	start_char=28|end_char=31
+9	°	°	NOUN	NNS	Number=Plur	1	obl	_	start_char=32|end_char=33
+10	/	/	CCONJ	CC	NumForm=Digit|NumType=Card	12	cc	_	start_char=34|end_char=39
+11	320	320	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	_	start_char=34|end_char=39
+12	°	°	NOUN	NNS	Number=Plur	9	conj	_	start_char=40|end_char=41
+13	F	Fahrenheit	ADJ	JJ	Number=Sing	12	amod	_	start_char=42|end_char=43
+14	for	for	ADP	IN	_	18	case	_	start_char=44|end_char=47
+15	approx	approx	ADV	ADV	NumForm=Digit|NumType=Card	18	advmod	_	start_char=48|end_char=54
+16	.	.	PUNCT	.	_	15	punct	_	start_char=55|end_char=56
+17	7	7	NUM	CD	NumForm=Digit|NumType=Card	18	nummod	_	start_char=57|end_char=58
+18	min	minute	NOUN	NNS	Number=Plur	1	advcl	_	start_char=59|end_char=62
+19	.	.	PUNCT	.	_	1	punct	_	start_char=63|end_char=64
+
+# text = chop onion and mince garlic .
+# sentid = 32
+# original_sentid = 268
+1	chop	chop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	onion	onion	NOUN	NN	Number=Sing	1	obj	_	start_char=5|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	mince	mince	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=15|end_char=20
+5	garlic	garlic	NOUN	NN	Number=Sing	4	obj	_	start_char=21|end_char=27
+6	.	.	PUNCT	.	_	1	punct	_	start_char=28|end_char=29
+
+# text = season to taste with lemon juice .
+# sentid = 33
+# original_sentid = 974
+1	season	season	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=6
+2	to	to	PART	TO	_	3	case	_	start_char=7|end_char=9
+3	taste	taste	NOUN	NN	VerbForm=Inf	1	obl	_	start_char=10|end_char=15
+4	with	with	ADP	IN	_	6	case	_	start_char=16|end_char=20
+5	lemon	lemon	NOUN	NN	Number=Sing	6	compound	_	start_char=21|end_char=26
+6	juice	juice	NOUN	NN	Number=Sing	1	obl	_	start_char=27|end_char=32
+7	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+
+# text = distribute cookie crumbs across serving dishes .
+# sentid = 34
+# original_sentid = 382
+1	distribute	distribute	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=10
+2	cookie	cookie	NOUN	NN	Number=Sing	3	compound	_	start_char=11|end_char=17
+3	crumbs	crumb	NOUN	NNS	Number=Plur	1	obj	_	start_char=18|end_char=24
+4	across	across	ADP	IN	_	6	case	_	start_char=25|end_char=31
+5	serving	serve	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=32|end_char=39
+6	dishes	dish	NOUN	NNS	Number=Plur	1	obl	_	start_char=40|end_char=46
+7	.	.	PUNCT	.	_	1	punct	_	start_char=47|end_char=48
+
+# text = put the vegetables and the chicken back into the pan .
+# sentid = 35
+# original_sentid = 877
+1	put	put	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	vegetables	vegetable	NOUN	NNS	Number=Plur	1	obj	_	start_char=8|end_char=18
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=23|end_char=26
+6	chicken	chicken	NOUN	NN	Number=Sing	3	conj	_	start_char=27|end_char=34
+7	back	back	ADV	RB	Degree=Pos	1	advmod	_	start_char=35|end_char=39
+8	into	into	ADP	IN	_	10	case	_	start_char=40|end_char=44
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=45|end_char=48
+10	pan	pan	NOUN	NN	Number=Sing	1	obl	_	start_char=49|end_char=52
+11	.	.	PUNCT	.	_	1	punct	_	start_char=53|end_char=54
+
+# text = add tomato paste and continue to sauté for an additional 1-2 min .
+# sentid = 36
+# original_sentid = 153
+1	add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	tomato	tomato	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=10
+3	paste	paste	NOUN	NN	Number=Sing	1	obj	_	start_char=11|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	continue	continue	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=21|end_char=29
+6	to	to	PART	TO	_	7	mark	_	start_char=30|end_char=32
+7	sauté	sauté	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=33|end_char=38
+8	for	for	ADP	IN	_	12	case	_	start_char=39|end_char=42
+9	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=43|end_char=45
+10	additional	additional	ADJ	JJ	Degree=Pos	12	amod	_	start_char=46|end_char=56
+11	1-2	1-2	NUM	CD	NumType=Card	12	nummod	_	start_char=57|end_char=58
+12	min	minute	NOUN	NNS	Number=Sing	7	advcl	_	start_char=63|end_char=66
+13	.	.	PUNCT	.	_	1	punct	_	start_char=67|end_char=68
+
+# text = in a large bowl , mix together ground beef , mustard , paprika powder , salt , and pepper .
+# sentid = 37
+# original_sentid = 589
+1	in	in	ADP	IN	_	4	case	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=3|end_char=4
+3	large	large	ADJ	JJ	Degree=Pos	4	amod	_	start_char=5|end_char=10
+4	bowl	bowl	NOUN	NN	Number=Sing	6	obl	_	start_char=11|end_char=15
+5	,	,	PUNCT	,	_	6	punct	_	start_char=16|end_char=17
+6	mix	mix	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=18|end_char=21
+7	together	together	ADP	RP	_	6	compound:prt	_	start_char=22|end_char=30
+8	ground	ground	NOUN	NN	Number=Sing	9	compound	_	start_char=31|end_char=37
+9	beef	beef	NOUN	NN	Number=Sing	6	obj	_	start_char=38|end_char=42
+10	,	,	PUNCT	,	_	11	punct	_	start_char=43|end_char=44
+11	mustard	mustard	NOUN	NN	Number=Sing	9	conj	_	start_char=45|end_char=52
+12	,	,	PUNCT	,	_	14	punct	_	start_char=53|end_char=54
+13	paprika	paprika	NOUN	NN	Number=Sing	14	compound	_	start_char=55|end_char=62
+14	powder	powder	NOUN	NN	Number=Sing	9	conj	_	start_char=63|end_char=69
+15	,	,	PUNCT	,	_	16	punct	_	start_char=70|end_char=71
+16	salt	salt	NOUN	NN	Number=Sing	9	conj	_	start_char=72|end_char=76
+17	,	,	PUNCT	,	_	19	punct	_	start_char=77|end_char=78
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=79|end_char=82
+19	pepper	pepper	NOUN	NN	Number=Sing	9	conj	_	start_char=83|end_char=89
+20	.	.	PUNCT	.	_	6	punct	_	start_char=90|end_char=91
+
+# text = add the pumpkin and continue to sauté , seasoning with a pinch of sugar , salt , and pepper .
+# sentid = 38
+# original_sentid = 140
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	pumpkin	pumpkin	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	continue	continue	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=20|end_char=28
+6	to	to	PART	TO	_	7	mark	_	start_char=29|end_char=31
+7	sauté	sauté	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=32|end_char=37
+8	,	,	PUNCT	,	_	9	punct	_	start_char=38|end_char=39
+9	seasoning	season	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=40|end_char=49
+10	with	with	ADP	IN	_	12	case	_	start_char=50|end_char=54
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=55|end_char=56
+12	pinch	pinch	NOUN	NN	Number=Sing	9	obl	_	start_char=57|end_char=62
+13	of	of	ADP	IN	_	14	case	_	start_char=63|end_char=65
+14	sugar	sugar	NOUN	NN	Number=Sing	12	nmod	_	start_char=66|end_char=71
+15	,	,	PUNCT	,	_	16	punct	_	start_char=72|end_char=73
+16	salt	salt	NOUN	NN	Number=Sing	14	conj	_	start_char=74|end_char=78
+17	,	,	PUNCT	,	_	19	punct	_	start_char=79|end_char=80
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=81|end_char=84
+19	pepper	pepper	NOUN	NN	Number=Sing	14	conj	_	start_char=85|end_char=91
+20	.	.	PUNCT	.	_	1	punct	_	start_char=92|end_char=93
+
+# text = carefully run knife around the edges of the baking form .
+# sentid = 39
+# original_sentid = 258
+1	carefully	carefully	ADV	RB	_	2	advmod	_	start_char=0|end_char=9
+2	run	run	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=10|end_char=13
+3	knife	knife	NOUN	NN	Number=Sing	2	obj	_	start_char=14|end_char=19
+4	around	around	ADP	IN	_	6	case	_	start_char=20|end_char=26
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=27|end_char=30
+6	edges	edge	NOUN	NNS	Number=Plur	2	obl	_	start_char=31|end_char=36
+7	of	of	ADP	IN	_	10	case	_	start_char=37|end_char=39
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=40|end_char=43
+9	baking	baking	ADJ	JJ	Number=Sing	10	amod	_	start_char=44|end_char=50
+10	form	form	NOUN	NN	Number=Sing	6	nmod	_	start_char=51|end_char=55
+11	.	.	PUNCT	.	_	2	punct	_	start_char=56|end_char=57
+
+# text = in a large bowl , season tomatoes with olive oil , salt , pepper , and lemon juice .
+# sentid = 40
+# original_sentid = 590
+1	in	in	ADP	IN	_	4	case	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=3|end_char=4
+3	large	large	ADJ	JJ	Degree=Pos	4	amod	_	start_char=5|end_char=10
+4	bowl	bowl	NOUN	NN	Number=Sing	6	obl	_	start_char=11|end_char=15
+5	,	,	PUNCT	,	_	6	punct	_	start_char=16|end_char=17
+6	season	season	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=18|end_char=24
+7	tomatoes	tomato	NOUN	NNS	Number=Plur	6	obj	_	start_char=25|end_char=33
+8	with	with	ADP	IN	_	10	case	_	start_char=34|end_char=38
+9	olive	olive	NOUN	NN	Number=Sing	10	compound	_	start_char=39|end_char=44
+10	oil	oil	NOUN	NN	Number=Sing	6	obl	_	start_char=45|end_char=48
+11	,	,	PUNCT	,	_	12	punct	_	start_char=49|end_char=50
+12	salt	salt	NOUN	NN	Number=Sing	10	conj	_	start_char=51|end_char=55
+13	,	,	PUNCT	,	_	14	punct	_	start_char=56|end_char=57
+14	pepper	pepper	NOUN	NN	Number=Sing	10	conj	_	start_char=58|end_char=64
+15	,	,	PUNCT	,	_	18	punct	_	start_char=65|end_char=66
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=67|end_char=70
+17	lemon	lemon	ADJ	JJ	Number=Sing	18	amod	_	start_char=71|end_char=76
+18	juice	juice	NOUN	NN	Number=Sing	10	conj	_	start_char=77|end_char=82
+19	.	.	PUNCT	.	_	6	punct	_	start_char=83|end_char=84
+
+# text = let cool slightly before serving and enjoy !
+# sentid = 41
+# original_sentid = 650
+1	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	cool	cool	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=4|end_char=8
+3	slightly	slightly	ADV	RB	_	2	advmod	_	start_char=9|end_char=17
+4	before	before	SCONJ	IN	_	5	mark	_	start_char=18|end_char=24
+5	serving	serve	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=25|end_char=32
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=33|end_char=36
+7	enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=37|end_char=42
+8	!	!	PUNCT	.	_	1	punct	_	start_char=43|end_char=44
+
+# text = add yogurt and pulse until fully incorporated .
+# sentid = 42
+# original_sentid = 168
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	yogurt	yogurt	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	pulse	pulse	VERB	VB	Number=Sing	1	conj	_	start_char=15|end_char=20
+5	until	until	SCONJ	IN	_	7	mark	_	start_char=21|end_char=26
+6	fully	fully	ADV	RB	Degree=Pos	7	advmod	_	start_char=27|end_char=32
+7	incorporated	incorporate	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	start_char=33|end_char=45
+8	.	.	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+
+# text = add flour and salt and beat until smooth .
+# sentid = 43
+# original_sentid = 65
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	flour	flour	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=9
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=10|end_char=13
+4	salt	salt	NOUN	NN	Number=Sing	2	conj	_	start_char=14|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	beat	beat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=23|end_char=27
+7	until	until	ADP	IN	_	8	mark	_	start_char=28|end_char=33
+8	smooth	smooth	ADJ	JJ	Degree=Pos	6	obl	_	start_char=34|end_char=40
+9	.	.	PUNCT	.	_	1	punct	_	start_char=41|end_char=42
+
+# text = garnish with parmesan and enjoy immediately !
+# sentid = 44
+# original_sentid = 515
+1	garnish	garnish	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	with	with	ADP	IN	_	3	case	_	start_char=8|end_char=12
+3	parmesan	parmesan	NOUN	NN	Number=Sing	1	obl	_	start_char=13|end_char=21
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=22|end_char=25
+5	enjoy	enjoy	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=26|end_char=31
+6	immediately	immediately	ADV	RB	Degree=Pos	5	advmod	_	start_char=32|end_char=43
+7	!	!	PUNCT	.	_	1	punct	_	start_char=44|end_char=45
+
+# text = add pineapple , ginger , carrot juice , orange juice , ice cubes , and honey to blender .
+# sentid = 45
+# original_sentid = 105
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	pineapple	pineapple	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=13
+3	,	,	PUNCT	,	_	4	punct	_	start_char=14|end_char=15
+4	ginger	ginger	NOUN	NN	Number=Sing	2	conj	_	start_char=16|end_char=22
+5	,	,	PUNCT	,	_	7	punct	_	start_char=23|end_char=24
+6	carrot	carrot	NOUN	NN	Number=Sing	7	compound	_	start_char=25|end_char=31
+7	juice	juice	NOUN	NN	Number=Sing	2	conj	_	start_char=32|end_char=37
+8	,	,	PUNCT	,	_	10	punct	_	start_char=38|end_char=39
+9	orange	orange	NOUN	NN	Degree=Pos	10	compound	_	start_char=40|end_char=46
+10	juice	juice	NOUN	NN	Number=Sing	2	conj	_	start_char=47|end_char=52
+11	,	,	PUNCT	,	_	13	punct	_	start_char=53|end_char=54
+12	ice	ice	NOUN	NN	Number=Sing	13	compound	_	start_char=55|end_char=58
+13	cubes	cube	NOUN	NNS	Number=Plur	2	conj	_	start_char=59|end_char=64
+14	,	,	PUNCT	,	_	16	punct	_	start_char=65|end_char=66
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=67|end_char=70
+16	honey	honey	NOUN	NN	Number=Sing	2	conj	_	start_char=71|end_char=76
+17	to	to	ADP	IN	_	18	case	_	start_char=77|end_char=79
+18	blender	blender	NOUN	NN	Number=Sing	1	obl	_	start_char=80|end_char=87
+19	.	.	PUNCT	.	_	1	punct	_	start_char=88|end_char=89
+
+# text = allow to reduce on a low heat for approx . 15-20 min .
+# sentid = 46
+# original_sentid = 176
+1	allow	allow	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	to	to	PART	TO	_	3	mark	_	start_char=6|end_char=8
+3	reduce	reduce	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=9|end_char=15
+4	on	on	ADP	IN	_	7	mark	_	start_char=16|end_char=18
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=19|end_char=20
+6	low	low	ADJ	JJ	Degree=Pos	7	amod	_	start_char=21|end_char=24
+7	heat	heat	NOUN	NN	Number=Sing	1	obl	_	start_char=25|end_char=29
+8	for	for	ADP	IN	_	12	mark	_	start_char=30|end_char=33
+9	approx	approx	ADV	ADV	Number=Sing	11	advmod	_	start_char=34|end_char=40
+10	.	.	PUNCT	.	_	9	punct	_	start_char=41|end_char=42
+11	15-20	15-20	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	_	start_char=43|end_char=45
+12	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=51|end_char=54
+13	.	.	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+
+# text = add button mushrooms and dried mushrooms and continue sauteing for approx . 4-6 min .
+# sentid = 47
+# original_sentid = 16
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	button	button	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=10
+3	mushrooms	mushroom	NOUN	NNS	Number=Plur	1	obj	_	start_char=11|end_char=20
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+5	dried	dried	ADJ	JJ	Tense=Past|VerbForm=Part	6	compound	_	start_char=25|end_char=30
+6	mushrooms	mushroom	NOUN	NNS	Number=Plur	3	conj	_	start_char=31|end_char=40
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=41|end_char=44
+8	continue	continue	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=45|end_char=53
+9	sauteing	saute	VERB	VBG	VerbForm=Ger	8	xcomp	_	start_char=54|end_char=62
+10	for	for	ADP	IN	_	14	case	_	start_char=63|end_char=66
+11	approx	approx	ADV	ADV	Number=Sing	13	advmod	_	start_char=67|end_char=73
+12	.	.	PUNCT	.	_	11	punct	_	start_char=74|end_char=75
+13	4-6	4-6	NUM	CD	NumForm=Digit|NumType=Card	14	nummod	_	start_char=76|end_char=77
+14	min	min	NUM	CD	NumForm=Digit|NumType=Card	9	obl	_	start_char=80|end_char=84
+15	.	.	PUNCT	.	_	1	punct	_	start_char=85|end_char=86
+
+# text = beat sugar , eggs , egg yolks , and salt in a large bowl with a mixer or whisk .
+# sentid = 48
+# original_sentid = 212
+1	beat	beat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	sugar	sugar	NOUN	NN	Number=Sing	1	obj	_	start_char=5|end_char=10
+3	,	,	PUNCT	,	_	4	punct	_	start_char=11|end_char=12
+4	eggs	egg	NOUN	NNS	Number=Plur	2	conj	_	start_char=13|end_char=17
+5	,	,	PUNCT	,	_	7	punct	_	start_char=18|end_char=19
+6	egg	egg	NOUN	NN	Number=Sing	7	compound	_	start_char=20|end_char=23
+7	yolks	yolk	NOUN	NNS	Number=Plur	2	conj	_	start_char=24|end_char=29
+8	,	,	PUNCT	,	_	10	punct	_	start_char=30|end_char=31
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=32|end_char=35
+10	salt	salt	NOUN	NN	Number=Sing	2	conj	_	start_char=36|end_char=40
+11	in	in	ADP	IN	_	14	case	_	start_char=41|end_char=43
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=44|end_char=45
+13	large	large	ADJ	JJ	Degree=Pos	14	amod	_	start_char=46|end_char=51
+14	bowl	bowl	NOUN	NN	Number=Sing	1	obl	_	start_char=52|end_char=56
+15	with	with	ADP	IN	_	17	case	_	start_char=57|end_char=61
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=62|end_char=63
+17	mixer	mixer	NOUN	NN	Number=Sing	1	obl	_	start_char=64|end_char=69
+18	or	or	CCONJ	CC	_	19	cc	_	start_char=70|end_char=72
+19	whisk	whisk	NOUN	NN	Number=Sing	17	conj	_	start_char=73|end_char=78
+20	.	.	PUNCT	.	_	1	punct	_	start_char=79|end_char=80
+
+# text = allow to cool and enjoy !
+# sentid = 49
+# original_sentid = 174
+1	allow	allow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	to	to	PART	TO	_	3	mark	_	start_char=6|end_char=8
+3	cool	cool	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=9|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	enjoy	enjoy	VERB	VB	VerbForm=Inf	1	conj	_	start_char=18|end_char=23
+6	!	!	PUNCT	.	_	1	punct	_	start_char=24|end_char=25
+
+# text = chop and set aside .
+# sentid = 50
+# original_sentid = 262
+1	chop	chop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=5|end_char=8
+3	set	set	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=9|end_char=12
+4	aside	aside	ADP	RP	_	3	compound:prt	_	start_char=13|end_char=18
+5	.	.	PUNCT	.	_	1	punct	_	start_char=19|end_char=20
+
+# text = enjoy served warm .
+# sentid = 51
+# original_sentid = 417
+1	enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	served	serve	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	start_char=6|end_char=12
+3	warm	warm	ADJ	JJ	Degree=Pos	2	advmod	_	start_char=13|end_char=17
+4	.	.	PUNCT	.	_	1	punct	_	start_char=18|end_char=19
+
+# text = puree until smooth .
+# sentid = 52
+# original_sentid = 870
+1	puree	puree	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	until	until	ADP	IN	_	3	case	_	start_char=6|end_char=11
+3	smooth	smooth	ADJ	JJ	Degree=Pos	1	obl	_	start_char=12|end_char=18
+4	.	.	PUNCT	.	_	1	punct	_	start_char=19|end_char=20
+
+# text = peel and roughly chop garlic .
+# sentid = 53
+# original_sentid = 773
+1	peel	peel	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=5|end_char=8
+3	roughly	roughly	ADV	RB	Degree=Pos	4	advmod	_	start_char=9|end_char=16
+4	chop	chop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=17|end_char=21
+5	garlic	garlic	NOUN	NN	Number=Sing	1	obj	_	start_char=22|end_char=28
+6	.	.	PUNCT	.	_	1	punct	_	start_char=29|end_char=30
+
+# text = drain , save some of the pasta water and set aside .
+# sentid = 54
+# original_sentid = 388
+1	drain	drain	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	3	punct	_	start_char=6|end_char=7
+3	save	save	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=8|end_char=12
+4	some	some	DET	DT	_	3	obj	_	start_char=13|end_char=17
+5	of	of	ADP	IN	_	8	case	_	start_char=18|end_char=20
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=21|end_char=24
+7	pasta	pasta	NOUN	NN	Number=Sing	8	compound	_	start_char=25|end_char=30
+8	water	water	NOUN	NN	Number=Sing	4	nmod	_	start_char=31|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	set	set	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=41|end_char=44
+11	aside	aside	ADP	RP	_	10	compound:prt	_	start_char=45|end_char=50
+12	.	.	PUNCT	.	_	1	punct	_	start_char=51|end_char=52
+
+# text = finely chop hazelnuts and set aside .
+# sentid = 55
+# original_sentid = 445
+1	finely	finely	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	chop	chop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	hazelnuts	hazelnut	NOUN	NNS	Number=Plur	2	obj	_	start_char=12|end_char=21
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=22|end_char=25
+5	set	set	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=26|end_char=29
+6	aside	aside	ADP	RP	_	5	compound:prt	_	start_char=30|end_char=35
+7	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+# text = return to heat and add the miso paste and lime juice .
+# sentid = 56
+# original_sentid = 922
+1	return	return	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=6
+2	to	to	ADP	IN	_	3	case	_	start_char=7|end_char=9
+3	heat	heat	NOUN	NN	Number=Sing	1	obl	_	start_char=10|end_char=14
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=15|end_char=18
+5	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=19|end_char=22
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=23|end_char=26
+7	miso	miso	NOUN	NN	Number=Sing	8	compound	_	start_char=27|end_char=31
+8	paste	paste	NOUN	NN	Number=Sing	5	obj	_	start_char=32|end_char=37
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=38|end_char=41
+10	lime	lime	ADJ	JJ	Number=Sing	11	amod	_	start_char=42|end_char=46
+11	juice	juice	NOUN	NN	Number=Sing	8	conj	_	start_char=47|end_char=52
+12	.	.	PUNCT	.	_	1	punct	_	start_char=53|end_char=54
+
+# text = add strawberries to one half and blackberries to the other .
+# sentid = 57
+# original_sentid = 127
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	strawberries	strawberry	NOUN	NNS	Number=Plur	1	obj	_	start_char=4|end_char=16
+3	to	to	ADP	IN	_	5	case	_	start_char=17|end_char=19
+4	one	one	NUM	CD	NumType=Card	5	nummod	_	start_char=20|end_char=23
+5	half	half	NOUN	NN	Number=Sing	1	obl	_	start_char=24|end_char=28
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=29|end_char=32
+7	blackberries	blackberry	NOUN	NNS	Number=Plur	1	conj	_	start_char=33|end_char=45
+8	to	to	ADP	IN	_	10	case	_	start_char=46|end_char=48
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=49|end_char=52
+10	other	other	ADJ	JJ	Degree=Pos	7	obl	_	start_char=53|end_char=58
+11	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+
+# text = fold in chopped parsley and season with salt and pepper .
+# sentid = 58
+# original_sentid = 477
+1	fold	fold	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	in	in	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	chopped	chop	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=8|end_char=15
+4	parsley	parsley	NOUN	NN	Number=Sing	1	obl	_	start_char=16|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	season	season	NOUN	NN	Number=Sing	4	conj	_	start_char=28|end_char=34
+7	with	with	ADP	IN	_	8	case	_	start_char=35|end_char=39
+8	salt	salt	NOUN	NN	Number=Sing	1	obl	_	start_char=40|end_char=44
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+10	pepper	pepper	NOUN	NN	Number=Sing	8	conj	_	start_char=49|end_char=55
+11	.	.	PUNCT	.	_	1	punct	_	start_char=56|end_char=57
+
+# text = for the spread , mix the soy yogurt with mint strips , lime juice , chili powder , sugar , and salt and pepper .
+# sentid = 59
+# original_sentid = 497
+1	for	for	ADP	IN	_	3	case	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	spread	spread	NOUN	NN	Number=Sing	5	obl	_	start_char=8|end_char=14
+4	,	,	PUNCT	,	_	5	punct	_	start_char=15|end_char=16
+5	mix	mix	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=17|end_char=20
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=21|end_char=24
+7	soy	soy	NOUN	NN	Number=Sing	8	compound	_	start_char=25|end_char=28
+8	yogurt	yogurt	NOUN	NN	Number=Sing	5	obj	_	start_char=29|end_char=35
+9	with	with	ADP	IN	_	11	case	_	start_char=36|end_char=40
+10	mint	mint	ADJ	JJ	Number=Sing	11	amod	_	start_char=41|end_char=45
+11	strips	strip	NOUN	NNS	Number=Plur	5	obl	_	start_char=46|end_char=52
+12	,	,	PUNCT	,	_	14	punct	_	start_char=53|end_char=54
+13	lime	lime	ADJ	JJ	Number=Sing	14	amod	_	start_char=55|end_char=59
+14	juice	juice	NOUN	NN	Number=Sing	11	conj	_	start_char=60|end_char=65
+15	,	,	PUNCT	,	_	17	punct	_	start_char=66|end_char=67
+16	chili	chili	ADJ	JJ	Number=Sing	17	amod	_	start_char=68|end_char=73
+17	powder	powder	NOUN	NN	Number=Sing	11	conj	_	start_char=74|end_char=80
+18	,	,	PUNCT	,	_	19	punct	_	start_char=81|end_char=82
+19	sugar	sugar	NOUN	NN	Number=Sing	11	conj	_	start_char=83|end_char=88
+20	,	,	PUNCT	,	_	22	punct	_	start_char=89|end_char=90
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=91|end_char=94
+22	salt	salt	NOUN	NN	Number=Sing	11	conj	_	start_char=95|end_char=99
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=100|end_char=103
+24	pepper	pepper	NOUN	NN	Number=Sing	11	conj	_	start_char=104|end_char=110
+25	.	.	PUNCT	.	_	5	punct	_	start_char=111|end_char=112
+
+# text = meanwhile , cut mozzarella and tomato into thin slices .
+# sentid = 60
+# original_sentid = 669
+1	meanwhile	meanwhile	ADV	RB	_	3	advmod	_	start_char=0|end_char=9
+2	,	,	PUNCT	,	_	3	punct	_	start_char=10|end_char=11
+3	cut	cut	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=12|end_char=15
+4	mozzarella	mozzarella	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	tomato	tomato	NOUN	NN	Number=Sing	4	conj	_	start_char=31|end_char=37
+7	into	into	ADP	IN	_	9	case	_	start_char=38|end_char=42
+8	thin	thin	ADJ	JJ	Degree=Pos	9	amod	_	start_char=43|end_char=47
+9	slices	slice	NOUN	NNS	Number=Plur	3	obl	_	start_char=48|end_char=54
+10	.	.	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+
+# text = now , add the peas and bring to a boil .
+# sentid = 61
+# original_sentid = 734
+1	now	now	ADV	RB	_	3	advmod	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=4|end_char=5
+3	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=6|end_char=9
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=10|end_char=13
+5	peas	pea	NOUN	NNS	Number=Plur	3	obj	_	start_char=14|end_char=18
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=19|end_char=22
+7	bring	bring	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	3	conj	_	start_char=23|end_char=28
+8	to	to	ADP	IN	_	10	case	_	start_char=29|end_char=31
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=32|end_char=33
+10	boil	boil	NOUN	NN	Number=Sing	7	obl	_	start_char=34|end_char=38
+11	.	.	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+
+# text = add cold coconut water , soaked berries , coconut flakes and ice cubes to blender .
+# sentid = 62
+# original_sentid = 40
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	cold	cold	ADJ	JJ	Degree=Pos	4	amod	_	start_char=4|end_char=8
+3	coconut	coconut	NOUN	NN	Number=Sing	4	amod	_	start_char=9|end_char=16
+4	water	water	NOUN	NN	Number=Sing	1	obj	_	start_char=17|end_char=22
+5	,	,	PUNCT	,	_	7	punct	_	start_char=23|end_char=24
+6	soaked	soak	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	start_char=25|end_char=31
+7	berries	berry	NOUN	NNS	Number=Plur	4	conj	_	start_char=32|end_char=39
+8	,	,	PUNCT	,	_	10	punct	_	start_char=40|end_char=41
+9	coconut	coconut	NOUN	NN	Number=Sing	10	amod	_	start_char=42|end_char=49
+10	flakes	flake	NOUN	NNS	Number=Plur	4	conj	_	start_char=50|end_char=56
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=57|end_char=60
+12	ice	ice	NOUN	NN	Number=Sing	13	compound	_	start_char=61|end_char=64
+13	cubes	cube	NOUN	NNS	Number=Plur	4	conj	_	start_char=65|end_char=70
+14	to	to	ADP	IN	_	15	case	_	start_char=71|end_char=73
+15	blender	blender	NOUN	NN	Number=Sing	1	obl	_	start_char=74|end_char=81
+16	.	.	PUNCT	.	_	1	punct	_	start_char=82|end_char=83
+
+# text = bring sauce to a simmer for approx . 5-7 min . until thickened .
+# sentid = 63
+# original_sentid = 241
+1	bring	bring	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	sauce	sauce	NOUN	NN	Number=Sing	1	obj	_	start_char=6|end_char=11
+3	to	to	ADP	IN	_	5	case	_	start_char=12|end_char=14
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=15|end_char=16
+5	simmer	simmer	NOUN	NN	Number=Sing	1	obl	_	start_char=17|end_char=23
+6	for	for	ADP	IN	_	10	case	_	start_char=24|end_char=27
+7	approx	approx	ADV	ADV	Number=Sing	9	advmod	_	start_char=28|end_char=34
+8	.	.	PUNCT	.	_	7	punct	_	start_char=35|end_char=36
+9	5-7	5-7	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	_	start_char=37|end_char=38
+10	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=43|end_char=46
+11	.	.	PUNCT	.	_	10	punct	_	start_char=47|end_char=48
+12	until	until	SCONJ	IN	_	13	mark	_	start_char=49|end_char=54
+13	thickened	thicken	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	start_char=55|end_char=64
+14	.	.	PUNCT	.	_	1	punct	_	start_char=65|end_char=66
+
+# text = lay it over the tart pan and tuck the excess dough in around the edges .
+# sentid = 64
+# original_sentid = 642
+1	lay	lay	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=4|end_char=6
+3	over	over	ADP	IN	_	6	case	_	start_char=7|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=12|end_char=15
+5	tart	tart	NOUN	NN	Number=Sing	6	compound	_	start_char=16|end_char=20
+6	pan	pan	NOUN	NN	Number=Sing	1	obl	_	start_char=21|end_char=24
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=25|end_char=28
+8	tuck	tuck	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=29|end_char=33
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=34|end_char=37
+10	excess	excess	NOUN	NN	Number=Sing	11	compound	_	start_char=38|end_char=44
+11	dough	dough	NOUN	NN	Number=Sing	8	obj	_	start_char=45|end_char=50
+12	in	in	ADP	RP	_	8	compound:prt	_	start_char=51|end_char=53
+13	around	around	ADP	IN	_	15	case	_	start_char=54|end_char=60
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=61|end_char=64
+15	edges	edge	NOUN	NNS	Number=Plur	8	obl	_	start_char=65|end_char=70
+16	.	.	PUNCT	.	_	1	punct	_	start_char=71|end_char=72
+
+# text = peel and pit avocado and cut into bite - sized pieces .
+# sentid = 65
+# original_sentid = 771
+1	peel	peel	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=5|end_char=8
+3	pit	pit	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=9|end_char=12
+4	avocado	avocado	NOUN	NN	Number=Sing	3	obj	_	start_char=13|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	cut	cut	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=25|end_char=28
+7	into	into	ADP	IN	_	11	case	_	start_char=29|end_char=33
+8	bite	bite	NOUN	NN	Number=Sing	10	compound	_	start_char=34|end_char=38
+9	-	-	PUNCT	HYPH	_	10	punct	_	start_char=39|end_char=40
+10	sized	size	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	_	start_char=41|end_char=46
+11	pieces	piece	NOUN	NNS	Number=Plur	6	obl	_	start_char=47|end_char=53
+12	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+# text = add chicken breast slices , toss to coat , and let marinate for approx . 15 min .
+# sentid = 66
+# original_sentid = 29
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	chicken	chicken	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=11
+3	breast	breast	NOUN	NN	Number=Sing	4	amod	_	start_char=12|end_char=18
+4	slices	slice	NOUN	NNS	Number=Plur	1	obj	_	start_char=19|end_char=25
+5	,	,	PUNCT	,	_	6	punct	_	start_char=26|end_char=27
+6	toss	toss	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=28|end_char=32
+7	to	to	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	coat	coat	NOUN	NN	Number=Sing	6	obl	_	start_char=36|end_char=40
+9	,	,	PUNCT	,	_	11	punct	_	start_char=41|end_char=42
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=43|end_char=46
+11	let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=47|end_char=50
+12	marinate	marinate	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=51|end_char=59
+13	for	for	ADP	IN	_	17	case	_	start_char=60|end_char=63
+14	approx	approx	NOUN	NN	Number=Sing	16	advmod	_	start_char=64|end_char=70
+15	.	.	PUNCT	.	_	14	punct	_	start_char=71|end_char=72
+16	15	15	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	_	start_char=73|end_char=75
+17	min	minute	NOUN	NNS	Number=Plur	12	obl	_	start_char=76|end_char=79
+18	.	.	PUNCT	.	_	1	punct	_	start_char=80|end_char=81
+
+# text = add flour , butter , a pinch of salt , and a part of the eggs to a standing mixer .
+# sentid = 67
+# original_sentid = 63
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	flour	flour	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=9
+3	,	,	PUNCT	,	_	4	punct	_	start_char=10|end_char=11
+4	butter	butter	NOUN	NN	Number=Sing	2	conj	_	start_char=12|end_char=18
+5	,	,	PUNCT	,	_	7	punct	_	start_char=19|end_char=20
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=21|end_char=22
+7	pinch	pinch	NOUN	NN	Number=Sing	2	conj	_	start_char=23|end_char=28
+8	of	of	ADP	IN	_	9	case	_	start_char=29|end_char=31
+9	salt	salt	NOUN	NN	Number=Sing	7	nmod	_	start_char=32|end_char=36
+10	,	,	PUNCT	,	_	13	punct	_	start_char=37|end_char=38
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=39|end_char=42
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=43|end_char=44
+13	part	part	NOUN	NN	Number=Sing	2	conj	_	start_char=45|end_char=49
+14	of	of	ADP	IN	_	16	case	_	start_char=50|end_char=52
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=53|end_char=56
+16	eggs	egg	NOUN	NNS	Number=Plur	13	nmod	_	start_char=57|end_char=61
+17	to	to	ADP	IN	_	20	case	_	start_char=62|end_char=64
+18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=65|end_char=66
+19	standing	standing	ADJ	JJ	Number=Sing	20	amod	_	start_char=67|end_char=75
+20	mixer	mixer	NOUN	NN	Number=Sing	1	obl	_	start_char=76|end_char=81
+21	.	.	PUNCT	.	_	1	punct	_	start_char=82|end_char=83
+
+# text = bring to a boil , add blueberries , and remove from heat .
+# sentid = 68
+# original_sentid = 242
+1	bring	bring	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	to	to	ADP	IN	_	4	case	_	start_char=6|end_char=8
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=9|end_char=10
+4	boil	boil	NOUN	NN	Number=Sing	1	obl	_	start_char=11|end_char=15
+5	,	,	PUNCT	,	_	6	punct	_	start_char=16|end_char=17
+6	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=18|end_char=21
+7	blueberries	blueberry	NOUN	NNS	Number=Plur	6	obj	_	start_char=22|end_char=33
+8	,	,	PUNCT	,	_	10	punct	_	start_char=34|end_char=35
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=36|end_char=39
+10	remove	remove	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=40|end_char=46
+11	from	from	ADP	IN	_	12	case	_	start_char=47|end_char=51
+12	heat	heat	NOUN	NN	Number=Sing	10	obl	_	start_char=52|end_char=56
+13	.	.	PUNCT	.	_	1	punct	_	start_char=57|end_char=58
+
+# text = finely chop ginger and slice radish into thin strips .
+# sentid = 69
+# original_sentid = 444
+1	finely	finely	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	chop	chop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	ginger	ginger	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	slice	slice	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	2	conj	_	start_char=23|end_char=28
+6	radish	radish	NOUN	NN	Number=Sing	5	obj	_	start_char=29|end_char=35
+7	into	into	ADP	IN	_	9	case	_	start_char=36|end_char=40
+8	thin	thin	ADJ	JJ	Degree=Pos	9	amod	_	start_char=41|end_char=45
+9	strips	strip	NOUN	NNS	Number=Plur	5	obl	_	start_char=46|end_char=52
+10	.	.	PUNCT	.	_	2	punct	_	start_char=53|end_char=54
+
+# text = put the spaghetti into a casserole dish and pour the sauce on top .
+# sentid = 70
+# original_sentid = 876
+1	put	put	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	spaghetti	spaghetti	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=17
+4	into	into	ADP	IN	_	7	case	_	start_char=18|end_char=22
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=23|end_char=24
+6	casserole	casserole	NOUN	NN	Number=Sing	7	compound	_	start_char=25|end_char=34
+7	dish	dish	NOUN	NN	Number=Sing	1	obl	_	start_char=35|end_char=39
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=40|end_char=43
+9	pour	pour	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=44|end_char=48
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=49|end_char=52
+11	sauce	sauce	NOUN	NN	Number=Sing	9	obj	_	start_char=53|end_char=58
+12	on	on	ADP	IN	_	13	case	_	start_char=59|end_char=61
+13	top	top	NOUN	NN	Number=Sing	9	obl	_	start_char=62|end_char=65
+14	.	.	PUNCT	.	_	1	punct	_	start_char=66|end_char=67
+
+# text = brush with some oil and bake at 200 C ° / 390 ° f for approx . 20 min .
+# sentid = 71
+# original_sentid = 251
+1	brush	brush	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	with	with	ADP	IN	_	4	case	_	start_char=6|end_char=10
+3	some	some	DET	DT	_	4	det	_	start_char=11|end_char=15
+4	oil	oil	NOUN	NN	Number=Sing	1	obl	_	start_char=16|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	bake	bake	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=24|end_char=28
+7	at	at	ADP	IN	_	10	case	_	start_char=29|end_char=31
+8	200	200	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	_	start_char=32|end_char=35
+9	C	C	ADJ	JJ	NumForm=Digit|NumType=Card	10	amod	_	start_char=32|end_char=35
+10	°	°	NOUN	NNS	Number=Plur	6	obl	_	start_char=36|end_char=37
+11	/	/	CCONJ	CC	NumForm=Digit|NumType=Card	13	cc	_	start_char=38|end_char=43
+12	390	390	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	_	start_char=38|end_char=43
+13	°	°	NOUN	NNS	Number=Plur	10	conj	_	start_char=44|end_char=45
+14	f	for	PROPN	NNP	Number=Sing	13	amod	_	start_char=46|end_char=47
+15	for	for	ADP	IN	_	19	case	_	start_char=48|end_char=51
+16	approx	approx	ADV	ADV	NumForm=Digit|NumType=Card	18	advmod	_	start_char=52|end_char=58
+17	.	.	PUNCT	.	_	16	punct	_	start_char=59|end_char=60
+18	20	20	NUM	CD	NumForm=Digit|NumType=Card	19	nummod	_	start_char=61|end_char=63
+19	min	minute	NOUN	NNS	Number=Plur	6	obl	_	start_char=64|end_char=67
+20	.	.	PUNCT	.	_	1	punct	_	start_char=68|end_char=69
+
+# text = bake cakes in a preheated oven at 200 C ° / 400 ° f for approx . 8-10 min .
+# sentid = 72
+# original_sentid = 192
+1	bake	bake	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	cakes	cake	NOUN	NNS	Number=Plur	1	obj	_	start_char=5|end_char=10
+3	in	in	ADP	IN	_	6	case	_	start_char=11|end_char=13
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=14|end_char=15
+5	preheated	preheate	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=16|end_char=25
+6	oven	oven	NOUN	NN	Number=Sing	1	obl	_	start_char=26|end_char=30
+7	at	at	ADP	IN	_	10	case	_	start_char=31|end_char=33
+8	200	200	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	_	start_char=34|end_char=37
+9	C	C	ADJ	JJ	NumForm=Digit|NumType=Card	10	amod	_	start_char=34|end_char=37
+10	°	°	NOUN	NNS	Number=Plur	1	obl	_	start_char=38|end_char=39
+11	/	/	CCONJ	CC	NumForm=Digit|NumType=Card	13	cc	_	start_char=40|end_char=45
+12	400	400	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	_	start_char=40|end_char=45
+13	°	°	NOUN	NNS	Number=Plur	10	conj	_	start_char=46|end_char=47
+14	f	f	ADJ	JJ	Number=Sing	13	amod	_	start_char=48|end_char=49
+15	for	for	ADP	IN	_	19	case	_	start_char=50|end_char=53
+16	approx	approx	ADV	ADV	NumForm=Digit|NumType=Card	18	advmod	_	start_char=54|end_char=60
+17	.	.	PUNCT	.	_	16	punct	_	start_char=61|end_char=62
+18	8-10	8-10	NUM	CD	NumForm=Digit|NumType=Card	19	nummod	_	start_char=63|end_char=64
+19	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=70|end_char=73
+20	.	.	PUNCT	.	_	1	punct	_	start_char=74|end_char=75
+
+# text = clean and cube mushrooms .
+# sentid = 73
+# original_sentid = 270
+1	clean	clean	VERB	VB	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	cube	cube	VERB	VB	Number=Sing	1	conj	_	start_char=10|end_char=14
+4	mushrooms	mushroom	NOUN	NNS	Number=Plur	1	obj	_	start_char=15|end_char=24
+5	.	.	PUNCT	.	_	1	punct	_	start_char=25|end_char=26
+
+# text = cube chilled butter .
+# sentid = 74
+# original_sentid = 313
+1	cube	cube	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=4
+2	chilled	chill	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=5|end_char=12
+3	butter	butter	NOUN	NN	Number=Sing	1	obj	_	start_char=13|end_char=19
+4	.	.	PUNCT	.	_	1	punct	_	start_char=20|end_char=21
+
+# text = dice red beet .
+# sentid = 75
+# original_sentid = 375
+1	dice	dice	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=4
+2	red	red	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=8
+3	beet	beet	NOUN	NN	Number=Sing	1	obj	_	start_char=9|end_char=13
+4	.	.	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+# text = give it a quick stir .
+# sentid = 76
+# original_sentid = 523
+1	give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+4	quick	quick	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=15
+5	stir	stir	NOUN	NN	Number=Sing	1	obj	_	start_char=16|end_char=20
+6	.	.	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+# text = add cinnamon and set aside .
+# sentid = 77
+# original_sentid = 38
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	cinnamon	cinnamon	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	set	set	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=17|end_char=20
+5	aside	aside	ADP	RP	_	4	compound:prt	_	start_char=21|end_char=26
+6	.	.	PUNCT	.	_	1	punct	_	start_char=27|end_char=28
+
+# text = be careful not to overfill .
+# sentid = 78
+# original_sentid = 203
+1	be	be	AUX	VB	Mood=Imp|VerbForm=Fin	2	cop	_	start_char=0|end_char=2
+2	careful	careful	ADJ	JJ	Degree=Pos	0	root	_	start_char=3|end_char=10
+3	not	not	ADV	RB	_	5	advmod	_	start_char=11|end_char=14
+4	to	to	PART	TO	_	5	mark	_	start_char=15|end_char=17
+5	overfill	overfill	VERB	VB	VerbForm=Inf	2	csubj	_	start_char=18|end_char=26
+6	.	.	PUNCT	.	_	2	punct	_	start_char=27|end_char=28
+
+# text = cook for approx . 5 min . more .
+# sentid = 79
+# original_sentid = 285
+1	cook	cook	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	for	for	ADP	IN	_	6	case	_	start_char=5|end_char=8
+3	approx	approx	NOUN	NN	Number=Sing	5	advmod	_	start_char=9|end_char=15
+4	.	.	PUNCT	.	_	3	punct	_	start_char=16|end_char=17
+5	5	5	NUM	CD	NumType=Card	6	nummod	_	start_char=18|end_char=19
+6	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=20|end_char=23
+7	.	.	PUNCT	.	_	6	punct	_	start_char=24|end_char=25
+8	more	more	ADV	RBR	Degree=Cmp	1	advmod	_	start_char=26|end_char=30
+9	.	.	PUNCT	.	_	1	punct	_	start_char=31|end_char=32
+
+# text = for the sauce , finely dice garlic and onion .
+# sentid = 80
+# original_sentid = 495
+1	for	for	ADP	IN	_	3	case	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	sauce	sauce	NOUN	NN	Number=Sing	6	obl	_	start_char=8|end_char=13
+4	,	,	PUNCT	,	_	6	punct	_	start_char=14|end_char=15
+5	finely	finely	ADV	RB	Degree=Pos	6	advmod	_	start_char=16|end_char=22
+6	dice	dice	NOUN	NN	Number=Sing	0	root	_	start_char=23|end_char=27
+7	garlic	garlic	NOUN	NN	Number=Sing	6	obj	_	start_char=28|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	onion	onion	NOUN	NN	Number=Sing	7	conj	_	start_char=39|end_char=44
+10	.	.	PUNCT	.	_	6	punct	_	start_char=45|end_char=46
+
+# text = in the middle of the tortilla , layer lettuce , onion , cucumber , bell pepper , tzatziki mixture , and bell pepper cream .
+# sentid = 81
+# original_sentid = 632
+1	in	in	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=3|end_char=6
+3	middle	middle	NOUN	NN	Number=Sing	8	obl	_	start_char=7|end_char=13
+4	of	of	ADP	IN	_	6	case	_	start_char=14|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	tortilla	tortilla	NOUN	NN	Number=Sing	3	nmod	_	start_char=21|end_char=29
+7	,	,	PUNCT	,	_	8	punct	_	start_char=30|end_char=31
+8	layer	layer	VERB	VB	Number=Sing	0	root	_	start_char=32|end_char=37
+9	lettuce	lettuce	NOUN	NN	Number=Sing	8	obj	_	start_char=38|end_char=45
+10	,	,	PUNCT	,	_	11	punct	_	start_char=46|end_char=47
+11	onion	onion	NOUN	NN	Number=Sing	9	conj	_	start_char=48|end_char=53
+12	,	,	PUNCT	,	_	13	punct	_	start_char=54|end_char=55
+13	cucumber	cucumber	NOUN	NN	Number=Sing	9	conj	_	start_char=56|end_char=64
+14	,	,	PUNCT	,	_	16	punct	_	start_char=65|end_char=66
+15	bell	bell	NOUN	NN	Number=Sing	16	compound	_	start_char=67|end_char=71
+16	pepper	pepper	NOUN	NN	Number=Sing	9	conj	_	start_char=72|end_char=78
+17	,	,	PUNCT	,	_	19	punct	_	start_char=79|end_char=80
+18	tzatziki	tzatziki	ADJ	JJ	Number=Sing	19	amod	_	start_char=81|end_char=89
+19	mixture	mixture	NOUN	NN	Number=Sing	9	conj	_	start_char=90|end_char=97
+20	,	,	PUNCT	,	_	24	punct	_	start_char=98|end_char=99
+21	and	and	CCONJ	CC	_	24	cc	_	start_char=100|end_char=103
+22	bell	bell	NOUN	NN	Number=Sing	23	compound	_	start_char=104|end_char=108
+23	pepper	pepper	NOUN	NN	Number=Sing	24	amod	_	start_char=109|end_char=115
+24	cream	cream	NOUN	NN	Number=Sing	9	conj	_	start_char=116|end_char=121
+25	.	.	PUNCT	.	_	8	punct	_	start_char=122|end_char=123
+
+# text = lightly dust with confectioner ’s sugar .
+# sentid = 82
+# original_sentid = 653
+1	lightly	lightly	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=7
+2	dust	dust	VERB	VB	Number=Sing	0	root	_	start_char=8|end_char=12
+3	with	with	ADP	IN	_	6	case	_	start_char=13|end_char=17
+4	confectioner	confectioner	NOUN	NN	Number=Sing	6	nmod:poss	_	start_char=18|end_char=30
+5	’s	's	PART	POS	_	4	case	_	start_char=31|end_char=33
+6	sugar	sugar	NOUN	NN	Number=Sing	2	obl	_	start_char=34|end_char=39
+7	.	.	PUNCT	.	_	2	punct	_	start_char=40|end_char=41
+
+# text = parboil pasta for approx . 5 min .
+# sentid = 83
+# original_sentid = 759
+1	parboil	parboil	VERB	VB	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	pasta	pasta	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=13
+3	for	for	ADP	IN	_	7	case	_	start_char=14|end_char=17
+4	approx	approx	ADV	ADV	Number=Sing	6	nmod	_	start_char=18|end_char=24
+5	.	.	PUNCT	.	_	4	punct	_	start_char=25|end_char=26
+6	5	5	NUM	CD	NumType=Card	7	nummod	_	start_char=27|end_char=28
+7	min	minute	NOUN	NNS	Number=Plur	2	obl	_	start_char=29|end_char=32
+8	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+
+# text = season again with salt and pepper .
+# sentid = 84
+# original_sentid = 964
+1	season	season	VERB	VB	Number=Sing	0	root	_	start_char=0|end_char=6
+2	again	again	ADV	RB	Degree=Pos	1	advmod	_	start_char=7|end_char=12
+3	with	with	ADP	IN	_	4	case	_	start_char=13|end_char=17
+4	salt	salt	NOUN	NN	Number=Sing	1	obl	_	start_char=18|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	pepper	pepper	NOUN	NN	Number=Sing	4	conj	_	start_char=27|end_char=33
+7	.	.	PUNCT	.	_	1	punct	_	start_char=34|end_char=35
+
+# text = add flour and stir in as well .
+# sentid = 85
+# original_sentid = 66
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	flour	flour	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=9
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=10|end_char=13
+4	stir	stir	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=14|end_char=18
+5	in	in	ADP	RP	_	4	compound:prt	_	start_char=19|end_char=21
+6	as	as	ADV	RB	_	4	advmod	_	start_char=22|end_char=24
+7	well	well	ADV	RB	Degree=Pos	6	fixed	_	start_char=25|end_char=29
+8	.	.	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+
+# text = add the tomatoes , then add the egg mixture .
+# sentid = 86
+# original_sentid = 146
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	tomatoes	tomato	NOUN	NNS	Number=Plur	1	obj	_	start_char=8|end_char=16
+4	,	,	PUNCT	,	_	1	punct	_	start_char=17|end_char=18
+5	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=19|end_char=23
+6	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=24|end_char=27
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=28|end_char=31
+8	egg	egg	ADJ	JJ	Number=Sing	9	amod	_	start_char=32|end_char=35
+9	mixture	mixture	NOUN	NN	Number=Sing	6	obj	_	start_char=36|end_char=43
+10	.	.	PUNCT	.	_	1	punct	_	start_char=44|end_char=45
+
+# text = clean button and porcini mushrooms and cut into slices .
+# sentid = 87
+# original_sentid = 271
+1	clean	clean	VERB	VB	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	button	button	ADJ	JJ	Number=Sing	5	amod	_	start_char=6|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	porcini	porcini	ADJ	JJ	Number=Sing	2	conj	_	start_char=17|end_char=24
+5	mushrooms	mushroom	NOUN	NNS	Number=Plur	1	obj	_	start_char=25|end_char=34
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=35|end_char=38
+7	cut	cut	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=39|end_char=42
+8	into	into	ADP	IN	_	9	case	_	start_char=43|end_char=47
+9	slices	slice	NOUN	NNS	Number=Plur	7	obl	_	start_char=48|end_char=54
+10	.	.	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+
+# text = cook for approx . 15 min . until tender .
+# sentid = 88
+# original_sentid = 283
+1	cook	cook	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	for	for	ADP	IN	_	6	case	_	start_char=5|end_char=8
+3	approx	approx	ADV	ADV	Number=Sing	5	advmod	_	start_char=9|end_char=15
+4	.	.	PUNCT	.	_	3	punct	_	start_char=16|end_char=17
+5	15	15	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	_	start_char=18|end_char=20
+6	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=21|end_char=24
+7	.	.	PUNCT	.	_	6	punct	_	start_char=25|end_char=26
+8	until	until	ADP	IN	_	9	case	_	start_char=27|end_char=32
+9	tender	tender	ADJ	JJ	Degree=Pos	1	obl	_	start_char=33|end_char=39
+10	.	.	PUNCT	.	_	1	punct	_	start_char=40|end_char=41
+
+# text = dice salmon into bite - sized pieces .
+# sentid = 89
+# original_sentid = 376
+1	dice	dice	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	salmon	salmon	NOUN	NN	Number=Sing	1	obj	_	start_char=5|end_char=11
+3	into	into	ADP	IN	_	7	case	_	start_char=12|end_char=16
+4	bite	bite	NOUN	NN	Number=Sing	6	compound	_	start_char=17|end_char=21
+5	-	-	PUNCT	HYPH	_	6	punct	_	start_char=22|end_char=23
+6	sized	size	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	start_char=24|end_char=29
+7	pieces	piece	NOUN	NNS	Number=Plur	1	obl	_	start_char=30|end_char=36
+8	.	.	PUNCT	.	_	1	punct	_	start_char=37|end_char=38
+
+# text = drizzle with high quality olive oil before serving , if desired .
+# sentid = 90
+# original_sentid = 406
+1	drizzle	drizzle	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	with	with	ADP	IN	_	6	case	_	start_char=8|end_char=12
+3	high	high	ADJ	JJ	Degree=Pos	4	fixed	_	start_char=13|end_char=17
+4	quality	quality	NOUN	NN	Number=Sing	6	amod	_	start_char=18|end_char=25
+5	olive	olive	NOUN	NN	Number=Sing	6	compound	_	start_char=26|end_char=31
+6	oil	oil	NOUN	NN	Number=Sing	1	obl	_	start_char=32|end_char=35
+7	before	before	SCONJ	IN	_	8	mark	_	start_char=36|end_char=42
+8	serving	serve	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=43|end_char=50
+9	,	,	PUNCT	,	_	11	punct	_	start_char=51|end_char=52
+10	if	if	SCONJ	IN	_	11	mark	_	start_char=53|end_char=55
+11	desired	desire	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	start_char=56|end_char=63
+12	.	.	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+
+# text = finely chop rosemary and halve cherry tomatoes .
+# sentid = 91
+# original_sentid = 449
+1	finely	finely	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=6
+2	chop	chop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	rosemary	rosemary	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	halve	halve	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	2	conj	_	start_char=25|end_char=30
+6	cherry	cherry	NOUN	NN	Number=Sing	7	compound	_	start_char=31|end_char=37
+7	tomatoes	tomato	NOUN	NNS	Number=Plur	5	obj	_	start_char=38|end_char=46
+8	.	.	PUNCT	.	_	2	punct	_	start_char=47|end_char=48
+
+# text = grill dough on both sides for approx . 5-8 min .
+# sentid = 92
+# original_sentid = 533
+1	grill	grill	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=5
+2	dough	dough	NOUN	NN	Number=Sing	1	obj	_	start_char=6|end_char=11
+3	on	on	ADP	IN	_	5	case	_	start_char=12|end_char=14
+4	both	both	DET	DT	_	5	det	_	start_char=15|end_char=19
+5	sides	side	NOUN	NNS	Number=Plur	1	nmod	_	start_char=20|end_char=25
+6	for	for	ADP	IN	_	10	case	_	start_char=26|end_char=29
+7	approx	approx	ADV	ADV	Number=Sing	9	advmod	_	start_char=30|end_char=36
+8	.	.	PUNCT	.	_	7	punct	_	start_char=37|end_char=38
+9	5-8	5-8	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	_	start_char=39|end_char=40
+10	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=45|end_char=48
+11	.	.	PUNCT	.	_	1	punct	_	start_char=49|end_char=50
+
+# text = mix thoroughly to form into dough .
+# sentid = 93
+# original_sentid = 701
+1	mix	mix	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	thoroughly	thoroughly	ADV	RB	Degree=Pos	1	advmod	_	start_char=4|end_char=14
+3	to	to	PART	TO	_	4	mark	_	start_char=15|end_char=17
+4	form	form	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=18|end_char=22
+5	into	into	ADP	IN	_	6	case	_	start_char=23|end_char=27
+6	dough	dough	NOUN	NN	Number=Sing	4	obl	_	start_char=28|end_char=33
+7	.	.	PUNCT	.	_	1	punct	_	start_char=34|end_char=35
+
+# text = now , cover and chill for at least 8 hours .
+# sentid = 94
+# original_sentid = 736
+1	now	now	ADV	RB	_	3	advmod	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=4|end_char=5
+3	cover	cover	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=6|end_char=11
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=12|end_char=15
+5	chill	chill	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	3	conj	_	start_char=16|end_char=21
+6	for	for	ADP	IN	_	10	case	_	start_char=22|end_char=25
+7	at	at	ADP	IN	_	8	fixed	_	start_char=26|end_char=28
+8	least	least	ADJ	JJS	Degree=Sup	9	amod	_	start_char=29|end_char=34
+9	8	8	NUM	CD	NumType=Card	10	nummod	_	start_char=35|end_char=36
+10	hours	hour	NOUN	NNS	Number=Plur	5	obl	_	start_char=37|end_char=42
+11	.	.	PUNCT	.	_	3	punct	_	start_char=43|end_char=44
+
+# text = add black beans , mole sauce and salsa picante to a small saucepan .
+# sentid = 95
+# original_sentid = 11
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	black	black	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=9
+3	beans	bean	NOUN	NNS	Number=Plur	1	obj	_	start_char=10|end_char=15
+4	,	,	PUNCT	,	_	6	punct	_	start_char=16|end_char=17
+5	mole	mole	NOUN	NN	Number=Sing	6	compound	_	start_char=18|end_char=22
+6	sauce	sauce	NOUN	NN	Number=Sing	3	conj	_	start_char=23|end_char=28
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=29|end_char=32
+8	salsa	salsa	NOUN	NN	Number=Sing	9	compound	_	start_char=33|end_char=38
+9	picante	picante	NOUN	NN	Number=Sing	3	conj	_	start_char=39|end_char=46
+10	to	to	ADP	IN	_	13	case	_	start_char=47|end_char=49
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=50|end_char=51
+12	small	small	ADJ	JJ	Degree=Pos	13	amod	_	start_char=52|end_char=57
+13	saucepan	saucepan	NOUN	NN	Number=Sing	1	obl	_	start_char=58|end_char=66
+14	.	.	PUNCT	.	_	1	punct	_	start_char=67|end_char=68
+
+# text = add grated cheddar and corn starch to a small saucepan and stir to combine .
+# sentid = 96
+# original_sentid = 72
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	grated	grate	ADJ	JJ	Tense=Past|VerbForm=Part	3	amod	_	start_char=4|end_char=10
+3	cheddar	cheddar	NOUN	NN	Number=Sing	1	obj	_	start_char=11|end_char=18
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+5	corn	corn	NOUN	NN	Number=Sing	6	compound	_	start_char=23|end_char=27
+6	starch	starch	NOUN	NN	Number=Sing	3	conj	_	start_char=28|end_char=34
+7	to	to	ADP	IN	_	10	case	_	start_char=35|end_char=37
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=38|end_char=39
+9	small	small	ADJ	JJ	Degree=Pos	10	amod	_	start_char=40|end_char=45
+10	saucepan	saucepan	NOUN	NN	Number=Sing	1	obl	_	start_char=46|end_char=54
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=55|end_char=58
+12	stir	stir	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=59|end_char=63
+13	to	to	PART	TO	_	14	mark	_	start_char=64|end_char=66
+14	combine	combine	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=67|end_char=74
+15	.	.	PUNCT	.	_	1	punct	_	start_char=75|end_char=76
+
+# text = add vegetarian ground meat and fry for approx . 4 min .
+# sentid = 97
+# original_sentid = 162
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	vegetarian	vegetarian	ADJ	JJ	Degree=Pos	4	amod	_	start_char=4|end_char=14
+3	ground	ground	NOUN	NN	Number=Sing	4	compound	_	start_char=15|end_char=21
+4	meat	meat	NOUN	NN	Number=Sing	1	obj	_	start_char=22|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	fry	fry	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=31|end_char=34
+7	for	for	ADP	IN	_	11	case	_	start_char=35|end_char=38
+8	approx	approx	ADV	ADV	Number=Sing	10	advmod	_	start_char=39|end_char=45
+9	.	.	PUNCT	.	_	8	punct	_	start_char=46|end_char=47
+10	4	4	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	_	start_char=48|end_char=49
+11	min	minute	NOUN	NNS	Number=Plur	6	obl	_	start_char=50|end_char=53
+12	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+# text = blend all ingredients until smooth for approx . 2-3 min .
+# sentid = 98
+# original_sentid = 221
+1	blend	blend	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	all	all	DET	DT	_	3	det	_	start_char=6|end_char=9
+3	ingredients	ingredient	NOUN	NNS	Number=Plur	1	obj	_	start_char=10|end_char=21
+4	until	until	ADP	IN	_	5	case	_	start_char=22|end_char=27
+5	smooth	smooth	ADJ	JJ	Degree=Pos	1	obl	_	start_char=28|end_char=34
+6	for	for	ADP	IN	_	10	case	_	start_char=35|end_char=38
+7	approx	approx	ADV	ADV	Number=Sing	9	advmod	_	start_char=39|end_char=45
+8	.	.	PUNCT	.	_	7	punct	_	start_char=46|end_char=47
+9	2-3	2-3	NUM	CD	NumType=Card	10	nummod	_	start_char=48|end_char=49
+10	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=54|end_char=57
+11	.	.	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+
+# text = cover for approx . 30 min . with plastic wrap and refrigerate .
+# sentid = 99
+# original_sentid = 300
+1	cover	cover	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	for	for	ADP	IN	_	6	case	_	start_char=6|end_char=9
+3	approx	approx	ADV	ADV	Number=Sing	5	advmod	_	start_char=10|end_char=16
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+5	30	30	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	_	start_char=19|end_char=21
+6	min	minute	NOUN	NNS	Number=Plur	1	obl	_	start_char=22|end_char=25
+7	.	.	PUNCT	.	_	6	punct	_	start_char=26|end_char=27
+8	with	with	ADP	IN	_	10	case	_	start_char=28|end_char=32
+9	plastic	plastic	ADJ	JJ	Number=Sing	10	amod	_	start_char=33|end_char=40
+10	wrap	wrap	NOUN	NN	Number=Sing	1	obl	_	start_char=41|end_char=45
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=46|end_char=49
+12	refrigerate	refrigerate	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=50|end_char=61
+13	.	.	PUNCT	.	_	1	punct	_	start_char=62|end_char=63
+
+# text = pour in almond milk and blend until smooth .
+# sentid = 100
+# original_sentid = 831
+1	pour	pour	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	in	in	ADP	RP	_	1	compound:prt	_	start_char=5|end_char=7
+3	almond	almond	NOUN	NN	Number=Sing	4	compound	_	start_char=8|end_char=14
+4	milk	milk	NOUN	NN	Number=Sing	1	obj	_	start_char=15|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	blend	blend	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=24|end_char=29
+7	until	until	ADP	IN	_	8	case	_	start_char=30|end_char=35
+8	smooth	smooth	ADJ	JJ	Degree=Pos	6	obl	_	start_char=36|end_char=42
+9	.	.	PUNCT	.	_	1	punct	_	start_char=43|end_char=44
+
+# text = wash and deseed bell peppers , then slice both into strips .
+# sentid = 101
+# original_sentid = 1220
+1	wash	wash	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=5|end_char=8
+3	deseed	desee	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=9|end_char=15
+4	bell	bell	NOUN	NN	Number=Sing	5	compound	_	start_char=16|end_char=20
+5	peppers	pepper	NOUN	NNS	Number=Plur	3	obj	_	start_char=21|end_char=28
+6	,	,	PUNCT	,	_	8	punct	_	start_char=29|end_char=30
+7	then	then	ADV	RB	PronType=Dem	8	advmod	_	start_char=31|end_char=35
+8	slice	slice	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=36|end_char=41
+9	both	both	PRON	PRON	_	8	obj	_	start_char=42|end_char=46
+10	into	into	ADP	IN	_	11	case	_	start_char=47|end_char=51
+11	strips	strip	NOUN	NNS	Number=Plur	8	obl	_	start_char=52|end_char=58
+12	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+
+# text = add soy sauce , red pepper and smoked paprika and stir to combine .
+# sentid = 102
+# original_sentid = 124
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	soy	soy	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=7
+3	sauce	sauce	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=13
+4	,	,	PUNCT	,	_	6	punct	_	start_char=14|end_char=15
+5	red	red	ADJ	JJ	Degree=Pos	6	amod	_	start_char=16|end_char=19
+6	pepper	pepper	NOUN	NN	Number=Sing	3	conj	_	start_char=20|end_char=26
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=27|end_char=30
+8	smoked	smoke	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	_	start_char=31|end_char=37
+9	paprika	paprika	NOUN	NN	Number=Sing	3	conj	_	start_char=38|end_char=45
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=46|end_char=49
+11	stir	stir	VERB	VB	Number=Sing	1	conj	_	start_char=50|end_char=54
+12	to	to	PART	TO	_	13	mark	_	start_char=55|end_char=57
+13	combine	combine	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=58|end_char=65
+14	.	.	PUNCT	.	_	1	punct	_	start_char=66|end_char=67
+
+# text = add to butter mixture and whisk until a smooth dough forms .
+# sentid = 103
+# original_sentid = 150
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	to	to	ADP	IN	_	4	case	_	start_char=4|end_char=6
+3	butter	butter	NOUN	NN	Number=Sing	4	compound	_	start_char=7|end_char=13
+4	mixture	mixture	NOUN	NN	Number=Sing	1	obl	_	start_char=14|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	whisk	whisk	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=26|end_char=31
+7	until	until	ADP	IN	_	11	case	_	start_char=32|end_char=37
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=38|end_char=39
+9	smooth	smooth	ADJ	JJ	Degree=Pos	10	amod	_	start_char=40|end_char=46
+10	dough	dough	NOUN	NN	Number=Sing	11	obj	_	start_char=47|end_char=52
+11	forms	form	NOUN	NNS	Number=Plur	6	advcl	_	start_char=53|end_char=58
+12	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+
+# text = assemble burger with grilled patties , tomato and cucumber slices , raw onion slices , sautéed onions , iceberg lettuce , ketchup , and mayonnaise .
+# sentid = 104
+# original_sentid = 188
+1	assemble	assemble	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=8
+2	burger	burger	NOUN	NN	Number=Sing	1	obj	_	start_char=9|end_char=15
+3	with	with	ADP	IN	_	5	case	_	start_char=16|end_char=20
+4	grilled	grill	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	start_char=21|end_char=28
+5	patties	patty	NOUN	NNS	Number=Plur	1	obl	_	start_char=29|end_char=36
+6	,	,	PUNCT	,	_	7	punct	_	start_char=37|end_char=38
+7	tomato	tomato	NOUN	NN	Number=Sing	10	amod	_	start_char=39|end_char=45
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=46|end_char=49
+9	cucumber	cucumber	NOUN	NN	Number=Sing	7	conj	_	start_char=50|end_char=58
+10	slices	slice	NOUN	NNS	Number=Plur	5	conj	_	start_char=59|end_char=65
+11	,	,	PUNCT	,	_	14	punct	_	start_char=66|end_char=67
+12	raw	raw	NOUN	NN	Number=Sing	14	amod	_	start_char=68|end_char=71
+13	onion	onion	NOUN	NN	Number=Sing	14	amod	_	start_char=72|end_char=77
+14	slices	slice	NOUN	NNS	Number=Plur	5	conj	_	start_char=78|end_char=84
+15	,	,	PUNCT	,	_	17	punct	_	start_char=85|end_char=86
+16	sautéed	sauté	VERB	VBN	Tense=Past|VerbForm=Part	17	amod	_	start_char=87|end_char=94
+17	onions	onion	NOUN	NNS	Number=Plur	5	conj	_	start_char=95|end_char=101
+18	,	,	PUNCT	,	_	20	punct	_	start_char=102|end_char=103
+19	iceberg	iceberg	NOUN	NN	Number=Sing	20	compound	_	start_char=104|end_char=111
+20	lettuce	lettuce	NOUN	NN	Number=Sing	5	conj	_	start_char=112|end_char=119
+21	,	,	PUNCT	,	_	22	punct	_	start_char=120|end_char=121
+22	ketchup	ketchup	NOUN	NN	Number=Sing	5	conj	_	start_char=122|end_char=129
+23	,	,	PUNCT	,	_	25	punct	_	start_char=130|end_char=131
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=132|end_char=135
+25	mayonnaise	mayonnaise	NOUN	NN	Number=Sing	5	conj	_	start_char=136|end_char=146
+26	.	.	PUNCT	.	_	1	punct	_	start_char=147|end_char=148
+
+# text = beat in eggs , then fold in flour , sugar , vanilla extract , and baking soda .
+# sentid = 105
+# original_sentid = 210
+1	beat	beat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	in	in	ADP	RP	_	1	compound:prt	_	start_char=5|end_char=7
+3	eggs	egg	NOUN	NNS	Number=Plur	1	obj	_	start_char=8|end_char=12
+4	,	,	PUNCT	,	_	6	punct	_	start_char=13|end_char=14
+5	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=15|end_char=19
+6	fold	fold	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=20|end_char=24
+7	in	in	ADP	IN	_	6	compound:prt	_	start_char=25|end_char=27
+8	flour	flour	NOUN	NN	Number=Sing	6	obl	_	start_char=28|end_char=33
+9	,	,	PUNCT	,	_	10	punct	_	start_char=34|end_char=35
+10	sugar	sugar	NOUN	NN	Number=Sing	8	conj	_	start_char=36|end_char=41
+11	,	,	PUNCT	,	_	13	punct	_	start_char=42|end_char=43
+12	vanilla	vanilla	NOUN	NN	Number=Sing	13	compound	_	start_char=44|end_char=51
+13	extract	extract	NOUN	NN	Number=Sing	8	conj	_	start_char=52|end_char=59
+14	,	,	PUNCT	,	_	17	punct	_	start_char=60|end_char=61
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=62|end_char=65
+16	baking	baking	NOUN	NN	Number=Sing	17	compound	_	start_char=66|end_char=72
+17	soda	soda	NOUN	NN	Number=Sing	8	conj	_	start_char=73|end_char=77
+18	.	.	PUNCT	.	_	1	punct	_	start_char=78|end_char=79
+
+# text = combine bell peppers , onions , and chickpeas in a bowl , then add remaining harissa paste , olive oil , salt , and pepper .
+# sentid = 106
+# original_sentid = 276
+1	combine	combine	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	bell	bell	NOUN	NN	Number=Sing	3	compound	_	start_char=8|end_char=12
+3	peppers	pepper	NOUN	NNS	Number=Plur	1	obj	_	start_char=13|end_char=20
+4	,	,	PUNCT	,	_	5	punct	_	start_char=21|end_char=22
+5	onions	onion	NOUN	NNS	Number=Plur	3	conj	_	start_char=23|end_char=29
+6	,	,	PUNCT	,	_	8	punct	_	start_char=30|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	chickpeas	chickpea	NOUN	NNS	Number=Plur	3	conj	_	start_char=36|end_char=45
+9	in	in	ADP	IN	_	11	case	_	start_char=46|end_char=48
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=49|end_char=50
+11	bowl	bowl	NOUN	NN	Number=Sing	1	obl	_	start_char=51|end_char=55
+12	,	,	PUNCT	,	_	14	punct	_	start_char=56|end_char=57
+13	then	then	ADV	RB	PronType=Dem	14	advmod	_	start_char=58|end_char=62
+14	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=63|end_char=66
+15	remaining	remain	VERB	VBG	VerbForm=Ger	17	amod	_	start_char=67|end_char=76
+16	harissa	harissa	NOUN	NN	Number=Sing	17	compound	_	start_char=77|end_char=84
+17	paste	paste	NOUN	NN	Number=Sing	14	obj	_	start_char=85|end_char=90
+18	,	,	PUNCT	,	_	20	punct	_	start_char=91|end_char=92
+19	olive	olive	NOUN	NN	Number=Sing	20	compound	_	start_char=93|end_char=98
+20	oil	oil	NOUN	NN	Number=Sing	17	conj	_	start_char=99|end_char=102
+21	,	,	PUNCT	,	_	22	punct	_	start_char=103|end_char=104
+22	salt	salt	NOUN	NN	Number=Sing	17	conj	_	start_char=105|end_char=109
+23	,	,	PUNCT	,	_	25	punct	_	start_char=110|end_char=111
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=112|end_char=115
+25	pepper	pepper	NOUN	NN	Number=Sing	17	conj	_	start_char=116|end_char=122
+26	.	.	PUNCT	.	_	1	punct	_	start_char=123|end_char=124
+
+# text = cover and cook over medium-low heat for approx . 10 min .
+# sentid = 107
+# original_sentid = 296
+1	cover	cover	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	cook	cook	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=10|end_char=14
+4	over	over	ADP	IN	_	6	case	_	start_char=15|end_char=19
+5	medium-low	medium-low	ADJ	JJ	Degree=Pos	6	amod	_	start_char=29|end_char=32
+6	heat	heat	NOUN	NN	Number=Sing	3	obl	_	start_char=33|end_char=37
+7	for	for	ADP	IN	_	11	case	_	start_char=38|end_char=41
+8	approx	approx	NOUN	NN	Number=Sing	10	advmod	_	start_char=42|end_char=48
+9	.	.	PUNCT	.	_	8	punct	_	start_char=49|end_char=50
+10	10	10	NUM	LS	NumType=Card	11	nummod	_	start_char=51|end_char=53
+11	min	minute	NOUN	NN	Number=Sing	1	obl	_	start_char=56|end_char=59
+12	.	.	PUNCT	.	_	1	punct	_	start_char=60|end_char=61
+
+# text = cut sweet potato , apple , and carrots into bite - sized pieces .
+# sentid = 108
+# original_sentid = 353
+1	cut	cut	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	sweet	sweet	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=9
+3	potato	potato	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=16
+4	,	,	PUNCT	,	_	5	punct	_	start_char=17|end_char=18
+5	apple	apple	NOUN	NN	Number=Sing	3	conj	_	start_char=19|end_char=24
+6	,	,	PUNCT	,	_	8	punct	_	start_char=25|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	carrots	carrot	NOUN	NNS	Number=Plur	3	conj	_	start_char=31|end_char=38
+9	into	into	ADP	IN	_	13	case	_	start_char=39|end_char=43
+10	bite	bite	NOUN	NN	Number=Sing	12	compound	_	start_char=44|end_char=48
+11	-	-	PUNCT	HYPH	_	12	punct	_	start_char=49|end_char=50
+12	sized	size	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	_	start_char=51|end_char=56
+13	pieces	piece	NOUN	NNS	Number=Plur	1	obl	_	start_char=57|end_char=63
+14	.	.	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+
+# text = finely grate ginger and crush garlic in a garlic press .
+# sentid = 109
+# original_sentid = 462
+1	finely	finely	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=6
+2	grate	grate	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+3	ginger	ginger	NOUN	NN	Number=Sing	2	obj	_	start_char=13|end_char=19
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=20|end_char=23
+5	crush	crush	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	2	conj	_	start_char=24|end_char=29
+6	garlic	garlic	NOUN	NN	Number=Sing	5	obj	_	start_char=30|end_char=36
+7	in	in	ADP	IN	_	10	case	_	start_char=37|end_char=39
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=40|end_char=41
+9	garlic	garlic	ADJ	JJ	Number=Sing	10	amod	_	start_char=42|end_char=48
+10	press	press	NOUN	NN	Number=Sing	5	obl	_	start_char=49|end_char=54
+11	.	.	PUNCT	.	_	2	punct	_	start_char=55|end_char=56
+
+# text = gently tap form on counter to release air bubbles .
+# sentid = 110
+# original_sentid = 521
+1	gently	gently	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	tap	tap	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+3	form	form	NOUN	NN	Number=Sing	2	obj	_	start_char=11|end_char=15
+4	on	on	ADP	IN	_	5	case	_	start_char=16|end_char=18
+5	counter	counter	NOUN	NN	Number=Sing	2	obl	_	start_char=19|end_char=26
+6	to	to	PART	TO	_	7	mark	_	start_char=27|end_char=29
+7	release	release	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=30|end_char=37
+8	air	air	NOUN	NN	Number=Sing	9	amod	_	start_char=38|end_char=41
+9	bubbles	bubble	NOUN	NNS	Number=Plur	7	obj	_	start_char=42|end_char=49
+10	.	.	PUNCT	.	_	2	punct	_	start_char=50|end_char=51
+
+# text = heat grill or grill pan over medium heat and coat lightly with oil .
+# sentid = 111
+# original_sentid = 547
+1	heat	heat	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	grill	grill	NOUN	NN	Number=Sing	1	obj	_	start_char=5|end_char=10
+3	or	or	CCONJ	CC	_	5	cc	_	start_char=11|end_char=13
+4	grill	grill	NOUN	NN	Number=Sing	5	compound	_	start_char=14|end_char=19
+5	pan	pan	NOUN	NN	Number=Sing	2	conj	_	start_char=20|end_char=23
+6	over	over	ADP	IN	_	8	case	_	start_char=24|end_char=28
+7	medium	medium	ADJ	JJ	Degree=Pos	8	amod	_	start_char=29|end_char=35
+8	heat	heat	NOUN	NN	Number=Sing	1	obl	_	start_char=36|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	coat	coat	VERB	VB	Number=Sing	1	conj	_	start_char=45|end_char=49
+11	lightly	lightly	ADV	RB	Degree=Pos	10	advmod	_	start_char=50|end_char=57
+12	with	with	ADP	IN	_	13	case	_	start_char=58|end_char=62
+13	oil	oil	NOUN	NN	Number=Sing	10	obl	_	start_char=63|end_char=66
+14	.	.	PUNCT	.	_	1	punct	_	start_char=67|end_char=68
+
+# text = next , add tomatoes and sauté for an additional 3 min .
+# sentid = 112
+# original_sentid = 713
+1	next	next	ADV	RB	_	3	advmod	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	3	punct	_	start_char=5|end_char=6
+3	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+4	tomatoes	tomato	NOUN	NNS	Number=Plur	3	obj	_	start_char=11|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	sauté	sauté	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	start_char=24|end_char=29
+7	for	for	ADP	IN	_	11	case	_	start_char=30|end_char=33
+8	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=34|end_char=36
+9	additional	additional	ADJ	JJ	Degree=Pos	11	amod	_	start_char=37|end_char=47
+10	3	3	NUM	CD	NumType=Card	11	nummod	_	start_char=48|end_char=49
+11	min	minute	NOUN	NNS	Number=Sing	6	obl	_	start_char=50|end_char=53
+12	.	.	PUNCT	.	_	3	punct	_	start_char=54|end_char=55
+
+# text = serve on top of hot or cold vanilla pudding and enjoy .
+# sentid = 113
+# original_sentid = 1003
+1	serve	serve	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	on	on	ADP	IN	_	3	case	_	start_char=6|end_char=8
+3	top	top	NOUN	NN	Number=Sing	1	obl	_	start_char=9|end_char=12
+4	of	of	ADP	IN	_	9	case	_	start_char=13|end_char=15
+5	hot	hot	ADJ	JJ	Degree=Pos	9	amod	_	start_char=16|end_char=19
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=20|end_char=22
+7	cold	cold	ADJ	JJ	Degree=Pos	5	conj	_	start_char=23|end_char=27
+8	vanilla	vanilla	NOUN	NN	Number=Sing	9	compound	_	start_char=28|end_char=35
+9	pudding	pudding	NOUN	NN	Number=Sing	3	nmod	_	start_char=36|end_char=43
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=44|end_char=47
+11	enjoy	enjoy	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=48|end_char=53
+12	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+# text = add mixture to the stew until thickened to desired consistency .
+# sentid = 114
+# original_sentid = 89
+1	add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	mixture	mixture	NOUN	NN	Number=Sing	1	obj	_	start_char=4|end_char=11
+3	to	to	ADP	IN	_	5	case	_	start_char=12|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=15|end_char=18
+5	stew	stew	NOUN	NN	Number=Sing	1	obl	_	start_char=19|end_char=23
+6	until	until	SCONJ	IN	_	7	mark	_	start_char=24|end_char=29
+7	thickened	thicken	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	start_char=30|end_char=39
+8	to	to	ADP	IN	_	10	case	_	start_char=40|end_char=42
+9	desired	desire	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	_	start_char=43|end_char=50
+10	consistency	consistency	NOUN	NN	Number=Sing	7	obl	_	start_char=51|end_char=62
+11	.	.	PUNCT	.	_	1	punct	_	start_char=63|end_char=64
+
+# text = gently press dough evenly into corners and up sides .
+# sentid = 115
+# original_sentid = 518
+1	gently	gently	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=6
+2	press	press	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+3	dough	dough	NOUN	NN	Number=Sing	2	obj	_	start_char=13|end_char=18
+4	evenly	evenly	ADV	RB	Degree=Pos	2	advmod	_	start_char=19|end_char=25
+5	into	into	ADP	IN	_	6	case	_	start_char=26|end_char=30
+6	corners	corner	NOUN	NNS	Number=Plur	2	obl	_	start_char=31|end_char=38
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+8	up	up	ADP	RP	_	9	compound	_	start_char=43|end_char=45
+9	sides	side	NOUN	NNS	Number=Plur	6	conj	_	start_char=46|end_char=51
+10	.	.	PUNCT	.	_	2	punct	_	start_char=52|end_char=53
+
+# text = heat some vegetable oil in a large saucepan over high heat .
+# sentid = 116
+# original_sentid = 556
+1	heat	heat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	some	some	DET	DT	_	4	det	_	start_char=5|end_char=9
+3	vegetable	vegetable	NOUN	NN	Number=Sing	4	compound	_	start_char=10|end_char=19
+4	oil	oil	NOUN	NN	Number=Sing	1	obj	_	start_char=20|end_char=23
+5	in	in	ADP	IN	_	8	case	_	start_char=24|end_char=26
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=27|end_char=28
+7	large	large	ADJ	JJ	Degree=Pos	8	amod	_	start_char=29|end_char=34
+8	saucepan	saucepan	NOUN	NN	Number=Sing	1	obl	_	start_char=35|end_char=43
+9	over	over	ADP	IN	_	11	case	_	start_char=44|end_char=48
+10	high	high	ADJ	JJ	Degree=Pos	11	amod	_	start_char=49|end_char=53
+11	heat	heat	NOUN	NN	Number=Sing	8	obl	_	start_char=54|end_char=58
+12	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+
+# text = in a large pot , heat the olive oil over medium heat .
+# sentid = 117
+# original_sentid = 598
+1	in	in	ADP	IN	_	4	case	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=3|end_char=4
+3	large	large	ADJ	JJ	Degree=Pos	4	amod	_	start_char=5|end_char=10
+4	pot	pot	NOUN	NN	Number=Sing	6	obl	_	start_char=11|end_char=14
+5	,	,	PUNCT	,	_	6	punct	_	start_char=15|end_char=16
+6	heat	heat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=17|end_char=21
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=22|end_char=25
+8	olive	olive	NOUN	NN	Number=Sing	9	compound	_	start_char=26|end_char=31
+9	oil	oil	NOUN	NN	Number=Sing	6	obj	_	start_char=32|end_char=35
+10	over	over	ADP	IN	_	12	case	_	start_char=36|end_char=40
+11	medium	medium	ADJ	JJ	Degree=Pos	12	amod	_	start_char=41|end_char=47
+12	heat	heat	NOUN	NN	Number=Sing	6	obl	_	start_char=48|end_char=52
+13	.	.	PUNCT	.	_	6	punct	_	start_char=53|end_char=54
+
+# text = leave the sauce to reduce for approx . 5-7 min . on a low heat .
+# sentid = 118
+# original_sentid = 644
+1	leave	leave	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=6|end_char=9
+3	sauce	sauce	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=15
+4	to	to	PART	TO	_	5	mark	_	start_char=16|end_char=18
+5	reduce	reduce	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=19|end_char=25
+6	for	for	ADP	IN	_	10	case	_	start_char=26|end_char=29
+7	approx	approx	ADV	ADV	Number=Sing	9	advmod	_	start_char=30|end_char=36
+8	.	.	PUNCT	.	_	7	punct	_	start_char=37|end_char=38
+9	5-7	5-7	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	_	start_char=39|end_char=40
+10	min	minute	NOUN	NNS	Number=Plur	5	obl	_	start_char=45|end_char=48
+11	.	.	PUNCT	.	_	10	punct	_	start_char=49|end_char=50
+12	on	on	ADP	IN	_	15	case	_	start_char=51|end_char=53
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=54|end_char=55
+14	low	low	ADJ	JJ	Degree=Pos	15	amod	_	start_char=56|end_char=59
+15	heat	heat	NOUN	NN	Number=Sing	5	obl	_	start_char=60|end_char=64
+16	.	.	PUNCT	.	_	1	punct	_	start_char=65|end_char=66
+
+# text = meanwhile , cut cherry tomatoes in half and buffalo mozzarella into thin slices .
+# sentid = 119
+# original_sentid = 668
+1	meanwhile	meanwhile	ADV	RB	_	3	advmod	_	start_char=0|end_char=9
+2	,	,	PUNCT	,	_	3	punct	_	start_char=10|end_char=11
+3	cut	cut	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=12|end_char=15
+4	cherry	cherry	NOUN	NN	Number=Sing	5	compound	_	start_char=16|end_char=22
+5	tomatoes	tomato	NOUN	NNS	Number=Plur	3	obj	_	start_char=23|end_char=31
+6	in	in	ADP	IN	_	7	case	_	start_char=32|end_char=34
+7	half	half	NOUN	NN	Number=Sing	3	obl	_	start_char=35|end_char=39
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+9	buffalo	buffalo	NOUN	NN	Number=Sing	10	compound	_	start_char=44|end_char=51
+10	mozzarella	mozzarella	NOUN	NN	Number=Sing	7	conj	_	start_char=52|end_char=62
+11	into	into	ADP	IN	_	13	case	_	start_char=63|end_char=67
+12	thin	thin	ADJ	JJ	Degree=Pos	13	amod	_	start_char=68|end_char=72
+13	slices	slice	NOUN	NNS	Number=Plur	3	obl	_	start_char=73|end_char=79
+14	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+
+# text = pour in parts of the coconut water and allow to soak for approx . 20-30 min .
+# sentid = 120
+# original_sentid = 835
+1	pour	pour	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	in	in	ADP	RP	_	1	compound:prt	_	start_char=5|end_char=7
+3	parts	part	NOUN	NNS	Number=Plur	1	obj	_	start_char=8|end_char=13
+4	of	of	ADP	IN	_	7	case	_	start_char=14|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=17|end_char=20
+6	coconut	coconut	NOUN	NN	Number=Sing	7	compound	_	start_char=21|end_char=28
+7	water	water	NOUN	NN	Number=Sing	3	nmod	_	start_char=29|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	allow	allow	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=39|end_char=44
+10	to	to	PART	TO	_	11	mark	_	start_char=45|end_char=47
+11	soak	soak	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=48|end_char=52
+12	for	for	ADP	IN	_	16	case	_	start_char=53|end_char=56
+13	approx	approx	ADV	ADV	Number=Sing	15	advmod	_	start_char=57|end_char=63
+14	.	.	PUNCT	.	_	13	punct	_	start_char=64|end_char=65
+15	20-30	20-30	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	_	start_char=66|end_char=68
+16	min	minute	NOUN	NNS	Number=Plur	11	obl	_	start_char=74|end_char=77
+17	.	.	PUNCT	.	_	1	punct	_	start_char=78|end_char=79
+
